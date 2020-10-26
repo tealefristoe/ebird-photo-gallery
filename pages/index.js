@@ -9,7 +9,7 @@ export default class Home extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      user: "Philip Georgakakos",
+      user: props.user && props.user in this.props.data ? props.user : "Teale Fristoe",
       quality: 1,
       display: 'all',
     }
@@ -55,7 +55,9 @@ export default class Home extends React.Component {
 
 export async function getServerSideProps(context) {
   const data = getData()
+  let props = {data}
+  props.user = 'user' in context.query ? context.query.user : null;
   return {
-    props: {data}
+    props
   }
 }

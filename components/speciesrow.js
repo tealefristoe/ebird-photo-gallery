@@ -20,7 +20,7 @@ export default class SpeciesRow extends React.Component {
                   <div className={speciesRowStyles.speciesName}><a href={photo[bk.photoSpeciesUrl]}>{birdName}</a></div>
                   <div className={speciesRowStyles.scientificName}>{photo[bk.photoScientificName]}</div>
                 </div>)
-              : <div className={speciesRowStyles.speciesName}>{birdName}</div>}
+              : <div className={`${speciesRowStyles.speciesName} ${speciesRowStyles.missing}`}>{birdName}</div>}
           </div>
           <div className={speciesRowStyles.photoInfo1}>
             <div>{photo ? 'Rating: ' + photo[bk.photoRating] : ''}</div>
@@ -35,10 +35,10 @@ export default class SpeciesRow extends React.Component {
             : <div className={speciesRowStyles.photoInfo2} />}
           <div className={speciesRowStyles.photo}>
             {!photo
-              ? 'Missing photo'
+              ? <span className={speciesRowStyles.missing}>Missing photo</span>
               : testQuality(this.props.quality, photo)
                 ? (<a href={photo[bk.photoSpecimenUrl]}><img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} /></a>)
-                : 'Quality too low'
+                : <span className={speciesRowStyles.lowQuality}>Quality too low</span>
             }
           </div>
         </div>

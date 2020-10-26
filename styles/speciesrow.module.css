@@ -24,6 +24,15 @@
   color: #315985;
 }
 
+.missing {
+  color: #aa3333;
+  font-weight: bold;
+}
+
+.lowQuality {
+  font-style: italic;
+}
+
 .speciesHeader {
   grid-area: header;
 }

@@ -11,6 +11,15 @@
   color: #5fdfff;
 }
 
+.topOption {
+  padding: 15px;
+  border-right: 1px solid #2a3a4d;
+}
+
+.disabled {
+  color: #aaaaaa;
+}
+
 #topTitleBar {
   background-color: #2a3a4d;
   padding-top: 20px;

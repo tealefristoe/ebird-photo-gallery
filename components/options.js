@@ -8,7 +8,22 @@ export default class Options extends React.Component {
     return (
       <div>
         <div id={optionsStyles.topOptionsBar}>
-          <div id={optionsStyles.topOptions}>Change location</div>
+          <div id={optionsStyles.topOptions}>
+            <span className={optionsStyles.disabled} style={{paddingRight: "5px", fontSize: "80%"}}>LIST:</span>
+            <span className={optionsStyles.topOption}>
+              <span className={optionsStyles.disabled}>{this.props.user}</span>
+              {dropDown()}
+            </span>
+            <span className={optionsStyles.topOption}>
+              <span className={optionsStyles.disabled}>World</span>
+              {dropDown()}
+            </span>
+            <span className={optionsStyles.topOption}>
+              <span className={optionsStyles.disabled}>All years</span>
+              {dropDown()}
+            </span>
+            <span className={optionsStyles.disabled} style={{paddingLeft: "15px", fontStyle: "italic"}}>These options available soon!</span>
+          </div>
         </div>
         <div id={optionsStyles.topTitleBar}>
           <div id={optionsStyles.topTitle}>
@@ -31,7 +46,7 @@ export default class Options extends React.Component {
             </div>
             <div id={optionsStyles.optionsBox}>
               <div id={optionsStyles.optionsQuality}>
-                Photo quality: {[1,2,3,4,5].map(num =>
+                Minimum quality: {[1,2,3,4,5].map(num =>
                   <a onClick={() => this.props.qualityFunction(num)} key={num} style={{cursor: "pointer"}}>
                     <svg height="20" width="20">
                       <polygon points="10,2 16,20 1,9 19,9 4,20"
@@ -47,4 +62,10 @@ export default class Options extends React.Component {
     )
   }
 }
-// <circle cx="10" cy="10" r="9" fill={num <= this.props.quality ? "#4ba600" : "#646464"} />
+
+function dropDown() {
+  return (<svg height="18" width="20">
+    <polygon points="10,10 20,10 15,15"
+      style={{fill:"#aaaaaa"}} />
+  </svg>)
+}

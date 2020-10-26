@@ -23,7 +23,7 @@ export default class SpeciesRow extends React.Component {
               : <div className={`${speciesRowStyles.speciesName} ${speciesRowStyles.missing}`}>{birdName}</div>}
           </div>
           <div className={speciesRowStyles.photoInfo1}>
-            <div>{photo ? 'Rating: ' + photo[bk.photoRating] : ''}</div>
+            <div>{photo ? 'Community rating: ' + Number(Math.round(Number(photo[bk.photoRating])+'e2')+'e-2') : ''}</div>
             <div>{photo ? photo[bk.photoRatingCount] + ' rating' + (photo[bk.photoRatingCount] > 1 ? 's' : '') : ''}</div>
           </div>
           {photo

@@ -1,0 +1,463 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Snow Goose,1,Berkeley Aquatic Park,US-CA,19 Jan 2018,L597003,S42072716
+2,Ross's Goose,1,Crown Memorial SB--Crab Cove area,US-CA,16 Feb 2018,L1124286,S42844708
+3,Greater White-fronted Goose,18,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Feb 2018,L161083,S42465503
+4,Brant,50,Milford Pt. (CT Audubon),US-CT,29 Mar 2018,L109216,S44055100
+5,Cackling Goose,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,02 Mar 2018,L161083,S43313622
+6,Canada Goose,3,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+7,Mute Swan,1,Coyote Hills Regional Park,US-CA,25 Mar 2018,L216132,S43945358
+8,Tundra Swan,102,Holland Tract,US-CA,09 Jan 2019,L593832,S51508896
+9,Wood Duck,6,Mountain View Cemetery (ALA Co.),US-CA,25 Feb 2018,L3104978,S43177067
+10,Blue-winged Teal,3,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,02 Mar 2018,L161083,S43313622
+11,Cinnamon Teal,5,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+12,Northern Shoveler,30,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+13,Gadwall,5,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+14,Eurasian Wigeon,1,Pt. Pinole Regional Park,US-CA,10 Jan 2018,L109308,S41799058
+15,American Wigeon,50,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+16,Pacific Black Duck,3,Moorea - Opunohu Valley,PF-WI,01 Oct 2019,L2413948,S60294624
+17,Mallard,6,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+18,American Black Duck,2,Hammonasset Beach SP,US-CT,12 Jan 2018,L298379,S41843903
+19,Northern Pintail,4,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+20,Green-winged Teal,8,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+21,Canvasback,1,Pt. Pinole Regional Park,US-CA,10 Jan 2018,L109308,S41799058
+22,Redhead,6,Las Vegas--Sunset Park,US-NV,08 Oct 2018,L456488,S49058697
+23,Ring-necked Duck,2,Briones Regional Park--Old Briones Rd. entrance,US-CA,17 Feb 2018,L803669,S42894838
+24,Tufted Duck,1,Emeryville shoreline--near fire station,US-CA,10 Dec 2019,L1801585,S62202986
+25,Greater Scaup,3,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+26,Lesser Scaup,5,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+27,Harlequin Duck,1,San Leandro Marina,US-CA,02 Mar 2018,L582754,S43311039
+28,Surf Scoter,70,Pt. Reyes--Bear Valley Visitor Center,US-CA,06 Jan 2018,L2146849,S41690181
+29,White-winged Scoter,1,Natural Bridges SB,US-CA,27 Jan 2018,L200588,S42278432
+30,Black Scoter,2,Richmond Marina,US-CA,09 Jan 2019,L615495,S51508893
+31,Long-tailed Duck,4,Hammonasset Beach SP,US-CT,14 Jan 2018,L298379,S41897876
+32,Bufflehead,10,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+33,Common Goldeneye,6,Pt. Pinole Regional Park,US-CA,10 Jan 2018,L109308,S41799058
+34,Barrow's Goldeneye,5,Lake Merritt--outflow channel,US-CA,03 Jan 2019,L803642,S51279368
+35,Hooded Merganser,4,"1 Surfsong Rd, Kiawah Island US-SC (32.6068,-80.0697)",US-SC,30 Dec 2017,L6629293,S41424327
+36,Common Merganser,6,Hammonasset Beach SP,US-CT,13 Jan 2018,L298379,S41862601
+37,Red-breasted Merganser,3,East Kiawah Island,US-SC,01 Jan 2018,L596901,S41513126
+38,Ruddy Duck,10,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+39,Mountain Quail,1,Angelo Coast Range Reserve,US-CA,15 Apr 2018,L1557184,S44594554
+40,California Quail,4,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+41,Gambel's Quail,3,Red Rock Canyon NCA--Willow Springs,US-NV,06 Oct 2018,L485352,S49025695
+42,Chukar,25,"Spetson-Agion Anargyron, Spetses GR-Piraeus (37.2411,23.1338)",GR-I,19 Aug 2019,L9823264,S59168894
+43,Red Junglefowl,4,"(-17.4830,-149.8428)",PF-WI,21 Sep 2019,L9944145,S59995391
+44,Ring-necked Pheasant,3,Coyote Hills Regional Park,US-CA,25 Mar 2018,L216132,S43945358
+45,Sooty Grouse,1,"Shasta-Trinity National Forest, Trinity Center US-CA 41.22121, -122.75088",US-CA,12 Jun 2020,L11698968,S70450054
+46,Wild Turkey,6,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+47,Chilean Flamingo,1,Coyote Hills Regional Park,US-CA,09 Feb 2018,L216132,S42624209
+48,Pied-billed Grebe,1,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+49,Horned Grebe,1,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+50,Red-necked Grebe,1,Point Reyes National Seashore,US-CA,03 Mar 2019,L4314773,S53363337
+51,Eared Grebe,1,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+52,Western Grebe,2,Chicken Ranch Beach,US-CA,04 Feb 2018,L1980992,S42506176
+53,Clark's Grebe,3,Pt. Pinole Regional Park,US-CA,10 Jan 2018,L109308,S41799058
+54,Rock Pigeon,15,Hammonasset Beach SP,US-CT,14 Jan 2018,L298379,S41897876
+55,Band-tailed Pigeon,30,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+56,Eurasian Collared-Dove,1,Coyote Hills Regional Park,US-CA,09 Feb 2018,L216132,S42624209
+57,Spotted Dove,2,Santa Catalina Island (LA Co.),US-CA,29 Dec 2018,L109509,S51103624
+58,Zebra Dove,2,"University of California Gump Station, Moorea",PF-WI,21 Sep 2019,L8213310,S59995393
+59,Inca Dove,1,San Pedro RNCA--San Pedro House and trails,US-AZ,19 Mar 2019,L129080,S54020237
+60,Common Ground Dove,2,San Pedro RNCA--San Pedro House and trails,US-AZ,19 Mar 2019,L129080,S54020237
+61,White-winged Dove,15,San Pedro RNCA--San Pedro House and trails,US-AZ,19 Mar 2019,L129080,S54020237
+62,Mourning Dove,6,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+63,Gray-green Fruit-Dove,3,Moorea - Opunohu Valley,PF-WI,25 Sep 2019,L2413948,S60119775
+64,Greater Roadrunner,1,Del Puerto Canyon Rd.--grassland (mile 0-3.4),US-CA,11 Feb 2018,L1673350,S42683108
+65,Common Nighthawk,4,"Shasta-Trinity National Forest, Trinity Center US-CA 41.22152, -122.75257",US-CA,14 Aug 2020,L12091439,S72528149
+66,Common Poorwill,5,Organ Pipe Cactus NM--Main Campground & Sewage Ponds,US-AZ,23 Mar 2019,L3959912,S54159595
+67,Chimney Swift,15,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Apr 2019,L1947998,S55425863
+68,Vaux's Swift,4,Mt. Diablo SP--Pine Canyon,US-CA,18 Apr 2018,L830363,S44693646
+69,Polynesian Swiftlet,5,"(-17.5638,-149.5298) Mt. Aora’i",PF-WI,19 Oct 2019,L10055453,S60774781
+70,Alpine Swift,15,"Dimokratias 269, Agios Dimitrios GR-East Attica (37.7984,23.8783)",GR-I,06 Aug 2018,L7795277,S47693446
+71,White-throated Swift,20,Redwood Regional Park--Skyline Gate area,US-CA,15 Jan 2018,L803038,S41943983
+72,Rivoli's Hummingbird,1,Portal--Jasper/Moisan feeders (opened 2015),US-AZ,22 Mar 2019,L3642537,S54119357
+73,Blue-throated Mountain-gem,1,Portal--Jasper/Moisan feeders (opened 2015),US-AZ,22 Mar 2019,L3642537,S54119357
+74,Black-chinned Hummingbird,1,Henderson Bird Viewing Preserve,US-NV,08 Oct 2018,L209342,S49054368
+75,Anna's Hummingbird,3,US-CA-Oakland-438 49th St - 37.8356x-122.2603,US-CA,11 Oct 2015,L3952117,S25377880
+76,Costa's Hummingbird,1,Del Puerto Canyon Rd.--Owl and Graffiti Rocks,US-CA,20 Apr 2018,L1530425,S44751448
+77,Broad-tailed Hummingbird,1,Portal--Jasper/Moisan feeders (opened 2015),US-AZ,22 Mar 2019,L3642537,S54119357
+78,Rufous Hummingbird,1,Yard,US-CA,10 Apr 2018,L6683336,S44452062
+79,Allen's Hummingbird,4,Tilden Regional Park,US-CA,26 Jan 2018,L374452,S42256152
+80,Calliope Hummingbird,8,Mt. Diablo SP--Mitchell Canyon,US-CA,10 Apr 2019,L275399,S54790596
+81,Broad-billed Hummingbird,1,Ramsey Canyon Inn (opened 1988),US-AZ,19 Mar 2019,L720652,S54012468
+82,Ridgway's Rail,3,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Feb 2018,L161083,S42465503
+83,Virginia Rail,1,MacKerricher SP- Please use more precise location,US-CA,31 Jul 2018,L589099,S47567337
+84,Sora,1,Briones Regional Park--Old Briones Rd. entrance,US-CA,17 Feb 2018,L803669,S42894838
+85,Common Gallinule,2,"1 Surfsong Rd, Kiawah Island US-SC (32.6068,-80.0697)",US-SC,30 Dec 2017,L6629293,S41424327
+86,American Coot,20,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+87,Limpkin,1,Chattahoochee River NRA--East Palisades Unit,US-GA,25 Apr 2019,L1947998,S55412057
+88,Sandhill Crane,5,Holland Tract,US-CA,09 Jan 2019,L593832,S51508896
+89,Black-necked Stilt,40,Berkeley Aquatic Park,US-CA,19 Jan 2018,L597003,S42072716
+90,American Avocet,500,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+91,American Oystercatcher,4,Milford Pt. (CT Audubon),US-CT,29 Mar 2018,L109216,S44055100
+92,Black Oystercatcher,1,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+93,Black-bellied Plover,5,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+94,Pacific Golden-Plover,1,"(-17.4830,-149.8428)",PF-WI,21 Sep 2019,L9944145,S59995391
+95,Snowy Plover,16,Elsie Roemer Bird Sanctuary,US-CA,16 Feb 2018,L509134,S42848473
+96,Semipalmated Plover,33,"1 Surfsong Rd, Kiawah Island US-SC (32.6068,-80.0697)",US-SC,31 Dec 2017,L6629293,S41462678
+97,Piping Plover,1,Milford Pt. (CT Audubon),US-CT,29 Mar 2018,L109216,S44055100
+98,Killdeer,5,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+99,Bristle-thighed Curlew,3,"Rimatuu and walk around bird island(-17.0282,-149.5519)",PF-WI,25 Oct 2019,L10082127,S60997870
+100,Whimbrel,28,Stinson Beach,US-CA,20 Jan 2018,L591433,S42100332
+101,Long-billed Curlew,1,Albany Bulb,US-CA,02 Feb 2018,L178143,S42443771
+102,Marbled Godwit,20,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+103,Ruddy Turnstone,8,Hammonasset Beach SP,US-CT,13 Jan 2018,L298379,S41862601
+104,Black Turnstone,1,Stinson Beach,US-CA,20 Jan 2018,L591433,S42100332
+105,Red Knot,1,Coyote Point County Park,US-CA,20 Feb 2018,L247966,S43061001
+106,Surfbird,4,Coyote Point County Park,US-CA,20 Feb 2018,L247966,S43061001
+107,Sanderling,150,"1 Surfsong Rd, Kiawah Island US-SC (32.6068,-80.0697)",US-SC,31 Dec 2017,L6629293,S41462678
+108,Dunlin,5,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+109,Purple Sandpiper,1,"US-CT-28 Toffee Ln (41.2706,-72.6261)",US-CT,13 Jan 2018,L6710678,S41869301
+110,Baird's Sandpiper,3,West County Wastewater District--Sewage Ponds,US-CA,27 Aug 2018,L848605,S48113751
+111,Least Sandpiper,20,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+112,Buff-breasted Sandpiper,1,West County Wastewater District--Sewage Ponds,US-CA,27 Aug 2018,L848605,S48113751
+113,Pectoral Sandpiper,1,Ukiah WWTP,US-CA,26 Aug 2019,L333876,S59300530
+114,Western Sandpiper,6,Pt. Pinole Regional Park,US-CA,10 Jan 2018,L109308,S41799058
+115,Short-billed Dowitcher,30,Berkeley Aquatic Park,US-CA,19 Jan 2018,L597003,S42072716
+116,Long-billed Dowitcher,15,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Feb 2018,L161083,S42465503
+117,Wilson's Snipe,5,MLK Jr. Regional Shoreline--Garretson Pt.,US-CA,09 Mar 2018,L492576,S43511152
+118,Red-necked Phalarope,12,Southeast Farallon Island--Nearshore Waters (less than 2 mi.) - including seabird colonies,US-CA,14 Jul 2018,L6069589,S47212978
+119,Red Phalarope,1,"(37.6738,-123.0204)",US-CA,14 Jul 2018,L7713084,S47212940
+120,Spotted Sandpiper,1,Pt. Pinole Regional Park,US-CA,10 Jan 2018,L109308,S41799058
+121,Wandering Tattler,2,"Asilomar SB--rocky shore only [Jewell to Asilomar, west of Sunset]",US-CA,29 Apr 2018,L833754,S45152178
+122,Greater Yellowlegs,3,Berkeley Aquatic Park,US-CA,19 Jan 2018,L597003,S42072716
+123,Willet,3,East Kiawah Island,US-SC,01 Jan 2018,L596901,S41513126
+124,Lesser Yellowlegs,1,Albany Bulb,US-CA,02 Feb 2018,L178143,S42443771
+125,South Polar Skua,1,Monterey Bay pelagic--inshore Monterey to Moss Landing (MTY Co.),US-CA,27 Oct 2018,L792036,S49498843
+126,Pomarine Jaeger,2,"(36.5578,-122.5501)",US-CA,07 Sep 2019,L9888970,S59598454
+127,Parasitic Jaeger,1,Monterey Harbor,US-CA,29 Sep 2018,L351481,S48840780
+128,Long-tailed Jaeger,2,"(37.6738,-123.0204)",US-CA,14 Jul 2018,L7713084,S47212940
+129,Common Murre,250,Devil's Slide Trail and Egg Rock,US-CA,13 May 2018,L1528599,S45716262
+130,Pigeon Guillemot,7,Pt. Reyes--Chimney Rock,US-CA,07 Apr 2018,L491638,S44341944
+131,Marbled Murrelet,3,Half Moon Bay--inshore bay,US-CA,14 Jul 2018,L1247080,S47213080
+132,Cassin's Auklet,2,"(37.5691,-122.8111)",US-CA,14 Jul 2018,L7713065,S47212991
+133,Rhinoceros Auklet,1,Russian Gulch SP,US-CA,06 Jul 2018,L2389568,S47125936
+134,Tufted Puffin,1,Half Moon Bay--inshore bay,US-CA,14 Jul 2018,L1247080,S47213080
+135,Sabine's Gull,1,"(37.4515,-122.9302)",US-CA,14 Jul 2018,L7713101,S47212934
+136,Bonaparte's Gull,1,Hammonasset Beach SP,US-CT,14 Jan 2018,L298379,S41897876
+137,Laughing Gull,6,"77 Weed Ave, Stamford US-CT (41.0585,-73.5067)",US-CT,08 Sep 2018,L7905575,S48366824
+138,Heermann's Gull,1,Natural Bridges SB,US-CA,27 Jan 2018,L200588,S42278432
+139,Mew Gull,4,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+140,Ring-billed Gull,10,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+141,Western Gull,10,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+142,California Gull,10,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+143,Herring Gull,10,East Kiawah Island,US-SC,01 Jan 2018,L596901,S41513126
+144,Yellow-legged Gull,1,"Dimokratias 269, Agios Dimitrios GR-East Attica (37.7984,23.8783)",GR-I,06 Aug 2018,L7795277,S47693446
+145,Iceland Gull,1,"71 Beach Ave, Madison US-CT (41.2724,-72.6298)",US-CT,31 Mar 2018,L6705604,S44116308
+146,Glaucous-winged Gull,2,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+147,Glaucous Gull,1,Coyote Hills Regional Park,US-CA,17 Feb 2019,L216132,S52840693
+148,Great Black-backed Gull,6,Hammonasset Beach SP,US-CT,13 Jan 2018,L298379,S41862601
+149,Brown Noddy,10,Tahiti to Moorea ferry,PF-WI,21 Sep 2019,L919888,S59995411
+150,Black Noddy,1,Tahiti to Moorea ferry,PF-WI,21 Sep 2019,L919888,S59995411
+151,White Tern,2,"University of California Gump Station, Moorea",PF-WI,21 Sep 2019,L8213310,S59995393
+152,Sooty Tern,90,"Rimatuu and walk around bird island(-17.0282,-149.5519)",PF-WI,25 Oct 2019,L10082127,S60997870
+153,Gray-backed Tern,2,"Rimatuu and walk around bird island(-17.0282,-149.5519)",PF-WI,25 Oct 2019,L10082127,S60997870
+154,Least Tern,2,Crown Memorial SB--Crab Cove area,US-CA,22 Apr 2018,L1124286,S44846778
+155,Caspian Tern,4,East Kiawah Island,US-SC,01 Jan 2018,L596901,S41513126
+156,Common Tern,1,"(36.6379,-122.0578)",US-CA,07 Sep 2019,L9887080,S59598444
+157,Arctic Tern,2,"(36.5578,-122.5501)",US-CA,07 Sep 2019,L9888970,S59598454
+158,Forster's Tern,30,East Kiawah Island,US-SC,01 Jan 2018,L596901,S41513126
+159,Great Crested Tern,8,Tahiti to Moorea ferry,PF-WI,21 Sep 2019,L919888,S59995411
+160,Elegant Tern,2,Half Moon Bay--inshore bay,US-CA,14 Jul 2018,L1247080,S47212915
+161,Black Skimmer,19,East Kiawah Island,US-SC,01 Jan 2018,L596901,S41513126
+162,White-tailed Tropicbird,2,Tahiti to Moorea ferry,PF-WI,21 Sep 2019,L919888,S59995411
+163,Red-throated Loon,1,Natural Bridges SB,US-CA,27 Jan 2018,L200588,S42278432
+164,Pacific Loon,2,Stinson Beach,US-CA,20 Jan 2018,L591433,S42100332
+165,Common Loon,10,Chicken Ranch Beach,US-CA,04 Feb 2018,L1980992,S42506176
+166,Black-footed Albatross,4,"(37.6738,-123.0204)",US-CA,14 Jul 2018,L7713084,S47212980
+167,Ashy Storm-Petrel,2,"(36.5819,-122.3359)",US-CA,07 Sep 2019,L9888764,S59598450
+168,Northern Fulmar,2,MacKerricher SP- Please use more precise location,US-CA,15 Apr 2018,L589099,S44600569
+169,Tahiti Petrel,4,"South Pacific Ocean (-17.3000,-149.6420) boat trip moorea to titiaroa",PF-WI,25 Oct 2019,L10082040,S60997878
+170,Pink-footed Shearwater,1,"(37.5691,-122.8111)",US-CA,14 Jul 2018,L7713065,S47212991
+171,Buller's Shearwater,1,Monterey Harbor,US-CA,29 Sep 2018,L351481,S48840780
+172,Sooty Shearwater,100,"Asilomar SB--rocky shore only [Jewell to Asilomar, west of Sunset]",US-CA,29 Apr 2018,L833754,S45152178
+173,Manx Shearwater,1,Monterey Bay pelagic--inshore Monterey Harbor to Pt. Pinos (MTY Co.),US-CA,07 Sep 2019,L618528,S59598441
+174,Yelkouan Shearwater,4,Cape Sounio,GR-I,06 Aug 2018,L4019377,S47693443
+175,Wood Stork,1,"1 Surfsong Rd, Kiawah Island US-SC (32.6068,-80.0697)",US-SC,31 Dec 2017,L6629293,S41462678
+176,Lesser Frigatebird,1,Tahiti to Moorea ferry,PF-WI,21 Sep 2019,L919888,S59995411
+177,Great Frigatebird,4,Tahiti to Moorea ferry,PF-WI,21 Sep 2019,L919888,S59995411
+178,Brown Booby,5,"(-17.4852,-149.8232)",PF-WI,24 Sep 2019,L9954587,S60091400
+179,Red-footed Booby,1,"(-17.4852,-149.8232)",PF-WI,24 Sep 2019,L9954587,S60091400
+180,Anhinga,14,"1 Surfsong Rd, Kiawah Island US-SC (32.6068,-80.0697)",US-SC,31 Dec 2017,L6629293,S41462678
+181,Brandt's Cormorant,19,Natural Bridges SB,US-CA,27 Jan 2018,L200588,S42278432
+182,Pelagic Cormorant,1,Berkeley Aquatic Park,US-CA,19 Jan 2018,L597003,S42072716
+183,Great Cormorant,3,Hammonasset Beach SP,US-CT,13 Jan 2018,L298379,S41862601
+184,European Shag,2,"Dimokratias 269, Agios Dimitrios GR-East Attica (37.7984,23.8783)",GR-I,06 Aug 2018,L7795277,S47693446
+185,Double-crested Cormorant,3,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+186,American White Pelican,250,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+187,Brown Pelican,50,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+188,American Bittern,2,Coyote Hills Regional Park,US-CA,17 Nov 2018,L216132,S50003389
+189,Great Blue Heron,1,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+190,Gray Heron,2,"E961, Therapnes GR-Laconia (37.0112,22.4851)",GR-J,18 Aug 2019,L9806406,S59072187
+191,Great Egret,3,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+192,Pacific Reef-Heron,1,"(-17.4830,-149.8428)",PF-WI,21 Sep 2019,L9944145,S59995391
+193,Snowy Egret,20,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+194,Little Blue Heron,5,Willet Pond,US-SC,30 Dec 2017,L3836354,S41448652
+195,Tricolored Heron,10,Willet Pond,US-SC,30 Dec 2017,L3836354,S41448652
+196,Cattle Egret,70,"Harry P Schmidt Park, Gustine US-CA (37.2509,-121.0102)",US-CA,20 Apr 2018,L7251524,S44752728
+197,Green Heron,1,Berkeley Aquatic Park,US-CA,19 Jan 2018,L597003,S42072716
+198,Striated Heron,1,Tahiti to Moorea ferry,PF-WI,21 Sep 2019,L919888,S59995411
+199,Black-crowned Night-Heron,1,"1 Surfsong Rd, Kiawah Island US-SC (32.6068,-80.0697)",US-SC,30 Dec 2017,L6629293,S41424327
+200,White Ibis,13,Willet Pond,US-SC,30 Dec 2017,L3836354,S41448652
+201,White-faced Ibis,4,Santa Fe Grade--Hwy 140 to Gun Club Rd.,US-CA,20 Apr 2018,L1805981,S44753721
+202,California Condor,1,Pinnacles NP,US-CA,10 May 2020,L302299,S68938320
+203,Black Vulture,3,East Kiawah Island,US-SC,01 Jan 2018,L596901,S41513126
+204,Turkey Vulture,10,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+205,Osprey,1,"1 Surfsong Rd, Kiawah Island US-SC (32.6068,-80.0697)",US-SC,30 Dec 2017,L6629293,S41424327
+206,White-tailed Kite,1,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+207,European Honey-buzzard,1,"23200, Petrina GR-Laconia (36.8411,22.4977)",GR-J,17 Aug 2019,L7820644,S59072200
+208,Golden Eagle,1,Del Valle Regional Park,US-CA,02 Feb 2018,L274775,S42438173
+209,Swamp Harrier,2,Tahiti to Moorea ferry,PF-WI,21 Sep 2019,L919888,S59995411
+210,Northern Harrier,2,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+211,Eurasian Sparrowhawk,1,Lagonissi,GR-I,12 Aug 2019,L9786152,S58955818
+212,Sharp-shinned Hawk,2,Pt. Reyes--Bear Valley Visitor Center,US-CA,06 Jan 2018,L2146849,S41690181
+213,Cooper's Hawk,1,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+214,Northern Goshawk,1,Angelo Coast Range Reserve,US-CA,20 Jun 2019,L1557184,S57539740
+215,Bald Eagle,1,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+216,Harris's Hawk,1,Evelyn Hallman Park,US-AZ,23 Mar 2019,L190217,S54136955
+217,Red-shouldered Hawk,1,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+218,Swainson's Hawk,5,"27650–27884 State Highway 140, Gustine US-CA (37.2604,-120.9856)",US-CA,20 Apr 2018,L7251629,S44753233
+219,Red-tailed Hawk,2,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+220,Rough-legged Hawk,1,"(39.5791,-123.7721)",US-CA,01 Jan 2020,L10393519,S62861400
+221,Ferruginous Hawk,1,Patterson Pass Rd.,US-CA,11 Feb 2018,L356724,S42672074
+222,Common Buzzard,1,"(36.8804,22.4126)",GR-J,16 Aug 2019,L9799689,S59036062
+223,Barn Owl,1,"2051 Oregon St, Berkeley US-CA (37.8574,-122.2689)",US-CA,28 Feb 2018,L7002143,S43277729
+224,Whiskered Screech-Owl,2,Cave Creek Canyon--Southwestern Research Station,US-AZ,21 Mar 2019,L129102,S54091422
+225,Western Screech-Owl,2,Henry Coe SP--NW Region (HQ and trails access) (SCL Co.),US-CA,04 May 2018,L279577,S45389916
+226,Great Horned Owl,1,Pt. Reyes--Bear Valley Visitor Center,US-CA,06 Jan 2018,L2146849,S41690181
+227,Snowy Owl,1,Milford Pt. (CT Audubon),US-CT,29 Mar 2018,L109216,S44055100
+228,Northern Pygmy-Owl,1,Angelo Coast Range Reserve,US-CA,19 May 2018,L1557184,S45834674
+229,Elf Owl,1,Joshua Tree NP--Cottonwood Campground,US-CA,24 Mar 2019,L2071413,S54226442
+230,Burrowing Owl,1,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+231,Barred Owl,1,Angelo Coast Range Reserve,US-CA,18 Jul 2018,L1557184,S47287289
+232,Short-eared Owl,2,Hayward Regional Shoreline,US-CA,19 Feb 2020,L225431,S64771967
+233,Northern Saw-whet Owl,3,Redwood Regional Park--Redwood Gate bridge,US-CA,05 Feb 2020,L1512833,S64169620
+234,Common Kingfisher,2,"GR-Laconia-Lakonikos Kolpos (36.6672,22.5075)",GR-J,13 Aug 2018,L7819459,S47831024
+235,Society Kingfisher,3,Moorea - Opunohu Valley,PF-WI,25 Sep 2019,L2413948,S60119775
+236,Belted Kingfisher,1,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+237,Williamson's Sapsucker,1,June Lake,US-CA,17 Aug 2018,L436465,S47912777
+238,Yellow-bellied Sapsucker,2,"4956 Carol Ln NW, Sandy Springs US-GA (33.8908,-84.4066)",US-GA,27 Dec 2017,L6614457,S41350072
+239,Red-naped Sapsucker,2,Spring Mountains NRA--Kyle Canyon,US-NV,08 Oct 2018,L584804,S49044586
+240,Red-breasted Sapsucker,1,Del Valle Regional Park,US-CA,02 Feb 2018,L274775,S42438173
+241,Lewis's Woodpecker,1,Del Puerto Canyon Rd. (SCL Co.),US-CA,20 Feb 2018,L391320,S43060898
+242,Red-headed Woodpecker,1,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+243,Acorn Woodpecker,5,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+244,Gila Woodpecker,1,Brown Canyon Ranch (opened 2011),US-AZ,19 Mar 2019,L1546530,S54014844
+245,Red-bellied Woodpecker,5,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+246,Downy Woodpecker,1,"US-CA-Berkeley-University of California, Berkeley - 37.8705x-122.2625",US-CA,19 Nov 2015,L4015861,S25910845
+247,Nuttall's Woodpecker,1,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+248,Ladder-backed Woodpecker,1,San Pedro RNCA--San Pedro House and trails,US-AZ,19 Mar 2019,L129080,S54020237
+249,Hairy Woodpecker,1,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+250,White-headed Woodpecker,1,Lake Forest Beach Park,US-CA,21 Feb 2020,L2169564,S64838863
+251,Arizona Woodpecker,2,Carr Canyon--Ramsey Vista CG,US-AZ,20 Mar 2019,L264846,S54119303
+252,Pileated Woodpecker,3,"1 Surfsong Rd, Kiawah Island US-SC (32.6068,-80.0697)",US-SC,30 Dec 2017,L6629293,S41424327
+253,Northern Flicker,1,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+254,American Kestrel,1,Pt. Pinole Regional Park,US-CA,10 Jan 2018,L109308,S41799058
+255,Eleonora's Falcon,1,"(36.6638,22.4995)",GR-J,16 Aug 2019,L9799708,S59036178
+256,Merlin,1,Pt. Pinole Regional Park,US-CA,10 Jan 2018,L109308,S41799058
+257,Eurasian Hobby,2,"(36.8804,22.4126)",GR-J,16 Aug 2019,L9799689,S59036062
+258,Peregrine Falcon,1,Pt. Pinole Regional Park,US-CA,10 Jan 2018,L109308,S41799058
+259,Prairie Falcon,1,Sunol Regional Wilderness,US-CA,13 Apr 2018,L302253,S44533471
+260,Rose-ringed Parakeet,2,Filopappou Hill,GR-I,13 Aug 2019,L1801094,S59036208
+261,Olive-sided Flycatcher,1,"(39.6583,-123.7830) Branscomb road and 1",US-CA,21 May 2018,L7227135,S45923628
+262,Western Wood-Pewee,1,Angelo Coast Range Reserve,US-CA,17 May 2018,L1557184,S45785328
+263,Eastern Wood-Pewee,1,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Apr 2019,L1947998,S55425863
+264,Willow Flycatcher,1,Coyote Hills Regional Park,US-CA,16 Sep 2018,L216132,S48548728
+265,Hammond's Flycatcher,1,Mt. Diablo SP--Pine Canyon,US-CA,18 Apr 2018,L830363,S44693646
+266,Dusky Flycatcher,1,"Toiyabe National Forest, Las Vegas US-NV (36.2704,-115.5253)",US-NV,06 Oct 2018,L8003475,S49025602
+267,Pacific-slope Flycatcher,5,Pt. Reyes--Earthquake Trail,US-CA,07 Apr 2018,L2250586,S44342255
+268,Black Phoebe,2,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+269,Eastern Phoebe,2,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+270,Say's Phoebe,3,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+271,Vermilion Flycatcher,2,Brown Canyon Ranch (opened 2011),US-AZ,19 Mar 2019,L1546530,S54014844
+272,Ash-throated Flycatcher,1,Sunol Regional Wilderness,US-CA,13 Apr 2018,L302253,S44533471
+273,Great Crested Flycatcher,1,Marshlands Conservancy,US-NY,08 Sep 2018,L109149,S48364137
+274,Tropical Kingbird,1,Heather Farm Park,US-CA,10 Feb 2018,L373922,S42643232
+275,Cassin's Kingbird,1,Famosa Slough,US-CA,21 Oct 2018,L246035,S49350639
+276,Western Kingbird,3,Sunol Regional Wilderness,US-CA,13 Apr 2018,L302253,S44533471
+277,Eastern Kingbird,1,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Apr 2019,L1947998,S55425863
+278,White-eyed Vireo,2,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Apr 2019,L1947998,S55425863
+279,Hutton's Vireo,2,US-CA-Oakland-Hardy Park - 37.8421x-122.2576,US-CA,19 Oct 2015,L3964977,S25475377
+280,Cassin's Vireo,1,Angelo Coast Range Reserve,US-CA,15 Apr 2018,L1557184,S44594554
+281,Blue-headed Vireo,1,Chattahoochee River NRA--East Palisades Unit,US-GA,11 Nov 2018,L1947998,S49863528
+282,Warbling Vireo,2,Pt. Reyes--Earthquake Trail,US-CA,07 Apr 2018,L2250586,S44342255
+283,Red-eyed Vireo,1,Marshlands Conservancy,US-NY,08 Sep 2018,L109149,S48364137
+284,Red-backed Shrike,1,"(36.6638,22.4995)",GR-J,16 Aug 2019,L9799708,S59036178
+285,Loggerhead Shrike,3,Patterson Pass Rd.,US-CA,11 Feb 2018,L356724,S42672074
+286,Pinyon Jay,2,"Toiyabe National Forest, Las Vegas US-NV (36.2704,-115.5253)",US-NV,06 Oct 2018,L8003475,S49025602
+287,Steller's Jay,15,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+288,Blue Jay,4,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+289,California Scrub-Jay,10,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+290,Woodhouse's Scrub-Jay,8,Red Rock Canyon NCA--Willow Springs,US-NV,06 Oct 2018,L485352,S49025695
+291,Mexican Jay,6,Cave Creek Canyon--Southwestern Research Station,US-AZ,22 Mar 2019,L129102,S54100219
+292,Eurasian Jay,1,"E961, Therapnes GR-Laconia (37.0112,22.4851)",GR-J,18 Aug 2019,L9806406,S59072187
+293,Eurasian Magpie,6,"Dimokratias 269, Agios Dimitrios GR-East Attica (37.7984,23.8783)",GR-I,06 Aug 2018,L7795277,S47693446
+294,Black-billed Magpie,1,Tahoe Keys,US-CA,23 Feb 2020,L486316,S64910448
+295,Yellow-billed Magpie,5,"Del Valle Rd, Livermore US-CA (37.6176,-121.7006)",US-CA,02 Feb 2018,L6810780,S42434315
+296,Clark's Nutcracker,2,June Lake,US-CA,18 Aug 2018,L436465,S47919397
+297,American Crow,2,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+298,Fish Crow,1,"1 Surfsong Rd, Kiawah Island US-SC (32.6068,-80.0697)",US-SC,31 Dec 2017,L6629293,S41462678
+299,Chihuahuan Raven,1,"4685–4989 E Highway 80, Douglas US-AZ (31.4227,-109.4890)",US-AZ,21 Mar 2019,L8891563,S54077848
+300,Hooded Crow,1,"(36.7241,22.5310)",GR-J,17 Aug 2019,L9806399,S59072173
+301,Common Raven,2,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+302,Carolina Chickadee,12,Chattahoochee River NRA--East Palisades Unit,US-GA,27 Dec 2017,L1947998,S41349349
+303,Black-capped Chickadee,2,"71 Beach Ave, Madison US-CT (41.2724,-72.6298)",US-CT,12 Jan 2018,L6705604,S41841432
+304,Mountain Chickadee,5,June Lake,US-CA,17 Aug 2018,L436465,S47912777
+305,Mexican Chickadee,4,"stakeout Slate-throated Redstart, Pinery Canyon (2016-8)",US-AZ,22 Mar 2019,L4577889,S54119291
+306,Chestnut-backed Chickadee,6,US-CA-Oakland-Hardy Park - 37.8421x-122.2576,US-CA,19 Oct 2015,L3964977,S25475377
+307,Eurasian Blue Tit,1,"23200, Petrina GR-Laconia (36.8411,22.4977)",GR-J,14 Aug 2018,L7820644,S47837737
+308,Bridled Titmouse,3,Ramsey Canyon Inn (opened 1988),US-AZ,19 Mar 2019,L720652,S54012468
+309,Oak Titmouse,10,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+310,Tufted Titmouse,6,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+311,Great Tit,3,"Dimokratias 269, Agios Dimitrios GR-East Attica (37.7984,23.8783)",GR-I,07 Aug 2018,L7795277,S47831050
+312,Verdin,6,Henderson Bird Viewing Preserve,US-NV,08 Oct 2018,L209342,S49054368
+313,Horned Lark,55,Hammonasset Beach SP,US-CT,14 Jan 2018,L298379,S41897876
+314,Tahiti Reed Warbler,2,"Papanoo Valley, Tahiti",PF-WI,18 Oct 2019,L4240526,S60774799
+315,Northern Rough-winged Swallow,1,Pt. Isabel Regional Shoreline,US-CA,23 Mar 2018,L507756,S43894274
+316,Purple Martin,1,MacKerricher SP- Please use more precise location,US-CA,05 Jun 2018,L589099,S46341100
+317,Tree Swallow,50,Coyote Hills Regional Park,US-CA,09 Feb 2018,L216132,S42624209
+318,Violet-green Swallow,2,Briones Regional Park--Bear Creek Staging Area,US-CA,10 Mar 2018,L803636,S43544241
+319,Bank Swallow,4,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Feb 2018,L161083,S42465503
+320,Barn Swallow,1,Hayward Regional Shoreline--Radio Tower Hills,US-CA,09 Mar 2018,L810622,S43509399
+321,Pacific Swallow,1,"(-17.5399,-149.7940)",PF-WI,12 Oct 2019,L10024399,S60571917
+322,Red-rumped Swallow,2,Lagonissi,GR-I,11 Aug 2019,L9786152,S58955814
+323,Cliff Swallow,50,Del Valle Regional Park,US-CA,24 Mar 2018,L274775,S43922324
+324,Common House-Martin,5,Lagonissi,GR-I,11 Aug 2019,L9786152,S58955814
+325,Red-vented Bulbul,3,"University of California Gump Station, Moorea",PF-WI,21 Sep 2019,L8213310,S59995393
+326,Bushtit,3,US-CA-Oakland-Hardy Park - 37.8421x-122.2576,US-CA,19 Oct 2015,L3964977,S25475377
+327,Lesser Whitethroat,1,"Dimokratias 269, Agios Dimitrios GR-East Attica (37.7984,23.8783)",GR-I,07 Aug 2018,L7795277,S47831050
+328,Sardinian Warbler,1,"Dimokratias 269, Agios Dimitrios GR-East Attica (37.7984,23.8783)",GR-I,06 Aug 2018,L7795277,S47693446
+329,Wrentit,5,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+330,Silvereye,3,"University of California Gump Station, Moorea",PF-WI,21 Sep 2019,L8213310,S59995393
+331,Golden-crowned Kinglet,10,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+332,Ruby-crowned Kinglet,2,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+333,Red-breasted Nuthatch,3,"US-CA-Berkeley-University of California, Berkeley - 37.8705x-122.2625",US-CA,19 Nov 2015,L4015861,S25910845
+334,White-breasted Nuthatch,1,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+335,Pygmy Nuthatch,15,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+336,Brown-headed Nuthatch,3,Chattahoochee River NRA--East Palisades Unit,US-GA,27 Dec 2017,L1947998,S41349349
+337,Brown Creeper,1,"US-CA-Berkeley-University of California, Berkeley - 37.8705x-122.2625",US-CA,19 Nov 2015,L4015861,S25910845
+338,Blue-gray Gnatcatcher,1,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+339,Black-tailed Gnatcatcher,2,Henderson Bird Viewing Preserve,US-NV,08 Oct 2018,L209342,S49054368
+340,Rock Wren,1,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+341,Canyon Wren,1,Del Puerto Canyon Rd.--Owl and Graffiti Rocks,US-CA,20 Apr 2018,L1530425,S44751448
+342,House Wren,3,Natural Bridges SB,US-CA,27 Jan 2018,L200588,S42278432
+343,Pacific Wren,5,Pt. Reyes--Bear Valley Visitor Center,US-CA,06 Jan 2018,L2146849,S41690181
+344,Winter Wren,2,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+345,Marsh Wren,4,Martinez Regional Shoreline Park,US-CA,02 Feb 2018,L192708,S42441571
+346,Carolina Wren,2,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+347,Bewick's Wren,3,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+348,Cactus Wren,1,Mojave National Preserve--Hole-in-the-Wall Campground,US-CA,18 Mar 2019,L1249451,S53977560
+349,American Dipper,1,Angelo Coast Range Reserve,US-CA,22 May 2018,L1557184,S45946765
+350,European Starling,20,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+351,Common Myna,4,"University of California Gump Station, Moorea",PF-WI,21 Sep 2019,L8213310,S59995393
+352,Gray Catbird,1,"1 Surfsong Rd, Kiawah Island US-SC (32.6068,-80.0697)",US-SC,02 Jan 2018,L6629293,S41547120
+353,Curve-billed Thrasher,1,Carr Canyon--Ramsey Vista CG,US-AZ,20 Mar 2019,L264846,S54119303
+354,Brown Thrasher,1,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+355,California Thrasher,1,Mt. Diablo SP--Mitchell Canyon,US-CA,10 Feb 2018,L275399,S42656405
+356,LeConte's Thrasher,1,Mojave National Preserve--Hole-in-the-Wall Campground,US-CA,17 Mar 2019,L1249451,S53960805
+357,Crissal Thrasher,2,Henderson Bird Viewing Preserve,US-NV,08 Oct 2018,L209342,S49054368
+358,Sage Thrasher,1,Coyote Hills Regional Park,US-CA,08 Jan 2020,L216132,S63176648
+359,Northern Mockingbird,4,"1 Surfsong Rd, Kiawah Island US-SC (32.6068,-80.0697)",US-SC,31 Dec 2017,L6629293,S41462678
+360,Eastern Bluebird,4,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+361,Western Bluebird,1,Yard,US-CA,16 Jan 2018,L6683336,S41963200
+362,Mountain Bluebird,2,June Lake,US-CA,18 Aug 2018,L436465,S47942541
+363,Townsend's Solitaire,1,Red Rock Canyon NCA--Willow Springs,US-NV,06 Oct 2018,L485352,S49025695
+364,Varied Thrush,6,Redwood Regional Park--Skyline Gate area,US-CA,15 Jan 2018,L803038,S41943983
+365,Bicknell's Thrush,1,Marshlands Conservancy,US-NY,08 Sep 2018,L109149,S48364137
+366,Swainson's Thrush,3,"(39.6583,-123.7830) Branscomb road and 1",US-CA,21 May 2018,L7227135,S45923628
+367,Hermit Thrush,1,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+368,Eurasian Blackbird,6,Filopappou Hill,GR-I,13 Aug 2019,L1801094,S59036208
+369,American Robin,3,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+370,Cedar Waxwing,6,Hammonasset Beach SP,US-CT,13 Jan 2018,L298379,S41862601
+371,Phainopepla,2,Del Valle Regional Park,US-CA,24 Mar 2018,L274775,S43922324
+372,Olive Warbler,3,Carr Canyon--Ramsey Vista CG,US-AZ,20 Mar 2019,L264846,S54119303
+373,Common Waxbill,5,"University of California Gump Station, Moorea",PF-WI,24 Sep 2019,L8213310,S60097128
+374,Red-browed Firetail,4,"University of California Gump Station, Moorea",PF-WI,13 Oct 2019,L8213310,S60614551
+375,Chestnut-breasted Munia,3,"University of California Gump Station, Moorea",PF-WI,24 Sep 2019,L8213310,S60097128
+376,House Sparrow,2,Yard,US-CA,04 Jan 2018,L6683336,S41713201
+377,American Pipit,30,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Feb 2018,L161083,S42465503
+378,House Finch,10,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+379,Purple Finch,1,Natural Bridges SB,US-CA,27 Jan 2018,L200588,S42278432
+380,Cassin's Finch,7,June Lake,US-CA,19 Aug 2018,L436465,S47944317
+381,Red Crossbill,20,Russian Gulch SP,US-CA,03 Jan 2020,L2389568,S62972744
+382,European Goldfinch,2,"Dimokratias 269, Agios Dimitrios GR-East Attica (37.7984,23.8783)",GR-I,09 Aug 2018,L7795277,S47837721
+383,Pine Siskin,4,Pt. Reyes--Bear Valley Visitor Center,US-CA,06 Jan 2018,L2146849,S41690181
+384,Lesser Goldfinch,5,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+385,Lawrence's Goldfinch,10,Mines Rd. (ALA Co.),US-CA,11 Feb 2018,L390392,S42685415
+386,American Goldfinch,3,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+387,Snow Bunting,1,Hammonasset Beach SP,US-CT,14 Jan 2018,L298379,S41897876
+388,Grasshopper Sparrow,1,Henry Coe SP--NW Region (HQ and trails access) (SCL Co.),US-CA,04 May 2018,L279577,S45389916
+389,Chipping Sparrow,20,"4956 Carol Ln NW, Sandy Springs US-GA (33.8908,-84.4066)",US-GA,03 Jan 2018,L6614457,S41713085
+390,Clay-colored Sparrow,1,MLK Jr. Regional Shorline--Damon Marsh Trail,US-CA,23 Sep 2018,L2975685,S48694938
+391,Black-chinned Sparrow,1,Sibley Volcanic Regional Preserve,US-CA,05 Jun 2020,L311906,S70089883
+392,Brewer's Sparrow,1,"Toiyabe National Forest, Las Vegas US-NV (36.2704,-115.5253)",US-NV,06 Oct 2018,L8003475,S49025602
+393,Black-throated Sparrow,12,Mojave National Preserve--Hole-in-the-Wall Campground,US-CA,17 Mar 2019,L1249451,S53960805
+394,Lark Sparrow,27,Del Valle Regional Park,US-CA,02 Feb 2018,L274775,S42438173
+395,American Tree Sparrow,1,Hammonasset Beach SP--Meig's Point,US-CT,30 Mar 2018,L109204,S44082809
+396,Fox Sparrow,3,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+397,Dark-eyed Junco,7,"US-CA-Berkeley-University of California, Berkeley - 37.8705x-122.2625",US-CA,19 Nov 2015,L4015861,S25910845
+398,Yellow-eyed Junco,3,Carr Canyon--Ramsey Vista CG,US-AZ,20 Mar 2019,L264846,S54119303
+399,White-crowned Sparrow,5,US-CA-Oakland-Hardy Park - 37.8421x-122.2576,US-CA,19 Oct 2015,L3964977,S25475377
+400,Golden-crowned Sparrow,15,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+401,White-throated Sparrow,6,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Dec 2017,L1947998,S41325542
+402,Sagebrush Sparrow,1,June Lake,US-CA,18 Aug 2018,L436465,S47942541
+403,Bell's Sparrow,2,Henry Coe SP--NW Region (HQ and trails access) (SCL Co.),US-CA,15 Feb 2020,L279577,S64610430
+404,Vesper Sparrow,1,Briones Regional Park--Old Briones Rd. entrance,US-CA,17 Feb 2018,L803669,S42894838
+405,Nelson's Sparrow,1,San Francisco Bay Trail--S 51st St.,US-CA,09 Jan 2019,L1415714,S51504885
+406,Savannah Sparrow,10,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+407,Song Sparrow,2,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+408,Lincoln's Sparrow,2,Patterson Pass Rd.,US-CA,11 Feb 2018,L356724,S42672074
+409,Swamp Sparrow,2,Hammonasset Beach SP,US-CT,14 Jan 2018,L298379,S41897876
+410,Canyon Towhee,2,Brown Canyon Ranch (opened 2011),US-AZ,19 Mar 2019,L1546530,S54014844
+411,Abert's Towhee,1,Red Rock Canyon NCA--Willow Springs,US-NV,06 Oct 2018,L485352,S49025695
+412,California Towhee,10,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+413,Rufous-crowned Sparrow,1,Mt. Diablo SP--Mitchell Canyon,US-CA,10 Feb 2018,L275399,S42656405
+414,Green-tailed Towhee,2,June Lake,US-CA,18 Aug 2018,L436465,S47919397
+415,Spotted Towhee,20,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+416,Eastern Towhee,1,Chattahoochee River NRA--East Palisades Unit,US-GA,27 Dec 2017,L1947998,S41349349
+417,Yellow-breasted Chat,2,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Apr 2019,L1947998,S55425863
+418,Yellow-headed Blackbird,7,San Luis NWR--West Bear Creek Unit,US-CA,20 Apr 2018,L1137188,S44756562
+419,Western Meadowlark,5,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+420,Hooded Oriole,1,Ardenwood Farm,US-CA,25 Mar 2018,L615728,S43947323
+421,Bullock's Oriole,2,Garin/Dry Creek Pioneer Regional Park,US-CA,08 Apr 2018,L381784,S44371331
+422,Scott's Oriole,1,Portal--Jasper/Moisan feeders (opened 2015),US-AZ,22 Mar 2019,L3642537,S54119357
+423,Red-winged Blackbird,50,Berkeley Marina--Hs Lordship Restaurant area,US-CA,31 Jan 2016,L3063658,S27253820
+424,Tricolored Blackbird,4,Ardenwood Farm,US-CA,25 Mar 2018,L615728,S43947323
+425,Brown-headed Cowbird,2,San Luis Reservoir SRA--Basalt Campground,US-CA,11 Feb 2018,L522208,S42676174
+426,Rusty Blackbird,4,Chattahoochee River NRA--East Palisades Unit,US-GA,18 Dec 2018,L1947998,S50779370
+427,Brewer's Blackbird,1,Redwood Regional Park--Skyline Gate area,US-CA,20 Oct 2017,L803038,S40087357
+428,Common Grackle,25,Milford Pt. (CT Audubon),US-CT,29 Mar 2018,L109216,S44055100
+429,Boat-tailed Grackle,1,East Kiawah Island,US-SC,01 Jan 2018,L596901,S41513126
+430,Great-tailed Grackle,4,Waterbird Regional Preserve (including McNabney Marsh),US-CA,02 Feb 2018,L417835,S42439664
+431,Louisiana Waterthrush,1,Chattahoochee River NRA--East Palisades Unit,US-GA,25 Apr 2019,L1947998,S55412057
+432,Blue-winged Warbler,1,Marshlands Conservancy,US-NY,08 Sep 2018,L109149,S48364137
+433,Black-and-white Warbler,1,"4956 Carol Ln NW, Sandy Springs US-GA (33.8908,-84.4066)",US-GA,26 Apr 2019,L6614457,S55429991
+434,Tennessee Warbler,1,Chattahoochee River NRA--East Palisades Unit,US-GA,11 Nov 2018,L1947998,S49863528
+435,Orange-crowned Warbler,1,Yard,US-CA,17 Jan 2018,L6683336,S41990790
+436,Nashville Warbler,1,Mt. Diablo SP--Mitchell Canyon,US-CA,25 Apr 2018,L275399,S44931833
+437,MacGillivray's Warbler,1,Mt. Diablo SP--Mitchell Canyon,US-CA,17 Apr 2019,L275399,S55057989
+438,Common Yellowthroat,1,Coyote Hills Regional Park,US-CA,15 Oct 2017,L216132,S39978728
+439,American Redstart,3,Marshlands Conservancy,US-NY,08 Sep 2018,L109149,S48364137
+440,Cape May Warbler,1,"4956 Carol Ln NW, Sandy Springs US-GA (33.8908,-84.4066)",US-GA,26 Apr 2019,L6614457,S55429991
+441,Cerulean Warbler,2,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Apr 2019,L1947998,S55425863
+442,Blackburnian Warbler,1,"4956 Carol Ln NW, Sandy Springs US-GA (33.8908,-84.4066)",US-GA,27 Apr 2019,L6614457,S55465390
+443,Yellow Warbler,1,Henry Coe SP--NW Region (HQ and trails access) (SCL Co.),US-CA,05 May 2018,L279577,S45389911
+444,Blackpoll Warbler,1,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Apr 2019,L1947998,S55425863
+445,Palm Warbler,1,Fort Rosecrans National Cemetery,US-CA,22 Oct 2018,L241743,S49373310
+446,Pine Warbler,2,Chattahoochee River NRA--East Palisades Unit,US-GA,22 Dec 2018,L1947998,S50866271
+447,Yellow-rumped Warbler,4,US-CA-Oakland-5245 Shafter Ave - 37.8387x-122.2567,US-CA,22 Nov 2015,L4021597,S27253733
+448,Black-throated Gray Warbler,1,UC Berkeley--campus,US-CA,02 Apr 2018,L744559,S44196024
+449,Townsend's Warbler,1,"US-CA-Berkeley-University of California, Berkeley - 37.8705x-122.2625",US-CA,19 Nov 2015,L4015861,S25910880
+450,Hermit Warbler,1,Mt. Diablo SP--Mitchell Canyon,US-CA,25 Apr 2018,L275399,S44931833
+451,Wilson's Warbler,3,Upper Claremont Canyon--UC Preserve,US-CA,26 Mar 2018,L1164868,S43977878
+452,Painted Redstart,6,Ramsey Canyon Inn (opened 1988),US-AZ,19 Mar 2019,L720652,S54012468
+453,Summer Tanager,1,Claremont Canyon Regional Preserve,US-CA,28 Jan 2019,L933409,S52150689
+454,Scarlet Tanager,5,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Apr 2019,L1947998,S55425863
+455,Western Tanager,2,Mt. Diablo SP--Mitchell Canyon,US-CA,25 Apr 2018,L275399,S44931833
+456,Northern Cardinal,4,Chattahoochee River NRA--East Palisades Unit,US-GA,27 Dec 2017,L1947998,S41349349
+457,Pyrrhuloxia,1,Brown Canyon Ranch (opened 2011),US-AZ,19 Mar 2019,L1546530,S54014844
+458,Rose-breasted Grosbeak,3,Chattahoochee River NRA--East Palisades Unit,US-GA,26 Apr 2019,L1947998,S55425863
+459,Black-headed Grosbeak,1,Claremont Canyon Regional Preserve,US-CA,09 Apr 2018,L933409,S44421670
+460,Blue Grosbeak,4,Bethel Island,US-CA,06 Jun 2020,L1405409,S70137183
+461,Lazuli Bunting,4,Macedo Ranch parking area,US-CA,21 Apr 2018,L843071,S44810740
+462,Crimson-backed Tanager,1,"Papanoo Valley, Tahiti",PF-WI,18 Oct 2019,L4240526,S60774799

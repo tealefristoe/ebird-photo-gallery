@@ -9,7 +9,7 @@ export default class Home extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      user: "Teale Fristoe",
+      user: "Philip Georgakakos",
       quality: 1,
       display: 'all',
     }

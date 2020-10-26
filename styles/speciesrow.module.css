@@ -1,0 +1,55 @@
+
+.speciesRow {
+  max-width: 1080px;
+  margin: auto;
+  display: grid;
+  grid-template-areas: 'header header header header header header right right'
+    'main1 main1 main1 main2 main2 main2 right right'
+    'main1 main1 main1 main2 main2 main2 right right'
+    'main1 main1 main1 main2 main2 main2 right right'
+    'main1 main1 main1 main2 main2 main2 right right'
+    'main1 main1 main1 main2 main2 main2 right right'
+    'main1 main1 main1 main2 main2 main2 right right';
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d3d3d3;
+}
+
+.speciesRow a {
+  color: #2c75c9;
+  text-decoration: none;
+}
+
+.speciesRow a:hover, .speciesRow a:focus {
+  color: #315985;
+}
+
+.speciesHeader {
+  grid-area: header;
+}
+
+.speciesName {
+  font-size: 24px;
+  font-weight: bold;
+  padding-bottom: 1px;
+}
+
+.scientificName {
+  font-size: 18px;
+  font-style: italic;
+  color: #999;
+}
+
+.photo {
+  grid-area: right;
+  text-align: right;
+  padding-right: 20px;
+}
+
+.photoInfo1 {
+  grid-area: main1;
+}
+
+.photoInfo2 {
+  grid-area: main2;
+}

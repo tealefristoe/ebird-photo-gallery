@@ -1,0 +1,76 @@
+#topOptionsBar {
+  background-color: #282e35;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 100%;
+}
+
+#topOptions {
+  max-width: 1080px;
+  margin: auto;
+  color: #5fdfff;
+}
+
+#topTitleBar {
+  background-color: #2a3a4d;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+}
+
+#topTitle {
+  max-width: 1080px;
+  margin: auto;
+  color: #ffffff;
+}
+
+.headingMain {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+#secondOptionsBar {
+  background-color: #f3f7fb;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+}
+
+#secondOptions {
+  max-width: 1080px;
+  margin: auto;
+  color: #408f00;
+}
+
+#speciesCountDisplay {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  color: #2c75c9;
+}
+
+#speciesCountDisplay .selected {
+  color: #408f00;
+}
+
+.speciesCount {
+  font-size: 2.25rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.subSpeciesCount {
+  font-size: .88rem;
+}
+
+#optionsBox {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin-top: 10px;
+  border-top: 1px solid #d3d3d3;
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+#optionsQuality {
+  grid-column: 1 / span 2;
+}

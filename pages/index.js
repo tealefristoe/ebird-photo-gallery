@@ -9,7 +9,7 @@ export default class Home extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      user: props.user in props.data.lists ? props.user : "Teale Fristoe",
+      user: props.user,
       quality: 1,
       display: 'all',
     }
@@ -54,9 +54,8 @@ export default class Home extends React.Component {
 }
 
 export async function getServerSideProps(context) {
-  const data = getData()
-  let props = {data}
-  props.user = 'user' in context.query ? context.query.user.replace('+', ' ') : null;
+  let props = {user: 'user' in context.query ? context.query.user.replace('+', ' ') : 'Teale Fristoe'}
+  props.data = getData(props.user)
   return {
     props
   }

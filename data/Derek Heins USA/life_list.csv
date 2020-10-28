@@ -1,0 +1,524 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Black-bellied Whistling-Duck,5,Hornsby Bend (HOTE 037),US-TX,17-Oct-11,L130766,S58296993
+2,Emperor Goose,1,Sharp Park Beaches,US-CA,28-Jan-17,L483011,S40458465
+3,Snow Goose,,Terminous Tract (Hwy 12 from Terminous to Flag City,US-CA,5-Jan-02,L9715481,S58508847
+4,Ross's Goose,,Gray Lodge Wildlife Area,US-CA,3-Feb-02,L368257,S58509000
+5,Greater White-fronted Goose,,Terminous Tract (Hwy 12 from Terminous to Flag City,US-CA,5-Jan-02,L9715481,S58508847
+6,Brant,,Pt. Reyes--Estero Trail,US-CA,15-Dec-01,L748933,S58403383
+7,Cackling Goose,,Hayward Regional Shoreline--Mt. Trashmore,US-CA,17-Feb-07,L1024893,S58470560
+8,Canada Goose,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+9,Mute Swan,,Dolph Nature Area,US-MI,21-May-95,L210751,S58409545
+10,Trumpeter Swan,,Seney NWR,US-MI,27-Aug-98,L248863,S58410298
+11,Tundra Swan,300,Terminous Tract (Hwy 12 from Terminous to Flag City,US-CA,5-Jan-02,L9715481,S58508847
+12,Wood Duck,2,Dolph Nature Area,US-MI,28-Apr-95,L210751,S58410507
+13,Mandarin Duck,1,Golden Gate Park--Stow Lake,US-CA,13-Jan-19,L499374,S51659127
+14,Garganey,1,Bridgeway Island pond,US-CA,10-Mar-19,L473045,S53693443
+15,Blue-winged Teal,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+16,Cinnamon Teal,,Pt. Reyes--Limantour Beach,US-CA,11-Nov-90,L590462,S58530622
+17,Northern Shoveler,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+18,Gadwall,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+19,Eurasian Wigeon,,Hayward Regional Shoreline--Frank's Dump,US-CA,19-Nov-03,L526261,S58508116
+20,American Wigeon,,Liberty Bay,US-WA,26-Dec-90,L1886184,S58409039
+21,Mallard,,Elkhorn Slough Reserve (NERR),US-CA,14-Apr-90,L353255,S58409339
+22,American Black Duck,6,Weskeag Marsh,US-ME,4-Aug-17,L450156,S38569454
+23,Northern Pintail,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+24,Green-winged Teal,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+25,Canvasback,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+26,Redhead,1,"Abbotts Lagoon, Inverness US-CA (38.1158,-122.9540)",US-CA,13-Nov-05,L8028217,S58504835
+27,Ring-necked Duck,,Lake Solano County Park (SOL Co.),US-CA,6-Jan-01,L285964,S58559402
+28,Tufted Duck,1,Golden Gate Park--Mallard Lake,US-CA,25-Feb-90,L1352166,S58409426
+29,Greater Scaup,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+30,Lesser Scaup,,Tule Lake NWR (SIS Co.),US-CA,23-Dec-05,L639242,S58505054
+31,Common Eider,,"Boat trip, Jonesport - Machias Seal Island",US-ME,22-Jun-94,L759747,S58532236
+32,Harlequin Duck,,Bainbridge Island Ferry Terminal,US-WA,23-Dec-05,L1925502,S58506090
+33,Surf Scoter,,Liberty Bay,US-WA,26-Dec-90,L1886184,S58409039
+34,White-winged Scoter,,Liberty Bay,US-WA,26-Dec-90,L1886184,S58409039
+35,Black Scoter,,Ocean Beach--seawatch across from Oceanside Water Polution Plant,US-CA,9-Apr-11,L1022599,S58329492
+36,Long-tailed Duck,2,Sutro Baths--seawatch,US-CA,30-Mar-08,L998431,S58468184
+37,Bufflehead,,Pt. Reyes--Limantour Beach,US-CA,11-Nov-90,L590462,S58530622
+38,Common Goldeneye,,Pt. Reyes--Limantour Beach,US-CA,11-Nov-90,L590462,S58530622
+39,Barrow's Goldeneye,,Liberty Bay,US-WA,26-Dec-90,L1886184,S58409039
+40,Hooded Merganser,,Liberty Bay,US-WA,26-Dec-90,L1886184,S58409039
+41,Common Merganser,,Lake Solano County Park (SOL Co.),US-CA,6-Jan-01,L285964,S58559402
+42,Red-breasted Merganser,,Liberty Bay,US-WA,26-Dec-90,L1886184,S58409039
+43,Ruddy Duck,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+44,Helmeted Guineafowl,1,Cedar Mountain Winery,US-CA,2-Dec-17,L5049911,S40944398
+45,Mountain Quail,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+46,Northern Bobwhite,,Georgia,US-GA,21-Jun-03,L108933,S58533720
+47,California Quail,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+48,Gambel's Quail,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+49,Chukar,1,Ohlone Audubon Panoche Pass trip,US-CA,5-Feb-01,L9709844,S58529303
+50,Erckel's Francolin,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+51,Gray Francolin,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+52,Ring-necked Pheasant,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+53,Kalij Pheasant,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+54,Ruffed Grouse,,Sylva/Smoky Mtn Vacation,US-NC,1-Jul-97,L9710194,S58531217
+55,Sooty Grouse,1,Squaw Valley Rd. (SHA Co.),US-CA,2-Jul-20,L3633012,S71052911
+56,Wild Turkey,,Lake Solano County Park (SOL Co.),US-CA,6-Jan-01,L285964,S58559402
+57,Least Grebe,1,Hornsby Bend (HOTE 037),US-TX,8-Oct-05,L130766,S58503996
+58,Pied-billed Grebe,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+59,Horned Grebe,,Liberty Bay,US-WA,26-Dec-90,L1886184,S58409039
+60,Red-necked Grebe,1,Marina Green,US-CA,24-Mar-03,L1067697,S58507805
+61,Eared Grebe,,Salton Sea--north end (please consider using a more specific location),US-CA,1-Apr-91,L559706,S58410007
+62,Western Grebe,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+63,Clark's Grebe,1,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+64,Rock Pigeon,,"Boat trip, Jonesport - Machias Seal Island",US-ME,22-Jun-94,L759747,S58532236
+65,Band-tailed Pigeon,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+66,Eurasian Collared-Dove,,Sunol Regional Wilderness--Little Yosemite area,US-CA,2-May-09,L2919377,S58332404
+67,Spotted Dove,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+68,Zebra Dove,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+69,Inca Dove,,Paton Center for Hummingbirds (Patons' Yard),US-AZ,6-Apr-03,L247122,S58536161
+70,White-winged Dove,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+71,Mourning Dove,,Ashland vacation,US-OR,26-May-90,L9710151,S58530742
+72,Greater Roadrunner,4,Del Puerto Canyon--mile 0-21.3 (STA Co.),US-CA,21-Jun-09,L520648,S58473105
+73,Yellow-billed Cuckoo,1,Owl Canyon - ONLY (waterbirds from this site OK),US-CA,17-Sep-05,L598128,S58503748
+74,Black-billed Cuckoo,1,Hollywood Blvd - Howie/ Karen Neilsen's,US-ME,27-Jun-91,L6170052,S58559770
+75,Lesser Nighthawk,1,Clifton Court Forebay,US-CA,14-Jun-20,L373440,S70466426
+76,Common Nighthawk,,Tule Lake NWR (SIS Co.),US-CA,9-Aug-09,L639242,S58332291
+77,Common Poorwill,,"Fort Huachuca (Historical, do not use for current lists)",US-AZ,8-Apr-97,L128967,S58536327
+78,Black Swift,3,McArthur-Burney Falls Memorial SP,US-CA,30-Jun-20,L367727,S71006148
+79,Chimney Swift,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+80,Vaux's Swift,,Bend area vacation,US-OR,9-Aug-09,L9698388,S58472473
+81,White-throated Swift,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+82,Rivoli's Hummingbird,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+83,Blue-throated Mountain-gem,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+84,Ruby-throated Hummingbird,,Muskallonge Lake SP,US-MI,29-Aug-98,L5864836,S58410434
+85,Black-chinned Hummingbird,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+86,Anna's Hummingbird,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+87,Costa's Hummingbird,,Anza-Borrego Desert SP--Visitor Center,US-CA,1-Apr-91,L668805,S58409942
+88,Broad-tailed Hummingbird,,Santa Fe County,US-NM,23-Jul-01,L9711020,S58535727
+89,Rufous Hummingbird,,Santa Fe County,US-NM,23-Jul-01,L9711020,S58535727
+90,Allen's Hummingbird,,Butano SP,US-CA,19-Apr-03,L349900,S58507889
+91,Calliope Hummingbird,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+92,Broad-billed Hummingbird,,Patagonia Lake State Park,US-AZ,5-Apr-03,L129050,S58536077
+93,Violet-crowned Hummingbird,,Paton Center for Hummingbirds (Patons' Yard),US-AZ,6-Apr-03,L247122,S58536161
+94,Ridgway's Rail,,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,5-Jan-05,L161083,S58502137
+95,King Rail,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+96,Virginia Rail,,Dolph Nature Area,US-MI,21-May-95,L210751,S58409545
+97,Sora,3,Lake Solano County Park (SOL Co.),US-CA,6-Jan-01,L285964,S58559402
+98,Common Gallinule,2,Lake Solano County Park (SOL Co.),US-CA,6-Jan-01,L285964,S58559402
+99,Hawaiian Coot,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+100,American Coot,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+101,Purple Gallinule,,Florida,US-FL,3-Mar-96,L108932,S58534126
+102,Black Rail,1,Dow Wetlands Preserve,US-CA,13-Mar-20,L826867,S65744490
+103,Limpkin,1,Wakulla Springs SP,US-FL,22-Jun-03,L127256,S58533536
+104,Sandhill Crane,200,Terminous Tract (Hwy 12 from Terminous to Flag City,US-CA,5-Jan-02,L9715481,S58508847
+105,Common Crane,1,South of Goose Lake--CR 68/48 (Davis Creek to Goose Lake Causeway),US-CA,29-Jul-20,L8219029,S71944781
+106,Black-necked Stilt,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+107,American Avocet,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+108,American Oystercatcher,,Florida,US-FL,3-Mar-96,L108932,S58534126
+109,Black Oystercatcher,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+110,Black-bellied Plover,,Pt. Reyes--Limantour Beach,US-CA,11-Nov-90,L590462,S58530622
+111,Pacific Golden-Plover,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+112,Lesser Sand-Plover,1,"stakeout Lesser Sand-Plover, Pt. Reyes (2016)",US-CA,21-Oct-16,L5093808,S58820332
+113,Snowy Plover,,Salton Sea--north end (please consider using a more specific location),US-CA,1-Apr-91,L559706,S58410007
+114,Semipalmated Plover,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+115,Piping Plover,2,"Montrose Point, Lincoln Park, Chicago",US-IL,7-Jun-19,L161180,S57163034
+116,Killdeer,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+117,Mountain Plover,,Ohlone Audubon Panoche Pass trip,US-CA,5-Feb-01,L9709844,S58529303
+118,Upland Sandpiper,,Ft. Pierre NG (Lyman Co.),US-SD,21-Jun-13,L331980,S58286549
+119,Whimbrel,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+120,Long-billed Curlew,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+121,Bar-tailed Godwit,1,Bolinas Lagoon,US-CA,13-Aug-16,L624621,S58355899
+122,Hudsonian Godwit,1,Napa-Sonoma Marshes WA--Huichica Creek Unit,US-CA,13-Sep-13,L590812,S58482265
+123,Marbled Godwit,,Elkhorn Slough Reserve (NERR),US-CA,14-Apr-90,L353255,S58409339
+124,Ruddy Turnstone,,Florida,US-FL,3-Mar-96,L108932,S58534126
+125,Black Turnstone,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+126,Red Knot,1,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+127,Surfbird,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+128,Ruff,1,Don Edwards NWR--New Chicago Marsh,US-CA,4-Sep-16,L337098,S58355113
+129,Stilt Sandpiper,1,Coyote Hills Regional Park,US-CA,3-Aug-13,L216132,S58482916
+130,Red-necked Stint,1,Hayward Regional Shoreline--Frank's Dump,US-CA,15-Jul-16,L526261,S58357659
+131,Sanderling,,"Abbotts Lagoon, Inverness US-CA (38.1158,-122.9540)",US-CA,21-Jan-02,L8028217,S58335472
+132,Dunlin,,Pt. Reyes--Limantour Beach,US-CA,11-Nov-90,L590462,S58530622
+133,Rock Sandpiper,1,Bodega Head - offshore species and the bluff ONLY,US-CA,29-Dec-17,L606176,S41459073
+134,Baird's Sandpiper,1,Middle Harbor Shoreline Park,US-CA,4-Sep-11,L774817,S58305168
+135,Least Sandpiper,,Pt. Reyes--Limantour Beach,US-CA,11-Nov-90,L590462,S58530622
+136,White-rumped Sandpiper,2,Weskeag Marsh,US-ME,4-Aug-17,L450156,S38569454
+137,Buff-breasted Sandpiper,1,West County Wastewater District--Sewage Ponds,US-CA,25-Aug-18,L848605,S48068919
+138,Pectoral Sandpiper,,Bolinas Sewage Ponds,US-CA,2-Sep-91,L590842,S58529888
+139,Semipalmated Sandpiper,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+140,Western Sandpiper,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+141,Short-billed Dowitcher,,Hayward Regional Shoreline--Frank's Dump,US-CA,15-Jul-16,L526261,S58357659
+142,Long-billed Dowitcher,,Pt. Reyes--Estero Trail,US-CA,15-Dec-01,L748933,S58403383
+143,Wilson's Snipe,,Lake Solano County Park (SOL Co.),US-CA,6-Jan-01,L285964,S58559402
+144,Wilson's Phalarope,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,30-Jun-17,L161083,S39222479
+145,Red-necked Phalarope,,Pt. Reyes--Mendoza Ranch (B Ranch),US-CA,4-Sep-05,L391138,S58503436
+146,Red Phalarope,4,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+147,Spotted Sandpiper,,Hornsby Bend (HOTE 037),US-TX,8-Oct-05,L130766,S58503996
+148,Solitary Sandpiper,,Bend area vacation,US-OR,9-Aug-09,L9698388,S58472473
+149,Wandering Tattler,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+150,Greater Yellowlegs,,Elkhorn Slough Reserve (NERR),US-CA,14-Apr-90,L353255,S58409339
+151,Willet,,Elkhorn Slough Reserve (NERR),US-CA,14-Apr-90,L353255,S58409339
+152,Lesser Yellowlegs,,Florida,US-FL,3-Mar-96,L108932,S58534126
+153,Pomarine Jaeger,1,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+154,Parasitic Jaeger,2,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+155,Long-tailed Jaeger,7,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+156,Common Murre,,Pt. Reyes--Fish Docks,US-CA,29-Sep-01,L453386,S58403440
+157,Razorbill,,"Boat trip, Jonesport - Machias Seal Island",US-ME,22-Jun-94,L759747,S58532236
+158,Black Guillemot,,"Boat trip, Jonesport - Machias Seal Island",US-ME,22-Jun-94,L759747,S58532236
+159,Pigeon Guillemot,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+160,Marbled Murrelet,,Bodega Head - offshore species and the bluff ONLY,US-CA,22-Jan-06,L606176,S58499761
+161,Cassin's Auklet,150,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+162,Parakeet Auklet,1,"GGNRA--Land's End Trail/Hermit Rock Overlook (Historic Shipwrecks, 37.7839,-122.5096)",US-CA,3-Aug-19,L6105843,S58722676
+163,Rhinoceros Auklet,,Port Angeles City Pier,US-WA,5-Aug-02,L245894,S58403998
+164,Atlantic Puffin,,"Boat trip, Jonesport - Machias Seal Island",US-ME,22-Jun-94,L759747,S58532236
+165,Tufted Puffin,15,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+166,Black-legged Kittiwake,2,Pescadero SB--west of Hwy 1 only,US-CA,14-Jan-17,L169501,S38760008
+167,Sabine's Gull,12,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+168,Bonaparte's Gull,,Pt. Reyes--Limantour Beach,US-CA,11-Nov-90,L590462,S58530622
+169,Ross's Gull,1,"stakeout Ross's Gull, ag field near Half Moon Bay Airport (2017)",US-CA,14-Jan-17,L5258551,S38759947
+170,Laughing Gull,,Florida,US-FL,3-Mar-96,L108932,S58534126
+171,Heermann's Gull,18,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+172,Mew Gull,,Bodega Bay--harbor and immediate vicinity,US-CA,22-Jan-06,L109489,S58499712
+173,Ring-billed Gull,,Pt. Reyes--Limantour Beach,US-CA,11-Nov-90,L590462,S58530622
+174,Western Gull,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+175,California Gull,,Pt. Reyes--Estero Trail,US-CA,15-Dec-01,L748933,S58403383
+176,Herring Gull,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+177,Iceland Gull,1,Emeryville Marina,US-CA,13-Mar-10,L764558,S58333641
+178,Lesser Black-backed Gull,,Belleville Lake--Belleville Rd. access,US-MI,15-Jan-96,L2623217,S58528160
+179,Slaty-backed Gull,1,Half Moon Bay SB--Venice Beach and Pilarcitos Creek Mouth,US-CA,15-Jan-20,L329541,S63435093
+180,Glaucous-winged Gull,,Pt. Reyes--Estero Trail,US-CA,15-Dec-01,L748933,S58403383
+181,Glaucous Gull,,Belleville Lake--Belleville Rd. access,US-MI,15-Jan-96,L2623217,S58528160
+182,Great Black-backed Gull,,Belleville Lake--Belleville Rd. access,US-MI,15-Jan-96,L2623217,S58528160
+183,Least Tern,6,Richmond Marina,US-CA,9-Jun-17,L615495,S37500376
+184,Caspian Tern,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+185,Black Tern,,Tule Lake NWR (SIS Co.),US-CA,9-Aug-09,L639242,S58332291
+186,Common Tern,,"Boat trip, Jonesport - Machias Seal Island",US-ME,22-Jun-94,L759747,S58532236
+187,Arctic Tern,,"Boat trip, Jonesport - Machias Seal Island",US-ME,22-Jun-94,L759747,S58532236
+188,Forster's Tern,,Elkhorn Slough Reserve (NERR),US-CA,14-Apr-90,L353255,S58409339
+189,Royal Tern,,Florida,US-FL,3-Mar-96,L108932,S58534126
+190,Elegant Tern,10,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+191,Black Skimmer,,Florida,US-FL,3-Mar-96,L108932,S58534126
+192,Red-billed Tropicbird,1,Isle au Haut Bay (waters only NOT islands),US-ME,1-Aug-17,L6109779,S38579710
+193,Red-throated Loon,,Liberty Bay,US-WA,26-Dec-04,L1886184,S58505996
+194,Pacific Loon,,Monterey Bay pelagic (MTY Co.),US-CA,27-Dec-01,L351269,S58403603
+195,Common Loon,,"Boat trip, Jonesport - Machias Seal Island",US-ME,22-Jun-94,L759747,S58532236
+196,Black-footed Albatross,,Monterey Bay pelagic (MTY Co.),US-CA,27-Dec-01,L351269,S58403603
+197,Wilson's Storm-Petrel,,"Boat trip, Jonesport - Machias Seal Island",US-ME,22-Jun-94,L759747,S58532236
+198,Fork-tailed Storm-Petrel,1,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+199,Ashy Storm-Petrel,500,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+200,Black Storm-Petrel,1,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+201,Northern Fulmar,,Monterey Bay pelagic (MTY Co.),US-CA,27-Dec-01,L351269,S58403603
+202,Pink-footed Shearwater,60,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+203,Great Shearwater,1,Isle au Haut Bay (waters only NOT islands),US-ME,1-Aug-17,L6109779,S38579710
+204,Buller's Shearwater,1,Farallon Islands pelagic (SF Co.),US-CA,2-Aug-09,L767707,S58471419
+205,Sooty Shearwater,,"Boat trip, Jonesport - Machias Seal Island",US-ME,22-Jun-94,L759747,S58532236
+206,Manx Shearwater,,"Boat trip, Jonesport - Machias Seal Island",US-ME,22-Jun-94,L759747,S58532236
+207,Wood Stork,1,Pt. Reyes--Limantour Estuary,US-CA,29-Dec-90,L590854,S58530507
+208,Red-footed Booby,1,Pillar Point Harbor,US-CA,10-Dec-17,L242192,S41021856
+209,Northern Gannet,,"Boat trip, Jonesport - Machias Seal Island",US-ME,22-Jun-94,L759747,S58532236
+210,Anhinga,,Florida,US-FL,3-Mar-96,L108932,S58534126
+211,Brandt's Cormorant,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+212,Pelagic Cormorant,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+213,Great Cormorant,2,Isle au Haut Bay (waters only NOT islands),US-ME,1-Aug-17,L6109779,S38579710
+214,Double-crested Cormorant,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+215,American White Pelican,,Florida,US-FL,3-Mar-96,L108932,S58534126
+216,Brown Pelican,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+217,American Bittern,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+218,Least Bittern,,Patagonia Lake State Park,US-AZ,5-Apr-03,L129050,S58536077
+219,Great Blue Heron,,Elkhorn Slough Reserve (NERR),US-CA,14-Apr-90,L353255,S58409339
+220,Great Egret,,Elkhorn Slough Reserve (NERR),US-CA,14-Apr-90,L353255,S58409339
+221,Snowy Egret,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+222,Little Blue Heron,,Florida,US-FL,3-Mar-96,L108932,S58534126
+223,Tricolored Heron,,Florida,US-FL,3-Mar-96,L108932,S58534126
+224,Cattle Egret,,Florida,US-FL,3-Mar-96,L108932,S58534126
+225,Green Heron,,Dolph Nature Area,US-MI,11-May-96,L210751,S58533177
+226,Black-crowned Night-Heron,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+227,Yellow-crowned Night-Heron,,Florida,US-FL,3-Mar-96,L108932,S58534126
+228,White Ibis,,Florida,US-FL,3-Mar-96,L108932,S58534126
+229,Glossy Ibis,,Florida,US-FL,3-Mar-96,L108932,S58534126
+230,White-faced Ibis,,Bosque del Apache NWR,US-NM,25-Jul-01,L127945,S58534709
+231,Roseate Spoonbill,,Florida,US-FL,3-Mar-96,L108932,S58534126
+232,California Condor,1,Andrew Molera SP--BSOL net lanes to corral only (do not use for coast),US-CA,12-Aug-06,L452553,S58501506
+233,Black Vulture,,Florida,US-FL,3-Mar-96,L108932,S58534126
+234,Turkey Vulture,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+235,Osprey,,Pt. Reyes--Limantour Beach,US-CA,11-Nov-90,L590462,S58530622
+236,White-tailed Kite,,Elkhorn Slough Reserve (NERR),US-CA,14-Apr-90,L353255,S58409339
+237,Swallow-tailed Kite,,Florida,US-FL,3-Mar-96,L108932,S58534126
+238,Golden Eagle,,Ohlone Audubon Panoche Pass trip,US-CA,5-Feb-01,L9709844,S58529303
+239,Northern Harrier,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+240,Sharp-shinned Hawk,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+241,Cooper's Hawk,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+242,Northern Goshawk,1,Hollywood Blvd - Howie/ Karen Neilsen's,US-ME,27-Jun-91,L6170052,S58559770
+243,Bald Eagle,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+244,Gray Hawk,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+245,Red-shouldered Hawk,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+246,Broad-winged Hawk,,Pinckney RA--Embury Rd,US-MI,14-Jun-11,L1131706,S58325016
+247,Hawaiian Hawk,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+248,Swainson's Hawk,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+249,Zone-tailed Hawk,,Patagonia Lake State Park,US-AZ,5-Apr-03,L129050,S58536077
+250,Red-tailed Hawk,,Elkhorn Slough Reserve (NERR),US-CA,14-Apr-90,L353255,S58409339
+251,Rough-legged Hawk,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+252,Ferruginous Hawk,,Pt. Reyes--Fish Docks,US-CA,29-Sep-01,L453386,S58403440
+253,Barn Owl,1,Owl Canyon - ONLY (waterbirds from this site OK),US-CA,18-Sep-09,L598128,S58332677
+254,Western Screech-Owl,,Cazadero cabin,US-CA,20-Aug-02,L9686240,S58404445
+255,Eastern Screech-Owl,1,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+256,Great Horned Owl,,Elkhorn Slough Reserve (NERR),US-CA,14-Apr-90,L353255,S58409339
+257,Northern Pygmy-Owl,1,Sunol Regional Wilderness--Little Yosemite area,US-CA,4-Apr-19,L2919377,S54550830
+258,Elf Owl,,Madera Canyon--Santa Rita Lodge,US-AZ,8-Apr-03,L268114,S58536760
+259,Burrowing Owl,8,Cleo and John's farm,US-SD,15-Jul-90,L9434444,S58286638
+260,Barred Owl,,Sylva/Smoky Mtn Vacation,US-NC,1-Jul-97,L9710194,S58531217
+261,Great Gray Owl,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+262,Long-eared Owl,,Tule Lake NWR (SIS Co.),US-CA,9-Aug-09,L639242,S58332291
+263,Short-eared Owl,,Coyote Hills Regional Park,US-CA,12-Dec-12,L216132,S58404689
+264,Northern Saw-whet Owl,1,Golden Gate Audubon stops,US-CA,31-May-13,L9700249,S58482810
+265,Elegant Trogon,2,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+266,Belted Kingfisher,,Elkhorn Slough Reserve (NERR),US-CA,14-Apr-90,L353255,S58409339
+267,Green Kingfisher,1,Balcones Canyonlands NWR--Refuge HQ (Travis Co.),US-TX,8-Oct-05,L746529,S58504670
+268,Williamson's Sapsucker,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+269,Yellow-bellied Sapsucker,,Dolph Nature Area,US-MI,28-Apr-95,L210751,S58410507
+270,Red-naped Sapsucker,,Ouray County,US-CO,22-Jul-11,L9667764,S58309051
+271,Red-breasted Sapsucker,,Liberty Bay,US-WA,26-Dec-90,L1886184,S58409039
+272,Lewis's Woodpecker,,Santa Fe County,US-NM,23-Jul-01,L9711020,S58535727
+273,Red-headed Woodpecker,,Custer SP,US-SD,20-Jun-13,L457074,S58286408
+274,Acorn Woodpecker,,Ashland vacation,US-OR,26-May-90,L9710151,S58530742
+275,Gila Woodpecker,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+276,Red-bellied Woodpecker,,Florida,US-FL,3-Mar-96,L108932,S58534126
+277,Black-backed Woodpecker,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+278,Downy Woodpecker,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+279,Nuttall's Woodpecker,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+280,Ladder-backed Woodpecker,,Patagonia Lake State Park,US-AZ,5-Apr-03,L129050,S58536077
+281,Hairy Woodpecker,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+282,White-headed Woodpecker,,Calaveras Big Trees SP,US-CA,18-May-92,L155127,S58409717
+283,Pileated Woodpecker,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+284,Northern Flicker,,Ashland vacation,US-OR,26-May-90,L9710151,S58530742
+285,Crested Caracara,,Hornsby Bend (HOTE 037),US-TX,8-Oct-05,L130766,S58503996
+286,American Kestrel,,Elkhorn Slough Reserve (NERR),US-CA,14-Apr-90,L353255,S58409339
+287,Merlin,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+288,Peregrine Falcon,1,Lake Solano County Park (SOL Co.),US-CA,6-Jan-01,L285964,S58559502
+289,Prairie Falcon,,Ohlone Audubon Panoche Pass trip,US-CA,5-Feb-01,L9709844,S58529303
+290,Red-masked Parakeet,,Ferry / Sue Bierman Parks,US-CA,5-Sep-11,L1284799,S58328554
+291,Northern Beardless-Tyrannulet,,Patagonia Lake State Park,US-AZ,5-Apr-03,L129050,S58536077
+292,Olive-sided Flycatcher,,Golden Gate Park--Stow Lake,US-CA,25-Apr-92,L499374,S58528346
+293,Greater Pewee,,Ramsey Canyon Preserve (formerly Mile Hi Ranch),US-AZ,7-Apr-03,L129062,S58536536
+294,Western Wood-Pewee,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+295,Eastern Wood-Pewee,,Dolph Nature Area,US-MI,12-May-96,L210751,S58533029
+296,Yellow-bellied Flycatcher,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+297,Alder Flycatcher,1,Hollywood Blvd - Howie/ Karen Neilsen's,US-ME,1-Aug-17,L6170052,S38578021
+298,Willow Flycatcher,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+299,Hammond's Flycatcher,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+300,Gray Flycatcher,,Bend area vacation,US-OR,9-Aug-09,L9698388,S58472473
+301,Dusky Flycatcher,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+302,Pacific-slope Flycatcher,,Cazadero cabin,US-CA,20-Aug-02,L9686240,S58404445
+303,Cordilleran Flycatcher,,Santa Fe County,US-NM,23-Jul-01,L9711020,S58535727
+304,Black Phoebe,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+305,Eastern Phoebe,,Sylva/Smoky Mtn Vacation,US-NC,1-Jul-97,L9710194,S58531217
+306,Say's Phoebe,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+307,Vermilion Flycatcher,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+308,Ash-throated Flycatcher,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+309,Great Crested Flycatcher,,Florida,US-FL,3-Mar-96,L108932,S58534126
+310,Sulphur-bellied Flycatcher,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+311,Tropical Kingbird,1,Andrew Molera SP--Big Sur River mouth,US-CA,14-Aug-06,L109487,S58501768
+312,Cassin's Kingbird,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+313,Western Kingbird,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+314,Eastern Kingbird,,Muskallonge Lake SP,US-MI,29-Aug-98,L5864836,S58410434
+315,Scissor-tailed Flycatcher,,Hornsby Bend (HOTE 037),US-TX,8-Oct-05,L130766,S58503996
+316,Hutton's Vireo,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+317,Yellow-throated Vireo,,Dolph Nature Area,US-MI,28-Apr-95,L210751,S58410507
+318,Cassin's Vireo,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+319,Blue-headed Vireo,,Dolph Nature Area,US-MI,28-Apr-95,L210751,S58410507
+320,Plumbeous Vireo,,Ouray County,US-CO,22-Jul-11,L9667764,S58309051
+321,Philadelphia Vireo,,Dolph Nature Area,US-MI,11-May-96,L210751,S58533177
+322,Warbling Vireo,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+323,Red-eyed Vireo,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+324,Yellow-green Vireo,1,Golden Gate Park--Stow Lake,US-CA,28-Sep-19,L499374,S60192532
+325,Loggerhead Shrike,1,Cleo and John's farm,US-SD,10-Jul-66,L9434444,S58286654
+326,Northern Shrike,1,Napa-Sonoma Marshes WA--Huichica Creek Unit,US-CA,18-Jan-14,L590812,S58371981
+327,Canada Jay,,Crater Lake NP,US-OR,26-May-90,L388198,S58409180
+328,Pinyon Jay,,Santa Fe County,US-NM,23-Jul-01,L9711020,S58535727
+329,Steller's Jay,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+330,Blue Jay,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+331,California Scrub-Jay,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+332,Woodhouse's Scrub-Jay,,Santa Fe County,US-NM,23-Jul-01,L9711020,S58535727
+333,Black-billed Magpie,,Crater Lake NP,US-OR,26-May-90,L388198,S58409180
+334,Yellow-billed Magpie,,Lake Solano County Park (SOL Co.),US-CA,6-Jan-01,L285964,S58559402
+335,Clark's Nutcracker,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+336,American Crow,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+337,Northwestern Crow,,Fort Worden SP,US-WA,17-Jul-16,L292851,S58357396
+338,Fish Crow,,Florida,US-FL,3-Mar-96,L108932,S58534126
+339,Chihuahuan Raven,,Bosque del Apache NWR,US-NM,25-Jul-01,L127945,S58534709
+340,Common Raven,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+341,Carolina Chickadee,,Sylva/Smoky Mtn Vacation,US-NC,1-Jul-97,L9710194,S58531217
+342,Black-capped Chickadee,,Dolph Nature Area,US-MI,28-Apr-95,L210751,S58410507
+343,Mountain Chickadee,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+344,Mexican Chickadee,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+345,Chestnut-backed Chickadee,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+346,Bridled Titmouse,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+347,Oak Titmouse,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+348,Juniper Titmouse,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+349,Tufted Titmouse,,Dolph Nature Area,US-MI,12-May-96,L210751,S58526803
+350,Black-crested Titmouse,,Hornsby Bend (HOTE 037),US-TX,8-Oct-05,L130766,S58503996
+351,Verdin,,Patagonia Lake State Park,US-AZ,5-Apr-03,L129050,S58536077
+352,Horned Lark,,Ohlone Audubon Panoche Pass trip,US-CA,5-Feb-01,L9709844,S58529303
+353,Northern Rough-winged Swallow,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+354,Purple Martin,8,Pine Flat Rd.--upper,US-CA,1-May-16,L1164789,S58358928
+355,Tree Swallow,,Anza-Borrego Desert SP--Visitor Center,US-CA,1-Apr-91,L668805,S58409942
+356,Violet-green Swallow,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+357,Bank Swallow,,Fort Funston,US-CA,25-Apr-92,L266117,S58409760
+358,Barn Swallow,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+359,Cliff Swallow,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+360,Bushtit,,Ohlone Audubon Panoche Pass trip,US-CA,5-Feb-01,L9709844,S58529303
+361,Wrentit,,Chabot Park,US-CA,19-Jan-02,L191219,S58508614
+362,Warbling White-eye,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+363,Golden-crowned Kinglet,,Golden Gate Audubon stops,US-CA,2-Jun-01,L9700249,S58514355
+364,Ruby-crowned Kinglet,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+365,Red-breasted Nuthatch,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+366,White-breasted Nuthatch,,Ashland vacation,US-OR,26-May-90,L9710151,S58530742
+367,Pygmy Nuthatch,,Santa Fe County,US-NM,24-Jul-01,L9711020,S58535862
+368,Brown-headed Nuthatch,1,Noonday Creek Park (Cobb Co.),US-GA,16-Feb-19,L909268,S52795841
+369,Brown Creeper,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+370,Blue-gray Gnatcatcher,,Dolph Nature Area,US-MI,28-Apr-95,L210751,S58410507
+371,Rock Wren,,Ohlone Audubon Panoche Pass trip,US-CA,5-Feb-01,L9709844,S58529303
+372,Canyon Wren,,Calaveras Big Trees SP,US-CA,18-May-92,L155127,S58409717
+373,House Wren,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+374,Pacific Wren,,Pt. Reyes--Estero Trail,US-CA,15-Dec-01,L748933,S58403383
+375,Sedge Wren,,Ft. Pierre NG (Lyman Co.),US-SD,21-Jun-13,L331980,S58286549
+376,Marsh Wren,,Ohlone Audubon Panoche Pass trip,US-CA,5-Feb-01,L9709844,S58529303
+377,Carolina Wren,,Florida,US-FL,3-Mar-96,L108932,S58534126
+378,Bewick's Wren,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+379,Cactus Wren,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+380,American Dipper,,Calaveras Big Trees SP,US-CA,18-May-92,L155127,S58409717
+381,European Starling,,Liberty Bay,US-WA,26-Dec-90,L1886184,S58409039
+382,Gray Catbird,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+383,Curve-billed Thrasher,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+384,Brown Thrasher,,Dolph Nature Area,US-MI,12-May-96,L210751,S58526803
+385,California Thrasher,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+386,Sage Thrasher,1,Hayward Regional Shoreline--Hayward Marsh,US-CA,2-Nov-08,L2220366,S58468628
+387,Northern Mockingbird,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+388,Eastern Bluebird,,Sylva/Smoky Mtn Vacation,US-NC,1-Jul-97,L9710194,S58531217
+389,Western Bluebird,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+390,Mountain Bluebird,,Ohlone Audubon Panoche Pass trip,US-CA,5-Feb-01,L9709844,S58529303
+391,Townsend's Solitaire,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+392,Varied Thrush,,Liberty Bay,US-WA,26-Dec-90,L1886184,S58409039
+393,Veery,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+394,Swainson's Thrush,,Mt. Diablo SP--Mitchell Canyon,US-CA,29-Apr-06,L275399,S58500134
+395,Hermit Thrush,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+396,Wood Thrush,,Dolph Nature Area,US-MI,28-Apr-95,L210751,S58410507
+397,American Robin,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+398,Cedar Waxwing,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+399,Phainopepla,,Anza-Borrego Desert SP--Visitor Center,US-CA,1-Apr-91,L668805,S58409942
+400,Scaly-breasted Munia,1,Santa Barbara Botanic Garden,US-CA,25-Jun-17,L798142,S37795962
+401,Java Sparrow,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+402,Pin-tailed Whydah,2,The Resort At Pelican Hill,US-CA,27-Sep-18,L3050266,S48825667
+403,House Sparrow,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+404,Red-throated Pipit,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,26-Oct-13,L161083,S58335147
+405,American Pipit,,Pt. Reyes--Limantour Beach,US-CA,11-Nov-90,L590462,S58530622
+406,Evening Grosbeak,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+407,Apapane,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+408,Pine Grosbeak,,Yosemite NP--Glacier Point Rd.,US-CA,2-Aug-08,L784322,S58469864
+409,Brown-capped Rosy-Finch,3,Lookout Peak??,US-CO,24-Jul-11,L9667900,S58309445
+410,House Finch,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+411,Purple Finch,,Dolph Nature Area,US-MI,12-May-96,L210751,S58526803
+412,Cassin's Finch,2,Squaw Valley Rd. (SHA Co.),US-CA,29-Jun-20,L3633012,S70975621
+413,Red Crossbill,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+414,European Goldfinch,2,Illinois Beach SP--South Unit,US-IL,2-Jun-17,L152655,S37361588
+415,Pine Siskin,,Santa Fe County,US-NM,23-Jul-01,L9711020,S58535727
+416,Lesser Goldfinch,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+417,Lawrence's Goldfinch,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+418,American Goldfinch,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+419,Lapland Longspur,1,Hayward Regional Shoreline--Mt. Trashmore,US-CA,22-Nov-15,L1024893,S58386281
+420,Snow Bunting,,Washtenaw,US-MI,15-Feb-98,L112077,S65178612
+421,Rustic Bunting,1,Golden Gate Park--Big Rec Ball Fields,US-CA,17-Jan-15,L2341719,S58294554
+422,Grasshopper Sparrow,,Wildcat Canyon Regional Park,US-CA,16-May-09,L388820,S58334969
+423,Chipping Sparrow,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+424,Clay-colored Sparrow,1,Lake Merritt,US-CA,8-Oct-11,L268122,S58304851
+425,Black-chinned Sparrow,1,Sibley Volcanic Regional Preserve,US-CA,4-Jun-20,L311906,S70054647
+426,Field Sparrow,,Illinois Beach SP--South Unit,US-IL,2-Jun-17,L152655,S37361588
+427,Brewer's Sparrow,1,Emeryville Marina,US-CA,19-Sep-18,L764558,S48621977
+428,Black-throated Sparrow,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+429,Lark Sparrow,,Ohlone Audubon Panoche Pass trip,US-CA,5-Feb-01,L9709844,S58529303
+430,Lark Bunting,,Thunder Basin National Grassland,US-WY,18-Jun-13,L9664585,S58292937
+431,American Tree Sparrow,1,Gomes Park,US-CA,17-Nov-18,L6345236,S50005621
+432,Fox Sparrow,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+433,Dark-eyed Junco,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+434,Yellow-eyed Junco,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+435,White-crowned Sparrow,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+436,Golden-crowned Sparrow,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+437,Harris's Sparrow,1,Pt. Isabel Regional Shoreline,US-CA,22-Nov-08,L507756,S43363798
+438,White-throated Sparrow,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+439,Bell's Sparrow,,Del Puerto Canyon Rd.--upper canyon (mile 17.0-21.3),US-CA,4-Jun-11,L1673356,S58334737
+440,Vesper Sparrow,,Mesa Verde NP (consider using a more specific hotspot),US-CO,27-Jul-11,L109300,S58309218
+441,LeConte's Sparrow,1,"Abbotts Lagoon, Inverness US-CA (38.1158,-122.9540)",US-CA,6-Feb-16,L8028217,S58359710
+442,Nelson's Sparrow,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,5-Jan-05,L161083,S58502137
+443,Savannah Sparrow,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+444,Song Sparrow,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+445,Lincoln's Sparrow,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+446,Swamp Sparrow,,Dolph Nature Area,US-MI,28-Apr-95,L210751,S58410507
+447,Canyon Towhee,,Patagonia Lake State Park,US-AZ,5-Apr-03,L129050,S58536077
+448,Abert's Towhee,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+449,California Towhee,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+450,Rufous-crowned Sparrow,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+451,Green-tailed Towhee,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+452,Spotted Towhee,,Ashland vacation,US-OR,26-May-90,L9710151,S58530742
+453,Eastern Towhee,,Dolph Nature Area,US-MI,11-May-96,L210751,S58533177
+454,Yellow-breasted Chat,,Santa Fe County,US-NM,24-Jul-01,L9711020,S58535862
+455,Yellow-headed Blackbird,,Tule Lake NWR (SIS Co.),US-CA,9-Aug-09,L639242,S58332291
+456,Bobolink,,Hollywood Blvd - Howie/ Karen Neilsen's,US-ME,27-Jun-91,L6170052,S58559770
+457,Western Meadowlark,,Grizzly Island Wildlife Area,US-CA,20-Jan-91,L371137,S58408912
+458,Eastern Meadowlark,,Hornsby Bend (HOTE 037),US-TX,17-Oct-11,L130766,S58296993
+459,Orchard Oriole,2,Lake Merced--Wooden Bridge area,US-CA,26-Feb-11,L1002395,S58330020
+460,Hooded Oriole,,Anza-Borrego Desert SP--Visitor Center,US-CA,1-Apr-91,L668805,S58409942
+461,Bullock's Oriole,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+462,Baltimore Oriole,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+463,Red-winged Blackbird,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+464,Tricolored Blackbird,,Pt. Reyes--Mendoza Ranch (B Ranch),US-CA,4-Sep-05,L391138,S58503436
+465,Brown-headed Cowbird,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+466,Brewer's Blackbird,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+467,Common Grackle,,Florida,US-FL,3-Mar-96,L108932,S58534126
+468,Boat-tailed Grackle,,Florida,US-FL,3-Mar-96,L108932,S58534126
+469,Great-tailed Grackle,,Arizona,US-AZ,7-Apr-97,L108915,S58536473
+470,Ovenbird,,Dolph Nature Area,US-MI,12-May-96,L210751,S58526803
+471,Northern Waterthrush,,Dolph Nature Area,US-MI,28-Apr-95,L210751,S58410507
+472,Black-and-white Warbler,,Florida,US-FL,3-Mar-96,L108932,S58534126
+473,Prothonotary Warbler,,Wakulla Springs SP,US-FL,22-Jun-03,L127256,S58533536
+474,Tennessee Warbler,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+475,Orange-crowned Warbler,,Santa Fe County,US-NM,23-Jul-01,L9711020,S58535727
+476,Lucy's Warbler,,Patagonia Lake State Park,US-AZ,5-Apr-03,L129050,S58536077
+477,Nashville Warbler,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+478,Virginia's Warbler,,Santa Fe County,US-NM,23-Jul-01,L9711020,S58535727
+479,MacGillivray's Warbler,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+480,Mourning Warbler,1,Creekside Park (CC Co.),US-CA,16-Sep-19,L1764189,S59864930
+481,Common Yellowthroat,,"Ano Nuevo SP--Visitors Center, Elephant Seals and all trails",US-CA,4-Aug-90,L109471,S58409136
+482,Hooded Warbler,,Sylva/Smoky Mtn Vacation,US-NC,1-Jul-97,L9710194,S58531217
+483,American Redstart,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+484,Cape May Warbler,1,Pt. Reyes--Nunes Ranch (A Ranch) & Road Forks Pool,US-CA,6-Sep-14,L460136,S58375715
+485,Cerulean Warbler,,Pinckney RA--Embury Rd,US-MI,14-Jun-11,L1131706,S58325016
+486,Northern Parula,,Muskallonge Lake SP,US-MI,29-Aug-98,L5864836,S58410434
+487,Magnolia Warbler,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+488,Bay-breasted Warbler,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+489,Blackburnian Warbler,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+490,Yellow Warbler,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+491,Chestnut-sided Warbler,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+492,Blackpoll Warbler,1,Pt. Reyes--Fish Docks,US-CA,6-Sep-14,L453386,S58375779
+493,Black-throated Blue Warbler,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+494,Palm Warbler,,Florida,US-FL,3-Mar-96,L108932,S58534126
+495,Pine Warbler,2,Locke's Island - Tuan's vacation house,US-NH,28-Jul-17,L6131393,S38365930
+496,Yellow-rumped Warbler,,Pt. Pinole Regional Park,US-CA,6-Jan-91,L109308,S58530130
+497,Yellow-throated Warbler,,Florida,US-FL,3-Mar-96,L108932,S58534126
+498,Prairie Warbler,1,Pt. Reyes--Fish Docks,US-CA,11-Dec-11,L453386,S58334404
+499,Grace's Warbler,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+500,Black-throated Gray Warbler,1,Lake Solano County Park (SOL Co.),US-CA,6-Jan-01,L285964,S58559402
+501,Townsend's Warbler,,Mt. Diablo SP--Mitchell Canyon,US-CA,29-Apr-06,L275399,S58500134
+502,Hermit Warbler,,Golden Gate Audubon stops,US-CA,24-May-92,L9700249,S58527732
+503,Black-throated Green Warbler,,Dolph Nature Area,US-MI,11-May-96,L210751,S58533177
+504,Canada Warbler,,Dolph Nature Area,US-MI,21-May-95,L210751,S58409545
+505,Wilson's Warbler,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+506,Red-faced Warbler,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+507,Painted Redstart,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+508,Hepatic Tanager,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+509,Summer Tanager,,Wakulla Springs SP,US-FL,22-Jun-03,L127256,S58533536
+510,Scarlet Tanager,,Magee Marsh (Ottawa Co.),US-OH,15-May-94,L275517,S58532659
+511,Western Tanager,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+512,Northern Cardinal,,Dolph Nature Area,US-MI,28-Apr-95,L210751,S58410507
+513,Pyrrhuloxia,,Chiricahua Mtn area,US-AZ,26-Jul-01,L9710886,S58535468
+514,Rose-breasted Grosbeak,,Dolph Nature Area,US-MI,11-May-96,L210751,S58533177
+515,Black-headed Grosbeak,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+516,Blue Grosbeak,,Santa Fe County,US-NM,24-Jul-01,L9711020,S58535862
+517,Lazuli Bunting,,Sugar Loaf Ridge SP,US-CA,29-Apr-90,L589049,S58409276
+518,Indigo Bunting,,Maybury SP,US-MI,17-May-95,L298547,S58533327
+519,Painted Bunting,1,Pt. Reyes--Fish Docks,US-CA,7-Sep-13,L453386,S58481356
+520,Dickcissel,,Ft. Pierre NG (Lyman Co.),US-SD,21-Jun-13,L331980,S58286549
+521,Red-crested Cardinal,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+522,Yellow-billed Cardinal,,Hawaii,US-HI,16-Apr-08,L108936,S58160405
+523,Saffron Finch,,Hawaii,US-HI,16-Apr-08,L108936,S58160405

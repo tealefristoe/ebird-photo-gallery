@@ -3,13 +3,10 @@
   max-width: 1080px;
   margin: auto;
   display: grid;
-  grid-template-areas: 'header header header header header header right right'
-    'main1 main1 main1 main2 main2 main2 right right'
-    'main1 main1 main1 main2 main2 main2 right right'
-    'main1 main1 main1 main2 main2 main2 right right'
-    'main1 main1 main1 main2 main2 main2 right right'
-    'main1 main1 main1 main2 main2 main2 right right'
-    'main1 main1 main1 main2 main2 main2 right right';
+  grid-template-areas: 'header header right'
+    'main1 main2 right';
+  grid-template-columns: 25% 1fr 320px;
+  grid-template-rows: 70px 1fr;
   padding-top: 20px;
   padding-bottom: 10px;
   border-bottom: 1px solid #d3d3d3;
@@ -51,8 +48,7 @@
 
 .photo {
   grid-area: right;
-  text-align: right;
-  padding-right: 20px;
+  text-align: center;
 }
 
 .photoInfo1 {
@@ -61,4 +57,5 @@
 
 .photoInfo2 {
   grid-area: main2;
+  padding-right: 20px;
 }

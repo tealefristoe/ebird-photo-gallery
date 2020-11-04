@@ -5,7 +5,7 @@
   display: grid;
   grid-template-areas: 'header header right'
     'main1 main2 right';
-  grid-template-columns: 25% 1fr 320px;
+  grid-template-columns: 20% 1fr 320px;
   grid-template-rows: 70px 1fr;
   padding-top: 20px;
   padding-bottom: 10px;

@@ -8,7 +8,7 @@ const imageUrl2 = '/320'
 export default class SpeciesRow extends React.Component {
   render () {
     const birdName = this.props.species[bk.lifeBirdName]
-    let photo = this.props.species.photo
+    let photo = this.props.species.photos.length > 0 ? this.props.species.photos[0] : null
     if (this.props.display == 'all'
       || (this.props.display == 'photos' && photo && testQuality(this.props.quality, photo))
       || (this.props.display == 'without' && !(photo && testQuality(this.props.quality, photo)))) {

@@ -4,7 +4,7 @@ import _ from 'underscore'
 
 export default class Options extends React.Component {
   render () {
-    let counts = _.countBy(this.props.lifeList, bird => testQuality(this.props.quality, bird.photo) ? 'withPhotos' : 'withoutPhotos')
+    let counts = _.countBy(this.props.lifeList, bird => testQuality(this.props.quality, bird.photos.length > 0 ? bird.photos[0] : null) ? 'withPhotos' : 'withoutPhotos')
     return (
       <div>
         <div id={optionsStyles.topOptionsBar}>
@@ -35,7 +35,7 @@ export default class Options extends React.Component {
           <div id={optionsStyles.secondOptions}>
             <div id={optionsStyles.speciesCountDisplay}>
               <div className={optionsStyles.speciesCount}>
-                <span className={this.props.display == 'all' ? optionsStyles.selected : null} onClick={() => this.props.displayFunction('all')}>{this.props.lifeList.length} <span className={optionsStyles.subSpeciesCount}>Species observed</span></span>
+                <span className={this.props.display == 'all' ? optionsStyles.selected : null} onClick={() => this.props.displayFunction('all')}>{this.props.totalCount} <span className={optionsStyles.subSpeciesCount}>Species observed</span></span>
               </div>
               <div className={optionsStyles.speciesCount}>
                 <span className={this.props.display == 'photos' ? optionsStyles.selected : null} onClick={() => this.props.displayFunction('photos')}>{counts['withPhotos']} <span className={optionsStyles.subSpeciesCount}>Species with photos</span></span>

@@ -3,7 +3,7 @@ import styles from '../styles/layout.module.css'
 import Layout from '../components/layout'
 import Options from '../components/options'
 import SpeciesRow from '../components/speciesrow'
-import {bk} from '../lib/constants'
+import {bk, allowedDisplays, allowedQualities} from '../lib/constants'
 import {getData} from '../lib/data'
 import {replaceSpaces, escapeSpaces} from '../lib/web'
 import axios from 'axios'
@@ -89,8 +89,8 @@ export default class Home extends React.Component {
 export async function getServerSideProps(context) {
   let props = {
     user: 'user' in context.query ? replaceSpaces(context.query.user) : 'Teale Fristoe',
-    quality: 'quality' in context.query ? context.query.quality : 1,
-    display: 'display' in context.query ? context.query.display : 'all',
+    quality: 'quality' in context.query && context.query.quality in allowedQualities ? context.query.quality : 1,
+    display: 'display' in context.query && context.query.display in allowedDisplays ? context.query.display : 'all',
   }
   let data = getData(props.user, 0)
   props.totalCount = data.totalCount

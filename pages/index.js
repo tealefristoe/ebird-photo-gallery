@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import styles from '../styles/layout.module.css'
 import Layout from '../components/layout'
 import Options from '../components/options'
 import SpeciesRow from '../components/speciesrow'
@@ -13,8 +14,8 @@ export default class Home extends React.Component {
     this.state = {
       user: props.user,
       lifeList: props.lifeList,
-      quality: 1,
-      display: 'all',
+      quality: props.quality,
+      display: props.display,
     }
   }
 
@@ -86,7 +87,11 @@ export default class Home extends React.Component {
 }
 
 export async function getServerSideProps(context) {
-  let props = {user: 'user' in context.query ? replaceSpaces(context.query.user) : 'Teale Fristoe'}
+  let props = {
+    user: 'user' in context.query ? replaceSpaces(context.query.user) : 'Teale Fristoe',
+    quality: 'quality' in context.query ? context.query.quality : 1,
+    display: 'display' in context.query ? context.query.display : 'all',
+  }
   let data = getData(props.user, 0)
   props.totalCount = data.totalCount
   props.lifeList = data.lifeList

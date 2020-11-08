@@ -1,0 +1,22 @@
+
+.photoGrid {
+  max-width: 1080px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+
+.photoContainer {
+  margin: 5px;
+  padding: 10px;
+  border: 2px solid #cccccc;
+  border-radius: 10px;
+}
+
+.photoContainerCurated {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid rgb(42, 58, 77);
+  border-radius: 10px;
+  background-color: rgb(227, 236, 245);
+}

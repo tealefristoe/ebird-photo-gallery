@@ -71,6 +71,7 @@ export default class Home extends React.Component {
             <div>
               {lifeList.map(bird => {
                 return (<SpeciesRow
+                  user={this.state.user}
                   key={bird[bk.lifeBirdName]}
                   display={this.state.display}
                   quality={this.state.quality}

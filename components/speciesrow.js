@@ -1,9 +1,9 @@
+import Link from 'next/link'
 import speciesRowStyles from '../styles/speciesrow.module.css'
-import {bk} from '../lib/constants'
+import {photoRatingDisplay, photoDateLocationDisplay} from '../lib/photo'
+import {bk, imageUrl1, imageUrl2} from '../lib/constants'
 import {testQuality} from '../lib/quality'
-
-const imageUrl1 = 'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/'
-const imageUrl2 = '/320'
+import {escapeSpaces} from '../lib/web'
 
 export default class SpeciesRow extends React.Component {
   render () {
@@ -22,15 +22,17 @@ export default class SpeciesRow extends React.Component {
                 </div>)
               : <div className={`${speciesRowStyles.speciesName} ${speciesRowStyles.missing}`}>{birdName}</div>}
           </div>
-          <div className={speciesRowStyles.photoInfo1}>
-            <div>{photo ? 'Community rating: ' + Number(Math.round(Number(photo[bk.photoRating])+'e2')+'e-2') : ''}</div>
-            <div>{photo ? photo[bk.photoRatingCount] + ' rating' + (photo[bk.photoRatingCount] != 1 ? 's' : '') : ''}</div>
-          </div>
+          {photo
+            ? (<div className={speciesRowStyles.photoInfo1}>
+                <Link href={'/species?user=' + escapeSpaces(this.props.user) + '&bird=' + escapeSpaces(birdName)}>
+                  <a>{this.props.species.photos.length + ' photo' + (this.props.species.photos.length != 1 ? 's' : '')}</a>
+                </Link>
+                {photoRatingDisplay(photo)}
+              </div>)
+            : <div className={speciesRowStyles.photoInfo1} />}
           {photo
             ? (<div className={speciesRowStyles.photoInfo2}>
-                <div>{photo[bk.photoLocality]}</div>
-                <div>{photo[bk.photoCounty]}, {photo[bk.photoState]}, {photo[bk.photoCountry]}</div>
-                <div><a href={photo[bk.photoChecklistUrl]}>{photo[bk.photoDate]}</a></div>
+                {photoDateLocationDisplay(photo)}
                 </div>)
             : <div className={speciesRowStyles.photoInfo2} />}
           <div className={speciesRowStyles.photo}>

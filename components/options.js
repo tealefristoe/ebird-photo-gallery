@@ -4,7 +4,9 @@ import _ from 'underscore'
 
 export default class Options extends React.Component {
   render () {
-    let counts = _.countBy(this.props.lifeList, bird => testQuality(this.props.quality, bird.photos.length > 0 ? bird.photos[0] : null) ? 'withPhotos' : 'withoutPhotos')
+    let counts = this.props.lifeList
+      ? _.countBy(this.props.lifeList, bird => testQuality(this.props.quality, bird.photos.length > 0 ? bird.photos[0] : null) ? 'withPhotos' : 'withoutPhotos')
+      : {withPhotos: 0, withoutPhotos: 0}
     return (
       <div>
         <div id={optionsStyles.topOptionsBar}>

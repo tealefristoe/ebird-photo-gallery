@@ -3,13 +3,23 @@ import speciesPageStyles from '../styles/speciesPage.module.css'
 import SpeciesOptions from '../components/speciesOptions'
 import Layout from '../components/layout'
 import {bk, imageUrl1, imageUrl2} from '../lib/constants'
-import {getBirdPhotos} from '../lib/data'
+import {getBirdPhotos, getCuratedList} from '../lib/data'
+import {setCuratedPreference, clearCuratedPreference} from '../lib/api'
 import {replaceSpaces, escapeSpaces} from '../lib/web'
 import {photoRatingDisplay, photoDateLocationDisplay} from '../lib/photo'
 
 export default class SpeciesPage extends React.Component {
   constructor(props) {
     super(props)
+
+    this.state = {
+      curated: props.bird in props.curatedList ? props.curatedList[props.bird] : null
+    }
+  }
+
+  setCuratedPreference(photoId) {
+    this.setState({curated: photoId})
+    setCuratedPreference(this.props.user, this.props.bird, photoId)
   }
 
   render() {
@@ -29,7 +39,11 @@ export default class SpeciesPage extends React.Component {
             <div className={speciesPageStyles.photoGrid}>
               {this.props.photos.map(photo => {
                 return (
-                  <div className={speciesPageStyles.photoContainer}>
+                  <div
+                      key={photo[bk.photoId]}
+                      onClick={() => this.setCuratedPreference(photo[bk.photoId])}
+                      className={this.state.curated == photo[bk.photoId] ? speciesPageStyles.photoContainerCurated : speciesPageStyles.photoContainer}
+                    >
                     <img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} />
                     {photoRatingDisplay(photo)}
                     {photoDateLocationDisplay(photo)}
@@ -51,6 +65,7 @@ export async function getServerSideProps(context) {
     bird: 'bird' in context.query ? replaceSpaces(context.query.bird) : "Townsend's Warbler",
   }
   props.photos = getBirdPhotos(props.user, props.bird)
+  props.curatedList = getCuratedList(props.user)
   return {
     props
   }

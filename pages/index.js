@@ -4,6 +4,7 @@ import Layout from '../components/layout'
 import Options from '../components/options'
 import SpeciesRow from '../components/speciesrow'
 import {bk, allowedDisplays, allowedQualities} from '../lib/constants'
+import {morePhotosUrl} from '../lib/api'
 import {getData} from '../lib/data'
 import {replaceSpaces, escapeSpaces} from '../lib/web'
 import axios from 'axios'
@@ -27,8 +28,7 @@ export default class Home extends React.Component {
   // Loads a "page" of birds then repeats if not all birds have been loaded yet
   loadBirds() {
     if (this.state.lifeList.length < this.props.totalCount) {
-      let url = `http://localhost:3000/api/morePhotos?user=${escapeSpaces(this.state.user)}&startingIndex=${this.state.lifeList.length}`
-      url = `https://ebird-photo-gallery.vercel.app/api/morePhotos?user=${escapeSpaces(this.state.user)}&startingIndex=${this.state.lifeList.length}`
+      const url = morePhotosUrl(this.state.user, this.state.lifeList.length)
 
       // Request the next page of birds
       axios.get(url)

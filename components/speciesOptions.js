@@ -9,7 +9,10 @@ export default class Options extends React.Component {
         <div id={optionsStyles.topOptionsBar}>
           <div id={optionsStyles.topOptions}>
             <Link href={'/?user=' + escapeSpaces(this.props.user)}>
-              <a>Back to eBird Photo Gallery</a>
+              <a><svg height="18" width="18">
+                <polygon points="3,12 15,6 15,18"
+                  style={{fill:"rgb(95, 223, 255)"}} />
+              </svg> Back to eBird Photo Gallery</a>
             </Link>
           </div>
         </div>

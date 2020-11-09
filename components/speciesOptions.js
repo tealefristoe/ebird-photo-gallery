@@ -21,7 +21,9 @@ export default class Options extends React.Component {
         </div>
         <div id={optionsStyles.secondOptionsBar}>
           <div id={optionsStyles.secondOptions}>
-            Click a photo to make it the curated photo.
+            {this.props.curated
+              ? <span onClick={() => this.props.clearCuratedPreference()} className={optionsStyles.optionButton}>Clear curated photo.</span>
+              : 'Click a photo to make it the curated photo.'}
           </div>
         </div>
       </div>

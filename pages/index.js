@@ -17,6 +17,7 @@ export default class Home extends React.Component {
       lifeList: props.lifeList,
       quality: props.quality,
       display: props.display,
+      photoPreference: props.photoPreference,
     }
   }
 
@@ -67,6 +68,8 @@ export default class Home extends React.Component {
               displayFunction={d => this.setState({display: d})}
               quality={this.state.quality}
               qualityFunction={num => this.setState({quality: num})}
+              photoPreference={this.state.photoPreference}
+              photoPreferenceFunction={pref => this.setState({photoPreference: pref})}
             />
             <div>
               {lifeList.map(bird => {
@@ -75,6 +78,7 @@ export default class Home extends React.Component {
                   key={bird[bk.lifeBirdName]}
                   display={this.state.display}
                   quality={this.state.quality}
+                  photoPreference={this.state.photoPreference}
                   species={bird}
                 />)
               })}
@@ -92,6 +96,7 @@ export async function getServerSideProps(context) {
     user: 'user' in context.query ? replaceSpaces(context.query.user) : 'Teale Fristoe',
     quality: 'quality' in context.query && context.query.quality in allowedQualities ? context.query.quality : 1,
     display: 'display' in context.query && context.query.display in allowedDisplays ? context.query.display : 'all',
+    photoPreference: 'photoPreference' in context.query && context.query.display in allowedPhotoPreferences ? context.query.photoPreference : 'curated',
   }
   let data = getData(props.user, 0)
   props.totalCount = data.totalCount

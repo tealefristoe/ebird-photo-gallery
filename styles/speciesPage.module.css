@@ -13,10 +13,24 @@
   border-radius: 10px;
 }
 
+.photoContainer a, .photoContainerCurated a {
+  color: #2c75c9;
+  text-decoration: none;
+}
+
+.photoContainer a:hover, .photoContainer a:focus, .photoContainerCurated a:hover, .photoContainerCurated a:focus {
+  color: #315985;
+}
+
 .photoContainerCurated {
   margin: 5px;
   padding: 10px;
-  border: 2px solid rgb(42, 58, 77);
+  border: 2px solid #8899bb;
   border-radius: 10px;
   background-color: rgb(227, 236, 245);
+}
+
+.curatedLabel {
+  font-weight: bold;
+  color: #8899bb;
 }

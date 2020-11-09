@@ -22,6 +22,11 @@ export default class SpeciesPage extends React.Component {
     setCuratedPreference(this.props.user, this.props.bird, photoId)
   }
 
+  clearCuratedPreference() {
+    this.setState({curated: null})
+    clearCuratedPreference(this.props.user, this.props.bird)
+  }
+
   render() {
     return (
       <div className="container">
@@ -35,6 +40,8 @@ export default class SpeciesPage extends React.Component {
             <SpeciesOptions
               user={this.props.user}
               bird={this.props.bird}
+              curated={this.state.curated}
+              clearCuratedPreference={() => this.clearCuratedPreference()}
             />
             <div className={speciesPageStyles.photoGrid}>
               {this.props.photos.map(photo => {
@@ -45,6 +52,7 @@ export default class SpeciesPage extends React.Component {
                       className={this.state.curated == photo[bk.photoId] ? speciesPageStyles.photoContainerCurated : speciesPageStyles.photoContainer}
                     >
                     <img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} />
+                    {this.state.curated && this.state.curated == photo[bk.photoId] ? <div className={speciesPageStyles.curatedLabel}>Curated Photo</div> : ''}
                     {photoRatingDisplay(photo)}
                     {photoDateLocationDisplay(photo)}
                   </div>

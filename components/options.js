@@ -57,12 +57,31 @@ export default class Options extends React.Component {
                   </a>
                 )}
               </div>
+              <div>
+                <div>Photo preference:</div>
+                {bulletOption('Curated', this.props.photoPreference == 'curated', () => this.props.photoPreferenceFunction('curated'))}
+                {bulletOption('Top Rated', this.props.photoPreference == 'topRated', () => this.props.photoPreferenceFunction('topRated'))}
+              </div>
             </div>
           </div>
         </div>
       </div>
     )
   }
+}
+
+function bulletOption(label, selected, clickFunction) {
+  return (<div
+    style={{fontWeight: 'normal', cursor: "pointer"}}
+    onClick={clickFunction}>{selected ?
+      <svg height="16" width="16">
+        <circle cx="8" cy="8" r="8" fill="#cccccc" />
+        <circle cx="8" cy="8" r="5" fill="#408f00" />
+      </svg> :
+      <svg height="16" width="16">
+        <circle cx="8" cy="8" r="8" fill="#cccccc" />
+      </svg>} {label}
+    </div>)
 }
 
 function dropDown() {

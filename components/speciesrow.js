@@ -6,9 +6,22 @@ import {testQuality} from '../lib/quality'
 import {escapeSpaces} from '../lib/web'
 
 export default class SpeciesRow extends React.Component {
+  findPhoto() {
+    // Return the curated photo if there is one and that's the photo preference
+    if (this.props.photoPreference == 'curated' && this.props.species.curated) {
+      for (let i = 0; i < this.props.species.photos.length; i++) {
+        if (this.props.species.photos[i][bk.photoId] == this.props.species.curated) {
+          return this.props.species.photos[i]
+        }
+      }
+    }
+    // Return the top rated photo
+    return this.props.species.photos.length > 0 ? this.props.species.photos[0] : null
+  }
+
   render () {
     const birdName = this.props.species[bk.lifeBirdName]
-    let photo = this.props.species.photos.length > 0 ? this.props.species.photos[0] : null
+    let photo = this.findPhoto()
     if (this.props.display == 'all'
       || (this.props.display == 'photos' && photo && testQuality(this.props.quality, photo))
       || (this.props.display == 'without' && !(photo && testQuality(this.props.quality, photo)))) {

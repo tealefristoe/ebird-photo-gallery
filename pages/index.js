@@ -3,7 +3,7 @@ import styles from '../styles/layout.module.css'
 import Layout from '../components/layout'
 import Options from '../components/options'
 import SpeciesRow from '../components/speciesrow'
-import {bk, allowedDisplays, allowedQualities} from '../lib/constants'
+import {bk, allowedDisplays, allowedQualities, allowedPhotoPreferences} from '../lib/constants'
 import {morePhotosUrl} from '../lib/api'
 import {getData} from '../lib/data'
 import {replaceSpaces, escapeSpaces} from '../lib/web'
@@ -94,10 +94,14 @@ export default class Home extends React.Component {
 export async function getServerSideProps(context) {
   let props = {
     user: 'user' in context.query ? replaceSpaces(context.query.user) : 'Teale Fristoe',
-    quality: 'quality' in context.query && context.query.quality in allowedQualities ? context.query.quality : 1,
-    display: 'display' in context.query && context.query.display in allowedDisplays ? context.query.display : 'all',
-    photoPreference: 'photoPreference' in context.query && context.query.display in allowedPhotoPreferences ? context.query.photoPreference : 'curated',
   }
+  // k is key, a is allowed values, d is default value
+  let setProp = (k, a, d) => {
+    props[k] = k in context.query && a.includes(context.query[k]) ? context.query[k] : d
+  }
+  setProp('quality', allowedQualities, '1')
+  setProp('display', allowedDisplays, 'all')
+  setProp('photoPreference', allowedPhotoPreferences, 'curated')
   let data = getData(props.user, 0)
   props.totalCount = data.totalCount
   props.lifeList = data.lifeList

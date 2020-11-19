@@ -7,10 +7,11 @@ import {escapeSpaces} from '../lib/web'
 
 export default class SpeciesRow extends React.Component {
   findPhoto() {
+    const birdName = this.props.species[bk.lifeBirdName]
     // Return the curated photo if there is one and that's the photo preference
-    if (this.props.photoPreference == 'curated' && this.props.species.curated) {
+    if (this.props.photoPreference == 'curated' && birdName in this.props.curatedList) {
       for (let i = 0; i < this.props.species.photos.length; i++) {
-        if (this.props.species.photos[i][bk.photoId] == this.props.species.curated) {
+        if (this.props.species.photos[i][bk.photoId] == this.props.curatedList[birdName]) {
           return this.props.species.photos[i]
         }
       }

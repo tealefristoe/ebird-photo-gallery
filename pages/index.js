@@ -6,6 +6,7 @@ import SpeciesRow from '../components/speciesrow'
 import {bk, allowedDisplays, allowedQualities, allowedPhotoPreferences} from '../lib/constants'
 import {morePhotosUrl} from '../lib/api'
 import {getData} from '../lib/data'
+import {getDatabase} from '../lib/database'
 import {replaceSpaces, escapeSpaces} from '../lib/web'
 import axios from 'axios'
 
@@ -15,6 +16,7 @@ export default class Home extends React.Component {
     this.state = {
       user: props.user,
       lifeList: props.lifeList,
+      curatedList: {},
       quality: props.quality,
       display: props.display,
       photoPreference: props.photoPreference,
@@ -22,6 +24,12 @@ export default class Home extends React.Component {
   }
 
   componentDidMount() {
+    // Get curated list
+    getDatabase().ref('/curated/' + this.state.user).once('value').then(
+      snapshot => {
+        this.setState({curatedList: snapshot.val() ? snapshot.val() : {}})
+      }
+    )
     // After initial page load we need to get the rest of the user's bird list
     this.loadBirds()
   }
@@ -79,6 +87,7 @@ export default class Home extends React.Component {
                   display={this.state.display}
                   quality={this.state.quality}
                   photoPreference={this.state.photoPreference}
+                  curatedList={this.state.curatedList}
                   species={bird}
                 />)
               })}

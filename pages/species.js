@@ -3,8 +3,8 @@ import speciesPageStyles from '../styles/speciesPage.module.css'
 import SpeciesOptions from '../components/speciesOptions'
 import Layout from '../components/layout'
 import {bk, imageUrl1, imageUrl2} from '../lib/constants'
-import {getBirdPhotos, getCuratedList} from '../lib/data'
-import {setCuratedPreference, clearCuratedPreference} from '../lib/api'
+import {getBirdPhotos} from '../lib/data'
+import {getDatabase} from '../lib/database'
 import {replaceSpaces, escapeSpaces} from '../lib/web'
 import {photoRatingDisplay, photoDateLocationDisplay} from '../lib/photo'
 
@@ -13,18 +13,31 @@ export default class SpeciesPage extends React.Component {
     super(props)
 
     this.state = {
-      curated: props.bird in props.curatedList ? props.curatedList[props.bird] : null
+      curated: null
     }
+  }
+
+  getDatabaseReference() {
+    return getDatabase().ref('/curated/' + this.props.user + '/' + this.props.bird)
+  }
+
+  componentDidMount() {
+    // Get curated photo
+    this.getDatabaseReference().once('value').then(
+      snapshot => {
+        this.setState({curated: snapshot.val() ? snapshot.val() : null})
+      }
+    )
   }
 
   setCuratedPreference(photoId) {
     this.setState({curated: photoId})
-    setCuratedPreference(this.props.user, this.props.bird, photoId)
+    this.getDatabaseReference().set(photoId)
   }
 
   clearCuratedPreference() {
     this.setState({curated: null})
-    clearCuratedPreference(this.props.user, this.props.bird)
+    this.getDatabaseReference().remove()
   }
 
   render() {
@@ -73,7 +86,6 @@ export async function getServerSideProps(context) {
     bird: 'bird' in context.query ? replaceSpaces(context.query.bird) : "Townsend's Warbler",
   }
   props.photos = getBirdPhotos(props.user, props.bird)
-  props.curatedList = getCuratedList(props.user)
   return {
     props
   }

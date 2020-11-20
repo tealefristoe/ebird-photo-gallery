@@ -151,7 +151,7 @@ export async function getServerSideProps(context) {
   let setProp = (k, a, d) => {
     if (k in context.query && a.includes(context.query[k])) {
       props[k] = context.query[k]
-      props[loadLocakKey(k)] = false
+      props[loadLocalKey(k)] = false
     } else {
       props[k] = d
       props[loadLocalKey(k)] = true

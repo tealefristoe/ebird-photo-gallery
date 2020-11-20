@@ -10,6 +10,8 @@ import {getDatabase} from '../lib/database'
 import {replaceSpaces, escapeSpaces} from '../lib/web'
 import axios from 'axios'
 
+const savedPreferencesKey = 'ebird-photo-gallery-preferences'
+
 export default class Home extends React.Component {
   constructor(props) {
     super(props)
@@ -21,6 +23,7 @@ export default class Home extends React.Component {
       display: props.display,
       photoPreference: props.photoPreference,
     }
+    this.savedPreferences = {}
   }
 
   componentDidMount() {
@@ -30,8 +33,38 @@ export default class Home extends React.Component {
         this.setState({curatedList: snapshot.val() ? snapshot.val() : {}})
       }
     )
+
     // After initial page load we need to get the rest of the user's bird list
     this.loadBirds()
+
+    // Load locally saved preferences
+    const savedPreferencesString = window.localStorage.getItem(savedPreferencesKey)
+    if (savedPreferencesString) {
+      this.savedPreferences = JSON.parse(savedPreferencesString)
+    } else {
+      this.savedPreferences = {}
+    }
+    let newState = {}
+    const prefKeys = Object.keys(this.savedPreferences)
+    for (let i = 0; i < prefKeys.length; i++) {
+      let k = prefKeys[i]
+      // If we're allowed to override, do so with the saved preference
+      if (loadLocalKey(k) in this.props && this.props[loadLocalKey(k)]) {
+        newState[k] = this.savedPreferences[k]
+      // Otherwise save the new preference
+      } else {
+        this.savedPreferences[k] = this.props[k]
+      }
+    }
+    this.setState(newState)
+    localStorage.setItem(savedPreferencesKey, JSON.stringify(this.savedPreferences))
+  }
+
+  // Updates a preference in state and saves it locally
+  updatePreference(k, v) {
+    this.setState({[k]: v})
+    this.savedPreferences[k] = v
+    localStorage.setItem(savedPreferencesKey, JSON.stringify(this.savedPreferences))
   }
 
   // Loads a "page" of birds then repeats if not all birds have been loaded yet
@@ -73,11 +106,11 @@ export default class Home extends React.Component {
               totalCount={totalCount}
               lifeList={lifeList}
               display={this.state.display}
-              displayFunction={d => this.setState({display: d})}
+              displayFunction={d => this.updatePreference('display', d)}
               quality={this.state.quality}
-              qualityFunction={num => this.setState({quality: num})}
+              qualityFunction={num => this.updatePreference('quality', num)}
               photoPreference={this.state.photoPreference}
-              photoPreferenceFunction={pref => this.setState({photoPreference: pref})}
+              photoPreferenceFunction={pref => this.updatePreference('photoPreference', pref)}
             />
             <div>
               {lifeList.map(bird => {
@@ -100,13 +133,29 @@ export default class Home extends React.Component {
   }
 }
 
+// A prop to determine if local saved preferences should override props
+// Preferences specified as queries in the url should not be overridden
+let loadLocalKey = prop => prop + 'LoadLocal'
+
 export async function getServerSideProps(context) {
-  let props = {
-    user: 'user' in context.query ? replaceSpaces(context.query.user) : 'Teale Fristoe',
+  // Set queried props or use defaults and allow overriding with locally saved preferences
+  let props = {}
+  if ('user' in context.query) {
+    props.user = replaceSpaces(context.query.user)
+    props[loadLocalKey('user')] = false
+  } else {
+    props.user = 'Teale Fristoe'
+    props[loadLocalKey('user')] = true
   }
   // k is key, a is allowed values, d is default value
   let setProp = (k, a, d) => {
-    props[k] = k in context.query && a.includes(context.query[k]) ? context.query[k] : d
+    if (k in context.query && a.includes(context.query[k])) {
+      props[k] = context.query[k]
+      props[loadLocakKey(k)] = false
+    } else {
+      props[k] = d
+      props[loadLocalKey(k)] = true
+    }
   }
   setProp('quality', allowedQualities, '1')
   setProp('display', allowedDisplays, 'all')

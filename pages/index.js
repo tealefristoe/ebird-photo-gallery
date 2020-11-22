@@ -5,6 +5,7 @@ import Options from '../components/options'
 import SpeciesRow from '../components/speciesrow'
 import {bk, allowedDisplays, allowedQualities, allowedPhotoPreferences} from '../lib/constants'
 import {morePhotosUrl} from '../lib/api'
+import {getPhoto} from '../lib/photo'
 import {getData} from '../lib/data'
 import {getDatabase} from '../lib/database'
 import {replaceSpaces, escapeSpaces} from '../lib/web'
@@ -92,6 +93,10 @@ export default class Home extends React.Component {
   render() {
     let totalCount = this.props.totalCount
     let lifeList = this.state.lifeList
+    // Process the life list to determine which photo to display
+    let processedList = []
+    lifeList.forEach(speciesData => processedList.push(getPhoto(speciesData, this.state.quality, this.state.photoPreference, this.state.curatedList)))
+
     return (
       <div className="container">
         <Head>
@@ -104,7 +109,7 @@ export default class Home extends React.Component {
             <Options
               user={this.state.user}
               totalCount={totalCount}
-              lifeList={lifeList}
+              processedList={processedList}
               display={this.state.display}
               displayFunction={d => this.updatePreference('display', d)}
               quality={this.state.quality}
@@ -113,15 +118,15 @@ export default class Home extends React.Component {
               photoPreferenceFunction={pref => this.updatePreference('photoPreference', pref)}
             />
             <div>
-              {lifeList.map(bird => {
+              {processedList.map(photoData => {
                 return (<SpeciesRow
                   user={this.state.user}
-                  key={bird[bk.lifeBirdName]}
+                  key={photoData.speciesData[bk.lifeBirdName]}
                   display={this.state.display}
                   quality={this.state.quality}
                   photoPreference={this.state.photoPreference}
                   curatedList={this.state.curatedList}
-                  species={bird}
+                  photoData={photoData}
                 />)
               })}
             </div>

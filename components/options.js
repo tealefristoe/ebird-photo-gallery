@@ -1,21 +1,17 @@
 import optionsStyles from '../styles/options.module.css'
-import {testQuality} from '../lib/quality'
 import _ from 'underscore'
 
 export default class Options extends React.Component {
   render () {
-    let counts = this.props.lifeList
-      ? _.countBy(this.props.lifeList, bird => testQuality(this.props.quality, bird.photos.length > 0 ? bird.photos[0] : null) ? 'withPhotos' : 'withoutPhotos')
+    let counts = this.props.processedList
+      ? _.countBy(this.props.processedList, birdData => birdData.display ? 'withPhotos' : 'withoutPhotos')
       : {withPhotos: 0, withoutPhotos: 0}
+    console.log('count ' + counts.withPhotos)
     return (
       <div>
         <div id={optionsStyles.topOptionsBar}>
           <div id={optionsStyles.topOptions}>
             <span className={optionsStyles.disabled} style={{paddingRight: "5px", fontSize: "80%"}}>LIST:</span>
-            <span className={optionsStyles.topOption}>
-              <span className={optionsStyles.disabled}>{this.props.user}</span>
-              {dropDown()}
-            </span>
             <span className={optionsStyles.topOption}>
               <span className={optionsStyles.disabled}>World</span>
               {dropDown()}
@@ -59,7 +55,8 @@ export default class Options extends React.Component {
               </div>
               <div>
                 <div>Photo preference:</div>
-                {bulletOption('Curated', this.props.photoPreference == 'curated', () => this.props.photoPreferenceFunction('curated'))}
+                {bulletOption('Curated Only', this.props.photoPreference == 'curatedOnly', () => this.props.photoPreferenceFunction('curatedOnly'))}
+                {bulletOption('Curated Preferred', this.props.photoPreference == 'curated', () => this.props.photoPreferenceFunction('curated'))}
                 {bulletOption('Top Rated', this.props.photoPreference == 'topRated', () => this.props.photoPreferenceFunction('topRated'))}
               </div>
             </div>

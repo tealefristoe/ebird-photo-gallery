@@ -3,8 +3,8 @@
   max-width: 1080px;
   margin: auto;
   display: grid;
-  grid-template-areas: 'header header right'
-    'main1 main2 right';
+  grid-template-areas: 'header header photo'
+    'main1 main2 photo';
   grid-template-columns: 20% 1fr 320px;
   grid-template-rows: 70px 1fr;
   padding-top: 20px;
@@ -12,12 +12,23 @@
   border-bottom: 1px solid #d3d3d3;
 }
 
-.speciesRow a {
+.speciesRowGrid {
+  width: 535px;
+  display: grid;
+  grid-template-areas: 'header header'
+    'photo main';
+  grid-template-columns: 320px 1fr;
+  grid-template-rows: 40px 1fr;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.speciesRow a, .speciesRowGrid a {
   color: #2c75c9;
   text-decoration: none;
 }
 
-.speciesRow a:hover, .speciesRow a:focus {
+.speciesRow a:hover, .speciesRow a:focus, .speciesRowGrid a:hover, .speciesRowGrid a:focus {
   color: #315985;
 }
 
@@ -40,15 +51,32 @@
   padding-bottom: 1px;
 }
 
+.speciesNameGrid {
+  font-size: 22px;
+  font-weight: bold;
+  padding-bottom: 1px;
+}
+
 .scientificName {
   font-size: 18px;
   font-style: italic;
   color: #999;
 }
 
+.scientificNameGrid {
+  font-size: 16px;
+  font-style: italic;
+  color: #999;
+}
+
 .photo {
-  grid-area: right;
+  grid-area: photo;
   text-align: center;
+}
+
+.photoGrid {
+  grid-area: photo;
+  text-align: left;
 }
 
 .photoInfo1 {
@@ -58,4 +86,9 @@
 .photoInfo2 {
   grid-area: main2;
   padding-right: 20px;
+}
+
+.photoInfoGrid {
+  grid-area: main;
+  padding-left: 10px;
 }

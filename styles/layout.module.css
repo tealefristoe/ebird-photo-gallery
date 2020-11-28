@@ -21,3 +21,16 @@
 .footer a:hover {
   color: #315985;
 }
+
+.listContainer {
+
+}
+
+.gridContainer {
+  max-width: 1080px;
+  display: grid;
+  grid-template-columns: 535px 535px;
+  grid-column-gap: 10px;
+  margin: auto;
+  align-items: start;
+}

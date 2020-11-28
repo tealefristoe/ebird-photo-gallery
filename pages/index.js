@@ -3,7 +3,7 @@ import styles from '../styles/layout.module.css'
 import Layout from '../components/layout'
 import Options from '../components/options'
 import SpeciesRow from '../components/speciesrow'
-import {bk, allowedDisplays, allowedQualities, allowedPhotoPreferences} from '../lib/constants'
+import {bk, allowedDisplays, allowedQualities, allowedPhotoPreferences, allowedLayouts} from '../lib/constants'
 import {morePhotosUrl} from '../lib/api'
 import {getPhoto} from '../lib/photo'
 import {getData} from '../lib/data'
@@ -21,6 +21,7 @@ export default class Home extends React.Component {
       lifeList: props.lifeList,
       curatedList: {},
       quality: props.quality,
+      layout: props.layout,
       display: props.display,
       photoPreference: props.photoPreference,
     }
@@ -112,20 +113,20 @@ export default class Home extends React.Component {
               processedList={processedList}
               display={this.state.display}
               displayFunction={d => this.updatePreference('display', d)}
+              layout={this.state.layout}
+              layoutFunction={l => this.updatePreference('layout', l)}
               quality={this.state.quality}
               qualityFunction={num => this.updatePreference('quality', num)}
               photoPreference={this.state.photoPreference}
               photoPreferenceFunction={pref => this.updatePreference('photoPreference', pref)}
             />
-            <div>
+            <div className={this.state.layout == 'list' ? styles.listContainer : this.state.layout == 'grid' ? styles.gridContainer : styles.listContainer}>
               {processedList.map(photoData => {
                 return (<SpeciesRow
                   user={this.state.user}
                   key={photoData.speciesData[bk.lifeBirdName]}
                   display={this.state.display}
-                  quality={this.state.quality}
-                  photoPreference={this.state.photoPreference}
-                  curatedList={this.state.curatedList}
+                  layout={this.state.layout}
                   photoData={photoData}
                 />)
               })}
@@ -164,6 +165,7 @@ export async function getServerSideProps(context) {
   }
   setProp('quality', allowedQualities, '1')
   setProp('display', allowedDisplays, 'all')
+  setProp('layout', allowedLayouts, 'list')
   setProp('photoPreference', allowedPhotoPreferences, 'curated')
   let data = getData(props.user, 0)
   props.totalCount = data.totalCount

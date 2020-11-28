@@ -54,6 +54,11 @@ export default class Options extends React.Component {
                 )}
               </div>
               <div>
+                <div>Layout</div>
+                {bulletOption('List', this.props.layout == 'list', () => this.props.layoutFunction('list'))}
+                {bulletOption('Grid', this.props.layout == 'grid', () => this.props.layoutFunction('grid'))}
+              </div>
+              <div>
                 <div>Photo preference:</div>
                 {bulletOption('Curated Only', this.props.photoPreference == 'curatedOnly', () => this.props.photoPreferenceFunction('curatedOnly'))}
                 {bulletOption('Curated Preferred', this.props.photoPreference == 'curated', () => this.props.photoPreferenceFunction('curated'))}

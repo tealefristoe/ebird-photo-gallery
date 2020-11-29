@@ -6,7 +6,6 @@ export default class Options extends React.Component {
     let counts = this.props.processedList
       ? _.countBy(this.props.processedList, birdData => birdData.display ? 'withPhotos' : 'withoutPhotos')
       : {withPhotos: 0, withoutPhotos: 0}
-    console.log('count ' + counts.withPhotos)
     return (
       <div>
         <div id={optionsStyles.topOptionsBar}>

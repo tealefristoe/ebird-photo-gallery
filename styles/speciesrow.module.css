@@ -15,7 +15,7 @@
 .speciesRowGrid {
   width: 535px;
   display: grid;
-  grid-template-areas: 'header header'
+  grid-template-areas: 'header curated'
     'photo main';
   grid-template-columns: 320px 1fr;
   grid-template-rows: 40px 1fr;
@@ -68,6 +68,12 @@
   font-size: 16px;
   font-style: italic;
   color: #999;
+}
+
+.curatedLink {
+  grid-area: curated;
+  padding-left: 10px;
+  align-self: center;
 }
 
 .photo {

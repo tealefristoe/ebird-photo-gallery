@@ -165,7 +165,7 @@ export async function getServerSideProps(context) {
   }
   setProp('quality', allowedQualities, '1')
   setProp('display', allowedDisplays, 'all')
-  setProp('layout', allowedLayouts, 'list')
+  setProp('layout', allowedLayouts, 'grid')
   setProp('photoPreference', allowedPhotoPreferences, 'curated')
   let data = getData(props.user, 0)
   props.totalCount = data.totalCount

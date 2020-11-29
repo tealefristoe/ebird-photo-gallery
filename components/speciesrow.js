@@ -56,9 +56,16 @@ export default class SpeciesRow extends React.Component {
             <div className={speciesRowStyles.speciesHeader}>
               {photo
                 ? (<div>
-                    <div className={speciesRowStyles.speciesNameGrid}><a href={photo[bk.photoSpeciesUrl]}>{birdName}</a></div>
+                    <span className={speciesRowStyles.speciesNameGrid}><a href={photo[bk.photoSpeciesUrl]}>{birdName}</a></span>
                   </div>)
                 : <div className={`${speciesRowStyles.speciesNameGrid} ${speciesRowStyles.missing}`}>{birdName}</div>}
+            </div>
+            <div className={speciesRowStyles.curatedLink}>
+              {photo ?
+              (<Link href={'/species?user=' + escapeSpaces(this.props.user) + '&bird=' + escapeSpaces(birdName)}>
+                <a>{photoData.speciesData.photos.length + ' photo' + (photoData.speciesData.photos.length != 1 ? 's' : '')}</a>
+              </Link>) :
+              ''}
             </div>
           <div className={speciesRowStyles.photoGrid}>
             {photoData.display
@@ -74,14 +81,12 @@ export default class SpeciesRow extends React.Component {
           </div>
             {photo
               ? (<div className={speciesRowStyles.photoInfoGrid}>
-                  <Link href={'/species?user=' + escapeSpaces(this.props.user) + '&bird=' + escapeSpaces(birdName)}>
-                    <a>{photoData.speciesData.photos.length + ' photo' + (photoData.speciesData.photos.length != 1 ? 's' : '')}</a>
-                  </Link>
+                  <div style={{fontWeight: 'bold', color: '#333'}}>{photoData.displayType == 'curated' ? 'Curated Photo' : photoData.displayType == 'topRated' ? 'Top Rated Photo' : 'Photo'}</div>
                   {photoRatingDisplay(photo)}
                   <div style={{height: '1em'}} />
                   {photoDateLocationDisplay(photo)}
                 </div>)
-              : <div className={speciesRowStyles.photoInfo1} />}
+              : <div className={speciesRowStyles.photoInfoGrid} />}
           </div>
         )
       // Unknown layout

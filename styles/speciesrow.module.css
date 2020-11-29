@@ -21,6 +21,7 @@
   grid-template-rows: 40px 1fr;
   padding-top: 20px;
   padding-bottom: 10px;
+  border-bottom: 1px solid #d3d3d3;
 }
 
 .speciesRow a, .speciesRowGrid a {

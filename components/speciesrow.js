@@ -86,10 +86,10 @@ export default class SpeciesRow extends React.Component {
         )
       // Unknown layout
       } else {
-        return <span />
+        return ''
       }
     } else {
-      return <span />
+      return ''
     }
   }
 }

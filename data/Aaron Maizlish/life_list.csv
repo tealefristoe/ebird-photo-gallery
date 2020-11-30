@@ -1,0 +1,1621 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Great Tinamou,1,Radisson Summit Hotel and Golf Panama,PA-8,11 Apr 2018,L2521147,S44500369
+2,Little Tinamou,2,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+3,Brown Tinamou,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+4,Black-bellied Whistling-Duck,3,Rio Rico Dr. ponds and fields,US-AZ,22 Jul 2012,L270322,S11253850
+5,Lesser Whistling-Duck,20,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+6,Bar-headed Goose,6,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+7,Emperor Goose,1,Seven Mile Slough (SAC Co.),US-CA,16 Mar 2016,L813800,S28257418
+8,Snow Goose,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+9,Ross's Goose,1,California City Central Park,US-CA,01 Jul 2012,L163614,S11088163
+10,Graylag Goose,18,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+11,Greater White-fronted Goose,,Sacramento River NWR--Llano Seco Unit (viewing platform),US-CA,02 Jan 2009,L419591,S9839845
+12,Tundra Bean-Goose,800,Ganghwa Island (S),KR-28,23 Jan 2017,L5294048,S33894586
+13,Pink-footed Goose,130,Útland--tjarnir við veg (roadside ponds),IS-7,13 Aug 2015,L1630979,S24630252
+14,Brant,,Pillar Point Harbor,US-CA,29 May 2010,L242192,S9839957
+15,Cackling Goose,,Blackwater National Wildlife Refuge,US-MD,08 Jan 2012,L126632,S9847704
+16,Canada Goose,,Golden Gate Park--Stow Lake,US-CA,28 Sep 2008,L499374,S9839309
+17,Hawaiian Goose,,Haleakala NP--Hosmer Grove,US-HI,23 Aug 2011,L247163,S9855168
+18,Mute Swan,20,Île Rousseau,CH-GE,19 Aug 2010,L2768491,S9840249
+19,Black Swan,80,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+20,Trumpeter Swan,6,Lagoon Valley/Pena Adobe Regional Park,US-CA,30 Dec 2013,L470242,S16128829
+21,Tundra Swan,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+22,Whooper Swan,1,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+23,Knob-billed Duck,1,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,07 Dec 2015,L4048185,S26190128
+24,Egyptian Goose,2,Selous Game Reserve--North Sector,TZ-19,25 Jun 1999,L1328318,S46278323
+25,Ruddy Shelduck,20,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+26,Paradise Shelduck,,Mangere WTP--Puketutu Canal,NZ-AUK,25 Sep 2011,L993625,S9847202
+27,Muscovy Duck,4,Crandon Park,US-FL,12 May 2017,L127422,S36761226
+28,Wood Duck,,Sacramento River NWR--Llano Seco Unit (viewing platform),US-CA,02 Jan 2009,L419591,S9839845
+29,Mandarin Duck,4,千葉市--泉自然公園 (Chiba--Izumi Nature Park),JP-12,20 Nov 2010,L4150652,S9841051
+30,Maned Duck,,Healesville,AU-VIC,18 Sep 2011,L1418180,S9847093
+31,Brazilian Teal,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+32,Garganey,1,"4142–4230 Jefferson Blvd, West Sacramento US-CA (38.5213,-121.5667)",US-CA,04 Mar 2019,L8757652,S53387081
+33,Silver Teal,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+34,Blue-winged Teal,1,Radio Rd.,US-CA,22 Jan 2011,L271480,S9845810
+35,Cinnamon Teal,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+36,Northern Shoveler,,Hogback Island,US-CA,28 Dec 2008,L1416868,S9839734
+37,Gadwall,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+38,Falcated Duck,,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+39,Eurasian Wigeon,,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+40,American Wigeon,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+41,Pacific Black Duck,,Cummins Reserve and Wetlands,AU-VIC,19 Sep 2011,L1418196,S9847167
+42,Indian Spot-billed Duck,40,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+43,Eastern Spot-billed Duck,,新宿区--新宿御苑 (Shinjuku Ward--Shinjuku Gyoen National Garden),JP-13,18 Nov 2010,L1416996,S9840272
+44,Mallard,,Golden Gate Park--Stow Lake,US-CA,28 Sep 2008,L499374,S9839309
+45,Mexican Duck,2,Rio Rico Dr. ponds and fields,US-AZ,22 Jul 2012,L270322,S11253850
+46,American Black Duck,2,Broadkill Beach,US-DE,08 Feb 2014,L483861,S16851158
+47,Mottled Duck,,South Seas Island Resort (private),US-FL,26 Dec 2011,L1419373,S9855017
+48,Northern Pintail,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+49,Green-winged Teal,,Elkhorn Slough Reserve (NERR),US-CA,01 Jan 2009,L353255,S9839765
+50,Chestnut Teal,2,Cummins Reserve and Wetlands,AU-VIC,19 Sep 2011,L1418196,S9847167
+51,Red-crested Pochard,,Rade de Genève (Geneva Bay),CH-GE,23 May 2011,L1433872,S9846595
+52,Canvasback,,Albany Mudflats,US-CA,06 Jan 2011,L484238,S9845691
+53,Redhead,,Sacramento River NWR--Llano Seco Unit (viewing platform),US-CA,02 Jan 2009,L419591,S9839845
+54,Common Pochard,,新宿区--新宿御苑 (Shinjuku Ward--Shinjuku Gyoen National Garden),JP-13,18 Nov 2010,L1416996,S9840272
+55,Ring-necked Duck,,Gray Lodge Wildlife Area,US-CA,02 Jan 2009,L368257,S9839830
+56,Ferruginous Duck,1,Kalindi Kinj Park,IN-DL,01 Dec 2015,L1089474,S26085818
+57,Hardhead,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+58,Tufted Duck,,新宿区--新宿御苑 (Shinjuku Ward--Shinjuku Gyoen National Garden),JP-13,18 Nov 2010,L1416996,S9840272
+59,New Zealand Scaup,,Rotorua--Sulphur Point,NZ-BOP,28 Sep 2011,L595856,S9850004
+60,Greater Scaup,1,Emeryville Marina,US-CA,28 Dec 2008,L764558,S9839692
+61,Lesser Scaup,,Palo Alto Baylands,US-CA,10 Jan 2009,L152122,S9839883
+62,Common Eider,4,Scarborough Marsh--Pine Point,US-ME,23 Jun 2013,L353732,S14523675
+63,Harlequin Duck,1,Heron's Head Park,US-CA,19 Jan 2011,L502380,S9845786
+64,Surf Scoter,,Cliff House,US-CA,11 Nov 2010,L355646,S9841004
+65,White-winged Scoter,,Tomales Bay--east shore,US-CA,05 Feb 2012,L481709,S9847646
+66,Common Scoter,1,Húsavík--hafnarsvæði (harbour area),IS-6,11 Aug 2015,L1106087,S24582078
+67,Black Scoter,1,Richmond Marina,US-CA,07 Dec 2012,L615495,S12243635
+68,Long-tailed Duck,1,Coyote Point County Park--harbor and marsh,US-CA,30 Jul 2012,L997003,S11247113
+69,Bufflehead,,McLaughlin Eastshore SP--North Basin,US-CA,20 Nov 2008,L461333,S9839590
+70,Common Goldeneye,,Berkeley Aquatic Park,US-CA,05 Jan 2009,L597003,S9839868
+71,Barrow's Goldeneye,1,Davit Ln. pond,US-CA,17 Nov 2012,L1807009,S12398623
+72,Hooded Merganser,,Golden Gate Park--Stow Lake,US-CA,10 Jan 2009,L499374,S9839890
+73,Common Merganser,4,Île Rousseau,CH-GE,19 Aug 2010,L2768491,S9840249
+74,Red-breasted Merganser,,Berkeley Aquatic Park,US-CA,30 Dec 2010,L597003,S9845685
+75,Ruddy Duck,,Palo Alto Baylands,US-CA,10 Jan 2009,L152122,S9839883
+76,Musk Duck,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+77,Plain Chachalaca,11,Estero Llano Grande SP WBC (LTC 054),US-TX,04 Mar 2017,L259855,S34966789
+78,Gray-headed Chachalaca,4,Río Tortí,PA-8,09 Apr 2018,L5641280,S44451671
+79,Scaled Chachalaca,1,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+80,Dusky-legged Guan,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+81,Mountain Quail,10,Feather River Meadows (private),US-CA,01 Jun 2013,L1417073,S14311990
+82,Northern Bobwhite,1,Shaw Nature Reserve,US-MO,12 Jul 2015,L150420,S24236914
+83,Scaled Quail,4,Lower Mt. Hopkins Rd (Santa Cruz Co.),US-AZ,21 Jul 2012,L1623890,S11247187
+84,California Quail,,Golden Gate Park--San Francisco Botanical Garden,US-CA,03 Jan 2009,L1085740,S9839851
+85,Gambel's Quail,12,Continental Wash,US-AZ,21 Jul 2012,L290800,S11247279
+86,Montezuma Quail,2,Herb Martyr Rd 42A,US-AZ,15 Jul 2016,L1676616,S30716313
+87,Indian Peafowl,3,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+88,Green Peafowl,2,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+89,Chukar,,Haleakala NP--Leleiwi Lookout Trail,US-HI,23 Aug 2011,L735697,S9855177
+90,Erckel's Francolin,3,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",US-HI,08 Apr 2019,L285813,S54728716
+91,Black Francolin,4,"66-1665–66-1699 Puʻu Huluhulu Rd, Kamuela US-HI (20.0006,-155.6953)",US-HI,09 Apr 2019,L9012192,S54771700
+92,Gray Francolin,,Kealia Pond NWR,US-HI,24 Aug 2011,L416929,S9855197
+93,Red Junglefowl,,Tahiti - Arahurahu Marae,PF-WI,05 Nov 2013,L2411564,S15580022
+94,Ring-necked Pheasant,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+95,Brown Eared-Pheasant,8,Xuanzhong Temple,CN-14,21 Apr 2013,L2135801,S13878717
+96,Kalij Pheasant,1,Kauhola Point,US-HI,07 Apr 2019,L9001449,S54700943
+97,Gray Partridge,6,Ninepipe NWR,US-MT,31 Jul 2019,L247316,S58603629
+98,Hazel Grouse,2,Val Fex,CH-GR,21 Jul 2018,L1416979,S47331622
+99,Ruffed Grouse,1,Baxter SP,US-ME,28 Jun 2015,L296058,S24087858
+100,Greater Sage-Grouse,45,Bodie SP,US-CA,29 Jul 2012,L577845,S11243340
+101,Spruce Grouse,1,Baxter SP,US-ME,28 Jun 2015,L296058,S24087858
+102,Dusky Grouse,1,Grand Teton NP--Signal Mt.,US-WY,28 Jul 2017,L771908,S38360711
+103,Sooty Grouse,2,Feather River Meadows (private),US-CA,27 Jul 2014,L1417073,S19242742
+104,Sharp-tailed Grouse,3,Sax-Zim Bog--Racek Rd. Sharp-tailed Grouse Lek,US-MN,23 Feb 2020,L5234233,S64895934
+105,Wild Turkey,,Tilden Nature Area--Jewel Lake,US-CA,07 Jun 2010,L503349,S9839970
+106,Little Grebe,,新宿区--新宿御苑 (Shinjuku Ward--Shinjuku Gyoen National Garden),JP-13,18 Nov 2010,L1416996,S9840272
+107,Australasian Grebe,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+108,Least Grebe,5,Estero Llano Grande SP WBC (LTC 054),US-TX,04 Mar 2017,L259855,S34966789
+109,Pied-billed Grebe,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+110,Hoary-headed Grebe,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+111,Horned Grebe,,Berkeley Aquatic Park,US-CA,05 Jan 2009,L597003,S9839868
+112,Red-necked Grebe,5,Jasper National Park--Lac Beauvert,CA-AB,21 Aug 2009,L1152366,S11253793
+113,Great Crested Grebe,,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+114,Eared Grebe,,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+115,Western Grebe,,Elkhorn Slough Reserve (NERR),US-CA,01 Jan 2009,L353255,S9839765
+116,Clark's Grebe,,Richardson Bay Audubon Center,US-CA,08 Nov 2008,L619488,S9839420
+117,Rock Pigeon,,Lake Merced--Concrete Bridge area,US-CA,09 Nov 2008,L791371,S9839432
+118,Common Wood-Pigeon,2,N. of Thusis,CH-GR,13 Aug 2016,L4854612,S31080504
+119,Pale-vented Pigeon,3,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+120,Scaled Pigeon,2,Cerro Jefe,PA-8,11 Apr 2018,L1125806,S44479521
+121,Picazuro Pigeon,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+122,Band-tailed Pigeon,,Mission Creek--SB Museum of Natural History,US-CA,29 Nov 2009,L600095,S9839947
+123,Short-billed Pigeon,1,Carretera El Llano-Cartí--estribaciones del lado Pacífico,PA-8,09 Apr 2018,L4095525,S44419231
+124,Oriental Turtle-Dove,2,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+125,Eurasian Collared-Dove,,Lake Merced--Concrete Bridge area,US-CA,13 Jan 2011,L791371,S9845693
+126,Red-eyed Dove,1,Brenu Beach--grasslands,GH-CP,06 Nov 2011,L2478749,S11312607
+127,Vinaceous Dove,1,Mankadze,GH-CP,04 Nov 2011,L1651611,S11312589
+128,Spotted Dove,1,Sanur--Gazebo Hotel,ID-NU,23 Jul 2010,L1240485,S9840052
+129,Laughing Dove,2,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+130,Black-billed Wood-Dove,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+131,Blue-spotted Wood-Dove,1,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+132,Tambourine Dove,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+133,Asian Emerald Dove,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+134,Common Bronzewing,,Healesville,AU-VIC,18 Sep 2011,L1418180,S9847093
+135,Crested Pigeon,1,Yering Station,AU-VIC,18 Sep 2011,L1651602,S11312572
+136,Zebra Dove,,Ka'anapali --- Hyatt (private),US-HI,20 Aug 2011,L1419411,S9855233
+137,Inca Dove,4,Paton Center for Hummingbirds (Patons' Yard),US-AZ,19 Jul 2014,L247122,S19156742
+138,Common Ground Dove,2,Buenos Aires NWR--Arivaca Cienega,US-AZ,19 Jul 2014,L128878,S19156639
+139,Ruddy Ground Dove,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+140,Blue Ground Dove,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+141,White-tipped Dove,10,Estero Llano Grande SP WBC (LTC 054),US-TX,04 Mar 2017,L259855,S34966789
+142,Gray-chested Dove,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,12 Apr 2018,L454711,S44512043
+143,Gray-fronted Dove,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+144,White-winged Dove,1,Lake Merced--Concrete Bridge area,US-CA,12 Feb 2011,L791371,S9845861
+145,Eared Dove,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+146,Mourning Dove,,"Glenbrook Road, Bethesda",US-MD,22 Dec 2008,L1416843,S9839541
+147,Yellow-footed Green-Pigeon,1,Okhla Bird Sanctuary,IN-UP,22 Feb 2011,L2362886,S10224788
+148,African Green-Pigeon,1,Selous Game Reserve--North Sector,TZ-19,25 Jun 1999,L1328318,S46278323
+149,Gray-green Fruit-Dove,5,Tahiti - Jardin Botanique,PF-WI,05 Nov 2013,L2411562,S15580020
+150,Chestnut-bellied Sandgrouse,3,Kalindi Kinj Park,IN-DL,01 Dec 2015,L1089474,S26085818
+151,Yellow-billed Turaco,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+152,Violet Turaco,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+153,Western Plantain-eater,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+154,Guira Cuckoo,1,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+155,Greater Ani,3,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+156,Smooth-billed Ani,2,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+157,Pheasant Cuckoo,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,12 Apr 2018,L454711,S44512043
+158,Greater Roadrunner,1,Kern NWR,US-CA,08 Aug 2011,L628412,S9846982
+159,Senegal Coucal,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+160,Greater Coucal,4,"Mangalavana Bird Sanctuary, Cochin",IN-KL,26 Feb 2011,L1460828,S10224790
+161,Blue Malkoha,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+162,Squirrel Cuckoo,2,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+163,Yellow-billed Cuckoo,1,Paton Center for Hummingbirds (Patons' Yard),US-AZ,22 Jul 2012,L247122,S11253815
+164,Black-billed Cuckoo,1,Brownfield Bog WMA,US-ME,28 Jun 2016,L473077,S30431156
+165,Asian Koel,2,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+166,Klaas's Cuckoo,1,"Hans Cottage Botel, Cape Coast",GH-CP,05 Nov 2011,L1651612,S11312603
+167,Horsfield's Bronze-Cuckoo,1,Point Addis,AU-VIC,24 Sep 2011,L921929,S11312577
+168,Shining Bronze-Cuckoo,1,Point Addis,AU-VIC,24 Sep 2011,L921929,S11312577
+169,Pallid Cuckoo,1,Anglesea - Bald Hills Road,AU-VIC,24 Sep 2011,L1651604,S11312579
+170,Fan-tailed Cuckoo,1,Point Addis,AU-VIC,24 Sep 2011,L921929,S11312577
+171,Indian Cuckoo,1,Temple of Heaven (天坛公园),CN-11,26 May 2014,L2398320,S18596158
+172,Common Cuckoo,30,Olympic Forest Park,CN-11,25 May 2014,L1494335,S18547623
+173,Sri Lanka Frogmouth,2,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+174,Lesser Nighthawk,1,Proctor Road dispersed campground,US-AZ,19 Jul 2014,L2194081,S19173724
+175,Common Nighthawk,2,"Main St., Chester, CA",US-CA,24 May 2015,L3671579,S23628213
+176,Common Pauraque,2,Estero Llano Grande SP WBC (LTC 054),US-TX,04 Mar 2017,L259855,S34966789
+177,Common Poorwill,4,Mt. Diablo SP--Mitchell Canyon,US-CA,24 Jul 2014,L275399,S19203632
+178,Chuck-will's-widow,1,"West Mountain, northwest base",US-NY,25 Jun 2018,L5934773,S46829675
+179,Rufous Nightjar,2,Radisson Summit Hotel and Golf Panama,PA-8,12 Apr 2018,L2521147,S44594202
+180,Buff-collared Nightjar,1,Proctor Road dispersed campground,US-AZ,19 Jul 2014,L2194081,S19173724
+181,Eastern Whip-poor-will,4,"West Mountain, northwest base",US-NY,25 Jun 2018,L5934773,S46829675
+182,Mexican Whip-poor-will,2,Madera Canyon--Mt. Wrightson Picnic Area & Upper Canyon Trails,US-AZ,21 Jul 2012,L296633,S11247321
+183,Plain Nightjar,1,"Hans Cottage Botel, Cape Coast",GH-CP,05 Nov 2011,L1651612,S15669237
+184,Long-tailed Nightjar,2,"Hans Cottage Botel, Cape Coast",GH-CP,05 Nov 2011,L1651612,S15669237
+185,Great Potoo,1,Sendero El Charco,PA-8,12 Apr 2018,L586766,S44668911
+186,Common Potoo,1,Parque Natural Metropolitano,PA-8,15 Apr 2018,L454708,S44594062
+187,Black Swift,1,Box Canyon Falls Park,US-CO,09 Jul 2015,L109291,S24201527
+188,Chimney Swift,1,C&O Canal--Great Falls,US-MD,25 Jun 2013,L214293,S14508016
+189,Vaux's Swift,2500,McNear Brickyard (Private Property/Authorization for Access Required),US-CA,25 Sep 2013,L1004187,S15258161
+190,Short-tailed Swift,1,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+191,Band-rumped Swift,4,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+192,Polynesian Swiftlet,80,Tahiti - Vallee Tahihue,PF-WI,08 Nov 2013,L2414852,S15614180
+193,Alpine Swift,7,Zürich Stadt (City of Zurich),CH-ZH,10 Aug 2012,L4507511,S19582542
+194,Common Swift,1,Val Fedoz,CH-GR,12 Aug 2012,L1416989,S11682117
+195,Little Swift,,Twifo Praso--Pra River,GH-CP,06 Nov 2011,L2026806,S9847881
+196,House Swift,30,Yangon City Hall,MM-06,11 Jan 2017,L5293858,S33892811
+197,White-throated Swift,4,Fort Baker,US-CA,16 Jun 2012,L868122,S11001092
+198,Lesser Swallow-tailed Swift,1,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+199,Asian Palm-Swift,5,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+200,White-necked Jacobin,25,Cerro Azul--The Hummingbird House,PA-8,11 Apr 2018,L2030190,S44479776
+201,Black Jacobin,1,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+202,Rufous-breasted Hermit,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+203,Green Hermit,2,Cerro Azul--The Hummingbird House,PA-8,11 Apr 2018,L2030190,S44479776
+204,Long-billed Hermit,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+205,Stripe-throated Hermit,1,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+206,Purple-crowned Fairy,2,Pipeline Road  (Camino del Oleoducto) General area,PA-3,13 Apr 2018,L454711,S44540500
+207,Black-throated Mango,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+208,Rivoli's Hummingbird,1,Madera Canyon--Santa Rita Lodge,US-AZ,21 Jul 2012,L268114,S11247268
+209,Plain-capped Starthroat,1,Montosa Canyon--km 1 (culvert area),US-AZ,21 Jul 2012,L281844,S11247227
+210,Blue-throated Mountain-gem,1,Miller Canyon--Beatty's Guest Ranch,US-AZ,22 Jul 2012,L264842,S11247336
+211,Ruby-throated Hummingbird,1,C&O Canal--Pennyfield Lock,US-MD,25 Jun 2013,L282676,S14550267
+212,Black-chinned Hummingbird,2,Montosa Canyon--km 1 (culvert area),US-AZ,21 Jul 2012,L281844,S11247227
+213,Anna's Hummingbird,,Emeryville Marina,US-CA,21 Nov 2008,L764558,S9839611
+214,Costa's Hummingbird,1,Patagonia-Sonoita Creek Preserve,US-AZ,22 Jul 2012,L129052,S11253840
+215,Broad-tailed Hummingbird,3,Box Canyon Falls Park,US-CO,09 Jul 2015,L109291,S24201527
+216,Rufous Hummingbird,,Lake Los Carneros Park,US-CA,31 Jul 2011,L336013,S9846900
+217,Allen's Hummingbird,1,Lake Merced--Wooden Bridge area,US-CA,28 Mar 2011,L1002395,S9846511
+218,Calliope Hummingbird,1,Mono Lake County Park,US-CA,29 Jul 2012,L270903,S11243485
+219,Glittering-bellied Emerald,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+220,Broad-billed Hummingbird,4,Montosa Canyon--km 1 (culvert area),US-AZ,21 Jul 2012,L281844,S11247227
+221,Violet-headed Hummingbird,1,Cerro Azul--The Hummingbird House,PA-8,11 Apr 2018,L2030190,S44479776
+222,Scaly-breasted Hummingbird,1,Hotel y Restaurante Avicar,PA-8,10 Apr 2018,L5641187,S44452203
+223,White-vented Plumeleteer,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+224,Bronze-tailed Plumeleteer,2,Cerro Azul--The Hummingbird House,PA-8,11 Apr 2018,L2030190,S44479776
+225,Crowned Woodnymph,2,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+226,Violet-capped Woodnymph,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+227,Sombre Hummingbird,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+228,White-throated Hummingbird,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+229,Glittering-throated Emerald,1,Morretes,BR-PR,05 Dec 2010,L1651596,S11312567
+230,Blue-chested Hummingbird,1,Carretera El Llano-Cartí--estribaciones del lado Pacífico,PA-8,09 Apr 2018,L4095525,S44419231
+231,Snowy-bellied Hummingbird,2,Hotel y Restaurante Avicar,PA-8,10 Apr 2018,L5641187,S44452203
+232,Rufous-tailed Hummingbird,1,Hotel y Restaurante Avicar,PA-8,10 Apr 2018,L5641187,S44452203
+233,Buff-bellied Hummingbird,1,Estero Llano Grande SP--Tropical Zone,US-TX,05 Mar 2017,L1148441,S35066551
+234,Violet-crowned Hummingbird,2,Paton Center for Hummingbirds (Patons' Yard),US-AZ,22 Jul 2012,L247122,S11253815
+235,Sapphire-throated Hummingbird,2,Hotel y Restaurante Avicar,PA-8,10 Apr 2018,L5641187,S44452203
+236,Violet-bellied Hummingbird,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+237,Ridgway's Rail,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,20 Jan 2011,L161083,S9845798
+238,Clapper Rail,2,Jarvis Sound,US-NJ,30 May 2014,L771306,S18629266
+239,Virginia Rail,,Dechambeau Ponds,US-CA,29 Jul 2012,L725880,S11243480
+240,Gray-cowled Wood-Rail,2,Paranaguá,BR-PR,24 Feb 2013,L2027132,S13212303
+241,Slaty-breasted Wood-Rail,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+242,Black-tailed Nativehen,10,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+243,Tasmanian Nativehen,,Kings Park (Latrobe),AU-TAS,09 Dec 2008,L1416839,S9839525
+244,Sora,1,Lake Los Carneros Park,US-CA,26 Nov 2010,L336013,S9841190
+245,Australian Crake,10,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+246,Eurasian Moorhen,1,千葉市--泉自然公園 (Chiba--Izumi Nature Park),JP-12,20 Nov 2010,L4150652,S9841051
+247,Common Gallinule,,Gray Lodge Wildlife Area,US-CA,02 Jan 2009,L368257,S9839830
+248,Dusky Moorhen,6,Cummins Reserve and Wetlands,AU-VIC,19 Sep 2011,L1418196,S9847167
+249,Eurasian Coot,20,Île Rousseau,CH-GE,19 Aug 2010,L2768491,S9840249
+250,Hawaiian Coot,,Ka'anapali --- Hyatt (private),US-HI,20 Aug 2011,L1419411,S9855233
+251,American Coot,,Golden Gate Park--Stow Lake,US-CA,28 Sep 2008,L499374,S9839309
+252,Purple Gallinule,2,Bayano Lake bridge,PA-8,09 Apr 2018,L473666,S44451298
+253,Australasian Swamphen,,Mangere WTP--Puketutu Canal,NZ-AUK,25 Sep 2011,L993625,S9847202
+254,Gray-headed Swamphen,8,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+255,White-breasted Waterhen,3,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+256,Brown Crake,1,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+257,Baillon's Crake,5,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+258,Yellow Rail,2,State Line Park Rd. (CA side only),US-CA,27 Jul 2020,L781326,S71872308
+259,White-throated Crake,8,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+260,Black Rail,3,Martinez Regional Shoreline Park,US-CA,27 Jul 2012,L192708,S15669261
+261,Limpkin,2,Plantation Preserve,US-FL,14 May 2017,L614607,S36834717
+262,Sandhill Crane,,Sacramento River NWR--Llano Seco Unit (viewing platform),US-CA,02 Jan 2009,L419591,S9839845
+263,Sarus Crane,9,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+264,Brolga,2,Opalton,AU-QLD,26 Sep 1987,L8442063,S51748580
+265,Common Crane,1,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+266,Red-crowned Crane,3,Ganghwa Island (S),KR-28,23 Jan 2017,L5294048,S33894586
+267,Senegal Thick-knee,4,Brenu Beach--grasslands,GH-CP,06 Nov 2011,L2478749,S11312607
+268,Great Thick-knee,5,National Chambal Sanctuary -- Jaitpur,IN-UP,06 Dec 2015,L3326604,S26147355
+269,Black-winged Stilt,4,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+270,Pied Stilt,,"Miranda Shorebird Centre (Hides, ponds, and general area)",NZ-WKO,27 Sep 2011,L607213,S9850002
+271,Black-necked Stilt,,Elkhorn Slough Reserve (NERR),US-CA,01 Jan 2009,L353255,S9839765
+272,Banded Stilt,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+273,Pied Avocet,1,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+274,Red-necked Avocet,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+275,American Avocet,,Don Edwards NWR (ALA Co.),US-CA,28 Dec 2008,L500360,S9839743
+276,Eurasian Oystercatcher,,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+277,Pied Oystercatcher,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+278,South Island Oystercatcher,,"Miranda Shorebird Centre (Hides, ponds, and general area)",NZ-WKO,27 Sep 2011,L607213,S9850002
+279,Variable Oystercatcher,1,Maketu Spit/estuary mouth,NZ-BOP,28 Sep 2011,L1064580,S9850006
+280,American Oystercatcher,2,PN do Superagui--Trilha da Praia Deserta,BR-PR,24 Feb 2013,L3878894,S13219135
+281,Black Oystercatcher,,Emeryville Marina,US-CA,13 Jul 2010,L764558,S9840018
+282,Black-bellied Plover,,Pillar Point Harbor,US-CA,22 Nov 2008,L242192,S9839641
+283,European Golden-Plover,4,Keflavíkurflugvöllur / Keflavík International Airport,IS-2,04 Aug 2015,L1232491,S24490145
+284,American Golden-Plover,1,Bolinas Lagoon,US-CA,21 Aug 2016,L624621,S31188036
+285,Pacific Golden-Plover,,Ka'anapali --- Hyatt (private),US-HI,20 Aug 2011,L1419411,S9855233
+286,Northern Lapwing,,稲敷市--霞ヶ浦--浮島沼・妙岐ノ鼻鳥類観察小屋 (Inashiki--Kasumigaura--Ukishima Marsh / Myoginohana Bird Blind),JP-08,20 Nov 2010,L1484827,S9841107
+287,Spur-winged Lapwing,15,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+288,River Lapwing,1,Kalindi Kinj Park,IN-DL,01 Dec 2015,L1089474,S26085818
+289,White-headed Lapwing,2,Twifo Praso--Pra River,GH-CP,06 Nov 2011,L2026806,S9847881
+290,Wattled Lapwing,3,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+291,Gray-headed Lapwing,1,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+292,Red-wattled Lapwing,3,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+293,Banded Lapwing,10,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+294,Masked Lapwing,,Royal Tasmanian Botanical Gardens,AU-TAS,07 Dec 2008,L921573,S9839506
+295,White-tailed Lapwing,1,Kalindi Kinj Park,IN-DL,01 Dec 2015,L1089474,S26085818
+296,Southern Lapwing,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+297,Lesser Sand-Plover,1,"stakeout Lesser Sand-Plover, Pt. Reyes (2016)",US-CA,19 Oct 2016,L5093808,S32123753
+298,Greater Sand-Plover,20,Gulf of Mottama SbS Survey - Day 1,MM-15,13 Jan 2017,L5255494,S33654312
+299,Collared Plover,1,PN do Superagui--Trilha da Praia Deserta,BR-PR,24 Feb 2013,L3878894,S13219135
+300,Double-banded Plover,,"Miranda Shorebird Centre (Hides, ponds, and general area)",NZ-WKO,27 Sep 2011,L607213,S9850002
+301,Red-capped Plover,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+302,Kentish Plover,,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+303,Snowy Plover,6,Presidio--Crissy Field,US-CA,25 Jan 2011,L247929,S9845820
+304,Wilson's Plover,1,South Seas Island Resort,US-FL,27 Dec 2011,L4433976,S9855116
+305,Common Ringed Plover,,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+306,Semipalmated Plover,,Berkeley Aquatic Park,US-CA,30 Sep 2010,L597003,S9840861
+307,Piping Plover,5,Pine Point Beach--Jetty,US-ME,23 Jun 2013,L761341,S14523647
+308,Little Ringed Plover,10,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+309,Killdeer,,Sacramento River NWR--Llano Seco Unit (viewing platform),US-CA,02 Jan 2009,L419591,S9839845
+310,Mountain Plover,122,Robinson Rd.,US-CA,25 Nov 2012,L592552,S12163968
+311,Red-kneed Dotterel,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+312,Black-fronted Dotterel,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+313,Wrybill,10,"Miranda Shorebird Centre (Hides, ponds, and general area)",NZ-WKO,27 Sep 2011,L607213,S9850002
+314,Greater Painted-Snipe,1,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+315,African Jacana,1,"Hans Cottage Botel, Cape Coast",GH-CP,05 Nov 2011,L1651612,S11312603
+316,Bronze-winged Jacana,1,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+317,Wattled Jacana,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+318,Upland Sandpiper,2,Kennebunk Plains,US-ME,23 Jun 2013,L167477,S14535069
+319,Bristle-thighed Curlew,2,Rangiroa--Blue Lagoon,PF-TG,01 Nov 2013,L919967,S15559540
+320,Whimbrel,,Heron's Head Park,US-CA,04 Nov 2010,L502380,S9840985
+321,Long-billed Curlew,,Elkhorn Slough Reserve (NERR),US-CA,01 Jan 2009,L353255,S9839765
+322,Eurasian Curlew,25,Gulf of Mottama SbS Survey - Day 1,MM-15,13 Jan 2017,L5255494,S33654312
+323,Bar-tailed Godwit,2000,"Miranda Shorebird Centre (Hides, ponds, and general area)",NZ-WKO,27 Sep 2011,L607213,S9850002
+324,Black-tailed Godwit,100,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+325,Hudsonian Godwit,1,Napa-Sonoma Marshes WA--Huichica Creek Unit,US-CA,24 Sep 2013,L590812,S15247835
+326,Marbled Godwit,,Pillar Point Harbor,US-CA,22 Nov 2008,L242192,S9839641
+327,Ruddy Turnstone,,Hayward Regional Shoreline--H.A.R.D. Marsh,US-CA,05 Aug 2011,L1246774,S10086124
+328,Black Turnstone,,Pillar Point Harbor,US-CA,22 Nov 2008,L242192,S9839641
+329,Red Knot,,Hayward Regional Shoreline--H.A.R.D. Marsh,US-CA,05 Aug 2011,L1246774,S9846923
+330,Surfbird,10,Cliff House,US-CA,11 Nov 2010,L355646,S9841004
+331,Ruff,,稲敷市--霞ヶ浦--浮島沼・妙岐ノ鼻鳥類観察小屋 (Inashiki--Kasumigaura--Ukishima Marsh / Myoginohana Bird Blind),JP-08,20 Nov 2010,L1484827,S9841107
+332,Broad-billed Sandpiper,2,Gulf of Mottama SbS Survey - Day 1,MM-15,13 Jan 2017,L5255494,S33654312
+333,Sharp-tailed Sandpiper,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+334,Stilt Sandpiper,1,Coyote Hills Regional Park,US-CA,03 Aug 2013,L216132,S14850435
+335,Curlew Sandpiper,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+336,Temminck's Stint,2,Ko De Zu Village,MM-15,17 Jan 2017,L5276091,S33774425
+337,Long-toed Stint,1,Gulf of Mottama Survey - Day 3,MM-02,15 Jan 2017,L5260311,S33680733
+338,Spoon-billed Sandpiper,7,Gulf of Mottama Survey - Day 3,MM-02,15 Jan 2017,L5260311,S33680733
+339,Red-necked Stint,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+340,Sanderling,,Pillar Point Harbor,US-CA,22 Nov 2008,L242192,S9839641
+341,Dunlin,,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+342,Rock Sandpiper,1,Bodega Head - offshore species and the bluff ONLY,US-CA,06 Nov 2017,L606176,S40348707
+343,Purple Sandpiper,21,Indian River Inlet,US-DE,08 Feb 2014,L192679,S16850184
+344,Baird's Sandpiper,1,Mission Creek outflow (SBA Co.),US-CA,21 Aug 2015,L465131,S24713018
+345,Little Stint,1,Alviso Marina County Park (please use a specific pond hotspot where possible),US-CA,22 Apr 2016,L296043,S29133497
+346,Least Sandpiper,,Elkhorn Slough Reserve (NERR),US-CA,01 Jan 2009,L353255,S9839765
+347,White-rumped Sandpiper,1,Cape Island--South Cape May Meadows (SCMM),US-NJ,30 May 2014,L109136,S18629414
+348,Buff-breasted Sandpiper,1,West County Wastewater District--Sewage Ponds,US-CA,24 Aug 2018,L848605,S48050486
+349,Pectoral Sandpiper,1,West County Wastewater District--Sewage Ponds,US-CA,11 Sep 2013,L848605,S15148563
+350,Semipalmated Sandpiper,30,Chatham - Hawthorne Hotel,US-MA,27 Jul 2013,L2297880,S14806773
+351,Western Sandpiper,75,Heron's Head Park,US-CA,04 Jan 2011,L502380,S10107795
+352,Short-billed Dowitcher,,Hayward Regional Shoreline--H.A.R.D. Marsh,US-CA,05 Aug 2011,L1246774,S9846923
+353,Long-billed Dowitcher,,Sacramento River NWR--Llano Seco Unit (viewing platform),US-CA,02 Jan 2009,L419591,S9839845
+354,Common Snipe,1,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+355,Wilson's Snipe,,Lake Merced--Concrete Bridge area,US-CA,06 Jan 2012,L791371,S9847799
+356,Terek Sandpiper,1,Gulf of Mottama Survey - Day 3,MM-02,15 Jan 2017,L5260311,S33680733
+357,Wilson's Phalarope,1,Devereux Slough,US-CA,23 Jul 2011,L615794,S9846717
+358,Red-necked Phalarope,,Hayward Regional Shoreline--H.A.R.D. Marsh,US-CA,05 Aug 2011,L1246774,S9846923
+359,Red Phalarope,1,McLaughlin Eastshore SP--North Basin,US-CA,11 Aug 2011,L461333,S9854390
+360,Common Sandpiper,1,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+361,Spotted Sandpiper,1,Emeryville Marina,US-CA,23 Nov 2008,L764558,S19571982
+362,Green Sandpiper,2,Kalindi Kinj Park,IN-DL,01 Dec 2015,L1089474,S26085818
+363,Solitary Sandpiper,1,Los Gatos Creek County Park (aka Oka Ponds),US-CA,29 Apr 2014,L295710,S18139013
+364,Wandering Tattler,4,Coyote Point County Park--harbor and marsh,US-CA,25 Jul 2012,L997003,S11213883
+365,Spotted Redshank,1,Gulf of Mottama SbS Survey - Day 1,MM-15,13 Jan 2017,L5255494,S33654312
+366,Greater Yellowlegs,,Elkhorn Slough Reserve (NERR),US-CA,01 Jan 2009,L353255,S9839765
+367,Common Greenshank,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+368,Willet,,Emeryville Marina,US-CA,21 Nov 2008,L764558,S9839611
+369,Lesser Yellowlegs,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+370,Marsh Sandpiper,1,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+371,Wood Sandpiper,1,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+372,Common Redshank,8,Bakkatjörn (pond only),IS-1,04 Aug 2015,L743344,S24497508
+373,Barred Buttonquail,8,Chambal Safari Lodge,IN-UP,04 Dec 2015,L3399025,S26132505
+374,Rock Pratincole,7,Twifo Praso--Pra River,GH-CP,06 Nov 2011,L2026806,S9847881
+375,Great Skua,6,Jökulsárlón,IS-7,15 Aug 2015,L1141010,S24630189
+376,South Polar Skua,1,Bar Harbor whale/pelagic trip--The Ballpark,US-ME,22 Jul 2013,L1021476,S14806473
+377,Pomarine Jaeger,,Continental Shelf SW of SE Farallon Island (SF Co.),US-CA,14 Aug 2011,L977081,S9847039
+378,Parasitic Jaeger,,Continental Shelf SW of SE Farallon Island (SF Co.),US-CA,14 Aug 2011,L977081,S9847039
+379,Long-tailed Jaeger,7,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,01 Sep 2013,L969133,S15089837
+380,Common Murre,,Continental Shelf SW of SE Farallon Island (SF Co.),US-CA,14 Aug 2011,L977081,S9847039
+381,Thick-billed Murre,1,Skjálfandi bay,IS-6,11 Aug 2015,L1590943,S24582047
+382,Razorbill,10,Petit Manan NWR--Petit Manan Island,US-ME,22 Jul 2013,L234625,S14806565
+383,Black Guillemot,8,Bar Harbor--Town Landing,US-ME,19 Jul 2013,L484173,S14785890
+384,Pigeon Guillemot,,Pelagic--inshore to 5 mi offshore (San Mateo Co.),US-CA,14 Aug 2011,L1329104,S9847014
+385,Marbled Murrelet,2,Pelagic--inshore to 5 mi offshore (San Mateo Co.),US-CA,14 Aug 2011,L1329104,S9847014
+386,Scripps's Murrelet,4,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,01 Sep 2013,L969133,S15089837
+387,Ancient Murrelet,4,Pigeon Pt.,US-CA,15 Nov 2014,L271476,S20564285
+388,Cassin's Auklet,,Continental Shelf SW of SE Farallon Island (SF Co.),US-CA,14 Aug 2011,L977081,S9847039
+389,Parakeet Auklet,1,Land's End--seawatch,US-CA,18 Jul 2017,L1089435,S38211953
+390,Rhinoceros Auklet,,Continental Shelf SW of SE Farallon Island (SF Co.),US-CA,14 Aug 2011,L977081,S9847039
+391,Atlantic Puffin,1,Bar Harbor whale/pelagic trip--The Ballpark,US-ME,19 Jul 2013,L1021476,S14785848
+392,Tufted Puffin,2,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,01 Sep 2013,L969133,S15089837
+393,Black-legged Kittiwake,20,Garður--Garðskagi lighthouse,IS-2,04 Aug 2015,L1010991,S24490159
+394,Sabine's Gull,,Continental Shelf SW of SE Farallon Island (SF Co.),US-CA,14 Aug 2011,L977081,S9847039
+395,Bonaparte's Gull,3,Berkeley Pier,US-CA,22 Nov 2010,L458818,S9841125
+396,Black-billed Gull,,Rotorua--Sulphur Point,NZ-BOP,28 Sep 2011,L595856,S9850004
+397,Silver Gull,,Franklin Wharf,AU-TAS,06 Dec 2008,L1416829,S9839481
+398,Black-headed Gull,50,Île Rousseau,CH-GE,19 Aug 2010,L2768491,S9840249
+399,Brown-headed Gull,2,Kalindi Kinj Park,IN-DL,01 Dec 2015,L1089474,S26085818
+400,Little Gull,1,Bakkatjörn (pond only),IS-1,04 Aug 2015,L743344,S24497508
+401,Laughing Gull,,South Seas Island Resort (private),US-FL,26 Dec 2011,L1419373,S9855017
+402,Franklin's Gull,1,Radio Rd.,US-CA,20 Jun 2015,L271480,S23982144
+403,Pallas's Gull,1,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+404,Black-tailed Gull,,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+405,Pacific Gull,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+406,Heermann's Gull,,Berkeley Pier,US-CA,18 Jul 2011,L458818,S9846708
+407,Mew Gull,2,Sea Breeze Market Cove,US-CA,22 Nov 2010,L1266027,S9841134
+408,Ring-billed Gull,1,Palo Alto Baylands,US-CA,01 Jan 2009,L152122,S9839779
+409,Western Gull,,Richardson Bay Audubon Center,US-CA,08 Nov 2008,L619488,S9839420
+410,Yellow-footed Gull,2,Salton Sea--Lack Rd. at Lindsey Rd,US-CA,21 Aug 2019,L275798,S59152641
+411,California Gull,,Refugio SB,US-CA,04 Jul 2010,L615786,S9839983
+412,Herring Gull,,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+413,Yellow-legged Gull,2,Seefeldquai,CH-ZH,19 Aug 2016,L3041642,S31160837
+414,Iceland Gull,6,Agua Vista Park,US-CA,09 Jan 2013,L486458,S12551025
+415,Lesser Black-backed Gull,1,Van Sciver Lake (restricted access),US-PA,12 Feb 2013,L1652622,S12940231
+416,Slaty-backed Gull,1,Half Moon Bay SB--Venice Beach and Pilarcitos Creek Mouth,US-CA,14 Jan 2020,L329541,S63404120
+417,Glaucous-winged Gull,,Miller/Knox Regional Shoreline,US-CA,15 Feb 2011,L593834,S9846448
+418,Glaucous Gull,1,Half Moon Bay SB--Venice Beach and Pilarcitos Creek Mouth,US-CA,13 Dec 2013,L329541,S15956036
+419,Great Black-backed Gull,1,Van Sciver Lake (restricted access),US-PA,12 Feb 2013,L1652622,S12940231
+420,Kelp Gull,1,Guaratuba--balsa/ferry,BR-PR,05 Dec 2010,L1651595,S11312565
+421,Brown Noddy,4,Le Meridien Tahiti,PF-WI,27 Oct 2013,L2402043,S15513661
+422,Black Noddy,10,Rangiroa--Blue Lagoon,PF-TG,01 Nov 2013,L919967,S15559540
+423,Blue-gray Noddy,6,Rangiroa - Tiputa Pass,PF-TG,02 Nov 2013,L2409008,S15569910
+424,White Tern,4,Bora Bora - Motu Piti A'au,PF-LI,27 Oct 2013,L2402050,S15513731
+425,Gray-backed Tern,1,Rangiroa - Sables Roses,PF-TG,03 Nov 2013,L2411557,S15580006
+426,Little Tern,1,Gulf of Mottama SbS Survey - Day 1,MM-15,13 Jan 2017,L5255494,S33654312
+427,Least Tern,1,Coal Oil Point--Devereux Beach and Sands Beach,US-CA,23 Jul 2011,L422817,S9846733
+428,Gull-billed Tern,4,Edwin B. Forsythe NWR,US-NJ,01 Jun 2014,L1031221,S18656760
+429,Caspian Tern,,Jamestown Island,US-VA,20 Apr 2011,L718540,S9846548
+430,Black Tern,8,Messalonskee Lake--boat ramp,US-ME,22 Jun 2013,L332603,S14513618
+431,White-winged Tern,1800,Gulf of Mottama SbS Survey - Day 1,MM-15,13 Jan 2017,L5255494,S33654312
+432,Whiskered Tern,,Kochi waterfront,IN-KL,26 Feb 2011,L1460830,S10224792
+433,Roseate Tern,1,"Monomoy NWR--South Beach, Chatham",US-MA,30 Jul 2013,L473469,S14835418
+434,Common Tern,15,Scarborough Marsh--Pine Point,US-ME,23 Jun 2013,L353732,S14523675
+435,Arctic Tern,1,Continental Shelf SW of SE Farallon Island (SF Co.),US-CA,14 Aug 2011,L977081,S9847039
+436,Forster's Tern,,Coyote Point County Park--harbor and marsh,US-CA,15 Jul 2010,L997003,S9840040
+437,Royal Tern,,Coal Oil Point--Devereux Beach and Sands Beach,US-CA,23 Jul 2011,L422817,S9846733
+438,Great Crested Tern,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+439,Sandwich Tern,,South Seas Island Resort (private),US-FL,26 Dec 2011,L1419373,S9855017
+440,Elegant Tern,,Coyote Point County Park--harbor and marsh,US-CA,10 Jun 2011,L997003,S9846664
+441,Black Skimmer,,Radio Rd.,US-CA,05 Aug 2011,L271480,S9846906
+442,African Skimmer,2,Selous Game Reserve--North Sector,TZ-19,25 Jun 1999,L1328318,S46278323
+443,White-tailed Tropicbird,2,Tahiti - Arahurahu Marae,PF-WI,05 Nov 2013,L2411564,S15580022
+444,Red-billed Tropicbird,1,"Seal Island NWR (""island only"" - restricted access)",US-ME,27 Jun 2015,L840315,S24074554
+445,Red-tailed Tropicbird,1,Rangiroa--Blue Lagoon,PF-TG,01 Nov 2013,L919967,S15559540
+446,Red-throated Loon,1,Presidio--Crissy Field Lagoon,US-CA,25 Mar 2012,L1004802,S10264116
+447,Pacific Loon,,Berkeley Pier,US-CA,22 Nov 2010,L458818,S9841125
+448,Common Loon,,Berkeley Pier,US-CA,22 Nov 2010,L458818,S9841125
+449,Salvin's Albatross,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,26 Jul 2014,L969133,S19244544
+450,Laysan Albatross,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,26 Jul 2014,L969133,S19244544
+451,Black-footed Albatross,,Continental Shelf SW of SE Farallon Island (SF Co.),US-CA,14 Aug 2011,L977081,S9847039
+452,Wilson's Storm-Petrel,40,Bar Harbor whale/pelagic trip--The Ballpark,US-ME,19 Jul 2013,L1021476,S14785848
+453,Fork-tailed Storm-Petrel,2,Continental Shelf SW of SE Farallon Island (SF Co.),US-CA,14 Aug 2011,L977081,S9847039
+454,Leach's Storm-Petrel,2,Pelagic. Island Packers. Leg 6. 33.69692 -119.71365. Bearing S,US-CA,15 Jul 2018,L7734235,S47490279
+455,Townsend's Storm-Petrel,2,Pelagic. Island Packers. Leg 8. 33.52061 -119.60789. Bearing SSE,US-CA,15 Jul 2018,L7734284,S47526238
+456,Ashy Storm-Petrel,60,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,01 Sep 2013,L969133,S15089837
+457,Wedge-rumped Storm-Petrel,1,Pelagic. Island Packers. Leg 7. 33.60863 -119.66825. Bearing SSE,US-CA,15 Jul 2018,L7734252,S47537226
+458,Black Storm-Petrel,2,"37.2905x-122.9276 - Sep 20, 2014, 12:00 PM",US-CA,20 Sep 2014,L3091600,S19913103
+459,Tristram's Storm-Petrel,1,Pelagic. Island Packers. Leg 7. 33.60863 -119.66825. Bearing SSE,US-CA,15 Jul 2018,L7734252,S47537226
+460,Northern Fulmar,,Continental Shelf SW of SE Farallon Island (SF Co.),US-CA,14 Aug 2011,L977081,S9847039
+461,Cook's Petrel,15,Pelagic. Island Packers. Leg 5. 33.86587 -119.74646. Bearing S,US-CA,15 Jul 2018,L7727523,S47490278
+462,Tahiti Petrel,2,Tahiti to Moorea ferry,PF-WI,07 Nov 2013,L919888,S15606814
+463,Cory's Shearwater,1,Stellwagen Bank NMS,US-MA,30 Jun 2014,L582326,S18963841
+464,Pink-footed Shearwater,,Continental Shelf SW of SE Farallon Island (SF Co.),US-CA,14 Aug 2011,L977081,S9847039
+465,Flesh-footed Shearwater,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,01 Sep 2013,L969133,S15089837
+466,Great Shearwater,80,Bar Harbor whale/pelagic trip--The Ballpark,US-ME,19 Jul 2013,L1021476,S14785848
+467,Wedge-tailed Shearwater,1,'Au'au Channel,US-HI,26 Aug 2011,L1652420,S14948555
+468,Buller's Shearwater,7,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,01 Sep 2013,L969133,S15089837
+469,Sooty Shearwater,,Continental Shelf SW of SE Farallon Island (SF Co.),US-CA,14 Aug 2011,L977081,S9847039
+470,Manx Shearwater,3,Garður--Garðskagi lighthouse,IS-2,04 Aug 2015,L1010991,S24490159
+471,Black-vented Shearwater,2,Ventura Harbor--general,US-CA,05 Jan 2014,L351583,S16280494
+472,Asian Openbill,1,Chambal Safari Lodge,IN-UP,03 Dec 2015,L3399025,S26108850
+473,Woolly-necked Stork,3,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+474,White Stork,2,nr. Sargans,CH-SG,10 Aug 2012,L3056079,S19582514
+475,Wood Stork,,South Seas Island Resort (private),US-FL,25 Dec 2011,L1419373,S9854918
+476,Painted Stork,1,Chambal Safari Lodge,IN-UP,04 Dec 2015,L3399025,S26132505
+477,Lesser Frigatebird,20,Bora Bora - Lagoon and Motus,PF-LI,29 Oct 2013,L2403632,S15523140
+478,Magnificent Frigatebird,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+479,Great Frigatebird,1,Rangiroa--Blue Lagoon,PF-TG,01 Nov 2013,L919967,S15559540
+480,Nazca Booby,1,Anacapa Island--public access (VEN Co.),US-CA,15 Jul 2018,L605251,S47490275
+481,Blue-footed Booby,1,Cliff House,US-CA,19 Sep 2013,L355646,S15212387
+482,Brown Booby,1,Sutro Baths--seawatch,US-CA,08 Dec 2012,L998431,S12252243
+483,Red-footed Booby,60,Bora Bora - Lagoon and Motus,PF-LI,29 Oct 2013,L2403632,S15523140
+484,Northern Gannet,12,Bar Harbor whale/pelagic trip--The Ballpark,US-ME,19 Jul 2013,L1021476,S14785848
+485,Anhinga,1,Guaratuba--balsa/ferry,BR-PR,05 Dec 2010,L1651595,S11312565
+486,Oriental Darter,4,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+487,Little Pied Cormorant,,Cummins Reserve and Wetlands,AU-VIC,19 Sep 2011,L1418196,S9847167
+488,Long-tailed Cormorant,1,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+489,Little Cormorant,3,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+490,Brandt's Cormorant,,Berkeley Pier,US-CA,22 Nov 2010,L458818,S9841125
+491,Pelagic Cormorant,,Pescadero SB--west of Hwy 1 only,US-CA,15 Jan 2011,L169501,S9845700
+492,Great Cormorant,,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+493,Indian Cormorant,2,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+494,Little Black Cormorant,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+495,Pied Cormorant,50,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+496,European Shag,7,Stykkishólmur,IS-3,09 Aug 2015,L1232818,S24557165
+497,Neotropic Cormorant,1,Guaratuba--balsa/ferry,BR-PR,05 Dec 2010,L1651595,S11312565
+498,Double-crested Cormorant,,Lake Merced--Concrete Bridge area,US-CA,09 Nov 2008,L791371,S9839432
+499,American White Pelican,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+500,Brown Pelican,,Richardson Bay Audubon Center,US-CA,08 Nov 2008,L619488,S9839420
+501,Great White Pelican,17,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+502,Australian Pelican,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+503,Spot-billed Pelican,1,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+504,Hamerkop,1,Dam site in Cape Coast,GH-CP,05 Nov 2011,L1651616,S11312604
+505,American Bittern,1,Golden Gate Park--North Lake,US-CA,12 Feb 2011,L370768,S9846437
+506,Yellow Bittern,2,Olympic Forest Park,CN-11,25 May 2014,L1494335,S18547623
+507,Cinnamon Bittern,1,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+508,Least Bittern,2,Las Gallinas Valley Sanitary District,US-CA,09 Jul 2014,L207664,S19055949
+509,Rufescent Tiger-Heron,4,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+510,Great Blue Heron,,Pillar Point Harbor,US-CA,22 Nov 2008,L242192,S9839641
+511,Gray Heron,,千代田区--赤坂御用地 (Chiyoda Ward--Akasaka Parkland),JP-13,20 Nov 2010,L1416999,S9840290
+512,Cocoi Heron,1,Paranaguá,BR-PR,24 Feb 2013,L2027132,S13212303
+513,Pacific Heron,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+514,Goliath Heron,1,Selous Game Reserve--North Sector,TZ-19,25 Jun 1999,L1328318,S46278323
+515,Purple Heron,1,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+516,Great Egret,,Golden Gate Park--Stow Lake,US-CA,28 Sep 2008,L499374,S9839309
+517,Intermediate Egret,1,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+518,White-faced Heron,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+519,Little Egret,1,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+520,Pacific Reef-Heron,1,Le Meridien Tahiti,PF-WI,27 Oct 2013,L2402043,S15513661
+521,Snowy Egret,,Don Edwards NWR (ALA Co.),US-CA,21 Sep 2008,L500360,S9839285
+522,Little Blue Heron,,South Seas Island Resort,US-FL,27 Dec 2011,L4433976,S9855116
+523,Tricolored Heron,,South Seas Island Resort,US-FL,27 Dec 2011,L4433976,S9855116
+524,Reddish Egret,1,Goleta Beach County Park (including east end of Goleta Slough),US-CA,04 Aug 2012,L375164,S11281180
+525,Black Heron,25,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+526,Cattle Egret,1,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+527,Squacco Heron,1,"Hans Cottage Botel, Cape Coast",GH-CP,05 Nov 2011,L1651612,S11312603
+528,Indian Pond-Heron,20,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+529,Chinese Pond-Heron,3,Kandawgyi Lake,MM-06,11 Jan 2017,L8048877,S33607049
+530,Javan Pond-Heron,1,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+531,Green Heron,1,Devereux Slough,US-CA,23 Jul 2011,L615794,S9846717
+532,Striated Heron,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+533,Black-crowned Night-Heron,1,Berkeley Aquatic Park,US-CA,05 Jan 2009,L597003,S9839868
+534,Yellow-crowned Night-Heron,,South Seas Island Resort,US-FL,27 Dec 2011,L4433976,S9855116
+535,Boat-billed Heron,4,Summit Ponds,PA-8,13 Apr 2018,L589165,S44541076
+536,White Ibis,,South Seas Island Resort (private),US-FL,25 Dec 2011,L1419373,S9854918
+537,Scarlet Ibis,122,Baia Paranaguá,BR-PR,24 Feb 2013,L2027145,S13218963
+538,Glossy Ibis,1,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+539,White-faced Ibis,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+540,Bare-faced Ibis,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+541,Buff-necked Ibis,2,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+542,Black-headed Ibis,4,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+543,Australian Ibis,1,Yering Station,AU-VIC,18 Sep 2011,L1651602,S11312572
+544,Straw-necked Ibis,15,Cummins Reserve and Wetlands,AU-VIC,19 Sep 2011,L1418196,S9847167
+545,Red-naped Ibis,2,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+546,Eurasian Spoonbill,2,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+547,Royal Spoonbill,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+548,Yellow-billed Spoonbill,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+549,Roseate Spoonbill,,South Seas Island Resort,US-FL,27 Dec 2011,L4433976,S9855116
+550,California Condor,1,Sisquoc Condor Sanctuary,US-CA,22 Mar 1987,L2924832,S18811469
+551,King Vulture,3,Carretera El Llano-Cartí--estribaciones del lado Pacífico,PA-8,09 Apr 2018,L4095525,S44419231
+552,Black Vulture,,C&O Canal--Great Falls,US-MD,15 Nov 2010,L214293,S9841019
+553,Turkey Vulture,,Elkhorn Slough Reserve (NERR),US-CA,01 Jan 2009,L353255,S9839765
+554,Osprey,1,McLaughlin Eastshore SP--North Basin,US-CA,01 Feb 2011,L461333,S9845830
+555,Pearl Kite,1,Reserva San Francisco,PA-8,09 Apr 2018,L1092612,S44451374
+556,Black-winged Kite,1,Chambal Safari Lodge,IN-UP,03 Dec 2015,L3399025,S26108850
+557,Black-shouldered Kite,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+558,White-tailed Kite,,Heron's Head Park,US-CA,09 Nov 2010,L502380,S9840990
+559,Bearded Vulture,1,Val Fex,CH-GR,10 Aug 2014,L1416979,S19411331
+560,Egyptian Vulture,3,Chambal Safari Lodge,IN-UP,04 Dec 2015,L3399025,S26132505
+561,Hook-billed Kite,2,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+562,European Honey-buzzard,1,Val Fedoz,CH-GR,09 Aug 2018,L1416989,S47745834
+563,Oriental Honey-buzzard,1,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+564,Swallow-tailed Kite,6,Caw Caw Interpretive Center,US-SC,18 Jul 2015,L462851,S24305128
+565,Hooded Vulture,4,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+566,Indian Spotted Eagle,1,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+567,Steppe Eagle,2,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+568,Imperial Eagle,1,Ganghwa Island (S),KR-28,23 Jan 2017,L5294048,S33894586
+569,Golden Eagle,1,Sibley Volcanic Regional Preserve,US-CA,06 May 2013,L311906,S14014473
+570,Wedge-tailed Eagle,1,Toolangi State Forest,AU-VIC,19 Sep 2011,L2041763,S9847141
+571,Snail Kite,1,Panama Rainforest Discovery Center,PA-3,12 Apr 2018,L454707,S44511746
+572,Double-toothed Kite,2,Pipeline Road  (Camino del Oleoducto) General area,PA-3,13 Apr 2018,L454711,S44540500
+573,Mississippi Kite,1,Cape Island--The Beanery/Rea Farm,US-NJ,31 May 2014,L129879,S18640993
+574,Plumbeous Kite,1,Carretera El Llano-Cartí--estribaciones del lado Pacífico,PA-8,09 Apr 2018,L4095525,S44419231
+575,Eurasian Marsh-Harrier,1,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+576,Eastern Marsh-Harrier,,稲敷市--霞ヶ浦--浮島沼・妙岐ノ鼻鳥類観察小屋 (Inashiki--Kasumigaura--Ukishima Marsh / Myoginohana Bird Blind),JP-08,20 Nov 2010,L1484827,S9841107
+577,Swamp Harrier,,Pureorea central block (general)--aka Pikiariki Ecological Area,NZ-MWT,29 Sep 2011,L8209525,S9850010
+578,Hen Harrier,2,稲敷市--霞ヶ浦--浮島沼・妙岐ノ鼻鳥類観察小屋 (Inashiki--Kasumigaura--Ukishima Marsh / Myoginohana Bird Blind),JP-08,20 Nov 2010,L1484827,S9841107
+579,Northern Harrier,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+580,Pied Harrier,1,Konakwidaw,MM-15,21 Jan 2017,L5293972,S33893588
+581,Shikra,1,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+582,Eurasian Sparrowhawk,1,Xuanzhong Temple,CN-14,21 Apr 2013,L2135801,S13878717
+583,Sharp-shinned Hawk,1,Sea Breeze Market Cove,US-CA,10 Feb 2011,L1266027,S9845853
+584,Cooper's Hawk,,Sacramento River NWR--Llano Seco Unit (viewing platform),US-CA,02 Jan 2009,L419591,S9839845
+585,Northern Goshawk,1,Feather River Meadows (private),US-CA,18 Dec 2013,L1417073,S16017976
+586,Black Kite,30,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+587,Brahminy Kite,6,"Myaing Hay Wun Park, Yangon",MM-06,12 Jan 2017,L5293782,S33892727
+588,Bald Eagle,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+589,White-tailed Eagle,1,Stykkishólmur,IS-3,09 Aug 2015,L1232818,S24557165
+590,White-bellied Sea-Eagle,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+591,African Fish-Eagle,2,Selous Game Reserve--North Sector,TZ-19,25 Jun 1999,L1328318,S46278323
+592,Common Black Hawk,2,Lynmar Winery,US-CA,09 Jul 2014,L668890,S19055952
+593,Rufous Crab Hawk,1,Baia Paranaguá,BR-PR,24 Feb 2013,L2027145,S13218963
+594,Roadside Hawk,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+595,Harris's Hawk,3,Green Valley--GV Foothills,US-AZ,19 Jul 2014,L1079625,S19156635
+596,White-tailed Hawk,1,Laguna Atascosa NWR--Lakeside Drive,US-TX,06 Mar 2017,L2266657,S35066538
+597,White Hawk,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+598,Gray Hawk,4,Patagonia-Sonoita Creek Preserve,US-AZ,22 Jul 2012,L129052,S11253840
+599,Red-shouldered Hawk,,Delevan NWR,US-CA,02 Jan 2009,L384183,S9839820
+600,Broad-winged Hawk,,South Seas Island Resort,US-FL,27 Dec 2011,L4433976,S9855116
+601,Hawaiian Hawk,1,HI: HFNWR - Rain Shelter,US-HI,09 Apr 2019,L6823493,S54773050
+602,Short-tailed Hawk,1,Carretera El Llano-Cartí--Sabanas de El Llano,PA-8,10 Apr 2018,L3624285,S44452533
+603,Swainson's Hawk,1,Green Valley--GV Foothills,US-AZ,20 Jul 2014,L1079625,S19206560
+604,Zone-tailed Hawk,1,"Green Valley, foothills-various locations",US-AZ,21 Jul 2012,L1643284,S11247310
+605,Red-tailed Hawk,,San Bruno Mountain Park,US-CA,15 Nov 2008,L247968,S9839448
+606,Rough-legged Hawk,1,Feather River Meadows (private),US-CA,18 Dec 2013,L1417073,S16017976
+607,Ferruginous Hawk,3,Carrizo Plain NM (use specific hotspots when available),US-CA,23 Dec 2013,L602497,S16086013
+608,Common Buzzard,1,Bergun,CH-GR,11 Aug 2012,L1764409,S11682110
+609,Himalayan Buzzard,1,Konakwidaw,MM-15,21 Jan 2017,L5293972,S33893588
+610,Eastern Buzzard,2,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+611,Long-legged Buzzard,1,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+612,Red-necked Buzzard,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+613,Barn Owl,3,Palace of Fine Arts,US-CA,11 Aug 2011,L553325,S9854725
+614,Whiskered Screech-Owl,4,Madera Canyon--Mt. Wrightson Picnic Area & Upper Canyon Trails,US-AZ,21 Jul 2012,L296633,S11247321
+615,Western Screech-Owl,1,Stevens Park,US-CA,06 Jul 2014,L1828955,S19006743
+616,Eastern Screech-Owl,1,Estero Llano Grande SP WBC (LTC 054),US-TX,04 Mar 2017,L259855,S34966789
+617,Great Horned Owl,,Lake Los Carneros Park,US-CA,26 Nov 2010,L336013,S9841190
+618,Verreaux's Eagle-Owl,1,Selous Game Reserve--North Sector,TZ-19,25 Jun 1999,L1328318,S46278323
+619,Snowy Owl,1,Broadkill Beach,US-DE,08 Feb 2014,L483861,S16851158
+620,Northern Hawk Owl,1,Sax-Zim Bog--Toivola area,US-MN,21 Feb 2020,L361906,S64816920
+621,Northern Pygmy-Owl,2,Feather River Meadows (private),US-CA,18 Dec 2013,L1417073,S16017976
+622,Elf Owl,3,Madera Canyon--Mt. Wrightson Picnic Area & Upper Canyon Trails,US-AZ,21 Jul 2012,L296633,S11247321
+623,Spotted Owlet,1,Chambal Safari Lodge,IN-UP,06 Dec 2015,L3399025,S26189939
+624,Burrowing Owl,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+625,Mottled Wood-Owl,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+626,Spotted Owl,2,Miller Canyon--Beatty's Guest Ranch,US-AZ,22 Jul 2012,L264842,S11247336
+627,Barred Owl,1,Bull Run Regional Park,US-VA,18 Feb 2017,L718351,S34480884
+628,Great Gray Owl,1,"Sax-Zim Bog--Admiral Rd., 2.0 mi S of CR 27",US-MN,21 Feb 2020,L490626,S64883210
+629,Long-eared Owl,7,Mercey Hot Springs,US-CA,03 Jan 2014,L384241,S16213383
+630,Short-eared Owl,1,Peninsula Open Space Trust--Wavecrest,US-CA,20 Jan 2013,L466488,S12692142
+631,Boreal Owl,1,Sax-Zim Bog--Admiral Rd. feeding station,US-MN,21 Feb 2020,L1393127,S64815808
+632,Northern Saw-whet Owl,2,Yosemite NP--Ahwahnee Meadow,US-CA,18 Jan 2014,L1160050,S16457736
+633,Brown Boobook,1,Chambal Safari Lodge,IN-UP,03 Dec 2015,L3399025,S26108850
+634,Slaty-tailed Trogon,1,Carretera El Llano-Cartí--estribaciones del lado Pacífico,PA-8,09 Apr 2018,L4095525,S44419231
+635,Black-tailed Trogon,2,Panama Rainforest Discovery Center,PA-3,12 Apr 2018,L454707,S44511746
+636,White-tailed Trogon,2,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+637,Green-backed Trogon,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+638,Gartered Trogon,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+639,Black-throated Trogon,4,Los Altos de Cerro Azul,PA-8,11 Apr 2018,L1452749,S44480236
+640,Elegant Trogon,2,Madera Canyon--Carrie Nation Trail,US-AZ,20 Jul 2014,L2413068,S19183488
+641,Eurasian Hoopoe,1,Beijing - State Forestry Administration,CN-11,15 Apr 2013,L2100175,S13753039
+642,Green Woodhoopoe,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+643,African Pied Hornbill,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+644,African Gray Hornbill,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+645,Von der Decken's Hornbill,1,Selous Game Reserve--North Sector,TZ-19,25 Jun 1999,L1328318,S46278323
+646,White-crested Hornbill,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+647,Brown-cheeked Hornbill,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+648,Indian Gray Hornbill,2,Chambal Safari Lodge,IN-UP,03 Dec 2015,L3399025,S26108850
+649,Malabar Gray Hornbill,3,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+650,Whooping Motmot,1,Toma de agua de Tortí,PA-8,10 Apr 2018,L1126038,S44451812
+651,Rufous Motmot,2,Los Altos de Cerro Azul,PA-8,11 Apr 2018,L1452749,S44480236
+652,Broad-billed Motmot,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+653,Common Kingfisher,,千葉市--泉自然公園 (Chiba--Izumi Nature Park),JP-12,20 Nov 2010,L4150652,S9841051
+654,Small Blue Kingfisher,6,"Mangrove Information Center, Taman Hutan Rakyat Ngurah Rai",ID-NU,26 Jul 2010,L6426678,S9840123
+655,Malachite Kingfisher,1,Selous Game Reserve--North Sector,TZ-19,25 Jun 1999,L1328318,S46278323
+656,Laughing Kookaburra,6,Healesville,AU-VIC,18 Sep 2011,L1418180,S9847093
+657,White-throated Kingfisher,1,Okhla Bird Sanctuary,IN-UP,22 Feb 2011,L2362886,S10224788
+658,Javan Kingfisher,1,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+659,Woodland Kingfisher,1,"Hans Cottage Botel, Cape Coast",GH-CP,05 Nov 2011,L1651612,S11312603
+660,Society Kingfisher,1,Moorea - Opunohu Valley,PF-WI,07 Nov 2013,L2413948,S15606737
+661,Sacred Kingfisher,1,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+662,Collared Kingfisher,2,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+663,Ringed Kingfisher,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+664,Belted Kingfisher,,Presidio--Crissy Field,US-CA,29 Nov 2008,L247929,S9839682
+665,Pied Kingfisher,6,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+666,Amazon Kingfisher,1,Baia Paranaguá,BR-PR,24 Feb 2013,L2027145,S13218963
+667,American Pygmy Kingfisher,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,13 Apr 2018,L454711,S44540500
+668,Green Kingfisher,1,Santa Ana NWR (LTC 059),US-TX,05 Mar 2017,L129085,S35066546
+669,White-fronted Bee-eater,20,Selous Game Reserve--North Sector,TZ-19,25 Jun 1999,L1328318,S46278323
+670,Little Bee-eater,2,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+671,Swallow-tailed Bee-eater,1,Selous Game Reserve--North Sector,TZ-19,25 Jun 1999,L1328318,S46278323
+672,White-throated Bee-eater,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+673,Green Bee-eater,4,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+674,Blue-tailed Bee-eater,2,"Myaing Hay Wun Park, Yangon",MM-06,12 Jan 2017,L5293782,S33892727
+675,Indian Roller,1,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+676,Indochinese Roller,1,Hpr Ga Lay,MM-02,22 Jan 2017,L5248656,S33893637
+677,Blue-throated Roller,1,Ebekawopa (Abrafo)--'farm scrub' habitat,GH-CP,05 Nov 2011,L2478617,S11312599
+678,Dollarbird,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+679,Black-breasted Puffbird,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+680,Pied Puffbird,2,Toma de agua de Tortí,PA-8,10 Apr 2018,L1126038,S44451812
+681,Barred Puffbird,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+682,White-whiskered Puffbird,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+683,White-fronted Nunbird,2,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+684,Great Jacamar,2,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+685,Naked-faced Barbet,1,Kakum - Asanti area,GH-CP,06 Nov 2011,L1651621,S11312611
+686,Speckled Tinkerbird,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+687,Yellow-fronted Tinkerbird,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+688,Hairy-breasted Barbet,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+689,Vieillot's Barbet,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+690,Double-toothed Barbet,2,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+691,Coppersmith Barbet,1,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+692,Brown-headed Barbet,2,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+693,White-cheeked Barbet,1,Kochi waterfront,IN-KL,26 Feb 2011,L1460830,S10224792
+694,Spot-crowned Barbet,3,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+695,Collared Aracari,3,Panama Rainforest Discovery Center,PA-3,12 Apr 2018,L454707,S44511746
+696,Yellow-throated Toucan,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+697,Keel-billed Toucan,1,Carretera El Llano-Cartí--estribaciones del lado Pacífico,PA-8,09 Apr 2018,L4095525,S44419231
+698,Williamson's Sapsucker,1,"Flamingo Resort, Santa Rosa",US-CA,31 Jan 2015,L3330847,S21625330
+699,Yellow-bellied Sapsucker,1,Don Castro Regional Recreation Area,US-CA,29 Jan 2013,L803681,S12764005
+700,Red-naped Sapsucker,1,San Pedro Valley County Park,US-CA,26 Jan 2014,L368159,S16529924
+701,Red-breasted Sapsucker,,Pala Lane,US-CA,25 Feb 2012,L1435147,S10031633
+702,Lewis's Woodpecker,2,Armour Ranch Rd.,US-CA,19 Feb 2012,L419284,S9986857
+703,Red-headed Woodpecker,,Jamestown Island,US-VA,20 Apr 2011,L718540,S9846548
+704,Acorn Woodpecker,,Sunol Regional Wilderness--Visitor Center area,US-CA,01 Jan 2009,L1342147,S9839788
+705,Black-cheeked Woodpecker,2,Cerro Azul--The Hummingbird House,PA-8,11 Apr 2018,L2030190,S44479776
+706,Red-crowned Woodpecker,1,Río Tortí,PA-8,09 Apr 2018,L5641280,S44451671
+707,Gila Woodpecker,1,Continental Wash,US-AZ,21 Jul 2012,L290800,S11247279
+708,Golden-fronted Woodpecker,1,TX - Harris Hawk spot,US-TX,04 Mar 2017,L5540137,S34966819
+709,Red-bellied Woodpecker,,"Glenbrook Road, Bethesda",US-MD,22 Dec 2008,L1416843,S9839541
+710,American Three-toed Woodpecker,2,Monarch Pass (Chaffee Co.),US-CO,09 Jul 2015,L2913126,S24221445
+711,Black-backed Woodpecker,1,Feather River Meadows (private),US-CA,28 Jul 2012,L1417073,S11247165
+712,Gray-capped Woodpecker,1,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+713,Pygmy Woodpecker,1,千葉市--泉自然公園 (Chiba--Izumi Nature Park),JP-12,20 Nov 2010,L4150652,S9841051
+714,Fire-bellied Woodpecker,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+715,Freckle-breasted Woodpecker,1,Jakarta--Sheraton Bandara Airport Hotel,ID-JW,29 Jul 2010,L1122084,S9840182
+716,Great Spotted Woodpecker,1,Val Fex,CH-GR,13 Aug 2012,L1416979,S11682168
+717,Downy Woodpecker,,"Glenbrook Road, Bethesda",US-MD,22 Dec 2008,L1416843,S9839541
+718,Nuttall's Woodpecker,1,Solage Resort (private),US-CA,17 Jan 2011,L1417960,S9845719
+719,Ladder-backed Woodpecker,1,Galileo Hill--Silver Saddle Ranch and Club,US-CA,01 Jul 2012,L109437,S11088172
+720,Hairy Woodpecker,,Theodore Roosevelt Island,US-DC,25 Nov 2011,L718768,S9854808
+721,White-headed Woodpecker,1,Los Padres NF--Mt. Pinos (VEN),US-CA,08 Aug 2011,L152133,S9846961
+722,Arizona Woodpecker,1,Madera Canyon--Santa Rita Lodge,US-AZ,21 Jul 2012,L268114,S11247268
+723,Red-rumped Woodpecker,1,Puente del Río Mono,PA-8,10 Apr 2018,L1438791,S44452471
+724,White-spotted Woodpecker,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+725,Greater Flameback,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+726,Crimson-crested Woodpecker,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+727,Black-rumped Flameback,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+728,Streak-throated Woodpecker,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+729,Gray-headed Woodpecker,1,Temple of Heaven (天坛公园),CN-11,19 Apr 2013,L2398320,S13842420
+730,Lineated Woodpecker,1,Summit Ponds,PA-8,13 Apr 2018,L589165,S44541076
+731,Pileated Woodpecker,1,South Seas Island Resort (private),US-FL,30 Dec 2011,L1419373,S9855064
+732,Cinnamon Woodpecker,2,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+733,Blond-crested Woodpecker,2,PN do Superagui--Trilha da Praia Deserta,BR-PR,24 Feb 2013,L3878894,S13219135
+734,Stripe-cheeked Woodpecker,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+735,Yellow-throated Woodpecker,1,Baia Paranaguá,BR-PR,24 Feb 2013,L2027145,S13218963
+736,Northern Flicker,,Glen Canyon Park,US-CA,18 Oct 2008,L590796,S9839378
+737,Gilded Flicker,1,"Green Valley, foothills-various locations",US-AZ,21 Jul 2012,L1643284,S11247310
+738,Campo Flicker,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+739,Collared Forest-Falcon,1,Parque Natural Metropolitano,PA-8,15 Apr 2018,L454708,S44594062
+740,Crested Caracara,1,Johnston House,US-CA,12 Feb 2015,L468331,S21789963
+741,Southern Caracara,1,Guaratuba--balsa/ferry,BR-PR,05 Dec 2010,L1651595,S11312565
+742,Yellow-headed Caracara,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+743,Eurasian Kestrel,1,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+744,Australian Kestrel,1,Point Addis,AU-VIC,24 Sep 2011,L921929,S11312577
+745,American Kestrel,,Bernal Hill,US-CA,23 Nov 2008,L668844,S9839656
+746,Red-necked Falcon,1,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,07 Dec 2015,L4048185,S26190128
+747,Merlin,,稲敷市--霞ヶ浦--浮島沼・妙岐ノ鼻鳥類観察小屋 (Inashiki--Kasumigaura--Ukishima Marsh / Myoginohana Bird Blind),JP-08,20 Nov 2010,L1484827,S9841107
+748,Australian Hobby,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+749,Brown Falcon,2,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+750,Aplomado Falcon,1,Cameron Co.--TX100--Aplomado Viewing Area,US-TX,06 Mar 2017,L3322724,S35066537
+751,Bat Falcon,1,Bayano Lake bridge,PA-8,09 Apr 2018,L473666,S44451298
+752,Gyrfalcon,1,"West of Laugar, Iceland",IS-6,10 Aug 2015,L3841509,S24571042
+753,Peregrine Falcon,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+754,Prairie Falcon,2,Carrizo Plain NM (use specific hotspots when available),US-CA,23 Dec 2013,L602497,S16086013
+755,Yellow-tailed Black-Cockatoo,6,Toolangi State Forest,AU-VIC,19 Sep 2011,L2041763,S9847141
+756,Galah,,Healesville,AU-VIC,18 Sep 2011,L1418180,S9847093
+757,Long-billed Corella,4,"Goulburn River, Trawool",AU-VIC,19 Sep 2011,L2552098,S11312574
+758,Sulphur-crested Cockatoo,,Healesville,AU-VIC,18 Sep 2011,L1418180,S9847093
+759,Australian King-Parrot,,Healesville,AU-VIC,18 Sep 2011,L1418180,S9847093
+760,Alexandrine Parakeet,1,Okhla Bird Sanctuary,IN-UP,22 Feb 2011,L2362886,S10224788
+761,Rose-ringed Parakeet,1,Okhla Bird Sanctuary,IN-UP,22 Feb 2011,L2362886,S10224788
+762,Malabar Parakeet,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+763,Green Rosella,,Kings Park (Latrobe),AU-TAS,09 Dec 2008,L1416839,S9839525
+764,Crimson Rosella,,Healesville,AU-VIC,18 Sep 2011,L1418180,S9847093
+765,Red-rumped Parrot,,Cummins Reserve and Wetlands,AU-VIC,19 Sep 2011,L1418196,S9847167
+766,Blue Lorikeet,24,Rangiroa--Blue Lagoon,PF-TG,01 Nov 2013,L919967,S15559540
+767,Rainbow Lorikeet,,Healesville,AU-VIC,18 Sep 2011,L1418180,S9847093
+768,Rosy-faced Lovebird,15,Waikoloa Village,US-HI,08 Apr 2019,L9006684,S54736141
+769,Gray Parrot,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+770,Monk Parakeet,2,Markham Park,US-FL,13 May 2017,L2933693,S36806053
+771,Orange-chinned Parakeet,4,Bayano Lake bridge,PA-8,09 Apr 2018,L473666,S44451298
+772,Blue-headed Parrot,2,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+773,Red-crowned Parrot,50,US-Texas-McAllen-408 South Cynthia Street - 26.197x-98.218,US-TX,04 Mar 2017,L5540264,S34968869
+774,Red-lored Parrot,2,Carretera a Chepo,PA-8,09 Apr 2018,L3625974,S44418983
+775,Yellow-headed Parrot,1,US-Texas-McAllen-408 South Cynthia Street - 26.197x-98.218,US-TX,04 Mar 2017,L5540264,S34968869
+776,Yellow-crowned Parrot,2,Parque Natural Metropolitano,PA-8,15 Apr 2018,L454708,S44594062
+777,Mealy Parrot,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+778,Red-tailed Parrot,120,Baia Paranaguá,BR-PR,24 Feb 2013,L2027145,S13218963
+779,Nanday Parakeet,2,Ft Lauderdale Airport (south side),US-FL,14 May 2017,L251035,S36864459
+780,Green Parakeet,30,US-Texas-McAllen-218 North 17th Street - 26.207x-98.237,US-TX,04 Mar 2017,L5540154,S34967050
+781,Red-masked Parakeet,20,Upper Market Street,US-CA,05 Feb 2011,L1417984,S9845844
+782,Rifleman,1,Pureorea central block (general)--aka Pikiariki Ecological Area,NZ-MWT,29 Sep 2011,L8209525,S9850010
+783,Fasciated Antshrike,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+784,Great Antshrike,1,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+785,Barred Antshrike,1,Toma de agua de Tortí,PA-8,10 Apr 2018,L1126038,S44451812
+786,Rufous-capped Antshrike,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+787,Black-crowned Antshrike,2,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+788,Black Antshrike,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+789,Variable Antshrike,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+790,Russet Antshrike,1,Los Altos de Cerro Azul,PA-8,11 Apr 2018,L1452749,S44480236
+791,Spot-crowned Antvireo,1,Los Altos de Cerro Azul,PA-8,11 Apr 2018,L1452749,S44480236
+792,Checker-throated Stipplethroat,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+793,Moustached Antwren,2,Pipeline Road  (Camino del Oleoducto) General area,PA-3,13 Apr 2018,L454711,S44540500
+794,Pacific Antwren,2,Toma de agua de Tortí,PA-8,10 Apr 2018,L1126038,S44451812
+795,White-flanked Antwren,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+796,Rufous-winged Antwren,4,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+797,Dot-winged Antwren,3,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+798,Parana Antwren,2,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+799,Dusky Antbird,2,Panama Rainforest Discovery Center,PA-3,12 Apr 2018,L454707,S44511746
+800,Jet Antbird,2,Río Tortí,PA-8,10 Apr 2018,L5641280,S44452352
+801,Bare-crowned Antbird,2,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+802,White-bellied Antbird,1,Ammo Dump Ponds,PA-3,13 Apr 2018,L1740339,S44540795
+803,Chestnut-backed Antbird,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+804,Bicolored Antbird,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,12 Apr 2018,L454711,S44512043
+805,Spotted Antbird,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+806,Ocellated Antbird,2,Los Altos de Cerro Azul,PA-8,11 Apr 2018,L1452749,S44480236
+807,Streak-chested Antpitta,2,Pipeline Road  (Camino del Oleoducto) General area,PA-3,13 Apr 2018,L454711,S44540500
+808,Black-faced Antthrush,2,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+809,Olivaceous Woodcreeper,1,PN do Superagui--Trilha da Praia Deserta,BR-PR,24 Feb 2013,L3878894,S13219135
+810,Plain-brown Woodcreeper,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+811,Northern Barred-Woodcreeper,3,Pipeline Road  (Camino del Oleoducto) General area,PA-3,13 Apr 2018,L454711,S44540500
+812,Cocoa Woodcreeper,1,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+813,Black-striped Woodcreeper,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+814,Streak-headed Woodcreeper,2,Río Tortí,PA-8,09 Apr 2018,L5641280,S44451671
+815,Plain Xenops,2,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+816,Rufous Hornero,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+817,Araucaria Tit-Spinetail,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+818,Firewood-gatherer,1,Sao Luis do Purunã,BR-PR,23 Feb 2013,L1651598,S13296731
+819,Double-banded Graytail,1,Toma de agua de Tortí,PA-8,10 Apr 2018,L1126038,S44451812
+820,Olive Spinetail,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+821,Yellow-chinned Spinetail,2,Parque Barigui,BR-PR,23 Feb 2013,L2433781,S13163103
+822,Lance-tailed Manakin,3,Summit Ponds,PA-8,13 Apr 2018,L589165,S44541076
+823,Swallow-tailed Manakin,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+824,White-ruffed Manakin,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+825,Blue-crowned Manakin,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+826,Golden-collared Manakin,4,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+827,Red-capped Manakin,9,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+828,Golden-headed Manakin,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+829,Purple-throated Fruitcrow,2,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+830,Red-ruffed Fruitcrow,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+831,Blue Cotinga,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+832,Rufous Piha,3,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+833,Black-tailed Tityra,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+834,Black-crowned Tityra,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+835,Masked Tityra,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+836,Russet-winged Schiffornis,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,13 Apr 2018,L454711,S44540500
+837,Speckled Mourner,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+838,Cinnamon Becard,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+839,White-winged Becard,6,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+840,Rose-throated Becard,1,Estero Llano Grande SP--Tropical Zone,US-TX,05 Mar 2017,L1148441,S35066551
+841,One-colored Becard,1,Puente del Río Mono,PA-8,10 Apr 2018,L1438791,S44452471
+842,Crested Becard,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+843,Royal Flycatcher,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+844,Ruddy-tailed Flycatcher,1,Los Altos de Cerro Azul,PA-8,11 Apr 2018,L1452749,S44480236
+845,Ochre-bellied Flycatcher,1,Panama Rainforest Discovery Center,PA-3,12 Apr 2018,L454707,S44511746
+846,Gray-hooded Flycatcher,1,PN do Superagui--Trilha da Praia Deserta,BR-PR,24 Feb 2013,L3878894,S13219135
+847,Restinga Tyrannulet,8,PN do Superagui--Trilha da Praia Deserta,BR-PR,24 Feb 2013,L3878894,S13219135
+848,Black-capped Pygmy-Tyrant,4,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+849,Scale-crested Pygmy-Tyrant,1,Cerro Jefe,PA-8,11 Apr 2018,L1125806,S44479521
+850,Southern Bentbill,1,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+851,Slate-headed Tody-Flycatcher,2,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+852,Gray-headed Tody-Flycatcher,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+853,Common Tody-Flycatcher,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+854,Black-headed Tody-Flycatcher,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+855,Brownish Twistwing,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,13 Apr 2018,L454711,S44540500
+856,Olivaceous Flatbill,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+857,Yellow-olive Flycatcher,1,Carretera El Llano-Cartí--Sabanas de El Llano,PA-8,10 Apr 2018,L3624285,S44452533
+858,Yellow-margined Flycatcher,1,Panama Rainforest Discovery Center,PA-3,12 Apr 2018,L454707,S44511746
+859,Brown-capped Tyrannulet,2,Pipeline Road  (Camino del Oleoducto) General area,PA-3,13 Apr 2018,L454711,S44540500
+860,Northern Beardless-Tyrannulet,2,Patagonia Roadside Rest Area,US-AZ,19 Jul 2014,L129051,S19156757
+861,Yellow Tyrannulet,1,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+862,Yellow-crowned Tyrannulet,4,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+863,Forest Elaenia,1,Toma de agua de Tortí,PA-8,10 Apr 2018,L1126038,S44451812
+864,Gray Elaenia,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,13 Apr 2018,L454711,S44540500
+865,Yellow-bellied Elaenia,1,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+866,Olivaceous Elaenia,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+867,Mistletoe Tyrannulet,1,Carretera El Llano-Cartí--estribaciones del lado Pacífico,PA-8,09 Apr 2018,L4095525,S44419231
+868,Bran-colored Flycatcher,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+869,Tufted Flycatcher,2,Ramsey Canyon Preserve (formerly Mile Hi Ranch),US-AZ,17 Jul 2016,L129062,S30736043
+870,Olive-sided Flycatcher,1,Presidio--El Polin Springs,US-CA,13 May 2012,L445199,S10739019
+871,Greater Pewee,1,Madera Canyon--Madera Kubo B&B,US-AZ,20 Jul 2014,L296632,S19183487
+872,Western Wood-Pewee,,Pinnacles NP--campground,US-CA,24 Jul 2011,L832838,S9846861
+873,Eastern Wood-Pewee,1,Acadia NP--Great Meadow,US-ME,20 Jul 2013,L1630801,S14787434
+874,Tropical Pewee,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+875,Yellow-bellied Flycatcher,1,Baxter SP,US-ME,27 Jun 2016,L296058,S30422308
+876,Acadian Flycatcher,15,C&O Canal--Pennyfield Lock,US-MD,25 Jun 2013,L282676,S14550267
+877,Alder Flycatcher,1,"Base Station Road, NH",US-NH,29 Jun 2014,L2953733,S18963429
+878,Willow Flycatcher,1,Golden Gate Park--North Lake,US-CA,08 Sep 2012,L370768,S11553052
+879,Least Flycatcher,1,Golden Gate Park--North Lake,US-CA,08 Sep 2012,L370768,S11553052
+880,Hammond's Flycatcher,1,Feather River Meadows (private),US-CA,28 Jul 2012,L1417073,S11247165
+881,Gray Flycatcher,1,Cottonwood Canyon Rd.,US-CA,29 Jul 2012,L945978,S11243417
+882,Dusky Flycatcher,1,Feather River Meadows (private),US-CA,28 Jul 2012,L1417073,S11247165
+883,Pacific-slope Flycatcher,1,Feather River Meadows (private),US-CA,28 Jul 2012,L1417073,S11247165
+884,Cordilleran Flycatcher,6,Madera Canyon--Carrie Nation Trail,US-AZ,20 Jul 2014,L2413068,S19183488
+885,Black Phoebe,,Presidio--general (use for long traveling checklists encompassing multiple hotspots),US-CA,12 Oct 2008,L291975,S9839335
+886,Eastern Phoebe,,J. N. Ding Darling NWR--Bailey Tract,US-FL,30 Dec 2011,L127399,S9855139
+887,Say's Phoebe,,Heron's Head Park,US-CA,28 Oct 2010,L502380,S9849957
+888,Vermilion Flycatcher,1,Lake Elizabeth,US-CA,02 Dec 2011,L452554,S9847846
+889,Crested Black-Tyrant,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+890,Blue-billed Black-Tyrant,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+891,Yellow-browed Tyrant,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+892,Gray Monjita,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+893,Masked Water-Tyrant,1,Parque Barigui,BR-PR,23 Feb 2013,L2433781,S13163103
+894,Long-tailed Tyrant,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+895,Bright-rumped Attila,1,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+896,Rufous Mourner,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,13 Apr 2018,L454711,S44540500
+897,Dusky-capped Flycatcher,4,Madera Canyon--Mt. Wrightson Picnic Area & Upper Canyon Trails,US-AZ,21 Jul 2012,L296633,S11247321
+898,Swainson's Flycatcher,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+899,Panama Flycatcher,1,Bayano Lake bridge,PA-8,09 Apr 2018,L473666,S44451298
+900,Ash-throated Flycatcher,,Pinnacles NP--campground,US-CA,24 Jul 2011,L832838,S9846861
+901,Great Crested Flycatcher,1,C&O Canal--Great Falls,US-MD,25 Jun 2013,L214293,S14508016
+902,Brown-crested Flycatcher,1,Miller Canyon--Beatty's Guest Ranch,US-AZ,22 Jul 2012,L264842,S11247336
+903,Cattle Tyrant,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+904,Lesser Kiskadee,1,Río Tortí,PA-8,09 Apr 2018,L5641280,S44451671
+905,Great Kiskadee,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+906,Boat-billed Flycatcher,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+907,Rusty-margined Flycatcher,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+908,Social Flycatcher,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+909,Gray-capped Flycatcher,2,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+910,Streaked Flycatcher,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+911,Sulphur-bellied Flycatcher,2,Madera Canyon--Madera Kubo B&B,US-AZ,20 Jul 2014,L296632,S19183487
+912,Piratic Flycatcher,1,Río Tortí,PA-8,09 Apr 2018,L5641280,S44451671
+913,Variegated Flycatcher,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+914,Tropical Kingbird,,Lake Merced--Concrete Bridge area,US-CA,09 Nov 2008,L791371,S9839432
+915,Couch's Kingbird,4,Estero Llano Grande SP WBC (LTC 054),US-TX,04 Mar 2017,L259855,S34966789
+916,Cassin's Kingbird,,Lake Los Carneros Park,US-CA,26 Nov 2010,L336013,S9841190
+917,Thick-billed Kingbird,1,Patagonia-Sonoita Creek Preserve,US-AZ,22 Jul 2012,L129052,S11253840
+918,Western Kingbird,,Pillar Point Harbor,US-CA,29 May 2010,L242192,S9839957
+919,Eastern Kingbird,2,Kennebunk Plains,US-ME,23 Jun 2013,L167477,S14535069
+920,Gray Kingbird,10,Crandon Park,US-FL,12 May 2017,L127422,S36761226
+921,Scissor-tailed Flycatcher,1,Miramontes Point,US-CA,01 Dec 2014,L601787,S20751109
+922,Fork-tailed Flycatcher,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+923,Superb Lyrebird,1,Toolangi State Forest,AU-VIC,19 Sep 2011,L2041763,S9847141
+924,Satin Bowerbird,1,Healesville,AU-VIC,18 Sep 2011,L1418180,S9847093
+925,White-throated Treecreeper,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+926,Southern Emuwren,2,Anglesea - Bald Hills Road,AU-VIC,24 Sep 2011,L1651604,S11312579
+927,Superb Fairywren,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+928,Eastern Spinebill,1,Toolangi State Forest,AU-VIC,19 Sep 2011,L2041763,S9847141
+929,Tui,1,Pureorea central block (general)--aka Pikiariki Ecological Area,NZ-MWT,29 Sep 2011,L8209525,S9850010
+930,New Zealand Bellbird,1,Waikato River Trail--Whakamaru to/from Atiamuri (General),NZ-WKO,29 Sep 2011,L1418724,S9850008
+931,Lewin's Honeyeater,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+932,Yellow-faced Honeyeater,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+933,Bell Miner,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+934,Red Wattlebird,,Healesville,AU-VIC,18 Sep 2011,L1418180,S9847093
+935,Yellow Wattlebird,,"AJ White Park, Hobart",AU-TAS,06 Dec 2008,L1416834,S9839496
+936,White-plumed Honeyeater,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+937,White-fronted Chat,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+938,Tawny-crowned Honeyeater,1,Anglesea - Bald Hills Road,AU-VIC,24 Sep 2011,L1651604,S11312579
+939,New Holland Honeyeater,1,Point Addis,AU-VIC,24 Sep 2011,L921929,S11312577
+940,White-eared Honeyeater,1,Anglesea - Bald Hills Road,AU-VIC,24 Sep 2011,L1651604,S11312579
+941,White-naped Honeyeater,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+942,Brown-headed Honeyeater,1,"Goulburn River, Trawool",AU-VIC,19 Sep 2011,L2552098,S11312574
+943,Rufous Bristlebird,1,Point Addis,AU-VIC,24 Sep 2011,L921929,S11312577
+944,Spotted Pardalote,1,Anglesea - Bald Hills Road,AU-VIC,24 Sep 2011,L1651604,S11312579
+945,Striated Pardalote,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+946,White-browed Scrubwren,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+947,Large-billed Scrubwren,1,Toolangi State Forest,AU-VIC,19 Sep 2011,L2041763,S9847141
+948,Striated Fieldwren,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+949,Buff-rumped Thornbill,3,Seymour Bushland Park,AU-VIC,19 Sep 2011,L2552424,S9847174
+950,Brown Thornbill,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+951,Yellow-rumped Thornbill,1,"Goulburn River, Trawool",AU-VIC,19 Sep 2011,L2552098,S11312574
+952,Striated Thornbill,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+953,Weebill,1,"Goulburn River, Trawool",AU-VIC,19 Sep 2011,L2552098,S11312574
+954,Golden-bellied Gerygone,1,"Mangrove Information Center, Taman Hutan Rakyat Ngurah Rai",ID-NU,26 Jul 2010,L6426678,S9840123
+955,Western Gerygone,2,Cummins Reserve and Wetlands,AU-VIC,19 Sep 2011,L1418196,S9847167
+956,Gray Gerygone,1,Waikato River Trail--Whakamaru to/from Atiamuri (General),NZ-WKO,29 Sep 2011,L1418724,S9850008
+957,Small Minivet,10,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+958,Black-faced Cuckooshrike,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+959,Whitehead,,Waikato River Trail--Whakamaru to/from Atiamuri (General),NZ-WKO,29 Sep 2011,L1418724,S9850008
+960,Crested Shrike-tit,1,Cummins Reserve and Wetlands,AU-VIC,19 Sep 2011,L1418196,S9847167
+961,Scrub Greenlet,1,Río Tortí,PA-8,09 Apr 2018,L5641280,S44451671
+962,Tawny-crowned Greenlet,2,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+963,Lesser Greenlet,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+964,Golden-fronted Greenlet,1,Summit Ponds,PA-8,13 Apr 2018,L589165,S44541076
+965,White-eyed Vireo,4,Cape Island--Higbee Beach WMA,US-NJ,31 May 2014,L109135,S18641371
+966,Bell's Vireo,3,Florida Wash at Madera Canyon Rd,US-AZ,21 Jul 2012,L128965,S11247274
+967,Hutton's Vireo,3,San Marcos Foothills Preserve,US-CA,19 Feb 2012,L807319,S9986967
+968,Yellow-throated Vireo,5,Sky Meadows State Park,US-VA,14 Jun 2015,L159404,S23907283
+969,Cassin's Vireo,1,Mt. Davidson,US-CA,21 Apr 2012,L419667,S10513148
+970,Blue-headed Vireo,1,White Mt. NF--Caps Ridge Trail,US-NH,29 Jun 2014,L317294,S18963504
+971,Plumbeous Vireo,6,Madera Canyon--Carrie Nation Trail,US-AZ,20 Jul 2014,L2413068,S19183488
+972,Philadelphia Vireo,2,Grafton Notch SP--Appalachian Trail parking lot,US-ME,28 Jun 2016,L4646306,S30431076
+973,Warbling Vireo,,UC Berkeley--Botanical Gardens,US-CA,13 Apr 2011,L272860,S9846518
+974,Red-eyed Vireo,5,Belleplain SF--Sunset Bridge & triangle area,US-NJ,01 Jun 2014,L303100,S18656682
+975,Chivi Vireo,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+976,Yellow-green Vireo,1,Bayano Lake bridge,PA-8,09 Apr 2018,L473666,S44451298
+977,Gray Shrikethrush,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+978,Golden Whistler,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+979,Rufous Whistler,1,Anglesea - Bald Hills Road,AU-VIC,24 Sep 2011,L1651604,S11312579
+980,Black-naped Oriole,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+981,Western Black-headed Oriole,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+982,Ashy Woodswallow,2,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+983,White-breasted Woodswallow,2,Jakarta--Ragunan Zoo,ID-JW,29 Jul 2010,L1122082,S9840162
+984,Dusky Woodswallow,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+985,Australian Magpie,,Royal Tasmanian Botanical Gardens,AU-TAS,07 Dec 2008,L921573,S9839506
+986,Pied Currawong,2,Healesville,AU-VIC,18 Sep 2011,L1418180,S9847093
+987,Gray Currawong,1,Point Addis,AU-VIC,24 Sep 2011,L921929,S11312577
+988,Senegal Batis,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+989,Black-and-white Shrike-flycatcher,1,"Hans Cottage Botel, Cape Coast",GH-CP,05 Nov 2011,L1651612,S11312603
+990,Common Iora,1,Konakwidaw,MM-15,21 Jan 2017,L5293972,S33893588
+991,Sabine's Puffback,1,Ebekawopa (Abrafo)--'farm scrub' habitat,GH-CP,05 Nov 2011,L2478617,S11312599
+992,Black-crowned Tchagra,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+993,Yellow-crowned Gonolek,1,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+994,Willie-wagtail,,Cummins Reserve and Wetlands,AU-VIC,19 Sep 2011,L1418196,S9847167
+995,Gray Fantail,,Royal Tasmanian Botanical Gardens,AU-TAS,07 Dec 2008,L921573,S9839506
+996,New Zealand Fantail,,Mangere WTP--Puketutu Canal,NZ-AUK,25 Sep 2011,L993625,S9847202
+997,Fanti Drongo,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+998,Black Drongo,1,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+999,Ashy Drongo,2,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1000,Greater Racket-tailed Drongo,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1001,Black-naped Monarch,1,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+1002,Hawaii Elepaio,6,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",US-HI,08 Apr 2019,L285813,S54728716
+1003,Tahiti Monarch,4,Tahiti - Vallee Tahihue,PF-WI,08 Nov 2013,L2414852,S15614180
+1004,Magpie-lark,2,Cummins Reserve and Wetlands,AU-VIC,19 Sep 2011,L1418196,S9847167
+1005,White-winged Chough,6,Seymour Bushland Park,AU-VIC,19 Sep 2011,L2552424,S9847174
+1006,Bull-headed Shrike,1,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+1007,Red-backed Shrike,1,Silvaplanersee,CH-GR,21 Aug 2014,L4079563,S19535691
+1008,Isabelline Shrike,2,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1009,Brown Shrike,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1010,Bay-backed Shrike,1,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1011,Long-tailed Shrike,12,Jakarta--Sheraton Bandara Airport Hotel,ID-JW,29 Jul 2010,L1122084,S9840182
+1012,Loggerhead Shrike,1,Airport St. along Half Moon Bay Airport fields,US-CA,22 Nov 2008,L780216,S9839645
+1013,Northern Shrike,1,Sully Woodlands,US-VA,30 Oct 2016,L552673,S32301775
+1014,Great Gray Shrike,3,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1015,Northern Fiscal,1,"Hans Cottage Botel, Cape Coast",GH-CP,05 Nov 2011,L1651612,S11312603
+1016,Yellow-billed Shrike,1,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+1017,Canada Jay,6,Jasper National Park--Maligne Valley,CA-AB,22 Aug 2009,L351690,S9839908
+1018,Black-chested Jay,4,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+1019,Green Jay,5,Estero Llano Grande SP WBC (LTC 054),US-TX,04 Mar 2017,L259855,S34966789
+1020,Azure Jay,2,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+1021,Plush-crested Jay,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1022,Pinyon Jay,40,Mono Jeffrey Pine Forest,US-CA,05 Jul 2015,L941852,S24165253
+1023,Steller's Jay,,Golden Gate Park--Stow Lake,US-CA,10 Jan 2009,L499374,S9839890
+1024,Blue Jay,,Blackwater National Wildlife Refuge,US-MD,08 Jan 2012,L126632,S9847704
+1025,Island Scrub-Jay,7,Santa Cruz Island--Prisoners Harbor,US-CA,05 Jan 2014,L375253,S16280753
+1026,California Scrub-Jay,,Glen Canyon Park,US-CA,18 Oct 2008,L590796,S9839378
+1027,Woodhouse's Scrub-Jay,3,Montosa Canyon--km 1 (culvert area),US-AZ,21 Jul 2012,L281844,S11247227
+1028,Mexican Jay,4,Madera Canyon--Madera Kubo B&B,US-AZ,21 Jul 2012,L296632,S11247254
+1029,Eurasian Jay,1,Val Bregalia - Vicosoprano to Stampa,CH-GR,04 Aug 2016,L4836373,S30967772
+1030,Azure-winged Magpie,1,Beijing - State Forestry Administration,CN-11,20 Apr 2010,L2100175,S13645613
+1031,Red-billed Blue-Magpie,15,Xuanzhong Temple,CN-14,21 Apr 2013,L2135801,S13878717
+1032,Rufous Treepie,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1033,Oriental Magpie,1,Beijing - State Forestry Administration,CN-11,15 Apr 2013,L2100175,S13753039
+1034,Eurasian Magpie,,"Telepherique du Saleve, F",FR-V,23 May 2011,L1418109,S9846647
+1035,Black-billed Magpie,,Jasper National Park--Lac Beauvert,CA-AB,24 Aug 2009,L1152366,S9839912
+1036,Yellow-billed Magpie,1,Hwy 101--Camp Roberts Rest Area (northbound),US-CA,24 Aug 2008,L499970,S9839273
+1037,Clark's Nutcracker,12,Galena Creek County Park,US-NV,02 Jan 2013,L612544,S12468848
+1038,Eurasian Nutcracker,1,Val Fex,CH-GR,08 Aug 2010,L1416979,S9840206
+1039,Yellow-billed Chough,250,Val Fex,CH-GR,13 Aug 2012,L1416979,S11682168
+1040,House Crow,10,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+1041,American Crow,,Emeryville Marina,US-CA,03 Sep 2010,L764558,S9840855
+1042,Fish Crow,,Jamestown Island,US-VA,20 Apr 2011,L718540,S9846548
+1043,Chihuahuan Raven,2,Grasslands between Proctor Rd and Florida Wash,US-AZ,21 Jul 2012,L749795,S11247244
+1044,Carrion Crow,,千葉市--泉自然公園 (Chiba--Izumi Nature Park),JP-12,20 Nov 2010,L4150652,S9841051
+1045,Hooded Crow,2,Silsersee,CH-GR,26 Jul 2018,L5148783,S47462796
+1046,Large-billed Crow,,新宿区--新宿御苑 (Shinjuku Ward--Shinjuku Gyoen National Garden),JP-13,18 Nov 2010,L1416996,S9840272
+1047,Australian Raven,1,Toolangi State Forest,AU-VIC,19 Sep 2011,L2041763,S9847141
+1048,Little Raven,1,Point Addis,AU-VIC,24 Sep 2011,L921929,S11312577
+1049,Forest Raven,,Royal Tasmanian Botanical Gardens,AU-TAS,07 Dec 2008,L921573,S9839506
+1050,Pied Crow,1,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+1051,Common Raven,,Presidio--general (use for long traveling checklists encompassing multiple hotspots),US-CA,12 Oct 2008,L291975,S9839335
+1052,North Island Robin,,Pureorea central block (general)--aka Pikiariki Ecological Area,NZ-MWT,29 Sep 2011,L8209525,S9850010
+1053,Rose Robin,2,Toolangi State Forest,AU-VIC,19 Sep 2011,L2041763,S9847141
+1054,Pink Robin,6,Toolangi State Forest,AU-VIC,19 Sep 2011,L2041763,S9847141
+1055,Eastern Yellow Robin,,Donellys Weir,AU-VIC,19 Sep 2011,L2552019,S9847125
+1056,Gray-headed Canary-Flycatcher,1,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+1057,Coal Tit,2,Val Fex,CH-GR,15 Aug 2012,L1416979,S11682203
+1058,Yellow-bellied Tit,2,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+1059,Crested Tit,1,Val Bregalia - Vicosoprano to Stampa,CH-GR,03 Aug 2018,L4836373,S47623624
+1060,Marsh Tit,3,Silvaplanersee,CH-GR,23 Jul 2018,L4079563,S47402617
+1061,Willow Tit,1,Val Fex,CH-GR,15 Aug 2012,L1416979,S11682203
+1062,Carolina Chickadee,,"Glenbrook Road, Bethesda",US-MD,22 Dec 2008,L1416843,S9839541
+1063,Black-capped Chickadee,1,Greenbrier Resort,US-WV,11 Apr 2012,L1743567,S11561921
+1064,Mountain Chickadee,10,Feather River Meadows (private),US-CA,02 Oct 2010,L1417073,S9840911
+1065,Mexican Chickadee,3,"stakeout Slate-throated Redstart, Pinery Canyon (2016-8)",US-AZ,15 Jul 2016,L4577889,S30716565
+1066,Chestnut-backed Chickadee,,Golden Gate Park--San Francisco Botanical Garden,US-CA,03 Jan 2009,L1085740,S9839851
+1067,Boreal Chickadee,2,White Mt. NF--Caps Ridge Trail,US-NH,29 Jun 2014,L317294,S18963504
+1068,Eurasian Blue Tit,1,Riserva Naturale Pian di Spagna e Lago di Mezzola,IT-25,03 Aug 2018,L981895,S47625612
+1069,Bridled Titmouse,5,Madera Canyon--Madera Kubo B&B,US-AZ,21 Jul 2012,L296632,S11247254
+1070,Oak Titmouse,,Richardson Bay Audubon Center,US-CA,08 Nov 2008,L619488,S9839420
+1071,Juniper Titmouse,4,Navajo NM,US-AZ,08 Jul 2015,L785348,S24201448
+1072,Tufted Titmouse,,"Glenbrook Road, Bethesda",US-MD,22 Dec 2008,L1416843,S9839541
+1073,Black-crested Titmouse,2,Estero Llano Grande SP--Tropical Zone,US-TX,05 Mar 2017,L1148441,S35066551
+1074,Great Tit,1,Val Fedoz,CH-GR,31 Jul 2010,L1416989,S9840224
+1075,Japanese Tit,,千葉市--泉自然公園 (Chiba--Izumi Nature Park),JP-12,20 Nov 2010,L4150652,S9841051
+1076,Verdin,6,Montosa Canyon--km 1 (culvert area),US-AZ,21 Jul 2012,L281844,S11247227
+1077,Ashy-crowned Sparrow-Lark,5,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1078,Horned Lark,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+1079,Asian Short-toed Lark,30,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+1080,Eurasian Skylark,1,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+1081,Oriental Skylark,1,Gulf of Mottama Survey - Day 3,MM-02,15 Jan 2017,L5260311,S33680733
+1082,Crested Lark,1,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+1083,Senegal Eremomela,6,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+1084,Rufous-crowned Eremomela,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1085,Yellow-browed Camaroptera,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1086,Common Tailorbird,1,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+1087,Rufous-fronted Prinia,1,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+1088,Yellow-bellied Prinia,1,Okhla Bird Sanctuary,IN-UP,22 Feb 2011,L2362886,S10224788
+1089,Ashy Prinia,1,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+1090,Plain Prinia,5,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+1091,Red-winged Prinia,10,Brenu Beach--grasslands,GH-CP,06 Nov 2011,L2478749,S11312607
+1092,Oriole Warbler,1,Brenu Beach--grasslands,GH-CP,06 Nov 2011,L2478749,S11312607
+1093,Red-faced Cisticola,1,Brenu Beach--grasslands,GH-CP,06 Nov 2011,L2478749,S11312607
+1094,Singing Cisticola,1,Brenu Beach--grasslands,GH-CP,06 Nov 2011,L2478749,S11312607
+1095,Croaking Cisticola,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+1096,Siffling Cisticola,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+1097,Zitting Cisticola,1,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+1098,Thick-billed Warbler,6,Konakwidaw,MM-15,21 Jan 2017,L5293972,S33893588
+1099,Black-browed Reed Warbler,1,Olympic Forest Park,CN-11,25 May 2014,L1494335,S18547623
+1100,Paddyfield Warbler,4,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+1101,Eurasian Reed Warbler,3,Riserva Naturale Pian di Spagna e Lago di Mezzola,IT-25,03 Aug 2018,L981895,S47625612
+1102,Oriental Reed Warbler,,Olympic Forest Park,CN-11,25 May 2014,L1494335,S18547623
+1103,Clamorous Reed Warbler,1,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+1104,Tuamotu Reed Warbler,3,Rangiroa--Blue Lagoon,PF-TG,01 Nov 2013,L919967,S15559540
+1105,Little Grassbird,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+1106,Blue-and-white Swallow,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+1107,Northern Rough-winged Swallow,2,Lake Merced--Concrete Bridge area,US-CA,12 Mar 2012,L791371,S10151790
+1108,Southern Rough-winged Swallow,4,Tortí,PA-8,09 Apr 2018,L2732559,S44451518
+1109,Purple Martin,,Nojoqui Falls County Park,US-CA,24 Jul 2011,L434848,S9846844
+1110,Gray-breasted Martin,20,Carretera a Chepo,PA-8,09 Apr 2018,L3625974,S44418983
+1111,Brown-chested Martin,4,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1112,Tree Swallow,1,Lake Merced--Wooden Bridge area,US-CA,28 Mar 2011,L1002395,S9846511
+1113,White-winged Swallow,,Sao Luis do Purunã,BR-PR,23 Feb 2013,L1651598,S13296731
+1114,White-rumped Swallow,,Sao Luis do Purunã,BR-PR,23 Feb 2013,L1651598,S13296731
+1115,Mangrove Swallow,5,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+1116,Violet-green Swallow,,Pinnacles NP--campground,US-CA,17 Jun 2012,L832838,S11001153
+1117,Gray-throated Martin,8,National Chambal Sanctuary -- Jaitpur,IN-UP,06 Dec 2015,L3326604,S26147355
+1118,Bank Swallow,20,Chatham - Hawthorne Hotel,US-MA,27 Jul 2013,L2297880,S14806773
+1119,Eurasian Crag-Martin,,Silsersee,CH-GR,15 Aug 2012,L5148783,S11682222
+1120,Barn Swallow,1,Palo Alto Baylands,US-CA,10 Jul 2010,L152122,S9840010
+1121,Ethiopian Swallow,1,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+1122,Wire-tailed Swallow,6,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,05 Dec 2015,L4048185,S26132935
+1123,Welcome Swallow,1,Yering Station,AU-VIC,18 Sep 2011,L1651602,S11312572
+1124,Pacific Swallow,2,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+1125,Red-rumped Swallow,1,Ko De Zu Village,MM-15,17 Jan 2017,L5276091,S33774425
+1126,Mosque Swallow,1,Brenu Beach--grasslands,GH-CP,06 Nov 2011,L2478749,S11312607
+1127,Preuss's Swallow,50,Brenu Beach--grasslands,GH-CP,06 Nov 2011,L2478749,S11312607
+1128,Fairy Martin,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+1129,Tree Martin,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+1130,Cliff Swallow,,Hayward Regional Shoreline--H.A.R.D. Marsh,US-CA,05 Aug 2011,L1246774,S9846923
+1131,Cave Swallow,1,Tulare WTP,US-CA,31 Jan 2020,L573594,S63991886
+1132,Common House-Martin,20,Silsersee,CH-GR,14 Aug 2014,L5148783,S19469501
+1133,Fanti Sawwing,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1134,Simple Greenbul,1,Brenu Beach--grasslands,GH-CP,06 Nov 2011,L2478749,S11312607
+1135,Leaf-love,1,Ebekawopa (Abrafo)--'farm scrub' habitat,GH-CP,05 Nov 2011,L2478617,S11312599
+1136,Black-crested Bulbul,1,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+1137,Flame-throated Bulbul,2,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1138,Red-vented Bulbul,1,Okhla Bird Sanctuary,IN-UP,22 Feb 2011,L2362886,S10224788
+1139,Red-whiskered Bulbul,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1140,Light-vented Bulbul,12,Temple of Heaven (天坛公园),CN-11,19 Apr 2013,L2398320,S13842420
+1141,Common Bulbul,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+1142,Sooty-headed Bulbul,1,Bogor Botanical Garden,ID-JW,29 Jul 2010,L1122111,S9840156
+1143,Yellow-vented Bulbul,1,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+1144,Ayeyarwady Bulbul,1,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+1145,Yellow-browed Bulbul,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1146,Brown-eared Bulbul,,千代田区--赤坂御用地 (Chiyoda Ward--Akasaka Parkland),JP-13,20 Nov 2010,L1416999,S9840290
+1147,Wood Warbler,2,Val Fex,CH-GR,05 Aug 2014,L1416979,S19348502
+1148,Western Bonelli's Warbler,1,Val Fex,CH-GR,12 Aug 2014,L1416979,S19438722
+1149,Yellow-browed Warbler,1,Kaw Gon Cave,MM-13,19 Jan 2017,L5276931,S33779731
+1150,Hume's Warbler,1,Xuanzhong Temple,CN-14,21 Apr 2013,L2135801,S13878717
+1151,Pallas's Leaf Warbler,6,Beijing - State Forestry Administration,CN-11,17 Apr 2013,L2100175,S13841717
+1152,Dusky Warbler,1,Redwood Creek Riparian Area,US-CA,19 Oct 2015,L3959313,S25476265
+1153,Willow Warbler,2,Val Fex,CH-GR,05 Aug 2014,L1416979,S19348502
+1154,Common Chiffchaff,1,Val Fex,CH-GR,15 Aug 2012,L1416979,S11682203
+1155,Greenish Warbler,1,Sarus Crane Wetlands Saifai near  Kirthua,IN-UP,07 Dec 2015,L4048185,S26190128
+1156,Arctic Warbler,2,Olympic Forest Park,CN-11,25 May 2014,L1494335,S18547623
+1157,Japanese Bush Warbler,3,"Keanakolu Road (dirt road to Hakalau NWR, often misnamed Mana Road)",US-HI,09 Apr 2019,L457362,S54773064
+1158,Silver-throated Tit,1,Xuanzhong Temple,CN-14,21 Apr 2013,L2135801,S13878717
+1159,Bushtit,,Berkeley Aquatic Park,US-CA,09 Jul 2010,L597003,S9840000
+1160,Eurasian Blackcap,1,Val Fex,CH-GR,03 Aug 2016,L1416979,S30961722
+1161,Lesser Whitethroat,2,Sils-Maria,CH-GR,15 Aug 2014,L3038731,S19478650
+1162,Western Orphean Warbler,1,Riserva Naturale Pian di Spagna e Lago di Mezzola,IT-25,03 Aug 2018,L981895,S47625612
+1163,Yellow-eyed Babbler,1,Chambal Safari Lodge,IN-UP,03 Dec 2015,L3399025,S26108850
+1164,Beijing Babbler,1,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+1165,Wrentit,1,San Marcos Foothills Preserve,US-CA,19 Feb 2012,L807319,S9986967
+1166,Vinous-throated Parrotbill,2,Xuanzhong Temple,CN-14,21 Apr 2013,L2135801,S13878717
+1167,African Yellow White-eye,1,"Hans Cottage Botel, Cape Coast",GH-CP,05 Nov 2011,L1651612,S11312603
+1168,Indian White-eye,1,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+1169,Sangkar White-eye,3,"Munduk, Bali",ID-NU,23 Jul 2010,L1416952,S9840062
+1170,Warbling White-eye,10,千葉市--泉自然公園 (Chiba--Izumi Nature Park),JP-12,20 Nov 2010,L4150652,S9841051
+1171,Silvereye,,Toolangi State Forest,AU-VIC,19 Sep 2011,L2041763,S9847141
+1172,Dark-fronted Babbler,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1173,Limestone Wren-Babbler,3,Kaw Gon Cave,MM-13,19 Jan 2017,L5276931,S33779731
+1174,Common Babbler,1,Kalindi Kinj Park,IN-DL,01 Dec 2015,L1089474,S26085818
+1175,Striated Babbler,1,Okhla Bird Sanctuary,IN-UP,22 Feb 2011,L2362886,S10224788
+1176,Large Gray Babbler,8,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1177,Jungle Babbler,1,Okhla Bird Sanctuary,IN-UP,22 Feb 2011,L2362886,S10224788
+1178,Brown Babbler,2,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+1179,Pere David's Laughingthrush,6,Xuanzhong Temple,CN-14,21 Apr 2013,L2135801,S13878717
+1180,Red-billed Leiothrix,,Haleakala NP--Hosmer Grove,US-HI,23 Aug 2011,L247163,S9855168
+1181,Golden-crowned Kinglet,2,Coyote Hills Regional Park,US-CA,17 Oct 2012,L216132,S11829768
+1182,Ruby-crowned Kinglet,,Golden Gate Park--Stow Lake,US-CA,10 Jan 2009,L499374,S9839890
+1183,Goldcrest,3,Stykkishólmur,IS-3,09 Aug 2015,L1232818,S24557077
+1184,Common Firecrest,2,Val Bregalia - Vicosoprano to Stampa,CH-GR,03 Aug 2018,L4836373,S47623624
+1185,Eurasian Nuthatch,1,Val Fex,CH-GR,12 Aug 2012,L1416979,S11682124
+1186,Red-breasted Nuthatch,1,Yerba Buena Island / Treasure Island,US-CA,07 Mar 2012,L458821,S10110601
+1187,White-breasted Nuthatch,,Mission Creek--SB Museum of Natural History,US-CA,29 Nov 2009,L600095,S9839947
+1188,Pygmy Nuthatch,,Lake Merced--Concrete Bridge area,US-CA,13 Jan 2011,L791371,S9845693
+1189,Brown-headed Nuthatch,6,Cape Henlopen SP--Nature Center area,US-DE,08 Feb 2014,L445930,S16850617
+1190,Snowy-browed Nuthatch,2,Xuanzhong Temple,CN-14,21 Apr 2013,L2135801,S13878717
+1191,Eurasian Treecreeper,6,Val Fex,CH-GR,06 Aug 2014,L1416979,S19348510
+1192,Brown Creeper,2,Feather River Meadows (private),US-CA,02 Oct 2010,L1417073,S9840911
+1193,Tawny-faced Gnatwren,2,Los Altos de Cerro Azul,PA-8,11 Apr 2018,L1452749,S44480236
+1194,Long-billed Gnatwren,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1195,Blue-gray Gnatcatcher,,Lake Los Carneros Park,US-CA,26 Nov 2010,L336013,S9841190
+1196,California Gnatcatcher,6,White Point Nature Preserve,US-CA,05 Aug 2017,L1775410,S38492616
+1197,Black-tailed Gnatcatcher,6,"Saguaro NP--East--Rincon Mountains Unit  (Historical, please do not use for current lists)",US-AZ,22 Jul 2012,L129073,S11253920
+1198,Black-capped Gnatcatcher,3,Florida Canyon--lower,US-AZ,20 Jul 2014,L720787,S19183486
+1199,Tropical Gnatcatcher,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+1200,Slate-throated Gnatcatcher,4,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1201,Rock Wren,1,Red Bluff Rec Area,US-CA,07 Oct 2010,L819459,S9840959
+1202,Canyon Wren,1,Del Puerto Canyon Rd.--upper canyon (mile 17.0-21.3),US-CA,06 Apr 2013,L1673356,S13655514
+1203,House Wren,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1204,Eurasian Wren,1,Val Fex,CH-GR,15 Aug 2012,L1416979,S11682203
+1205,Pacific Wren,,Mt. Davidson,US-CA,04 Mar 2012,L419667,S10089317
+1206,Winter Wren,,Theodore Roosevelt Island,US-DC,25 Nov 2011,L718768,S9854808
+1207,Sedge Wren,3,McCone Lake (Divide Co.),US-ND,03 Aug 2019,L9599346,S58715745
+1208,Marsh Wren,1,Lake Merced--Concrete Bridge area,US-CA,12 Nov 2010,L791371,S9840997
+1209,Carolina Wren,,"Glenbrook Road, Bethesda",US-MD,23 Apr 2011,L1416843,S9846569
+1210,Bewick's Wren,,San Marcos Foothills Preserve,US-CA,04 Jul 2011,L807319,S9846685
+1211,Cactus Wren,3,Continental Wash,US-AZ,21 Jul 2012,L290800,S11247279
+1212,Black-bellied Wren,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+1213,Rufous-breasted Wren,1,Summit Ponds,PA-8,13 Apr 2018,L589165,S44541076
+1214,Rufous-and-white Wren,4,Parque Natural Metropolitano,PA-8,15 Apr 2018,L454708,S44594062
+1215,Isthmian Wren,2,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+1216,Bay Wren,1,Toma de agua de Tortí,PA-8,10 Apr 2018,L1126038,S44451812
+1217,Buff-breasted Wren,1,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+1218,Long-billed Wren,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+1219,White-breasted Wood-Wren,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,13 Apr 2018,L454711,S44540500
+1220,Song Wren,1,Los Altos de Cerro Azul,PA-8,11 Apr 2018,L1452749,S44480236
+1221,White-throated Dipper,1,Val Bregalia - Vicosoprano to Stampa,CH-GR,04 Aug 2016,L4836373,S30967772
+1222,American Dipper,1,Feather River Meadows (private),US-CA,02 Oct 2010,L1417073,S9840911
+1223,Southern Hill Myna,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1224,European Starling,,Emeryville Marina,US-CA,21 Nov 2008,L764558,S9839611
+1225,Asian Pied Starling,4,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+1226,Brahminy Starling,4,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1227,Malabar Starling,5,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1228,Red-billed Starling,15,Temple of Heaven (天坛公园),CN-11,19 Apr 2013,L2398320,S13842420
+1229,White-cheeked Starling,40,稲敷市--霞ヶ浦--浮島沼・妙岐ノ鼻鳥類観察小屋 (Inashiki--Kasumigaura--Ukishima Marsh / Myoginohana Bird Blind),JP-08,20 Nov 2010,L1484827,S9841107
+1230,Common Myna,3,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+1231,Bank Myna,1,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+1232,Jungle Myna,2,Hpr Ga Lay,MM-02,12 Jan 2017,L5248656,S33613813
+1233,Javan Myna,1,Jakarta--Sheraton Bandara Airport Hotel,ID-JW,29 Jul 2010,L1122084,S9840182
+1234,Crested Myna,6,Temple of Heaven (天坛公园),CN-11,19 Apr 2013,L2398320,S13842420
+1235,Violet-backed Starling,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1236,Chestnut-winged Starling,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1237,Splendid Starling,1,"Hans Cottage Botel, Cape Coast",GH-CP,05 Nov 2011,L1651612,S11312603
+1238,Purple Starling,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+1239,Gray Catbird,1,South Seas Island Resort (private),US-FL,30 Dec 2011,L1419373,S9855064
+1240,Curve-billed Thrasher,3,Continental Wash,US-AZ,21 Jul 2012,L290800,S11247279
+1241,Brown Thrasher,2,Kennebunk Plains,US-ME,23 Jun 2013,L167477,S14535069
+1242,Long-billed Thrasher,1,Estero Llano Grande SP WBC (LTC 054),US-TX,04 Mar 2017,L259855,S34966789
+1243,California Thrasher,1,Lake Los Carneros Park,US-CA,31 Jul 2011,L336013,S9846900
+1244,LeConte's Thrasher,1,Carrizo Plain NM (use specific hotspots when available),US-CA,23 Dec 2013,L602497,S16086013
+1245,Crissal Thrasher,2,Montosa Canyon--km 1 (culvert area),US-AZ,21 Jul 2012,L281844,S11247227
+1246,Sage Thrasher,2,Bodie Rd.,US-CA,29 Jul 2012,L773633,S11243358
+1247,Chalk-browed Mockingbird,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1248,Tropical Mockingbird,1,Carretera a Chepo,PA-8,09 Apr 2018,L3625974,S44418983
+1249,Northern Mockingbird,,Richardson Bay Audubon Center,US-CA,08 Nov 2008,L619488,S9839420
+1250,Eastern Bluebird,,C&O Canal--Great Falls,US-MD,15 Nov 2010,L214293,S9841019
+1251,Western Bluebird,,Miller/Knox Regional Shoreline,US-CA,14 Jul 2010,L593834,S9840030
+1252,Mountain Bluebird,1,Soda Lake Road--Hwy 58 to California Valley Fire Station,US-CA,26 Feb 2012,L829303,S11157730
+1253,Townsend's Solitaire,1,Los Padres NF--Mt. Pinos (VEN),US-CA,08 Aug 2011,L152133,S9846961
+1254,Omao,1,HI: HFNWR - Barn area,US-HI,09 Apr 2019,L4290890,S54773036
+1255,White's Thrush,1,Temple of Heaven (天坛公园),CN-11,19 Apr 2013,L2398320,S13842420
+1256,Varied Thrush,2,Tilden Regional Park--Botanic Garden,US-CA,03 Feb 2012,L630069,S9847773
+1257,Veery,4,Scarborough Marsh--Eastern Rd.,US-ME,23 Jun 2013,L448189,S14523551
+1258,Bicknell's Thrush,2,Mt. Washington,US-NH,28 Jun 2014,L295828,S18962967
+1259,Swainson's Thrush,2,Mt. Davidson,US-CA,19 May 2012,L419667,S11253783
+1260,Hermit Thrush,,Golden Gate Park--San Francisco Botanical Garden,US-CA,03 Jan 2009,L1085740,S9839851
+1261,Wood Thrush,1,Jake's Landing,US-NJ,31 May 2014,L211826,S18641467
+1262,Mistle Thrush,1,Val Fex,CH-GR,15 Aug 2012,L1416979,S11682203
+1263,Song Thrush,,Mangere WTP--Puketutu Canal,NZ-AUK,25 Sep 2011,L993625,S9847202
+1264,Redwing,1,Bakkatjörn (pond only),IS-1,04 Aug 2015,L743344,S24497508
+1265,Eurasian Blackbird,,Royal Tasmanian Botanical Gardens,AU-TAS,07 Dec 2008,L921573,S9839506
+1266,Rufous-bellied Thrush,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+1267,Clay-colored Thrush,1,Estero Llano Grande SP WBC (LTC 054),US-TX,04 Mar 2017,L259855,S34966789
+1268,Chinese Blackbird,1,Temple of Heaven (天坛公园),CN-11,19 Apr 2013,L2398320,S13842420
+1269,American Robin,,UC Berkeley--Botanical Gardens,US-CA,14 Oct 2008,L272860,S9839366
+1270,Creamy-bellied Thrush,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+1271,Fieldfare,4,Silvaplanersee,CH-GR,23 Jul 2018,L4079563,S47402617
+1272,Red-throated Thrush,5,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+1273,Dusky Thrush,1,新宿区--新宿御苑 (Shinjuku Ward--Shinjuku Gyoen National Garden),JP-13,18 Nov 2010,L1416996,S9840272
+1274,Naumann's Thrush,15,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+1275,Asian Brown Flycatcher,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1276,Brown-breasted Flycatcher,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1277,Spotted Flycatcher,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+1278,Northern Black-Flycatcher,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+1279,Indian Robin,2,Chambal Safari Lodge,IN-UP,03 Dec 2015,L3399025,S26108850
+1280,Oriental Magpie-Robin,2,"Mangalavana Bird Sanctuary, Cochin",IN-KL,26 Feb 2011,L1460828,S10224790
+1281,White-rumped Shama,4,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+1282,Blue-throated Flycatcher,1,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+1283,European Robin,1,Lavins,CH-GR,05 Aug 2018,L7794949,S47691254
+1284,Bluethroat,1,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+1285,Siberian Rubythroat,1,Konakwidaw,MM-15,21 Jan 2017,L5293972,S33893588
+1286,Red-flanked Bluetail,8,Temple of Heaven (天坛公园),CN-11,19 Apr 2013,L2398320,S13842420
+1287,Taiga Flycatcher,1,Konakwidaw,MM-15,21 Jan 2017,L5293972,S33893588
+1288,Red-breasted Flycatcher,3,Chambal Safari Lodge,IN-UP,05 Dec 2015,L3399025,S26132974
+1289,European Pied Flycatcher,20,Val Fex,CH-GR,15 Aug 2012,L1416979,S11682203
+1290,Common Redstart,1,Sils-Maria,CH-GR,15 Aug 2014,L3038731,S19478650
+1291,Black Redstart,1,Val Fex,CH-GR,01 Aug 2010,L1416979,S9846652
+1292,Daurian Redstart,1,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+1293,Blue Rock-Thrush,2,Beijing Yunmengsanyu Scenic Area,CN-11,25 May 2014,L2877779,S18553889
+1294,Whinchat,12,Val Fedoz,CH-GR,12 Aug 2012,L1416989,S11682117
+1295,European Stonechat,1,Riserva Naturale Pian di Spagna e Lago di Mezzola,IT-25,03 Aug 2018,L981895,S47625612
+1296,Siberian Stonechat,1,Okhla Bird Sanctuary,IN-UP,22 Feb 2011,L2362886,S10224788
+1297,Pied Bushchat,1,Okhla Bird Sanctuary,IN-UP,22 Feb 2011,L2362886,S10224788
+1298,Northern Wheatear,1,Silsersee,CH-GR,12 Aug 2012,L5148783,S11682142
+1299,Pied Wheatear,1,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+1300,Brown Rock Chat,1,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1301,Variable Wheatear,1,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1302,Bohemian Waxwing,11,Meadowlands,US-MN,22 Feb 2020,L6978139,S64870976
+1303,Cedar Waxwing,,Mission Creek--SB Museum of Natural History,US-CA,29 Nov 2009,L600095,S9839947
+1304,Phainopepla,6,San Marcos Foothills Preserve,US-CA,04 Jul 2011,L807319,S9846685
+1305,Thick-billed Flowerpecker,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1306,Orange-bellied Flowerpecker,1,"Munduk, Bali",ID-NU,23 Jul 2010,L1416952,S9840062
+1307,Mistletoebird,1,"Goulburn River, Trawool",AU-VIC,19 Sep 2011,L2552098,S11312574
+1308,Scarlet-backed Flowerpecker,2,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+1309,Scarlet-headed Flowerpecker,2,Jakarta--Monas,ID-JW,28 Jul 2010,L1416967,S9840142
+1310,Brown-throated Sunbird,1,Bogor Botanical Garden,ID-JW,29 Jul 2010,L1122111,S9840156
+1311,Collared Sunbird,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1312,Reichenbach's Sunbird,1,Brenu Beach--grasslands,GH-CP,06 Nov 2011,L2478749,S11312607
+1313,Blue-throated Brown Sunbird,1,"Hans Cottage Botel, Cape Coast",GH-CP,05 Nov 2011,L1651612,S11312603
+1314,Scarlet-chested Sunbird,1,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+1315,Van Hasselt's Sunbird,1,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+1316,Olive-bellied Sunbird,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1317,Splendid Sunbird,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+1318,Copper Sunbird,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+1319,Purple Sunbird,15,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+1320,Olive-backed Sunbird,5,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+1321,Loten's Sunbird,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1322,Asian Fairy-bluebird,1,Thattekkad--Dormitory,IN-KL,27 Feb 2011,L3789514,S10224796
+1323,Red-vented Malimbe,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1324,Red-headed Malimbe,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1325,Orange Weaver,20,"Hans Cottage Botel, Cape Coast",GH-CP,04 Nov 2011,L1651612,S11312591
+1326,Vieillot's Weaver,1,Ebekawopa (Abrafo)--'farm scrub' habitat,GH-CP,05 Nov 2011,L2478617,S11312599
+1327,Village Weaver,200,"Hans Cottage Botel, Cape Coast",GH-CP,04 Nov 2011,L1651612,S11312591
+1328,Yellow-mantled Weaver,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1329,Preuss's Weaver,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1330,Baya Weaver,20,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1331,Black-breasted Weaver,1,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1332,Yellow-mantled Widowbird,1,Brenu Beach--grasslands,GH-CP,06 Nov 2011,L2478749,S11312607
+1333,Gray-headed Nigrita,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1334,Orange-cheeked Waxbill,1,Shai Hills Resource Reserve,GH-AA,03 Nov 2011,L1268425,S11312586
+1335,Common Waxbill,60,Tahiti - Jardin Botanique,PF-WI,05 Nov 2013,L2411562,S15580020
+1336,Western Bluebill,1,Brenu Beach--grasslands,GH-CP,06 Nov 2011,L2478749,S11312607
+1337,Bar-breasted Firefinch,1,"Hans Cottage Botel, Cape Coast",GH-CP,05 Nov 2011,L1651612,S11312603
+1338,Red Avadavat,10,Okhla Bird Sanctuary,IN-UP,01 Dec 2015,L2362886,S26084349
+1339,Red-browed Firetail,,Cummins Reserve and Wetlands,AU-VIC,19 Sep 2011,L1418196,S9847167
+1340,Zebra Finch,15,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+1341,Bronze Mannikin,1,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+1342,Black-and-white Mannikin,6,Ebekawopa (Abrafo)--'farm scrub' habitat,GH-CP,05 Nov 2011,L2478617,S11312599
+1343,Indian Silverbill,1,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1344,African Silverbill,13,Waikoloa Skatepark,US-HI,08 Apr 2019,L8471220,S54721342
+1345,Javan Munia,,Sanur--Gazebo Hotel,ID-NU,24 Jul 2010,L1240485,S9840102
+1346,Scaly-breasted Munia,1,Ubud--Bali Bird Walk,ID-NU,24 Jul 2010,L1070274,S9840092
+1347,White-bellied Munia,4,Hlawga Park,MM-06,11 Jan 2017,L1899362,S33606771
+1348,Tricolored Munia,1,Chambal Safari Lodge,IN-UP,04 Dec 2015,L3399025,S26132505
+1349,Chestnut-breasted Munia,15,Le Meridien Tahiti,PF-WI,27 Oct 2013,L2402043,S15513661
+1350,Pin-tailed Whydah,1,Kakum NP--Canopy Walkway & vicinity,GH-CP,05 Nov 2011,L1268559,S11312594
+1351,Alpine Accentor,3,Val Fex,CH-GR,09 Aug 2014,L1416979,S19411293
+1352,Dunnock,1,Val Fex,CH-GR,21 Jul 2018,L1416979,S47324514
+1353,House Sparrow,,Pt. Pinole Regional Park,US-CA,04 Jan 2009,L109308,S9839859
+1354,Italian Sparrow,20,Val Bregalia - Vicosoprano to Stampa,CH-GR,04 Aug 2016,L4836373,S30967772
+1355,Northern Gray-headed Sparrow,1,Ebekawopa (Abrafo)--'farm scrub' habitat,GH-CP,05 Nov 2011,L2478617,S11312599
+1356,Eurasian Tree Sparrow,,千代田区--赤坂御用地 (Chiyoda Ward--Akasaka Parkland),JP-13,20 Nov 2010,L1416999,S9840290
+1357,White-winged Snowfinch,30,Corvatschbahn,CH-GR,15 Aug 2014,L3038725,S19478614
+1358,Gray Wagtail,1,千葉市--泉自然公園 (Chiba--Izumi Nature Park),JP-12,20 Nov 2010,L4150652,S9841051
+1359,Western Yellow Wagtail,1,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+1360,Eastern Yellow Wagtail,1,Rodeo Lagoon,US-CA,17 Sep 2018,L139567,S48577069
+1361,Citrine Wagtail,8,Kalindi Kinj Park,IN-DL,22 Feb 2011,L1089474,S10224783
+1362,White-browed Wagtail,4,National Chambal Sanctuary -- Jaitpur,IN-UP,06 Dec 2015,L3326604,S26147355
+1363,African Pied Wagtail,1,"Hans Cottage Botel, Cape Coast",GH-CP,04 Nov 2011,L1651612,S11312591
+1364,White Wagtail,1,Silsersee,CH-GR,07 Aug 2010,L5148783,S9840214
+1365,Australasian Pipit,1,Western Treatment Plant,AU-VIC,24 Sep 2011,L921850,S11312584
+1366,Paddyfield Pipit,1,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1367,Long-billed Pipit,5,National Chambal Sanctuary -- Chambal Ravines at Pinahat,IN-UP,04 Dec 2015,L2663232,S26131283
+1368,Meadow Pipit,1,Keflavíkurflugvöllur / Keflavík International Airport,IS-2,04 Aug 2015,L1232491,S24490145
+1369,Tree Pipit,1,Val Fex,CH-GR,15 Aug 2012,L1416979,S11682203
+1370,Red-throated Pipit,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,22 Oct 2013,L161083,S15470327
+1371,Water Pipit,1,Val Fedoz,CH-GR,12 Aug 2012,L1416989,S11682117
+1372,American Pipit,,稲敷市--霞ヶ浦--浮島沼・妙岐ノ鼻鳥類観察小屋 (Inashiki--Kasumigaura--Ukishima Marsh / Myoginohana Bird Blind),JP-08,20 Nov 2010,L1484827,S9841107
+1373,Sprague's Pipit,6,"151st Avenue Northwest, Westby, North Dakota, US (48.984, -104.013)",US-ND,03 Aug 2019,L9738278,S58715741
+1374,Hellmayr's Pipit,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1375,Yellow-throated Longclaw,1,Sakumono Lagoon,GH-AA,04 Nov 2011,L2027358,S11312588
+1376,Common Chaffinch,,Mangere WTP--Puketutu Canal,NZ-AUK,25 Sep 2011,L993625,S9847202
+1377,Brambling,4,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+1378,Yellow-crowned Euphonia,1,Radisson Summit Hotel and Golf Panama,PA-8,11 Apr 2018,L2521147,S44500369
+1379,Violaceous Euphonia,1,Morretes,BR-PR,05 Dec 2010,L1651596,S11312567
+1380,Thick-billed Euphonia,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+1381,Fulvous-vented Euphonia,2,Los Altos de Cerro Azul,PA-8,11 Apr 2018,L1452749,S44480236
+1382,White-vented Euphonia,1,Cerro Jefe,PA-8,11 Apr 2018,L1125806,S44479521
+1383,Tawny-capped Euphonia,4,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1384,Evening Grosbeak,6,Hewlett Packard Campus,US-CA,05 Jan 2013,L1869687,S12508394
+1385,Hawfinch,1,Soglio,CH-GR,10 Aug 2018,L7807473,S47761157
+1386,Yellow-billed Grosbeak,80,Temple of Heaven (天坛公园),CN-11,19 Apr 2013,L2398320,S13842420
+1387,Japanese Grosbeak,1,Temple of Heaven (天坛公园),CN-11,19 Apr 2013,L2398320,S13842420
+1388,Palila,2,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",US-HI,08 Apr 2019,L285813,S54728716
+1389,Apapane,,Haleakala NP--Hosmer Grove,US-HI,23 Aug 2011,L247163,S9855168
+1390,Iiwi,,Haleakala NP--Hosmer Grove,US-HI,23 Aug 2011,L247163,S9855168
+1391,Akiapolaau,1,HI: HFNWR - Barn area,US-HI,09 Apr 2019,L4290890,S54773040
+1392,Hawaii Amakihi,,Haleakala NP--Hosmer Grove,US-HI,23 Aug 2011,L247163,S9855168
+1393,Hawaii Creeper,2,HI: HFNWR - Barn area,US-HI,09 Apr 2019,L4290890,S54773040
+1394,Hawaii Akepa,3,HI: HFNWR - Barn area,US-HI,09 Apr 2019,L4290890,S54773040
+1395,Long-tailed Rosefinch,25,Xuanzhong Temple,CN-14,21 Apr 2013,L2135801,S13878717
+1396,Pine Grosbeak,1,Sonora Pass (ALP Co.),US-CA,05 Jul 2015,L594037,S24164621
+1397,Eurasian Bullfinch,2,Val Fex,CH-GR,15 Aug 2012,L1416979,S11682203
+1398,Gray-crowned Rosy-Finch,3,Aspendell,US-CA,25 Jun 2017,L720854,S37806760
+1399,House Finch,,Richardson Bay Audubon Center,US-CA,08 Nov 2008,L619488,S9839420
+1400,Purple Finch,,Ida Clayton Rd.,US-CA,17 Jan 2011,L824138,S9845730
+1401,Cassin's Finch,6,Feather River Meadows (private),US-CA,28 Jul 2012,L1417073,S11247165
+1402,European Greenfinch,1,Val Fex,CH-GR,12 Aug 2014,L1416979,S19438722
+1403,Oriental Greenfinch,6,千葉市--泉自然公園 (Chiba--Izumi Nature Park),JP-12,20 Nov 2010,L4150652,S9841051
+1404,Yellow-fronted Canary,2,Keahole Point,US-HI,07 Apr 2019,L2574849,S54690199
+1405,Eurasian Linnet,2,Corvatschbahn,CH-GR,15 Aug 2014,L3038725,S19478614
+1406,Lesser Redpoll,3,Val Fex,CH-GR,16 Aug 2014,L1416979,S19488412
+1407,Red Crossbill,1,Val Fedoz,CH-GR,08 Aug 2010,L1416989,S9840231
+1408,White-winged Crossbill,3,Sax-Zim Bog--Admiral Rd. feeding station,US-MN,22 Feb 2020,L1393127,S64883253
+1409,European Goldfinch,1,Val Fex,CH-GR,14 Aug 2016,L1416979,S31091810
+1410,Citril Finch,1,Silsersee,CH-GR,14 Aug 2014,L5148783,S19469501
+1411,European Serin,1,Silvaplanersee,CH-GR,23 Jul 2018,L4079563,S47402617
+1412,Eurasian Siskin,1,Val Fex,CH-GR,12 Aug 2012,L1416979,S11682124
+1413,Pine Siskin,2,Presidio--El Polin Springs,US-CA,13 May 2012,L445199,S10739019
+1414,Lesser Goldfinch,,Richardson Bay Audubon Center,US-CA,08 Nov 2008,L619488,S9839420
+1415,Lawrence's Goldfinch,1,Pinnacles NP--campground,US-CA,17 Jun 2012,L832838,S11001153
+1416,American Goldfinch,,Heron's Head Park,US-CA,02 Nov 2010,L502380,S9840981
+1417,Hooded Siskin,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1418,Lapland Longspur,1,Hayward Regional Shoreline--Mt. Trashmore,US-CA,18 Nov 2014,L1024893,S20604447
+1419,Chestnut-collared Longspur,1,Hayward Regional Shoreline--Mt. Trashmore,US-CA,17 Nov 2015,L1024893,S25886936
+1420,McCown's Longspur,1,Presidio--Crissy Field,US-CA,10 Oct 2017,L247929,S39809489
+1421,Snow Bunting,90,Cape Henlopen SP--The Point,US-DE,08 Feb 2014,L1265319,S16850669
+1422,Rosy Thrush-Tanager,2,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+1423,Godlewski's Bunting,1,Beijing Yunmengsanyu Scenic Area,CN-11,25 May 2014,L2877779,S18553889
+1424,Meadow Bunting,,船橋市--ふなばし三番瀬海浜公園 (Funabashi--Funabashi Sanbanze Seaside Park),JP-12,20 Nov 2010,L1484347,S9840789
+1425,Yellowhammer,,Mangere WTP--Puketutu Canal,NZ-AUK,25 Sep 2011,L993625,S9847202
+1426,Yellow-throated Bunting,2,Temple of Heaven (天坛公园),CN-11,19 Apr 2013,L2398320,S13842420
+1427,Pallas's Bunting,100,Ma Cheng,CN-13,18 Apr 2013,L2130261,S13841925
+1428,Rustic Bunting,1,Golden Gate Park--Big Rec Ball Fields,US-CA,08 Dec 2014,L2341719,S20831347
+1429,Rufous-winged Sparrow,1,Lower Mt. Hopkins Rd (Santa Cruz Co.),US-AZ,21 Jul 2012,L1623890,S11247187
+1430,Botteri's Sparrow,4,Grasslands between Proctor Rd and Florida Wash,US-AZ,21 Jul 2012,L749795,S11247244
+1431,Cassin's Sparrow,4,Lower Mt. Hopkins Rd (Santa Cruz Co.),US-AZ,21 Jul 2012,L1623890,S11247237
+1432,Bachman's Sparrow,2,Francis Marion NF--Wambaw Creek @FS204,US-SC,19 Jul 2015,L751806,S24334301
+1433,Grasshopper Sparrow,4,Cloverdale Rd.,US-CA,29 May 2013,L601779,S14282198
+1434,Grassland Sparrow,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1435,Olive Sparrow,3,McAllen Nature Center (LTC 065),US-TX,05 Mar 2017,L421038,S35066549
+1436,Black-striped Sparrow,5,Cerro Jefe,PA-8,11 Apr 2018,L1125806,S44479521
+1437,Chipping Sparrow,,Williamsburg Golf Course,US-VA,20 Apr 2011,L1418087,S9846531
+1438,Clay-colored Sparrow,2,Albany Mudflats,US-CA,25 Sep 2012,L484238,S11662413
+1439,Black-chinned Sparrow,2,Loma Prieta--Upper Mt. Madonna Rd. (SCZ Co.),US-CA,02 May 2015,L1617320,S23185481
+1440,Field Sparrow,1,Greenbrier Resort,US-WV,11 Apr 2012,L1743567,S11561921
+1441,Brewer's Sparrow,6,Bodie Rd.,US-CA,29 Jul 2012,L773633,S11243358
+1442,Black-throated Sparrow,3,Lower Mt. Hopkins Rd (Santa Cruz Co.),US-AZ,21 Jul 2012,L1623890,S11247237
+1443,Five-striped Sparrow,9,California Gulch,US-AZ,19 Jul 2014,L128930,S19156712
+1444,Lark Sparrow,,Sacramento River NWR--Llano Seco Unit (viewing platform),US-CA,02 Jan 2009,L419591,S9839845
+1445,Lark Bunting,1,Heron's Head Park,US-CA,06 Sep 2012,L502380,S11561942
+1446,Orange-billed Sparrow,1,Toma de agua de Tortí,PA-8,10 Apr 2018,L1126038,S44451812
+1447,American Tree Sparrow,1,Swanton Pond and vicinity,US-CA,20 Nov 2017,L2565763,S40627263
+1448,Fox Sparrow,,Lake Merced--Concrete Bridge area,US-CA,12 Jan 2009,L791371,S9839899
+1449,Dark-eyed Junco,,Don Edwards NWR (ALA Co.),US-CA,28 Dec 2008,L500360,S9839743
+1450,Yellow-eyed Junco,6,Madera Canyon--Carrie Nation Trail,US-AZ,20 Jul 2014,L2413068,S19183488
+1451,Rufous-collared Sparrow,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+1452,White-crowned Sparrow,,Richardson Bay Audubon Center,US-CA,08 Nov 2008,L619488,S9839420
+1453,Golden-crowned Sparrow,,Richardson Bay Audubon Center,US-CA,08 Nov 2008,L619488,S9839420
+1454,Harris's Sparrow,1,Coyote Point County Park--harbor and marsh,US-CA,16 Jan 2013,L997003,S12621753
+1455,White-throated Sparrow,1,"Glenbrook Road, Bethesda",US-MD,22 Dec 2008,L1416843,S9839541
+1456,Sagebrush Sparrow,3,"Belmont, NV",US-NV,06 Jul 2015,L3776679,S24188268
+1457,Bell's Sparrow,31,Carrizo Plain NM (use specific hotspots when available),US-CA,23 Dec 2013,L602497,S16086013
+1458,Vesper Sparrow,,Baseline Ave - Santa Ynez,US-CA,19 Feb 2012,L1428970,S9986780
+1459,LeConte's Sparrow,1,Blufftop Coastal Park and Poplar Beach,US-CA,13 Oct 2017,L466485,S39900114
+1460,Seaside Sparrow,4,Jarvis Sound,US-NJ,30 May 2014,L771306,S18629266
+1461,Nelson's Sparrow,6,Scarborough Marsh--Eastern Rd.,US-ME,23 Jun 2013,L448189,S14523551
+1462,Saltmarsh Sparrow,4,Scarborough Marsh--Eastern Rd.,US-ME,23 Jun 2013,L448189,S14523551
+1463,Savannah Sparrow,,Sacramento NWR,US-CA,07 Oct 2010,L168785,S9840924
+1464,Baird's Sparrow,1,Bowdoin NWR,US-MT,02 Aug 2019,L158584,S58702918
+1465,Song Sparrow,,Sacramento River NWR--Llano Seco Unit (viewing platform),US-CA,02 Jan 2009,L419591,S9839845
+1466,Lincoln's Sparrow,1,McLaughlin Eastshore SP--North Basin,US-CA,08 Mar 2012,L461333,S10116999
+1467,Swamp Sparrow,,Blackwater National Wildlife Refuge,US-MD,08 Jan 2012,L126632,S9847704
+1468,Canyon Towhee,2,Ruby Road--Oro Blanco Wash,US-AZ,19 Jul 2014,L328324,S19156645
+1469,Abert's Towhee,2,Sweetwater Wetlands,US-AZ,20 Jul 2014,L208918,S19181108
+1470,California Towhee,,Sacramento NWR,US-CA,02 Jan 2009,L168785,S9839812
+1471,Rufous-crowned Sparrow,2,Mines Rd. (ALA Co.),US-CA,11 Jul 2012,L390392,S11138951
+1472,Green-tailed Towhee,4,Los Padres NF--Mt. Pinos (VEN),US-CA,08 Aug 2011,L152133,S9846961
+1473,Spotted Towhee,,Hogback Island,US-CA,28 Dec 2008,L1416868,S9839734
+1474,Eastern Towhee,1,"Chatham - Balfour Lane, Whites Pond",US-MA,29 Jul 2013,L2299163,S14813779
+1475,Yellow-breasted Chat,1,Paton Center for Hummingbirds (Patons' Yard),US-AZ,22 Jul 2012,L247122,S11253815
+1476,Yellow-headed Blackbird,6,Dechambeau Ponds,US-CA,29 Jul 2012,L725880,S11243480
+1477,Bobolink,1,Presidio--Crissy Field,US-CA,18 May 2012,L247929,S10788809
+1478,Western Meadowlark,1,Sacramento NWR,US-CA,07 Oct 2010,L168785,S9840924
+1479,Eastern Meadowlark,1,Ruby Road--Oro Blanco Wash,US-AZ,19 Jul 2014,L328324,S19156645
+1480,Red-breasted Meadowlark,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+1481,White-browed Meadowlark,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+1482,Crested Oropendola,10,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+1483,Chestnut-headed Oropendola,25,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1484,Golden-winged Cacique,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1485,Scarlet-rumped Cacique,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+1486,Yellow-rumped Cacique,2,Puente del Río Mono,PA-8,10 Apr 2018,L1438791,S44452471
+1487,Red-rumped Cacique,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1488,Orchard Oriole,1,Lake Merced--Wooden Bridge area,US-CA,28 Mar 2011,L1002395,S9846511
+1489,Hooded Oriole,,San Marcos Foothills Preserve,US-CA,04 Jul 2011,L807319,S9846685
+1490,Yellow-backed Oriole,1,Parque Natural Metropolitano,PA-8,15 Apr 2018,L454708,S44594062
+1491,Yellow-tailed Oriole,1,Ammo Dump Ponds,PA-3,12 Apr 2018,L1740339,S44512248
+1492,Bullock's Oriole,1,Pala Lane,US-CA,05 Jul 2010,L1435147,S10107141
+1493,Altamira Oriole,2,Santa Ana NWR (LTC 059),US-TX,05 Mar 2017,L129085,S35066546
+1494,Baltimore Oriole,8,"Chatham - Balfour Lane, Whites Pond",US-MA,29 Jul 2013,L2299163,S14813779
+1495,Scott's Oriole,1,Florida Canyon--lower,US-AZ,20 Jul 2014,L720787,S19183486
+1496,Red-winged Blackbird,,Gilman St. waterfront,US-CA,13 Oct 2008,L1416804,S9839353
+1497,Tricolored Blackbird,,Lake Merced--Concrete Bridge area,US-CA,06 Aug 2011,L791371,S9846944
+1498,Shiny Cowbird,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+1499,Bronzed Cowbird,1,Paton Center for Hummingbirds (Patons' Yard),US-AZ,22 Jul 2012,L247122,S11253815
+1500,Brown-headed Cowbird,1,Goleta Beach County Park (including east end of Goleta Slough),US-CA,27 Nov 2009,L375164,S9839929
+1501,Giant Cowbird,2,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1502,Rusty Blackbird,1,Rodeo Lagoon,US-CA,26 Nov 2013,L139567,S15769229
+1503,Brewer's Blackbird,,Lake Merced--Concrete Bridge area,US-CA,09 Nov 2008,L791371,S9839432
+1504,Common Grackle,,Williamsburg Golf Course,US-VA,20 Apr 2011,L1418087,S9846531
+1505,Boat-tailed Grackle,,South Seas Island Resort (private),US-FL,26 Dec 2011,L1419373,S9855017
+1506,Great-tailed Grackle,1,Radio Rd.,US-CA,17 Jul 2011,L271480,S9846698
+1507,Chopi Blackbird,6,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1508,Yellow-rumped Marshbird,25,Sao Luis do Purunã,BR-PR,23 Feb 2013,L1651598,S13296731
+1509,Ovenbird,1,Pt. Reyes--Mendoza Ranch (B Ranch),US-CA,30 Sep 2012,L391138,S11693715
+1510,Worm-eating Warbler,4,Belleplain SF--Sunset Bridge & triangle area,US-NJ,01 Jun 2014,L303100,S18656682
+1511,Louisiana Waterthrush,2,Sky Meadows State Park,US-VA,14 Jun 2015,L159404,S23907283
+1512,Northern Waterthrush,1,Presidio--Crissy Field Lagoon,US-CA,29 Aug 2013,L1004802,S15042861
+1513,Golden-winged Warbler,1,Campbell Cove and Hole in the Head - ONLY,US-CA,07 Sep 2018,L596958,S48350582
+1514,Blue-winged Warbler,2,Baldpate Mountain--Ted Stiles Preserve,US-NJ,11 Jun 2017,L200757,S37524442
+1515,Black-and-white Warbler,1,Lake Merced--Concrete Bridge area,US-CA,27 Oct 2012,L791371,S11884433
+1516,Prothonotary Warbler,1,Cape Island--The Beanery/Rea Farm,US-NJ,31 May 2014,L129879,S18640993
+1517,Tennessee Warbler,1,Santa Barbara - LDS Church,US-CA,04 Jan 2014,L2507935,S16232923
+1518,Orange-crowned Warbler,1,Goleta Beach County Park (including east end of Goleta Slough),US-CA,27 Nov 2009,L375164,S9839929
+1519,Lucy's Warbler,1,Yerba Buena Island--Tower Park,US-CA,02 Feb 2012,L1421078,S9849976
+1520,Nashville Warbler,1,Albany Mudflats,US-CA,05 Oct 2010,L484238,S9840917
+1521,Virginia's Warbler,1,Zion NP,US-UT,07 Jul 2015,L140673,S24189599
+1522,Connecticut Warbler,1,Pt. Reyes--Mendoza Ranch (B Ranch),US-CA,30 Sep 2012,L391138,S11693715
+1523,Masked Yellowthroat,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+1524,MacGillivray's Warbler,2,Tilden Regional Park--Inspiration Pt.,US-CA,18 Apr 2012,L675478,S10482698
+1525,Mourning Warbler,1,Ferry / Sue Bierman Parks,US-CA,07 Oct 2015,L1284799,S25331619
+1526,Kentucky Warbler,4,Sky Meadows State Park,US-VA,14 Jun 2015,L159404,S23907283
+1527,Common Yellowthroat,,Gray Lodge Wildlife Area,US-CA,02 Jan 2009,L368257,S9839830
+1528,Hooded Warbler,2,Belleplain SF--Sunset Bridge & triangle area,US-NJ,01 Jun 2014,L303100,S18656682
+1529,American Redstart,1,Golden Gate Park--Stow Lake,US-CA,03 Jun 2014,L499374,S18675020
+1530,Cape May Warbler,1,San Francisquito Creek Trail--Stanford (SCL Co.),US-CA,23 Jan 2013,L1898518,S12702414
+1531,Cerulean Warbler,6,Sky Meadows State Park,US-VA,14 Jun 2015,L159404,S23907283
+1532,Northern Parula,1,Fort Mason Park,US-CA,11 Sep 2012,L389606,S11561609
+1533,Tropical Parula,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1534,Magnolia Warbler,1,Coyote Hills Regional Park,US-CA,17 Oct 2012,L216132,S11829768
+1535,Bay-breasted Warbler,4,Baxter SP,US-ME,27 Jun 2016,L296058,S30422308
+1536,Blackburnian Warbler,2,Stone Harbor Point,US-NJ,31 May 2014,L197073,S18641808
+1537,Yellow Warbler,,Emeryville Marina,US-CA,03 Sep 2010,L764558,S9840855
+1538,Chestnut-sided Warbler,1,Lake Merced--Concrete Bridge area,US-CA,14 Sep 2011,L791371,S9854768
+1539,Blackpoll Warbler,4,Mt. Washington,US-NH,28 Jun 2014,L295828,S18962967
+1540,Black-throated Blue Warbler,1,Dearborn Park Rd.,US-CA,13 Jan 2013,L1910747,S12596059
+1541,Palm Warbler,,South Seas Island Resort (private),US-FL,26 Dec 2011,L1419373,S9855017
+1542,Pine Warbler,1,"Chatham - Balfour Lane, Whites Pond",US-MA,29 Jul 2013,L2299163,S14813779
+1543,Yellow-rumped Warbler,,Sacramento River NWR--Llano Seco Unit (viewing platform),US-CA,02 Jan 2009,L419591,S9839845
+1544,Yellow-throated Warbler,1,South Seas Island Resort (private),US-FL,30 Dec 2011,L1419373,S9855064
+1545,Prairie Warbler,4,Kennebunk Plains,US-ME,23 Jun 2013,L167477,S14535069
+1546,Grace's Warbler,1,"stakeout Slate-throated Redstart, Pinery Canyon (2016-8)",US-AZ,15 Jul 2016,L4577889,S30716565
+1547,Black-throated Gray Warbler,2,Coyote Hills Regional Park,US-CA,11 Oct 2011,L216132,S9854096
+1548,Townsend's Warbler,,Sutro Heights Park,US-CA,17 Nov 2008,L816657,S9839580
+1549,Hermit Warbler,1,Bernal Hill,US-CA,10 Jan 2013,L668844,S12556890
+1550,Black-throated Green Warbler,3,Acadia NP--Great Meadow,US-ME,20 Jul 2013,L1630801,S14787434
+1551,Rufous-capped Warbler,3,Florida Canyon--lower,US-AZ,20 Jul 2014,L720787,S19183486
+1552,Golden-crowned Warbler,4,PN do Superagui--Trilha da Praia Deserta,BR-PR,24 Feb 2013,L3878894,S13219135
+1553,White-browed Warbler,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1554,Buff-rumped Warbler,1,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+1555,Riverbank Warbler,1,Baia Paranaguá,BR-PR,24 Feb 2013,L2027145,S13218963
+1556,Canada Warbler,4,"Trudeau Rd., Bethlehem",US-NH,29 Jun 2014,L278186,S18963308
+1557,Wilson's Warbler,2,Bernal Hill,US-CA,27 Aug 2010,L668844,S9840851
+1558,Red-faced Warbler,3,Madera Canyon--Carrie Nation Trail,US-AZ,20 Jul 2014,L2413068,S19183488
+1559,Painted Redstart,2,Madera Canyon--Mt. Wrightson Picnic Area & Upper Canyon Trails,US-AZ,21 Jul 2012,L296633,S11247260
+1560,Slate-throated Redstart,1,"stakeout Slate-throated Redstart, Pinery Canyon (2016-8)",US-AZ,15 Jul 2016,L4577889,S30716565
+1561,Dusky-faced Tanager,1,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+1562,Hepatic Tanager,1,Madera Canyon--Santa Rita Lodge,US-AZ,19 Jul 2014,L268114,S19173668
+1563,Summer Tanager,1,Berkeley Aquatic Park,US-CA,18 Jan 2012,L597003,S9847795
+1564,Scarlet Tanager,1,Belleplain SF--Sunset Bridge & triangle area,US-NJ,31 May 2014,L303100,S18641537
+1565,Western Tanager,2,Feather River Meadows (private),US-CA,28 Jul 2012,L1417073,S11247165
+1566,Red-throated Ant-Tanager,10,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+1567,Carmiol's Tanager,20,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1568,Northern Cardinal,1,"Glenbrook Road, Bethesda",US-MD,22 Dec 2008,L1416843,S9839541
+1569,Pyrrhuloxia,2,Continental Wash,US-AZ,21 Jul 2012,L290800,S11247279
+1570,Rose-breasted Grosbeak,1,"Trudeau Rd., Bethlehem",US-NH,29 Jun 2014,L278186,S18963308
+1571,Black-headed Grosbeak,,Devereux Slough,US-CA,05 Jul 2010,L615794,S9839992
+1572,Blue-black Grosbeak,1,Summit Ponds,PA-8,13 Apr 2018,L589165,S44541076
+1573,Blue Grosbeak,1,Kern River Preserve--Sierra Way,US-CA,01 Jul 2012,L690919,S11145432
+1574,Lazuli Bunting,24,Sibley Volcanic Regional Preserve,US-CA,06 May 2013,L311906,S14014473
+1575,Indigo Bunting,1,Shell Ridge Open Space--Old Borges Ranch,US-CA,29 May 2012,L1556717,S10870987
+1576,Varied Bunting,3,Montosa Canyon--km 1 (culvert area),US-AZ,21 Jul 2012,L281844,S11247227
+1577,Painted Bunting,4,Caw Caw Interpretive Center,US-SC,18 Jul 2015,L462851,S24305128
+1578,Dickcissel,1,Fort Mason Park,US-CA,05 Oct 2012,L389606,S18141889
+1579,Red-crested Cardinal,1,Parque Barigui,BR-PR,09 Dec 2010,L2433781,S11312568
+1580,Yellow-billed Cardinal,1,Keahole Point,US-HI,07 Apr 2019,L2574849,S54690199
+1581,Gray-headed Tanager,2,Pipeline Road  (Camino del Oleoducto) General area,PA-3,12 Apr 2018,L454711,S44512043
+1582,White-shouldered Tanager,4,Carretera El Llano-Cartí--estribaciones del lado Pacífico,PA-8,09 Apr 2018,L4095525,S44419231
+1583,Tawny-crested Tanager,10,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1584,Ruby-crowned Tanager,2,Baia Paranaguá,BR-PR,24 Feb 2013,L2027145,S13218963
+1585,White-lined Tanager,2,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+1586,Brazilian Tanager,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+1587,Crimson-backed Tanager,1,Tahiti - Jardin Botanique,PF-WI,05 Nov 2013,L2411562,S15580020
+1588,Fawn-breasted Tanager,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1589,Blue-gray Tanager,3,Carretera a Chepo,PA-8,09 Apr 2018,L3625974,S44418983
+1590,Sayaca Tanager,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+1591,Azure-shouldered Tanager,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+1592,Palm Tanager,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+1593,Golden-hooded Tanager,4,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1594,Plain-colored Tanager,6,Carretera El Llano-Cartí--estribaciones del lado Pacífico,PA-8,09 Apr 2018,L4095525,S44419231
+1595,Green-headed Tanager,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+1596,Rufous-winged Tanager,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1597,Bay-headed Tanager,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1598,Emerald Tanager,3,Carretera El Llano-Cartí--estribaciones del lado Pacífico,PA-8,09 Apr 2018,L4095525,S44419231
+1599,Silver-throated Tanager,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1600,Swallow Tanager,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1601,Scarlet-thighed Dacnis,4,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1602,Blue Dacnis,1,Volta Velha Reserve,BR-SC,05 Dec 2010,L1417154,S11312563
+1603,Shining Honeycreeper,2,Los Altos de Cerro Azul,PA-8,11 Apr 2018,L1452749,S44480236
+1604,Red-legged Honeycreeper,3,Carretera El Llano-Cartí--estribaciones del lado Pacífico,PA-8,09 Apr 2018,L4095525,S44419231
+1605,Green Honeycreeper,4,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1606,White-eared Conebill,2,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+1607,Black-and-rufous Warbling-Finch,1,Sao Luis do Purunã,BR-PR,23 Feb 2013,L1651598,S13296731
+1608,Saffron Finch,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+1609,Blue-black Grassquit,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1610,Ruddy-breasted Seedeater,1,Gamboa (town),PA-3,13 Apr 2018,L454673,S44540081
+1611,Thick-billed Seed-Finch,4,Cerro Jefe,PA-8,11 Apr 2018,L1125806,S44479521
+1612,Variable Seedeater,1,Nusagandi,PA-KY,09 Apr 2018,L1345857,S44419686
+1613,Yellow-bellied Seedeater,1,Ammo Dump Ponds,PA-3,13 Apr 2018,L1740339,S44540795
+1614,Double-collared Seedeater,1,Sao Luis do Purunã,BR-PR,09 Dec 2010,L1651598,S11312571
+1615,Red-crested Finch,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+1616,Bananaquit,,Itapoa,BR-SC,05 Dec 2010,L11341622,S9841342
+1617,Yellow-faced Grassquit,4,Carretera El Llano-Cartí--estribaciones del lado Pacífico,PA-8,09 Apr 2018,L4095525,S44419231
+1618,Buff-throated Saltator,2,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000
+1619,Streaked Saltator,1,Achiote Rd. (general location),PA-3,14 Apr 2018,L454695,S44575629
+1620,Slate-colored Grosbeak,2,Reserva San Francisco,PA-8,10 Apr 2018,L1092612,S44452000

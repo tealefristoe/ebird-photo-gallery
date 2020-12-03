@@ -5,8 +5,8 @@ import Layout from '../components/layout'
 import {bk, imageUrl1, imageUrl2} from '../lib/constants'
 import {getBirdPhotos} from '../lib/data'
 import {getDatabase} from '../lib/database'
-import {replaceSpaces, escapeSpaces} from '../lib/web'
-import {photoRatingDisplay, photoDateLocationDisplay} from '../lib/photo'
+import {replaceSpaces, escapeSpaces, curatedLabel, topRatedLabel} from '../lib/web'
+import {photoRatingDisplay, photoDateLocationDisplay, photoLinksDisplay} from '../lib/photo'
 
 export default class SpeciesPage extends React.Component {
   constructor(props) {
@@ -61,13 +61,13 @@ export default class SpeciesPage extends React.Component {
                 return (
                   <div
                       key={photo[bk.photoId]}
-                      onClick={() => this.setCuratedPreference(photo[bk.photoId])}
                       className={this.state.curated == photo[bk.photoId] ? speciesPageStyles.photoContainerCurated : speciesPageStyles.photoContainer}
                     >
-                    <img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} />
-                    {this.state.curated && this.state.curated == photo[bk.photoId] ? <div className={speciesPageStyles.curatedLabel}>Curated Photo</div> : ''}
+                    <img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} onClick={() => this.setCuratedPreference(photo[bk.photoId])} />
+                    {this.props.photos[0] == photo ? <div>{topRatedLabel()}</div> : ''}
+                    {this.state.curated && this.state.curated == photo[bk.photoId] ? <div>{curatedLabel()}</div> : ''}
                     {photoRatingDisplay(photo)}
-                    {photoDateLocationDisplay(photo)}
+                    {photoLinksDisplay(photo)}
                   </div>
                 )
               })}

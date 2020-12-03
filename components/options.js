@@ -32,7 +32,10 @@ export default class Options extends React.Component {
           <div id={optionsStyles.secondOptions}>
             <div id={optionsStyles.speciesCountDisplay}>
               <div className={optionsStyles.speciesCount}>
-                <span className={this.props.display == 'all' ? optionsStyles.selected : null} onClick={() => this.props.displayFunction('all')}>{this.props.totalCount} <span className={optionsStyles.subSpeciesCount}>Species observed</span></span>
+                <span className={this.props.display == 'all' ? optionsStyles.selected : null} onClick={() => this.props.displayFunction('all')}>
+                  {this.props.processedList.length < this.props.totalCount ? (<span>{String(this.props.processedList.length) + '/'}</span>) : ''}
+                  {this.props.totalCount}{' '}
+                <span className={optionsStyles.subSpeciesCount}>Species observed</span></span>
               </div>
               <div className={optionsStyles.speciesCount}>
                 <span className={this.props.display == 'photos' ? optionsStyles.selected : null} onClick={() => this.props.displayFunction('photos')}>{counts['withPhotos']} <span className={optionsStyles.subSpeciesCount}>Species with photos</span></span>

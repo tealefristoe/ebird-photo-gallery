@@ -1,10 +1,22 @@
 import Link from 'next/link'
 import speciesRowStyles from '../styles/speciesrow.module.css'
-import {photoRatingDisplay, photoDateLocationDisplay} from '../lib/photo'
+import {photoRatingDisplay, photoDateLocationDisplay, photoDateLocationWideDisplay, photoLinksDisplay} from '../lib/photo'
 import {bk, imageUrl1, imageUrl2} from '../lib/constants'
-import {escapeSpaces} from '../lib/web'
+import {escapeSpaces, spacer, curatedLabel, topRatedLabel} from '../lib/web'
 
 export default class SpeciesRow extends React.Component {
+  curatedLink(photoData) {
+    return (
+      <Link href={'/species?user=' + escapeSpaces(this.props.user) + '&bird=' + escapeSpaces(photoData.speciesData[bk.lifeBirdName])}>
+        <a target="_blank">{photoData.speciesData.photos.length + ' photo' + (photoData.speciesData.photos.length != 1 ? 's' : '')}</a>
+      </Link>
+    )
+  }
+
+  displayTypeLabel(photoData) {
+    return photoData.displayType == 'curated' ? curatedLabel() : photoData.displayType == 'topRated' ? topRatedLabel() : ''
+  }
+
   render () {
     const photoData = this.props.photoData
     const birdName = photoData.speciesData[bk.lifeBirdName]
@@ -25,15 +37,18 @@ export default class SpeciesRow extends React.Component {
             </div>
             {photo
               ? (<div className={speciesRowStyles.photoInfo1}>
-                  <Link href={'/species?user=' + escapeSpaces(this.props.user) + '&bird=' + escapeSpaces(birdName)}>
-                    <a>{photoData.speciesData.photos.length + ' photo' + (photoData.speciesData.photos.length != 1 ? 's' : '')}</a>
-                  </Link>
-                  {photoRatingDisplay(photo)}
+                  {this.curatedLink(photoData)}
+                  {spacer()}
+                  {this.displayTypeLabel(photoData)}
+                  {spacer()}
+                  {photoLinksDisplay(photo)}
                 </div>)
               : <div className={speciesRowStyles.photoInfo1} />}
             {photo
               ? (<div className={speciesRowStyles.photoInfo2}>
-                  {photoDateLocationDisplay(photo)}
+                  {photoRatingDisplay(photo)}
+                  {spacer()}
+                  {photoDateLocationWideDisplay(photo)}
                   </div>)
               : <div className={speciesRowStyles.photoInfo2} />}
             <div className={speciesRowStyles.photo}>
@@ -61,11 +76,7 @@ export default class SpeciesRow extends React.Component {
                 : <div className={`${speciesRowStyles.speciesNameGrid} ${speciesRowStyles.missing}`}>{birdName}</div>}
             </div>
             <div className={speciesRowStyles.curatedLink}>
-              {photo ?
-              (<Link href={'/species?user=' + escapeSpaces(this.props.user) + '&bird=' + escapeSpaces(birdName)}>
-                <a>{photoData.speciesData.photos.length + ' photo' + (photoData.speciesData.photos.length != 1 ? 's' : '')}</a>
-              </Link>) :
-              ''}
+              {photo ? this.curatedLink(photoData) : ''}
             </div>
           <div className={speciesRowStyles.photoGrid}>
             {photoData.display
@@ -81,10 +92,12 @@ export default class SpeciesRow extends React.Component {
           </div>
             {photo
               ? (<div className={speciesRowStyles.photoInfoGrid}>
-                  <div style={{fontWeight: 'bold', color: '#333'}}>{photoData.displayType == 'curated' ? 'Curated Photo' : photoData.displayType == 'topRated' ? 'Top Rated Photo' : 'Photo'}</div>
+                  <div>{this.displayTypeLabel(photoData)}</div>
                   {photoRatingDisplay(photo)}
                   <div style={{height: '1em'}} />
                   {photoDateLocationDisplay(photo)}
+                  <div style={{height: '1em'}} />
+                  {photoLinksDisplay(photo)}
                 </div>)
               : <div className={speciesRowStyles.photoInfoGrid} />}
           </div>

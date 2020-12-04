@@ -1,0 +1,381 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Snow Goose,30,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+2,Ross's Goose,1,Moonglow Dairy,US-CA,17-Nov-18,L306035,S50006695
+3,Greater White-fronted Goose,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+4,Brant,12,"Point Portrero 1359 Canal Blvd, Richmond US-CA (37.9066,-122.3713)",US-CA,24-Mar-19,L8912686,S54194905
+5,Cackling Goose,4,Clifton Court Forebay,US-CA,25-Nov-18,L373440,S50213279
+6,Canada Goose,8,"Wente Scout Reservation (39.4183,-123.2830)",US-CA,3-Jul-18,L7655657,S46963046
+7,Mute Swan,2,Waterbird Regional Preserve (including McNabney Marsh),US-CA,21-Jan-19,L417835,S51898231
+8,Tundra Swan,95,"CBC Sherman Island - Area 5 - NE Corner (38.1649,-121.5990)",US-CA,1-Jan-19,L8346561,S51193673
+9,Wood Duck,2,EBMUD--Valle Vista Staging Area (permit required),US-CA,30-Mar-19,L596210,S54375475
+10,Garganey,1,Bridgeway Island pond,US-CA,17-Mar-19,L473045,S53935337
+11,Blue-winged Teal,1,Waterbird Regional Preserve (including McNabney Marsh),US-CA,23-Sep-18,L417835,S48703837
+12,Cinnamon Teal,10,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+13,Northern Shoveler,50,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+14,Gadwall,10,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+15,Eurasian Wigeon,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+16,American Wigeon,300,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+17,Mallard,8,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+18,Mexican Duck,1,Patagonia Lake SP--Birding Trail,US-AZ,6-Apr-19,L2064166,S54648489
+19,American Black Duck,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+20,Northern Pintail,100,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+21,Green-winged Teal,40,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+22,Canvasback,30,Hayward Regional Shoreline--Interpretive Center,US-CA,30-Dec-18,L587721,S51097167
+23,Redhead,1,Lafayette Reservoir,US-CA,19-Dec-19,L212642,S62444037
+24,Ring-necked Duck,35,Heather Farm Park,US-CA,24-Dec-18,L373922,S50926928
+25,Greater Scaup,1,Heather Farm Park,US-CA,24-Dec-18,L373922,S50927126
+26,Lesser Scaup,45,Clifton Court Forebay,US-CA,25-Nov-18,L373440,S50213279
+27,Surf Scoter,3,Seacliff SB,US-CA,17-Nov-18,L638117,S49996499
+28,White-winged Scoter,15,"1113 N Highway 101, Depoe Bay US-OR (44.8240,-124.0658)",US-OR,24-Sep-19,L9950313,S60081140
+29,Black Scoter,1,Seacliff SB,US-CA,17-Nov-18,L638117,S49996499
+30,Long-tailed Duck,1,Miller/Knox Regional Shoreline,US-CA,3-Feb-19,L593834,S52339130
+31,Bufflehead,15,Upper Newport Bay--Back Bay Dr.,US-CA,9-Nov-18,L740881,S49809783
+32,Common Goldeneye,40,Clifton Court Forebay,US-CA,25-Nov-18,L373440,S50213279
+33,Barrow's Goldeneye,1,Bayfront Park (CC Co.),US-CA,5-Feb-20,L794123,S64157221
+34,Hooded Merganser,4,Tilden Nature Area,US-CA,23-Dec-18,L1990362,S50899761
+35,Common Merganser,2,"Moss Landing--Jetty Rd., north jetty & State Beach",US-CA,17-Nov-18,L256021,S50003089
+36,Red-breasted Merganser,3,Seacliff SB,US-CA,17-Nov-18,L638117,S49996499
+37,Ruddy Duck,15,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+38,California Quail,30,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+39,Gambel's Quail,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+40,Ring-necked Pheasant,1,Holland Tract,US-CA,18-Feb-19,L593832,S52880959
+41,Wild Turkey,20,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+42,Pied-billed Grebe,1,Wente Pond,US-CA,16-Sep-18,L472834,S48543228
+43,Horned Grebe,3,Seacliff SB,US-CA,17-Nov-18,L638117,S49996499
+44,Red-necked Grebe,1,Seacliff SB,US-CA,17-Nov-18,L638117,S49996499
+45,Eared Grebe,1,Upper Newport Bay--Back Bay Dr.,US-CA,9-Nov-18,L740881,S49809783
+46,Western Grebe,1,Pt. Reyes--Drakes Beach (do not include Horseshoe Pond or beach/estero beyond Horseshoe Pond),US-CA,1-Sep-18,L391136,S48228772
+47,Clark's Grebe,3,Pt. Isabel Regional Shoreline--mudflats,US-CA,25-Aug-18,L969109,S48070828
+48,Rock Pigeon,10,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+49,Band-tailed Pigeon,2,Tilden Nature Area--Jewel Lake,US-CA,21-Apr-18,L503349,S44784756
+50,Eurasian Collared-Dove,30,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+51,Inca Dove,9,Paton Center for Hummingbirds (Patons' Yard),US-AZ,25-Feb-18,L247122,S43177382
+52,White-winged Dove,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+53,Mourning Dove,15,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+54,Greater Roadrunner,1,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+55,Yellow-billed Cuckoo,1,Cape Island--Higbee Beach WMA,US-NJ,2-Aug-18,L109135,S47604247
+56,Lesser Nighthawk,2,Clifton Court Forebay,US-CA,22-May-20,L373440,S69490885
+57,Common Poorwill,1,Mt. Diablo SP--Mitchell Canyon,US-CA,27-Apr-19,L275399,S55480559
+58,Black Swift,3,Holland Tract,US-CA,20-May-20,L593832,S69376864
+59,Chimney Swift,1,"4082 Bayshore Rd, Cape May US-NJ (38.9519,-74.9371)",US-NJ,2-Aug-18,L7779249,S47604250
+60,Vaux's Swift,3,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,20-Sep-18,L7052095,S48640424
+61,White-throated Swift,1,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,8-May-18,L7052095,S45473856
+62,Rivoli's Hummingbird,1,Madera Canyon--Santa Rita Lodge,US-AZ,25-Feb-18,L268114,S43189544
+63,Lucifer Hummingbird,2,Ash Canyon Bird Sanctuary (closed Thursday morning; formerly Ash Canyon B&B),US-AZ,7-Apr-19,L199300,S54692805
+64,Ruby-throated Hummingbird,2,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+65,Black-chinned Hummingbird,3,Madera Canyon--Santa Rita Lodge,US-AZ,6-Apr-19,L268114,S54634394
+66,Anna's Hummingbird,4,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+67,Costa's Hummingbird,2,"5150 N Sabino Valley Pl, Tucson US-AZ (32.2982,-110.8280)",US-AZ,26-Feb-18,L6983768,S43205900
+68,Broad-tailed Hummingbird,2,Ash Canyon Bird Sanctuary (closed Thursday morning; formerly Ash Canyon B&B),US-AZ,7-Apr-19,L199300,S54692805
+69,Rufous Hummingbird,1,Paton Center for Hummingbirds (Patons' Yard),US-AZ,25-Feb-18,L247122,S43177382
+70,Allen's Hummingbird,1,Tilden Nature Area--Jewel Lake,US-CA,21-Apr-18,L503349,S44784756
+71,Calliope Hummingbird,2,Mt. Diablo SP--Mitchell Canyon,US-CA,20-Apr-19,L275399,S55176541
+72,Broad-billed Hummingbird,1,"5150 N Sabino Valley Pl, Tucson US-AZ (32.2982,-110.8280)",US-AZ,26-Feb-18,L6983768,S43205900
+73,Violet-crowned Hummingbird,1,Paton Center for Hummingbirds (Patons' Yard),US-AZ,25-Feb-18,L247122,S43177382
+74,Ridgway's Rail,1,San Francisco Bay Trail--S 51st St.,US-CA,18-May-19,L1415714,S56451077
+75,Clapper Rail,4,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+76,Virginia Rail,2,Ironhouse Sanitary District,US-CA,15-Sep-18,L778165,S48521087
+77,Sora,2,Upper Newport Bay--Back Bay Dr.,US-CA,9-Nov-18,L740881,S49809783
+78,Common Gallinule,1,Heather Farm Park,US-CA,12-Feb-19,L373922,S52633974
+79,American Coot,4,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+80,Black Rail,1,Ironhouse Sanitary District,US-CA,26-May-19,L778165,S56764593
+81,Sandhill Crane,4000,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+82,Black-necked Stilt,5,Waterbird Regional Preserve (including McNabney Marsh),US-CA,23-Sep-18,L417835,S48703837
+83,American Avocet,3,Waterbird Way pond,US-CA,23-Sep-18,L1923166,S48703855
+84,American Oystercatcher,6,Cape Island--South Cape May Meadows (SCMM),US-NJ,9-Aug-19,L109136,S58854930
+85,Black Oystercatcher,1,Pt. Reyes--Fish Docks,US-CA,1-Sep-18,L453386,S48227903
+86,Black-bellied Plover,49,Meeker Slough,US-CA,25-Aug-18,L989047,S48063420
+87,Pacific Golden-Plover,1,Meeker Slough,US-CA,29-Oct-20,L989047,S75561694
+88,Snowy Plover,10,"Moss Landing--Jetty Rd., north jetty & State Beach",US-CA,17-Nov-18,L256021,S50003089
+89,Semipalmated Plover,20,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+90,Killdeer,30,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+91,Whimbrel,1,Upper Newport Bay--Back Bay Dr.,US-CA,9-Nov-18,L740881,S49809783
+92,Long-billed Curlew,2,Pt. Isabel Regional Shoreline--mudflats,US-CA,25-Aug-18,L969109,S48070828
+93,Bar-tailed Godwit,1,Emeryville shoreline--near fire station,US-CA,2-Nov-19,L1801585,S61129250
+94,Marbled Godwit,15,Pt. Isabel Regional Shoreline,US-CA,25-Aug-18,L507756,S48061620
+95,Ruddy Turnstone,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,5-Aug-19,L109133,S58766322
+96,Black Turnstone,2,Hayward Regional Shoreline--Winton Ave. access and parking area,US-CA,30-Dec-18,L470891,S51089284
+97,Red Knot,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,5-Aug-19,L109133,S58766322
+98,Surfbird,10,Depoe Bay State Wayside/Depoe Bay Whale Watching Center,US-OR,24-Sep-19,L1412499,S60085144
+99,Sanderling,1,Pt. Reyes--Drakes Beach (do not include Horseshoe Pond or beach/estero beyond Horseshoe Pond),US-CA,1-Sep-18,L391136,S48228772
+100,Dunlin,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+101,Rock Sandpiper,1,Heron's Head Park,US-CA,7-Feb-20,L502380,S64208051
+102,Baird's Sandpiper,2,West County Wastewater District--Sewage Ponds,US-CA,25-Aug-18,L848605,S48066399
+103,Least Sandpiper,6,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+104,Buff-breasted Sandpiper,1,West County Wastewater District--Sewage Ponds,US-CA,25-Aug-18,L848605,S48066399
+105,Pectoral Sandpiper,1,West County Wastewater District--Sewage Ponds,US-CA,13-Sep-20,L848605,S73633276
+106,Semipalmated Sandpiper,200,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+107,Western Sandpiper,3,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+108,Short-billed Dowitcher,30,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+109,Long-billed Dowitcher,8,"Moss Landing--Jetty Rd., north jetty & State Beach",US-CA,17-Nov-18,L256021,S50003089
+110,Wilson's Snipe,1,Moonglow Dairy,US-CA,17-Nov-18,L306035,S50006695
+111,Wilson's Phalarope,15,Shell Pond,US-CA,18-Aug-19,L2040298,S59087736
+112,Red-necked Phalarope,3,Ironhouse Sanitary District,US-CA,26-May-19,L778165,S56764593
+113,Red Phalarope,1,Miller/Knox Regional Shoreline--Ferry Point,US-CA,27-Sep-20,L864592,S74135232
+114,Spotted Sandpiper,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+115,Solitary Sandpiper,1,West County Wastewater District--Sewage Ponds,US-CA,6-Sep-20,L848605,S73270974
+116,Wandering Tattler,2,Pt. Reyes--Fish Docks,US-CA,1-Sep-18,L453386,S48227903
+117,Greater Yellowlegs,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+118,Willet,4,Pt. Isabel Regional Shoreline,US-CA,25-Aug-18,L507756,S48061620
+119,Lesser Yellowlegs,1,Waterbird Way pond,US-CA,23-Sep-18,L1923166,S48703855
+120,Common Murre,4,"1113 N Highway 101, Depoe Bay US-OR (44.8240,-124.0658)",US-OR,23-Sep-19,L9950313,S60061134
+121,Pigeon Guillemot,1,"Point Portrero 1359 Canal Blvd, Richmond US-CA (37.9066,-122.3713)",US-CA,24-Mar-19,L8912686,S54194905
+122,Marbled Murrelet,2,"1113 N Highway 101, Depoe Bay US-OR (44.8240,-124.0658)",US-OR,23-Sep-19,L9950313,S60061134
+123,Rhinoceros Auklet,6,"1113 N Highway 101, Depoe Bay US-OR (44.8240,-124.0658)",US-OR,23-Sep-19,L9950313,S60061134
+124,Bonaparte's Gull,1,Seacliff SB,US-CA,17-Nov-18,L638117,S49996499
+125,Laughing Gull,60,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+126,Franklin's Gull,1,Canal Blvd.--viewing platform,US-CA,12-Jul-20,L1787495,S71389898
+127,Heermann's Gull,150,Pt. Reyes--Drakes Beach (do not include Horseshoe Pond or beach/estero beyond Horseshoe Pond),US-CA,1-Sep-18,L391136,S48228772
+128,Mew Gull,8,Miller/Knox Regional Shoreline,US-CA,3-Feb-19,L593834,S52339130
+129,Ring-billed Gull,15,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+130,Western Gull,40,Pt. Isabel Regional Shoreline--mudflats,US-CA,25-Aug-18,L969109,S48070828
+131,California Gull,8,Pt. Isabel Regional Shoreline--mudflats,US-CA,25-Aug-18,L969109,S48070828
+132,Herring Gull,10,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+133,Iceland Gull,1,Miller/Knox Regional Shoreline,US-CA,3-Feb-19,L593834,S52339130
+134,Glaucous-winged Gull,6,Seacliff SB,US-CA,17-Nov-18,L638117,S49996499
+135,Great Black-backed Gull,14,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+136,Kelp Gull,1,Sandgates,US-MD,30-Dec-04,L762644,S56633640
+137,Least Tern,10,Edwin B. Forsythe NWR (formerly Brig),US-NJ,5-Aug-19,L109133,S58766322
+138,Gull-billed Tern,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+139,Caspian Tern,1,"Sherman Island - CBC Area 5 (38.1231,-121.6905)",US-CA,27-Dec-18,L8312391,S51008692
+140,Forster's Tern,30,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+141,Royal Tern,1,Cape Island--South Cape May Meadows (SCMM),US-NJ,9-Aug-19,L109136,S58854930
+142,Elegant Tern,66,Pt. Pinole Regional Park,US-CA,12-Aug-20,L109308,S72350449
+143,Black Skimmer,20,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+144,Red-throated Loon,1,Vincent Park,US-CA,24-Mar-19,L1787493,S54184681
+145,Common Loon,1,Miller/Knox Regional Shoreline--Ferry Point,US-CA,24-Mar-19,L864592,S54188118
+146,Sooty Shearwater,4,"1113 N Highway 101, Depoe Bay US-OR (44.8240,-124.0658)",US-OR,24-Sep-19,L9950313,S60081140
+147,Red-footed Booby,1,Seacliff SB,US-CA,17-Nov-18,L638117,S49996499
+148,Brandt's Cormorant,181,Seacliff SB,US-CA,17-Nov-18,L638117,S49996499
+149,Pelagic Cormorant,2,Miller/Knox Regional Shoreline,US-CA,3-Feb-19,L593834,S52339130
+150,Neotropic Cormorant,18,Sam Lena Park and KERP,US-AZ,5-Apr-19,L250145,S54600099
+151,Double-crested Cormorant,2,Tilden Nature Area--Jewel Lake,US-CA,21-Apr-18,L503349,S44784756
+152,American White Pelican,3,Waterbird Regional Preserve (including McNabney Marsh),US-CA,23-Sep-18,L417835,S48703837
+153,Brown Pelican,30,Pt. Isabel Regional Shoreline--mudflats,US-CA,25-Aug-18,L969109,S48070828
+154,American Bittern,1,Dow Wetlands Preserve,US-CA,1-Jun-19,L826867,S56985049
+155,Least Bittern,1,Dow Wetlands Preserve,US-CA,12-Jun-20,L826867,S70347840
+156,Great Blue Heron,10,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+157,Great Egret,15,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+158,Snowy Egret,20,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+159,Little Blue Heron,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+160,Cattle Egret,1,Moonglow Dairy,US-CA,17-Nov-18,L306035,S50006695
+161,Green Heron,1,"Heather Farm Park, Walnut Creek US-CA (37.9237,-122.0445)",US-CA,15-Aug-18,L7826573,S47871662
+162,Black-crowned Night-Heron,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+163,Glossy Ibis,30,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+164,White-faced Ibis,1,Sierra Vista EOP,US-AZ,7-Apr-19,L129095,S54674415
+165,Black Vulture,2,Santa Gertrudis Lane (foot access only),US-AZ,25-Feb-18,L352346,S43185471
+166,Turkey Vulture,8,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+167,Osprey,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+168,White-tailed Kite,1,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,11-Mar-18,L7052095,S43565577
+169,Golden Eagle,1,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+170,Mississippi Kite,1,"7203 Brooke Dr, Colleyville US-TX (32.9125,-97.1389)",US-TX,6-May-19,L9208518,S55913169
+171,Northern Harrier,1,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+172,Sharp-shinned Hawk,1,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,29-Oct-18,L7052095,S49538063
+173,Cooper's Hawk,1,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+174,Northern Goshawk,2,Showers Lake,US-CA,24-Aug-19,L7865394,S59358209
+175,Bald Eagle,2,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+176,Harris's Hawk,1,"12610–12698 E Speedway Blvd, Tucson US-AZ (32.2355,-110.7226)",US-AZ,8-Apr-19,L9005350,S54727253
+177,Gray Hawk,1,"219–257 Naugle Ave, Patagonia US-AZ (31.5457,-110.7448)",US-AZ,6-Apr-19,L8991834,S54648475
+178,Red-shouldered Hawk,2,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,10-Apr-18,L7052095,S44433750
+179,Swainson's Hawk,2,"CA-120 W, Manteca US-CA (37.7846,-121.2689)",US-CA,31-Mar-18,L7150590,S44131213
+180,Red-tailed Hawk,6,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+181,Ferruginous Hawk,1,Orwood Resort,US-CA,18-Feb-19,L834151,S52884426
+182,Barn Owl,1,"(37.7801,-122.1298) Bort Meadow, Redwood Regional Park",US-CA,5-May-18,L7357934,S45366405
+183,Western Screech-Owl,1,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,30-Sep-18,L7052095,S48835900
+184,Great Horned Owl,2,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+185,Northern Pygmy-Owl,1,Tilden Nature Area,US-CA,23-Dec-18,L1990362,S50918965
+186,Elf Owl,3,Saguaro NP--East--Douglas Spring Trail,US-AZ,8-Apr-19,L1889862,S54736466
+187,Burrowing Owl,2,"1931 Minnesota Ave, Brentwood US-CA (37.9538,-121.7168)",US-CA,23-Jun-19,L7927719,S57618959
+188,Great Gray Owl,1,Ackerson Meadow,US-CA,23-Oct-20,L594031,S75761614
+189,Long-eared Owl,2,Little Panoche Rd. (FRE Co.),US-CA,16-Feb-20,L1249900,S64597275
+190,Short-eared Owl,2,Waterfront Rd.,US-CA,5-Jan-20,L1284983,S63075053
+191,Northern Saw-whet Owl,1,Tilden Regional Park--Botanic Garden,US-CA,23-Dec-18,L630069,S50891267
+192,Elegant Trogon,1,Madera Canyon--Mt. Wrightson Picnic Area & Upper Canyon Trails,US-AZ,6-Apr-19,L296633,S54637135
+193,Belted Kingfisher,1,"Wente Scout Reservation (39.4183,-123.2830)",US-CA,2-Jul-18,L7655657,S46954373
+194,Williamson's Sapsucker,1,Ackerson Meadow,US-CA,23-Oct-20,L594031,S75761614
+195,Red-breasted Sapsucker,2,Mines Rd.--MP 8.6 (ALA Co.),US-CA,3-Oct-18,L1487641,S48917898
+196,Lewis's Woodpecker,1,"Woodland Rd., Tucson",US-AZ,5-Apr-19,L129125,S54603482
+197,Acorn Woodpecker,6,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+198,Gila Woodpecker,8,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+199,Red-bellied Woodpecker,3,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+200,Downy Woodpecker,2,"Wente Scout Reservation (39.4183,-123.2830)",US-CA,2-Jul-18,L7655657,S46954373
+201,Nuttall's Woodpecker,1,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+202,Ladder-backed Woodpecker,4,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+203,Hairy Woodpecker,2,Tilden Nature Area--Jewel Lake,US-CA,28-May-18,L503349,S46099504
+204,White-headed Woodpecker,1,"Sierra National Forest, Fish Camp US-CA (37.4725,-119.6370)",US-CA,21-Jun-18,L7601184,S46700510
+205,Arizona Woodpecker,1,Madera Canyon--Santa Rita Lodge,US-AZ,25-Feb-18,L268114,S43189544
+206,Pileated Woodpecker,1,"I-5 S, Yoncalla US-OR (43.6547,-123.2077)",US-OR,25-Sep-19,L9957226,S60112085
+207,Northern Flicker,2,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+208,Gilded Flicker,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+209,American Kestrel,2,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+210,Merlin,1,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,18-Nov-18,L7052095,S50034010
+211,Peregrine Falcon,1,Miller/Knox Regional Shoreline,US-CA,3-Feb-19,L593834,S52339130
+212,Prairie Falcon,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+213,Olive-sided Flycatcher,1,Mt. Diablo SP--Donner Canyon,US-CA,12-May-18,L807379,S45590889
+214,Western Wood-Pewee,1,"Mount Diablo State Park - Green Ranch Road, Clayton US-CA (37.8702,-121.9250)",US-CA,17-Jun-18,L7588205,S46624428
+215,Willow Flycatcher,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+216,Least Flycatcher,1,"7203 Brooke Dr, Colleyville US-TX (32.9125,-97.1389)",US-TX,9-May-19,L9208518,S56045345
+217,Hammond's Flycatcher,1,Santa Gertrudis Lane (foot access only),US-AZ,25-Feb-18,L352346,S43185471
+218,Dusky Flycatcher,2,"Robert Cole Scout Camp (39.3517,-120.4953)",US-CA,13-Jul-19,L9638966,S58167810
+219,Pacific-slope Flycatcher,2,Mt. Diablo SP--Mitchell Canyon,US-CA,14-Apr-18,L275399,S44564742
+220,Black Phoebe,6,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+221,Eastern Phoebe,2,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+222,Say's Phoebe,2,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+223,Vermilion Flycatcher,6,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+224,Ash-throated Flycatcher,2,Mt. Diablo SP--Mitchell Canyon,US-CA,14-Apr-18,L275399,S44564742
+225,Great Crested Flycatcher,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+226,Tropical Kingbird,1,Heather Farm Park,US-CA,29-Sep-18,L373922,S48832028
+227,Cassin's Kingbird,1,Reid Park,US-AZ,5-Apr-19,L227274,S54602128
+228,Western Kingbird,2,"Davis-Monthan Air Force Base, Tucson US-AZ (32.1576,-110.8407)",US-AZ,6-Apr-19,L8987461,S54621553
+229,Eastern Kingbird,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+230,White-eyed Vireo,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+231,Bell's Vireo,1,Sam Lena Park and KERP,US-AZ,5-Apr-19,L250145,S54600099
+232,Hutton's Vireo,1,"Mount Diablo State Park, Walnut Creek US-CA (37.8490,-121.9332)",US-CA,17-Jun-18,L7586427,S46616776
+233,Cassin's Vireo,3,"Wente Scout Reservation (39.4183,-123.2830)",US-CA,2-Jul-18,L7655657,S46954373
+234,Plumbeous Vireo,1,Creekside Park (CC Co.) (includes Creek Rd),US-CA,2-Dec-20,L3938464,S76985746
+235,Warbling Vireo,4,Tilden Nature Area--Jewel Lake,US-CA,21-Apr-18,L503349,S44784756
+236,Loggerhead Shrike,2,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+237,Steller's Jay,1,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,1-Apr-18,L7052095,S44158754
+238,Blue Jay,5,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+239,California Scrub-Jay,10,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+240,Mexican Jay,15,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+241,Yellow-billed Magpie,20,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+242,Clark's Nutcracker,3,Markleeville (please use for Yellow-browed Warbler),US-CA,26-Oct-19,L390444,S60952413
+243,American Crow,6,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+244,Fish Crow,8,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+245,Chihuahuan Raven,2,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+246,Common Raven,8,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+247,Carolina Chickadee,8,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+248,Black-capped Chickadee,8,Philomath Sewage Ponds (restricted access),US-OR,23-Sep-19,L493044,S60056848
+249,Mountain Chickadee,1,"Sierra National Forest, Fish Camp US-CA (37.4725,-119.6370)",US-CA,20-Jun-18,L7601184,S46687288
+250,Chestnut-backed Chickadee,3,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,2-Apr-18,L7052095,S44195010
+251,Bridled Titmouse,2,Paton Center for Hummingbirds (Patons' Yard),US-AZ,25-Feb-18,L247122,S43177382
+252,Oak Titmouse,3,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+253,Tufted Titmouse,3,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+254,Verdin,1,"5150 N Sabino Valley Pl, Tucson US-AZ (32.2982,-110.8280)",US-AZ,26-Feb-18,L6983768,S43205900
+255,Horned Lark,1,Sierra Vista EOP,US-AZ,7-Apr-19,L129095,S54671775
+256,Northern Rough-winged Swallow,20,Heather Farm Park,US-CA,16-Mar-19,L373922,S53919854
+257,Purple Martin,25,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+258,Tree Swallow,50,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+259,Violet-green Swallow,10,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+260,Bank Swallow,25,Bradford Island,US-CA,27-Jun-20,L7184579,S70899569
+261,Barn Swallow,1,"(37.7801,-122.1298) Bort Meadow, Redwood Regional Park",US-CA,5-May-18,L7357934,S45366405
+262,Cliff Swallow,1,"Wente Scout Reservation (39.4183,-123.2830)",US-CA,5-Jul-18,L7655657,S47017784
+263,Bushtit,10,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+264,Wrentit,4,Mt. Diablo SP--Mitchell Canyon,US-CA,14-Apr-18,L275399,S44564742
+265,Golden-crowned Kinglet,1,"Sierra National Forest, Fish Camp US-CA (37.4725,-119.6370)",US-CA,21-Jun-18,L7601184,S46700510
+266,Ruby-crowned Kinglet,1,Santa Gertrudis Lane (foot access only),US-AZ,25-Feb-18,L352346,S43185471
+267,Red-breasted Nuthatch,2,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,13-Apr-18,L7052095,S44546149
+268,White-breasted Nuthatch,1,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+269,Pygmy Nuthatch,1,Tilden Regional Park--Inspiration Pt.,US-CA,27-May-19,L675478,S56796440
+270,Brown Creeper,2,Tilden Nature Area--Jewel Lake,US-CA,21-Apr-18,L503349,S44784756
+271,Blue-gray Gnatcatcher,2,"Mount Diablo State Park - Green Ranch Road, Clayton US-CA (37.8702,-121.9250)",US-CA,17-Jun-18,L7588205,S46624428
+272,Black-capped Gnatcatcher,2,Florida Canyon--lower,US-AZ,8-Apr-19,L720787,S54720289
+273,Rock Wren,4,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+274,Canyon Wren,1,Black Diamond Mines Regional Preserve,US-CA,16-Nov-19,L451992,S61493905
+275,House Wren,1,Santa Gertrudis Lane (foot access only),US-AZ,25-Feb-18,L352346,S43185471
+276,Pacific Wren,1,Tilden Nature Area,US-CA,23-Dec-18,L1990362,S50899761
+277,Marsh Wren,15,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+278,Carolina Wren,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+279,Bewick's Wren,2,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+280,Cactus Wren,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+281,American Dipper,4,"Schooner Creek Road (44.9484,-123.9378)",US-OR,23-Sep-19,L9950762,S60064809
+282,European Starling,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+283,Gray Catbird,10,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+284,Curve-billed Thrasher,4,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+285,Brown Thrasher,1,Cape Island--Higbee Beach WMA,US-NJ,2-Aug-18,L109135,S47604247
+286,California Thrasher,1,Mt. Diablo SP--Mitchell Canyon,US-CA,14-Apr-18,L275399,S44564742
+287,Northern Mockingbird,2,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+288,Eastern Bluebird,4,"7203 Brooke Dr, Colleyville US-TX (32.9125,-97.1389)",US-TX,7-May-19,L9208518,S55953818
+289,Western Bluebird,20,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+290,Mountain Bluebird,4,Little Panoche Rd. (FRE Co.),US-CA,16-Feb-20,L1249900,S64597275
+291,Townsend's Solitaire,1,Madera Canyon--Mt. Wrightson Picnic Area & Upper Canyon Trails,US-AZ,6-Apr-19,L296633,S54637135
+292,Varied Thrush,1,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,25-Nov-18,L7052095,S50203068
+293,Swainson's Thrush,3,Mt. Diablo SP--Donner Canyon,US-CA,12-May-18,L807379,S45590889
+294,Hermit Thrush,1,Madera Canyon--Santa Rita Lodge,US-AZ,25-Feb-18,L268114,S43189544
+295,American Robin,1,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,11-Mar-18,L7052095,S43565577
+296,Red-flanked Bluetail,1,UC Los Angeles--William Andrews Clark Memorial Library,US-CA,18-Jan-19,L2282343,S51804856
+297,Cedar Waxwing,20,Pt. Pinole Regional Park,US-CA,3-Sep-18,L109308,S48269250
+298,Phainopepla,5,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+299,House Sparrow,5,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+300,American Pipit,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+301,Pine Grosbeak,3,Silver Lake (AMA Co.),US-CA,22-Feb-20,L382992,S65255552
+302,House Finch,10,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+303,Purple Finch,4,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+304,Cassin's Finch,2,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+305,Red Crossbill,13,"1113 N Highway 101, Depoe Bay US-OR (44.8240,-124.0658)",US-OR,23-Sep-19,L9950313,S60061134
+306,Pine Siskin,5,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,12-Dec-04,L7052095,S56632664
+307,Lesser Goldfinch,10,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+308,Lawrence's Goldfinch,100,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+309,American Goldfinch,1,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,23-Apr-03,L7052095,S56632584
+310,Rufous-winged Sparrow,1,Patagonia Lake SP--Birding Trail,US-AZ,6-Apr-19,L2064166,S54648489
+311,Grasshopper Sparrow,2,Wildcat Canyon Regional Park--Alvarado Park section,US-CA,1-Jun-19,L1976257,S56962271
+312,Chipping Sparrow,1,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+313,Clay-colored Sparrow,1,Miller/Knox Regional Shoreline--Ferry Point,US-CA,8-Sep-20,L864592,S73347672
+314,Black-chinned Sparrow,1,Sibley Volcanic Regional Preserve,US-CA,4-Jun-20,L311906,S70056048
+315,Field Sparrow,1,Hidden Valley Park,US-CA,16-Jan-94,L3107652,S64073449
+316,Brewer's Sparrow,1,West County Wastewater District--Landfill Loop Trail,US-CA,15-Oct-19,L1289459,S60650558
+317,Black-throated Sparrow,1,Sierra Vista EOP,US-AZ,7-Apr-19,L129095,S54671775
+318,Lark Sparrow,40,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+319,Fox Sparrow,1,Paton Center for Hummingbirds (Patons' Yard),US-AZ,25-Feb-18,L247122,S43177382
+320,Dark-eyed Junco,6,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+321,Yellow-eyed Junco,1,Madera Canyon--Santa Rita Lodge,US-AZ,25-Feb-18,L268114,S43189544
+322,White-crowned Sparrow,20,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+323,Golden-crowned Sparrow,8,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+324,Harris's Sparrow,1,Diablo Foothills Regional Park/Castle Rock Park,US-CA,16-Mar-19,L387747,S53919038
+325,White-throated Sparrow,1,Sierra Vista EOP,US-AZ,7-Apr-19,L129095,S54671775
+326,Bell's Sparrow,3,"Mount Diablo State Park, Clayton US-CA (37.8686,-121.9089)",US-CA,17-Jun-18,L7586426,S46616769
+327,Vesper Sparrow,3,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+328,Seaside Sparrow,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,5-Aug-19,L109133,S58766322
+329,Savannah Sparrow,2,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+330,Song Sparrow,1,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+331,Lincoln's Sparrow,2,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+332,Swamp Sparrow,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,30-Mar-19,L596210,S54375475
+333,Canyon Towhee,4,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+334,Abert's Towhee,2,"5150 N Sabino Valley Pl, Tucson US-AZ (32.2982,-110.8280)",US-AZ,26-Feb-18,L6983768,S43205900
+335,California Towhee,4,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+336,Rufous-crowned Sparrow,1,Madera Canyon--Santa Rita Lodge,US-AZ,25-Feb-18,L268114,S43189544
+337,Green-tailed Towhee,2,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+338,Spotted Towhee,2,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+339,Eastern Towhee,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+340,Yellow-breasted Chat,1,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,19-Sep-18,L7052095,S48618709
+341,Yellow-headed Blackbird,60,"Sherman Island - CBC Area 5 (38.1231,-121.6905)",US-CA,27-Dec-18,L8312391,S51008692
+342,Western Meadowlark,6,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+343,Orchard Oriole,3,Cape Island--Higbee Beach WMA,US-NJ,2-Aug-18,L109135,S47604247
+344,Hooded Oriole,2,Bacon Court/Way,US-CA,13-May-18,L7404911,S45653408
+345,Bullock's Oriole,1,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,26-Jul-18,L7052095,S47463294
+346,Scott's Oriole,6,Ash Canyon Bird Sanctuary (closed Thursday morning; formerly Ash Canyon B&B),US-AZ,7-Apr-19,L199300,S54692805
+347,Red-winged Blackbird,6,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+348,Tricolored Blackbird,31,Moonglow Dairy,US-CA,17-Nov-18,L306035,S50006695
+349,Bronzed Cowbird,6,Kennedy Park,US-AZ,5-Apr-19,L272736,S54597819
+350,Brown-headed Cowbird,3,"Wente Scout Reservation (39.4183,-123.2830)",US-CA,4-Jul-18,L7655657,S46993806
+351,Brewer's Blackbird,10,Mines Rd.--MP 4.05 (ALA Co.),US-CA,3-Oct-16,L1487752,S31960211
+352,Common Grackle,1,Cape Island--Higbee Beach WMA,US-NJ,2-Aug-18,L109135,S47604247
+353,Great-tailed Grackle,1,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+354,Northern Waterthrush,1,Creekside Park (CC Co.),US-CA,16-Sep-20,L1764189,S73667942
+355,Black-and-white Warbler,1,Cape Island--Higbee Beach WMA,US-NJ,9-Aug-19,L109135,S58852488
+356,Tennessee Warbler,1,Miller/Knox Regional Shoreline--Ferry Point,US-CA,29-Sep-19,L864592,S60212054
+357,Orange-crowned Warbler,1,"5150 N Sabino Valley Pl, Tucson US-AZ (32.2982,-110.8280)",US-AZ,26-Feb-18,L6983768,S43205900
+358,Lucy's Warbler,4,Patagonia Lake SP--Birding Trail,US-AZ,6-Apr-19,L2064166,S54648489
+359,Nashville Warbler,1,Mt. Diablo SP--Mitchell Canyon,US-CA,27-Apr-19,L275399,S55480559
+360,MacGillivray's Warbler,1,Tilden Regional Park--Inspiration Pt.,US-CA,27-May-19,L675478,S56796440
+361,Common Yellowthroat,2,"Wente Scout Reservation (39.4183,-123.2830)",US-CA,2-Jul-18,L7655657,S46954373
+362,American Redstart,1,"7203 Brooke Dr, Colleyville US-TX (32.9125,-97.1389)",US-TX,9-May-19,L9208518,S56045345
+363,Yellow Warbler,3,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+364,Chestnut-sided Warbler,1,Booker T Anderson Park,US-CA,27-Sep-20,L6980572,S74123630
+365,Yellow-rumped Warbler,15,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+366,Black-throated Gray Warbler,1,Santa Gertrudis Lane (foot access only),US-AZ,25-Feb-18,L352346,S43185471
+367,Townsend's Warbler,1,Ellis Lake Park,US-CA,7-Sep-18,L1449880,S48344768
+368,Hermit Warbler,1,"Wente Scout Reservation (39.4183,-123.2830)",US-CA,2-Jul-18,L7655657,S46954373
+369,Wilson's Warbler,10,Tilden Nature Area--Jewel Lake,US-CA,21-Apr-18,L503349,S44784756
+370,Painted Redstart,1,Madera Canyon--Mt. Wrightson Picnic Area & Upper Canyon Trails,US-AZ,6-Apr-19,L296633,S54637135
+371,Hepatic Tanager,2,Madera Canyon--Santa Rita Lodge,US-AZ,25-Feb-18,L268114,S43189544
+372,Summer Tanager,1,"Mount Diablo State Park - Green Ranch Road, Clayton US-CA (37.8702,-121.9250)",US-CA,23-Jun-19,L7588205,S57629229
+373,Western Tanager,2,"75 Bacon Ct, Lafayette US-CA (37.9065,-122.0851)",US-CA,25-May-18,L7052095,S46011144
+374,Northern Cardinal,1,"5150 N Sabino Valley Pl, Tucson US-AZ (32.2982,-110.8280)",US-AZ,24-Feb-18,L6983768,S43160021
+375,Pyrrhuloxia,6,Arizona,US-AZ,24-Feb-18,L108915,S43159628
+376,Rose-breasted Grosbeak,1,Pt. Pinole Regional Park,US-CA,3-Sep-18,L109308,S48269250
+377,Black-headed Grosbeak,3,Tilden Nature Area--Jewel Lake,US-CA,21-Apr-18,L503349,S44784756
+378,Blue Grosbeak,1,Edwin B. Forsythe NWR (formerly Brig),US-NJ,30-Jul-18,L109133,S47554169
+379,Lazuli Bunting,6,Mt. Diablo SP--Donner Canyon,US-CA,12-May-18,L807379,S45590889
+380,Indigo Bunting,1,"Mount Diablo State Park - Green Ranch Road, Clayton US-CA (37.8702,-121.9250)",US-CA,17-Jun-18,L7588205,S46624428

@@ -18,8 +18,8 @@
   grid-template-areas: 'header curated'
     'photo main';
   grid-template-columns: 320px 1fr;
-  grid-template-rows: 40px 1fr;
-  padding-top: 20px;
+  grid-template-rows: 32px 1fr;
+  padding-top: 15px;
   padding-bottom: 10px;
   border-bottom: 1px solid #d3d3d3;
 }
@@ -30,8 +30,8 @@
   grid-template-areas: 'header'
     'photo'
     'main';
-  grid-template-rows: 40px 1fr 20px;
-  padding-top: 20px;
+  grid-template-rows: 32px 1fr 20px;
+  padding-top: 15px;
   padding-bottom: 10px;
   border-bottom: 1px solid #d3d3d3;
 }
@@ -65,7 +65,7 @@
 }
 
 .speciesNameGrid {
-  font-size: 22px;
+  font-size: 19px;
   font-weight: bold;
   padding-bottom: 1px;
 }

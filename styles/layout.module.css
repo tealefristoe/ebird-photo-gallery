@@ -33,3 +33,11 @@
   grid-column-gap: 10px;
   margin: auto;
 }
+
+.compactContainer {
+  max-width: 1080px;
+  display: grid;
+  grid-template-columns: 320px 320px 320px;
+  grid-column-gap: 40px;
+  margin: auto;
+}

@@ -24,12 +24,24 @@
   border-bottom: 1px solid #d3d3d3;
 }
 
-.speciesRow a, .speciesRowGrid a {
+.speciesRowCompact {
+  width: 340px;
+  display: grid;
+  grid-template-areas: 'header'
+    'photo'
+    'main';
+  grid-template-rows: 40px 1fr 20px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d3d3d3;
+}
+
+.speciesRow a, .speciesRowGrid a, .speciesRowCompact a {
   color: #2c75c9;
   text-decoration: none;
 }
 
-.speciesRow a:hover, .speciesRow a:focus, .speciesRowGrid a:hover, .speciesRowGrid a:focus {
+.speciesRow a:hover, .speciesRow a:focus, .speciesRowGrid a:hover, .speciesRowGrid a:focus, .speciesRowCompact a:hover, .speciesRowCompact a:focus {
   color: #315985;
 }
 
@@ -82,6 +94,11 @@
 }
 
 .photoGrid {
+  grid-area: photo;
+  text-align: left;
+}
+
+.photoCompact {
   grid-area: photo;
   text-align: left;
 }

@@ -120,7 +120,7 @@ export default class Home extends React.Component {
               photoPreference={this.state.photoPreference}
               photoPreferenceFunction={pref => this.updatePreference('photoPreference', pref)}
             />
-            <div className={this.state.layout == 'list' ? styles.listContainer : this.state.layout == 'grid' ? styles.gridContainer : styles.listContainer}>
+            <div className={this.state.layout == 'list' ? styles.listContainer : this.state.layout == 'grid' ? styles.gridContainer : this.state.layout == 'compact' ? styles.compactContainer : styles.gridContainer}>
               {processedList.map(photoData => {
                 return (<SpeciesRow
                   user={this.state.user}

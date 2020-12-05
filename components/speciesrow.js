@@ -102,6 +102,35 @@ export default class SpeciesRow extends React.Component {
               : <div className={speciesRowStyles.photoInfoGrid} />}
           </div>
         )
+      } else if (this.props.layout == 'compact') {
+        return (
+          <div className={speciesRowStyles.speciesRowCompact}>
+            <div className={speciesRowStyles.speciesHeader}>
+              {photo
+                ? (<div>
+                    <span className={speciesRowStyles.speciesNameGrid}><a href={photo[bk.photoSpeciesUrl]}>{birdName}</a></span>
+                  </div>)
+                : <div className={`${speciesRowStyles.speciesNameGrid} ${speciesRowStyles.missing}`}>{birdName}</div>}
+            </div>
+            <div className={speciesRowStyles.photoCompact}>
+              {photoData.display
+                ? (<a href={photo[bk.photoSpecimenUrl]}><img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} /></a>)
+                : photoData.reason == "noPhoto"
+                ? <span className={speciesRowStyles.missing}>Missing photo</span>
+                : photoData.reason == "noCurated"
+                ? <span className={speciesRowStyles.lowQuality}>No curated photo</span>
+                : photoData.reason == "lowQuality"
+                ? <span className={speciesRowStyles.lowQuality}>Quality too low</span>
+                : <span className={speciesRowStyles.missing}>Cannot display photo for unknown reason</span>
+              }
+            </div>
+            {photo
+              ? (<div className={speciesRowStyles.photoInfoGrid}>
+                  <div>{this.displayTypeLabel(photoData)}</div>
+                </div>)
+              : <div className={speciesRowStyles.photoInfoGrid} />}
+          </div>
+        )
       // Unknown layout
       } else {
         return ''

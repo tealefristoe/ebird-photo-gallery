@@ -38,6 +38,6 @@
   max-width: 1080px;
   display: grid;
   grid-template-columns: 320px 320px 320px;
-  grid-column-gap: 40px;
+  grid-column-gap: 60px;
   margin: auto;
 }

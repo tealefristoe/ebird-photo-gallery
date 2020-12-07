@@ -1,0 +1,601 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Black-bellied Whistling-Duck,,Bird Island,US-LA,19 Feb 2013,L933572,S16307236
+2,Emperor Goose,1,Sharp Park Beaches,US-CA,11 Feb 2017,L483011,S34307872
+3,Snow Goose,110,Sonny Bono Salton Sea NWR--Rock Hill Trail,US-CA,16 Jan 2009,L465122,S33563146
+4,Ross's Goose,,Lake Elizabeth,US-CA,04 Dec 2008,L452554,S19245826
+5,Greater White-fronted Goose,,Coyote Hills Regional Park,US-CA,16 Mar 2007,L216132,S19254052
+6,Brant,3,Pigeon Pt.,US-CA,05 Jul 2012,L271476,S33642037
+7,Cackling Goose,,Coyote Hills Regional Park,US-CA,16 Mar 2007,L216132,S19254052
+8,Canada Goose,2,North Chagrin Nature Center Trails,US-OH,19 Apr 2003,L383892,S33483043
+9,Mute Swan,2,Palace of Fine Arts,US-CA,02 Jul 2003,L553325,S33483271
+10,Trumpeter Swan,2,Magee Marsh--Migratory Bird Center and Trails,US-OH,10 May 2016,L756392,S38431418
+11,Tundra Swan,1,Woodbridge Ecological Reserve (Isenberg Crane Reserve),US-CA,24 Nov 2019,L299325,S61730674
+12,Common Shelduck,3,宜蘭竹安IBA--塭底(Zhu'an IBA--Wendi),TW-ILA,29 Dec 2014,L2897595,S33769659
+13,Wood Duck,6,North Chagrin Nature Center Trails,US-OH,19 Apr 2003,L383892,S33483043
+14,Mandarin Duck,1,Lake Elizabeth,US-CA,19 Feb 2020,L452554,S64771157
+15,Garganey,1,嘉義鰲鼓濕地IBA--南堤(Aogu Wetland IBA--South Area),TW-CYQ,01 Jan 2015,L1070437,S33772661
+16,Blue-winged Teal,,Coyote Hills Regional Park,US-CA,06 Mar 2007,L216132,S19253902
+17,Cinnamon Teal,,Coyote Hills Regional Park,US-CA,03 Dec 2006,L216132,S19317387
+18,Northern Shoveler,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,05 Jan 2006,L683229,S19271521
+19,Gadwall,,Alameda Creek--Niles Staging Area,US-CA,30 Jan 2007,L2271521,S19317958
+20,Eurasian Wigeon,2,Coyote Hills Regional Park,US-CA,03 Jan 2007,L216132,S19249308
+21,American Wigeon,,Coyote Hills Regional Park,US-CA,03 Dec 2006,L216132,S19317387
+22,Eastern Spot-billed Duck,9,花蓮--美崙溪(Hualien--Meilun River),TW-HUA,08 Feb 2014,L4354709,S33759150
+23,Mallard,2,North Chagrin Nature Center Trails,US-OH,19 Apr 2003,L383892,S33483043
+24,American Black Duck,1,Sandy Ridge Reservation,US-OH,21 Aug 2004,L213276,S33485516
+25,Northern Pintail,,Coyote Hills Regional Park,US-CA,03 Dec 2006,L216132,S19317387
+26,Green-winged Teal,,Coyote Hills Regional Park,US-CA,21 Dec 2006,L216132,S19317483
+27,Canvasback,,Don Edwards NWR (ALA Co.),US-CA,30 Jan 2007,L500360,S19317979
+28,Redhead,,Lake Merritt,US-CA,26 Dec 2011,L268122,S16411703
+29,Common Pochard,2,宜蘭利澤簡IBA--五十二甲溼地(Lizejian IBA--52-Jia Wetland),TW-ILA,29 Dec 2014,L3262837,S33770616
+30,Ring-necked Duck,,Garin/Dry Creek Pioneer Regional Park,US-CA,16 Jan 2007,L381784,S19317659
+31,Tufted Duck,1,Lake Merritt,US-CA,23 Feb 2008,L268122,S19247883
+32,Greater Scaup,,Alameda Creek--Niles Staging Area,US-CA,30 Jan 2007,L2271521,S19317958
+33,Lesser Scaup,,Alameda Creek--Niles Staging Area,US-CA,30 Jan 2007,L2271521,S19317958
+34,Harlequin Duck,1,Miller/Knox Regional Shoreline,US-CA,12 Feb 2011,L593834,S16392042
+35,Surf Scoter,,MLK Jr. Regional Shoreline--Garretson Pt.,US-CA,09 Feb 2008,L492576,S19247720
+36,White-winged Scoter,2,San Leandro Marina,US-CA,17 Jan 2013,L582754,S13865410
+37,Black Scoter,1,Richmond Marina,US-CA,05 Dec 2012,L615495,S33748018
+38,Long-tailed Duck,1,Coyote Point County Park--harbor and marsh,US-CA,24 Jul 2012,L997003,S33642996
+39,Bufflehead,,Don Edwards NWR (ALA Co.),US-CA,09 Jan 2006,L500360,S19271647
+40,Common Goldeneye,,Coyote Hills Regional Park,US-CA,08 Jan 2007,L216132,S19317520
+41,Barrow's Goldeneye,,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,23 Feb 2008,L161083,S19247903
+42,Hooded Merganser,2,Garin/Dry Creek Pioneer Regional Park,US-CA,16 Jan 2007,L381784,S19317659
+43,Common Merganser,,Alameda Creek--Niles Staging Area,US-CA,12 Feb 2008,L2271521,S19247748
+44,Red-breasted Merganser,1,Victoria Harbour,CA-BC,12 Apr 2007,L1168111,S33540646
+45,Ruddy Duck,,Lake Elizabeth,US-CA,22 Feb 2006,L452554,S19271776
+46,California Quail,,Garin/Dry Creek Pioneer Regional Park,US-CA,16 Jan 2007,L381784,S19317659
+47,Gambel's Quail,2,Golf Club at Terra Lago,US-CA,24 Jun 2010,L5245593,S33594186
+48,Gray Francolin,,Maui Lu Resort,US-HI,23 Jul 2013,L2520655,S16326687
+49,Ring-necked Pheasant,,Coyote Hills Regional Park,US-CA,04 Mar 2007,L216132,S19249362
+50,Swinhoe's Pheasant,3,台中大雪山IBA--大雪山林道15-35K(標示在27K附近)(Dasyueshan IBA--Dasyueshan Forest-Road 15-35K),TW-TXG,15 Mar 2019,L2259760,S54441317
+51,White-tailed Ptarmigan,6,Jasper SkyTram,CA-AB,24 Aug 2019,L9844187,S59300618
+52,Dusky Grouse,2,Twin Creeks,US-MT,20 Sep 2011,L5246546,S33599933
+53,Sooty Grouse,2,Tahoe Summit Village,US-NV,18 Nov 2016,L5091379,S32619986
+54,Wild Turkey,,Sunol Regional Wilderness--Visitor Center area,US-CA,29 Dec 2006,L1342147,S19272191
+55,Chilean Flamingo,1,Coyote Hills Regional Park,US-CA,08 Feb 2008,L216132,S19247584
+56,Little Grebe,3,台北--陽光運動公園(Taipei--Yangguang Sports Park),TW-TPQ,03 Feb 2014,L5273528,S33758994
+57,Pied-billed Grebe,1,Sandy Ridge Reservation,US-OH,21 Aug 2004,L213276,S33485516
+58,Horned Grebe,1,Victoria Harbour,CA-BC,12 Apr 2007,L1168111,S33540646
+59,Red-necked Grebe,1,Victoria Harbour,CA-BC,12 Apr 2007,L1168111,S33540646
+60,Eared Grebe,,Don Edwards NWR (ALA Co.),US-CA,17 Jan 2006,L500360,S19271688
+61,Western Grebe,,Quarry Lakes Regional Park,US-CA,10 Jun 2006,L481727,S19271804
+62,Clark's Grebe,,Quarry Lakes Regional Park,US-CA,17 Jun 2006,L481727,S19271903
+63,Rock Pigeon,,Union City Library Pond and Park,US-CA,08 Mar 2007,L808386,S19253968
+64,White-crowned Pigeon,1,Garrison Bight Marina,US-FL,20 Apr 2009,L3545927,S33576430
+65,Band-tailed Pigeon,,Garin/Dry Creek Pioneer Regional Park,US-CA,02 Jul 2008,L381784,S19242787
+66,Oriental Turtle-Dove,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+67,Eurasian Collared-Dove,1,Sonny Bono Salton Sea NWR--Rock Hill Trail,US-CA,16 Jan 2009,L465122,S33563146
+68,African Collared-Dove,1,Warm Springs vernal pools,US-CA,16 Feb 2017,L3543401,S34412495
+69,Red Collared-Dove,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+70,Spotted Dove,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+71,Zebra Dove,,Maui Lu Resort,US-HI,23 Jul 2013,L2520655,S16326687
+72,Inca Dove,8,Blucher Park (CTC 071),US-TX,23 Feb 2012,L374130,S18738952
+73,White-winged Dove,1,Kelly Hamby Nature Trail,US-TX,22 Feb 2012,L3563912,S33604308
+74,Mourning Dove,2,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+75,Greater Roadrunner,2,Golf Club at Terra Lago,US-CA,24 Jun 2010,L5245593,S33594186
+76,Lesser Coucal,1,台北--陽光運動公園(Taipei--Yangguang Sports Park),TW-TPQ,10 Feb 2018,L5273528,S42630996
+77,Common Nighthawk,1,Ottawa NWR--Crane Creek Estuary Trail,US-OH,12 May 2016,L1512917,S29864746
+78,Common Poorwill,1,Coyote Hills Regional Park,US-CA,18 Oct 2010,L216132,S19219465
+79,Black Swift,3,Kananaskis--Grassi Lakes,CA-AB,30 Aug 2016,L3655880,S31336930
+80,Chimney Swift,2,Big Creek Reservation--Lake Isaac,US-OH,05 May 2016,L416864,S29431563
+81,Vaux's Swift,3,Vasona Lake County Park,US-CA,21 Aug 2012,L210223,S33738490
+82,House Swift,3,陽明山NP--二子坪步道(Yangmingshan NP--Erziping Trail),TW-TPQ,17 Aug 2014,L4807208,S33766801
+83,White-throated Swift,1,Pearson-Arastradero Preserve,US-CA,03 Jul 2008,L372053,S33552563
+84,Ruby-throated Hummingbird,2,Penitentiary Glen Reservation,US-OH,06 Jun 2004,L280336,S33490664
+85,Black-chinned Hummingbird,,Coyote Hills Regional Park,US-CA,31 Aug 2012,L216132,S16380126
+86,Anna's Hummingbird,,Laredo Drive,US-CA,23 Jul 2006,L2518365,S19271923
+87,Costa's Hummingbird,2,Golf Club at Terra Lago,US-CA,24 Jun 2010,L5245593,S33594186
+88,Rufous Hummingbird,1,Coyote Hills Regional Park,US-CA,12 Mar 2009,L216132,S19220836
+89,Allen's Hummingbird,,Coyote Hills Regional Park,US-CA,04 Apr 2008,L216132,S19242685
+90,Calliope Hummingbird,,Garin/Dry Creek Pioneer Regional Park,US-CA,15 Apr 2010,L381784,S16358450
+91,Ridgway's Rail,,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,16 Feb 2008,L161083,S19247823
+92,Virginia Rail,,Coyote Hills Regional Park,US-CA,09 Oct 2009,L216132,S19235609
+93,Brown-cheeked Rail,1,台北金山--清水濕地(Jinshan--Qingshui Wetland),TW-TPQ,04 Jan 2015,L3471455,S33782250
+94,Sora,,Coyote Hills Regional Park,US-CA,03 Apr 2008,L216132,S19242678
+95,Eurasian Moorhen,2,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+96,Common Gallinule,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,06 Jan 2006,L683229,S19271614
+97,Eurasian Coot,1,宜蘭利澤簡IBA--五十二甲溼地(Lizejian IBA--52-Jia Wetland),TW-ILA,29 Dec 2014,L3262837,S33770616
+98,American Coot,1,North Chagrin Nature Center Trails,US-OH,23 May 2004,L383892,S33483743
+99,White-breasted Waterhen,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,18 Dec 2009,L2314029,S33586384
+100,Ruddy-breasted Crake,1,嘉義鰲鼓濕地IBA--南堤(Aogu Wetland IBA--South Area),TW-CYQ,01 Jan 2015,L1070437,S33772661
+101,Black Rail,1,Coyote Hills Regional Park,US-CA,18 Dec 2011,L216132,S16411699
+102,Siberian Crane,1,台北金山--清水濕地(Jinshan--Qingshui Wetland),TW-TPQ,04 Jan 2015,L3471455,S33782250
+103,Sandhill Crane,2,Sandy Ridge Reservation,US-OH,21 Aug 2004,L213276,S33485516
+104,Black-winged Stilt,200,宜蘭利澤簡IBA--五十二甲溼地(Lizejian IBA--52-Jia Wetland),TW-ILA,29 Dec 2014,L3262837,S33770616
+105,Black-necked Stilt,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,05 Jan 2006,L683229,S19271521
+106,Pied Avocet,50,嘉義鰲鼓濕地IBA--南堤(Aogu Wetland IBA--South Area),TW-CYQ,01 Jan 2015,L1070437,S33772661
+107,American Avocet,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,05 Jan 2006,L683229,S19271521
+108,American Oystercatcher,1,Patriot's Point - Sparrow Field,US-SC,25 May 2006,L2173699,S33527562
+109,Black Oystercatcher,4,Bodega Head - offshore species and the bluff ONLY,US-CA,01 Sep 2008,L606176,S33553535
+110,Black-bellied Plover,,MLK Jr. Regional Shoreline--Garretson Pt.,US-CA,09 Feb 2008,L492576,S19247720
+111,American Golden-Plover,1,Don Edwards NWR (ALA Co.),US-CA,29 Dec 2016,L500360,S33280381
+112,Pacific Golden-Plover,1,Don Edwards NWR (SCL Co.) (please use a more specific hotspot where possible),US-CA,21 May 2012,L231517,S33639966
+113,Lesser Sand-Plover,1,桃園大坪頂與許厝港IBA--新街-埔心溪口間潮間帶(Dapingding and Hsutsuo Harbor IBA--Intertidal Area between Xinjie & Puxin River),TW-TAO,05 Feb 2017,L4388838,S34239716
+114,Kentish Plover,7,嘉義鰲鼓濕地IBA--西堤(Aogu Wetland IBA--West Area),TW-CYQ,01 Jan 2015,L4196976,S33771422
+115,Snowy Plover,7,Pomponio SB,US-CA,23 Oct 2005,L998018,S33524513
+116,Semipalmated Plover,1,Coyote Hills Regional Park,US-CA,18 Jan 2007,L216132,S19317697
+117,Long-billed Plover,1,台北--田寮洋濕地(Taipei--Tianliaoyang Wetland),TW-TPQ,30 Jan 2017,L3242640,S34054507
+118,Little Ringed Plover,1,台北--陽光運動公園(Taipei--Yangguang Sports Park),TW-TPQ,03 Feb 2014,L5273528,S33758994
+119,Killdeer,,Coyote Hills Regional Park,US-CA,02 Sep 2006,L216132,S19272159
+120,Greater Painted-Snipe,1,台北--陽光運動公園(Taipei--Yangguang Sports Park),TW-TPQ,06 Feb 2018,L5273528,S42545113
+121,Whimbrel,1,Radio Rd.,US-CA,26 Dec 2008,L271480,S33555502
+122,Long-billed Curlew,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,05 Jan 2006,L683229,S19271521
+123,Eurasian Curlew,38,嘉義鰲鼓濕地IBA--西堤(Aogu Wetland IBA--West Area),TW-CYQ,01 Jan 2015,L4196976,S33771422
+124,Bar-tailed Godwit,1,Middle Harbor Shoreline Park,US-CA,04 Sep 2016,L774817,S31416752
+125,Black-tailed Godwit,9,嘉義鰲鼓濕地IBA--南堤(Aogu Wetland IBA--South Area),TW-CYQ,01 Jan 2015,L1070437,S33772661
+126,Hudsonian Godwit,1,Tunitas Creek beach -- west of Hwy 1 only,US-CA,18 Oct 2019,L951031,S60730443
+127,Marbled Godwit,,Don Edwards NWR (ALA Co.),US-CA,23 Aug 2006,L500360,S19271973
+128,Ruddy Turnstone,1,Nassau--Atlantis Paradise Island--Atlantis Lagoon,BS-NP,23 Apr 2009,L1422619,S33576482
+129,Black Turnstone,3,Bodega Bay--north shore (includes rail ponds),US-CA,01 Sep 2008,L1107853,S33553433
+130,Red Knot,1,Radio Rd.,US-CA,26 Dec 2008,L271480,S33555502
+131,Surfbird,,Hayward Regional Shoreline,US-CA,31 Jan 2010,L225431,S16416715
+132,Ruff,1,Crittenden Marsh (Stevens Creek Nature Study Area),US-CA,22 Jan 2012,L759446,S33601710
+133,Stilt Sandpiper,1,Coyote Hills Regional Park,US-CA,02 Aug 2013,L216132,S16329156
+134,Red-necked Stint,50,宜蘭蘭陽溪口IBA--南岸(Lanyang River Estuary IBA--South Shore),TW-ILA,29 Dec 2014,L2441387,S33770034
+135,Sanderling,5,Pomponio SB,US-CA,23 Oct 2005,L998018,S33524513
+136,Dunlin,,Coyote Hills Regional Park,US-CA,02 Sep 2006,L216132,S19272159
+137,Rock Sandpiper,1,Heron's Head Park,US-CA,03 Nov 2019,L502380,S61162875
+138,Baird's Sandpiper,,Coyote Hills Regional Park,US-CA,11 Aug 2011,L216132,S16358771
+139,Little Stint,1,Alviso Marina County Park (please use a specific pond hotspot where possible),US-CA,23 Apr 2016,L296043,S29161274
+140,Least Sandpiper,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,06 Jan 2006,L683229,S19271614
+141,Buff-breasted Sandpiper,1,West County Wastewater District--Sewage Ponds,US-CA,26 Aug 2018,L848605,S48098908
+142,Pectoral Sandpiper,2,Coyote Hills Regional Park,US-CA,29 Aug 2012,L216132,S11469390
+143,Semipalmated Sandpiper,1,Hayward Regional Shoreline,US-CA,16 Aug 2010,L225431,S19216576
+144,Western Sandpiper,,Don Edwards NWR (ALA Co.),US-CA,23 Aug 2006,L500360,S19271973
+145,Short-billed Dowitcher,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,06 Jan 2006,L683229,S19271614
+146,Long-billed Dowitcher,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,05 Jan 2006,L683229,S19271521
+147,American Woodcock,1,Magee Marsh--Boardwalk,US-OH,11 May 2016,L275986,S38432173
+148,Common Snipe,4,宜蘭利澤簡IBA--五十二甲溼地(Lizejian IBA--52-Jia Wetland),TW-ILA,29 Dec 2014,L3262837,S33770616
+149,Wilson's Snipe,,Quarry Lakes Regional Park,US-CA,20 Jan 2007,L481727,S19317752
+150,Wilson's Phalarope,,Don Edwards NWR (ALA Co.),US-CA,26 Aug 2006,L500360,S19272017
+151,Red-necked Phalarope,,Don Edwards NWR (ALA Co.),US-CA,23 Aug 2006,L500360,S19271973
+152,Red Phalarope,3,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+153,Common Sandpiper,1,台北--陽光運動公園(Taipei--Yangguang Sports Park),TW-TPQ,03 Feb 2014,L5273528,S33758994
+154,Spotted Sandpiper,,Alameda Creek--Niles Staging Area,US-CA,12 Feb 2008,L2271521,S19247748
+155,Green Sandpiper,2,台北--田寮洋濕地(Taipei--Tianliaoyang Wetland),TW-TPQ,30 Jan 2017,L3242640,S34054507
+156,Solitary Sandpiper,1,Tilden Regional Park--Botanic Garden,US-CA,06 Sep 2010,L630069,S33595094
+157,Wandering Tattler,,San Leandro Marina,US-CA,13 Aug 2011,L582754,S16411574
+158,Spotted Redshank,1,嘉義鰲鼓濕地IBA--南堤(Aogu Wetland IBA--South Area),TW-CYQ,01 Jan 2015,L1070437,S33772661
+159,Greater Yellowlegs,,Don Edwards NWR (ALA Co.),US-CA,23 Aug 2006,L500360,S19271973
+160,Common Greenshank,1,嘉義鰲鼓濕地IBA--西堤(Aogu Wetland IBA--West Area),TW-CYQ,01 Jan 2015,L4196976,S33771422
+161,Willet,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,05 Jan 2006,L683229,S19271521
+162,Lesser Yellowlegs,2,Coyote Hills Regional Park,US-CA,18 Mar 2009,L216132,S19220849
+163,Marsh Sandpiper,2,宜蘭竹安IBA--塭底(Zhu'an IBA--Wendi),TW-ILA,29 Dec 2014,L2897595,S33769659
+164,Wood Sandpiper,6,宜蘭竹安IBA--塭底(Zhu'an IBA--Wendi),TW-ILA,29 Dec 2014,L2897595,S33769659
+165,Common Redshank,8,嘉義鰲鼓濕地IBA--西堤(Aogu Wetland IBA--West Area),TW-CYQ,01 Jan 2015,L4196976,S33771422
+166,Pomarine Jaeger,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+167,Parasitic Jaeger,2,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+168,Long-tailed Jaeger,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+169,Common Murre,1,Hayward Regional Shoreline,US-CA,07 Jun 2009,L225431,S16359371
+170,Pigeon Guillemot,1,Pillar Point Harbor,US-CA,13 Jun 2012,L242192,S33641657
+171,Scripps's Murrelet,2,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+172,Cassin's Auklet,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+173,Rhinoceros Auklet,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+174,Tufted Puffin,2,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+175,Sabine's Gull,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+176,Bonaparte's Gull,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,03 Aug 2007,L683229,S19248555
+177,Black-headed Gull,2,嘉義鰲鼓濕地IBA--西堤(Aogu Wetland IBA--West Area),TW-CYQ,01 Jan 2015,L4196976,S33771422
+178,Ross's Gull,1,"stakeout Ross's Gull, ag field near Half Moon Bay Airport (2017)",US-CA,13 Jan 2017,L5258551,S33652061
+179,Laughing Gull,50,Patriot's Point - Sparrow Field,US-SC,25 May 2006,L2173699,S33527562
+180,Heermann's Gull,40,Pomponio SB,US-CA,23 Oct 2005,L998018,S33524513
+181,Mew Gull,1,Radio Rd.,US-CA,26 Dec 2008,L271480,S33555502
+182,Ring-billed Gull,2,Sandy Ridge Reservation,US-OH,18 Sep 2004,L213276,S33492987
+183,Western Gull,20,Palace of Fine Arts,US-CA,02 Jul 2003,L553325,S33483271
+184,California Gull,20,Pomponio SB,US-CA,23 Oct 2005,L998018,S33524513
+185,Herring Gull,,Coyote Hills Regional Park,US-CA,09 Mar 2007,L216132,S19254009
+186,Iceland Gull,,Pacific Commons Linear Park,US-CA,16 Feb 2010,L791702,S16417676
+187,Lesser Black-backed Gull,1,San Leandro Marina,US-CA,01 Mar 2013,L582754,S16307578
+188,Slaty-backed Gull,1,Pacific Commons Linear Park,US-CA,18 Nov 2011,L791702,S16411675
+189,Glaucous-winged Gull,4,Victoria Harbour,CA-BC,12 Apr 2007,L1168111,S33540646
+190,Glaucous Gull,1,Pacific Commons Linear Park,US-CA,30 Nov 2010,L791702,S19220415
+191,Least Tern,7,Bolsa Chica Ecological Reserve,US-CA,14 Aug 2009,L164929,S33582024
+192,Caspian Tern,,Lake Elizabeth,US-CA,02 Aug 2007,L452554,S19248511
+193,Black Tern,2,Hayward Regional Shoreline--Interpretive Center,US-CA,02 May 2017,L587721,S36502477
+194,Whiskered Tern,10,嘉義--東石台82末端魚塭(Chiayi--Dongshi Fish Farm next to Provincial HWY No.82 Terminal),TW-CYQ,01 Jan 2015,L3663021,S33771225
+195,Common Tern,1,Harbor Bay Parkway,US-CA,04 May 2010,L833683,S19214435
+196,Arctic Tern,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+197,Forster's Tern,,Don Edwards NWR (ALA Co.),US-CA,22 Aug 2006,L500360,S19271950
+198,Royal Tern,25,Patriot's Point - Sparrow Field,US-SC,25 May 2006,L2173699,S33527562
+199,Elegant Tern,5,Bolsa Chica--walkbridge/inner bay,US-CA,16 Jul 2008,L1165694,S33552685
+200,Black Skimmer,20,Patriot's Point - Sparrow Field,US-SC,25 May 2006,L2173699,S33527562
+201,Red-throated Loon,,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,16 Feb 2008,L161083,S19247823
+202,Arctic Loon,1,Ballena Bay,US-CA,31 Dec 2019,L594831,S62825902
+203,Pacific Loon,1,Huntington Beach Pier,US-CA,14 Jan 2009,L500489,S33562813
+204,Common Loon,1,North Chagrin Nature Center Trails,US-OH,19 Apr 2003,L383892,S33483043
+205,Laysan Albatross,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+206,Black-footed Albatross,6,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+207,Fork-tailed Storm-Petrel,20,Pacifica Municipal Pier,US-CA,09 May 2017,L2529687,S36700121
+208,Ashy Storm-Petrel,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+209,Black Storm-Petrel,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+210,Northern Fulmar,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+211,Pink-footed Shearwater,11,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+212,Buller's Shearwater,4,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+213,Sooty Shearwater,3,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+214,Black-vented Shearwater,6,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,02 Sep 2012,L969133,S33738858
+215,Wood Stork,2,Everglades NP (Please consider using more specific locations),US-FL,24 Apr 2009,L3499263,S33576519
+216,Great Frigatebird,,Haleakala NP--Oheo Gulch ( 7 Sacred Pools) and Coastal Kipahulu Area,US-HI,25 Jul 2013,L741647,S16326695
+217,Brown Booby,1,Seaplane Lagoon,US-CA,06 May 2018,L911790,S45395957
+218,Red-footed Booby,1,Presidio--Coast Guard Pier,US-CA,09 Nov 2019,L1745122,S61317575
+219,Northern Gannet,1,Pillar Point Harbor,US-CA,13 Jan 2017,L242192,S33652303
+220,Anhinga,6,Everglades NP (Please consider using more specific locations),US-FL,24 Apr 2009,L3499263,S33576519
+221,Brandt's Cormorant,3,Pomponio SB,US-CA,23 Oct 2005,L998018,S33524513
+222,Pelagic Cormorant,3,Pomponio SB,US-CA,23 Oct 2005,L998018,S33524513
+223,Great Cormorant,1,宜蘭蘭陽溪口IBA--南岸(Lanyang River Estuary IBA--South Shore),TW-ILA,29 Dec 2014,L2441387,S33770034
+224,Double-crested Cormorant,2,Pomponio SB,US-CA,23 Oct 2005,L998018,S33524513
+225,American White Pelican,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,08 Jan 2006,L683229,S19271633
+226,Brown Pelican,3,Pomponio SB,US-CA,23 Oct 2005,L998018,S33524513
+227,American Bittern,,Lake Elizabeth,US-CA,04 Dec 2008,L452554,S19245826
+228,Yellow Bittern,2,台南四草IBA--鹽田生態文化村(Sicao IBA--Salt Pan Cultural Center),TW-TNN,02 Jan 2015,L4401553,S33777869
+229,Cinnamon Bittern,1,嘉義--東石台82末端魚塭(Chiayi--Dongshi Fish Farm next to Provincial HWY No.82 Terminal),TW-CYQ,01 Jan 2015,L3663021,S33771225
+230,Least Bittern,1,Martinez Regional Shoreline Park,US-CA,29 Dec 2010,L192708,S33595173
+231,Great Blue Heron,1,North Chagrin Nature Center Trails,US-OH,11 May 2004,L383892,S33483498
+232,Gray Heron,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+233,Great Egret,1,Sandy Ridge Reservation,US-OH,28 May 2004,L213276,S33484282
+234,Intermediate Egret,3,嘉義鰲鼓濕地IBA--南堤(Aogu Wetland IBA--South Area),TW-CYQ,01 Jan 2015,L1070437,S33772661
+235,Little Egret,2,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+236,Pacific Reef-Heron,2,台北--野柳IBA(Yeliu IBA),TW-TPQ,05 Feb 2017,L1982913,S34239850
+237,Snowy Egret,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,05 Jan 2006,L683229,S19271521
+238,Little Blue Heron,1,Lake Elizabeth,US-CA,19 Jul 2007,L452554,S19248413
+239,Tricolored Heron,2,Everglades NP (Please consider using more specific locations),US-FL,24 Apr 2009,L3499263,S33576519
+240,Reddish Egret,1,Bolsa Chica Ecological Reserve,US-CA,13 Jan 2009,L164929,S33562729
+241,Cattle Egret,,Lake Elizabeth,US-CA,10 Jun 2006,L452554,S19271822
+242,Chinese Pond-Heron,1,桃園--龍潭三坑自然生態公園(Taoyuan--Longtan Sankeng Natural Ecological Park),TW-TAO,03 Feb 2017,L5397704,S34126738
+243,Green Heron,1,Sandy Ridge Reservation,US-OH,28 May 2004,L213276,S33484282
+244,Striated Heron,1,台南四草IBA--鹽田生態文化村(Sicao IBA--Salt Pan Cultural Center),TW-TNN,02 Jan 2015,L4401553,S33777869
+245,Black-crowned Night-Heron,,Don Edwards NWR (ALA Co.),US-CA,09 Jan 2006,L500360,S19271647
+246,Malayan Night-Heron,3,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+247,White Ibis,3,Everglades NP (Please consider using more specific locations),US-FL,24 Apr 2009,L3499263,S33576519
+248,White-faced Ibis,2,Shoreline Park (please use a more specific hotspot where possible),US-CA,24 Nov 2009,L271482,S33585278
+249,African Sacred Ibis,1,嘉義--東石台82末端魚塭(Chiayi--Dongshi Fish Farm next to Provincial HWY No.82 Terminal),TW-CYQ,01 Jan 2015,L3663021,S33771225
+250,Black-faced Spoonbill,22,嘉義鰲鼓濕地IBA--南堤(Aogu Wetland IBA--South Area),TW-CYQ,01 Jan 2015,L1070437,S33772661
+251,Black Vulture,3,Everglades NP (Please consider using more specific locations),US-FL,24 Apr 2009,L3499263,S33576519
+252,Turkey Vulture,,Lake Elizabeth,US-CA,22 Feb 2006,L452554,S19271776
+253,Osprey,,Quarry Lakes Regional Park,US-CA,20 Jan 2007,L481727,S19317752
+254,Black-winged Kite,1,台北金山--清水濕地(Jinshan--Qingshui Wetland),TW-TPQ,04 Jan 2015,L3471455,S33782250
+255,White-tailed Kite,,Coyote Hills Regional Park,US-CA,18 Dec 2006,L216132,S19317452
+256,Crested Serpent-Eagle,1,陽明山NP--二子坪步道(Yangmingshan NP--Erziping Trail),TW-TPQ,17 Aug 2014,L4807208,S33766801
+257,Mountain Hawk-Eagle,1,台中大雪山IBA--大雪山林道15-35K(標示在27K附近)(Dasyueshan IBA--Dasyueshan Forest-Road 15-35K),TW-TXG,15 Mar 2019,L2259760,S54441317
+258,Golden Eagle,,Sunol Regional Wilderness--Visitor Center area,US-CA,11 Apr 2008,L1342147,S19242716
+259,Northern Harrier,,Coyote Hills Regional Park,US-CA,18 Dec 2006,L216132,S19317452
+260,Crested Goshawk,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,05 Jan 2015,L2314029,S33783201
+261,Japanese Sparrowhawk,1,台北華江IBA--華江雁鴨公園(華江橋至中興橋)(Huajiang IBA--Huajiang Wild Duck Nature Park (Huajiang to Zhongxing Bridge)),TW-TPE,02 Feb 2017,L2025478,S34104332
+262,Eurasian Sparrowhawk,1,台北--新店碧潭橋(Taipei--Xindian Bitan Bridge),TW-TPQ,07 Feb 2018,L2318672,S42559519
+263,Sharp-shinned Hawk,,San Francisco Bay Trail--Coyote Creek Lagoon,US-CA,02 Sep 2006,L683229,S19272093
+264,Cooper's Hawk,,Coyote Hills Regional Park,US-CA,18 Dec 2006,L216132,S19317452
+265,Black Kite,4,台北--田寮洋濕地(Taipei--Tianliaoyang Wetland),TW-TPQ,30 Jan 2017,L3242640,S34054507
+266,Bald Eagle,1,Coyote Hills Regional Park,US-CA,28 Oct 2009,L216132,S19236057
+267,White-tailed Hawk,1,Mollie Beattie Coastal Habitat Community,US-TX,23 Feb 2012,L723976,S18739086
+268,Red-shouldered Hawk,,Coyote Hills Regional Park,US-CA,03 Dec 2006,L216132,S19317387
+269,Broad-winged Hawk,1,Everglades NP (Please consider using more specific locations),US-FL,24 Apr 2009,L3499263,S33576519
+270,Swainson's Hawk,,Kelso Rd.--Bruns Rd. to Byron Hwy,US-CA,15 Aug 2011,L985725,S16358742
+271,Red-tailed Hawk,,Don Edwards NWR (ALA Co.),US-CA,23 Aug 2006,L500360,S19271973
+272,Rough-legged Hawk,1,Patterson Pass Rd.,US-CA,02 Dec 2013,L356724,S16357744
+273,Ferruginous Hawk,,Vargas Plateau Regional Park,US-CA,03 Dec 2008,L1915468,S19245726
+274,Barn Owl,,Don Edwards NWR (ALA Co.),US-CA,26 Jun 2008,L500360,S19242762
+275,Mountain Scops-Owl,1,建成街,TW-HUA,01 Feb 2017,L5416628,S34240325
+276,Collared Scops-Owl,3,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,05 Jan 2015,L2314029,S33783201
+277,Western Screech-Owl,1,Del Valle Regional Park,US-CA,06 Dec 2017,L274775,S40950513
+278,Great Horned Owl,,Coyote Hills Regional Park,US-CA,26 Apr 2007,L216132,S19254094
+279,Snowy Owl,1,Lake Ray Hubbard--Robertson Park SE/Bayview Marina (Rockwall Co.)(CURRENTLY CLOSED),US-TX,19 Feb 2012,L1414730,S33603642
+280,Northern Pygmy-Owl,1,Sunol Regional Wilderness,US-CA,14 Feb 2016,L302253,S27544107
+281,Burrowing Owl,,Coyote Hills Regional Park,US-CA,08 Feb 2008,L216132,S19247584
+282,Long-eared Owl,1,Coyote Hills Regional Park,US-CA,26 Jan 2015,L216132,S21553638
+283,Short-eared Owl,,Coyote Hills Regional Park,US-CA,05 Mar 2007,L216132,S19249379
+284,Northern Saw-whet Owl,1,Redwood Regional Park--Redwood Gate bridge,US-CA,24 Dec 2017,L1512833,S41284033
+285,Eurasian Hoopoe,3,台北金山--金山青年活動中心(Jinshan--Jinshan Youth Activity Center),TW-TPQ,04 Jan 2015,L3376698,S33782591
+286,Common Kingfisher,2,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+287,Belted Kingfisher,1,North Chagrin Nature Center Trails,US-OH,11 May 2004,L383892,S33483498
+288,Taiwan Barbet,2,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+289,Williamson's Sapsucker,2,Fallen Leaf Lake,US-CA,17 Oct 2017,L486333,S39977870
+290,Yellow-bellied Sapsucker,1,White Rock Creek,US-TX,20 Feb 2012,L5247179,S33603813
+291,Red-naped Sapsucker,1,Sunol Regional Wilderness--Visitor Center area,US-CA,03 Feb 2007,L1342147,S16358545
+292,Red-breasted Sapsucker,,Garin/Dry Creek Pioneer Regional Park,US-CA,30 Sep 2008,L381784,S19242858
+293,Lewis's Woodpecker,1,Arroyo Del Valle,US-CA,08 Nov 2013,L472831,S16356949
+294,Red-headed Woodpecker,1,Sandy Ridge Reservation,US-OH,18 Sep 2004,L213276,S33492987
+295,Acorn Woodpecker,,Sunol Regional Wilderness--Visitor Center area,US-CA,24 Dec 2006,L1342147,S19317487
+296,Golden-fronted Woodpecker,1,Blucher Park (CTC 071),US-TX,23 Feb 2012,L374130,S18738952
+297,Red-bellied Woodpecker,1,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+298,American Three-toed Woodpecker,1,Canmore (town),CA-AB,20 May 2018,L2,S45896775
+299,White-backed Woodpecker,2,台中大雪山IBA--大雪山林道15-35K(標示在27K附近)(Dasyueshan IBA--Dasyueshan Forest-Road 15-35K),TW-TXG,15 Mar 2019,L2259760,S54441317
+300,Downy Woodpecker,2,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+301,Nuttall's Woodpecker,,Coyote Hills Regional Park,US-CA,03 Jan 2007,L216132,S19249308
+302,Hairy Woodpecker,1,Rocky River Reservation--Nature Center Trails,US-OH,06 Aug 2006,L805099,S33527640
+303,White-headed Woodpecker,2,Fallen Leaf Lake,US-CA,27 Oct 2011,L486333,S33600793
+304,Pileated Woodpecker,1,Cuyahoga Valley NP--Station Rd. Towpath Trail (Summit Co.),US-OH,06 May 2016,L303430,S29632834
+305,Northern Flicker,1,Sandy Ridge Reservation,US-OH,18 Sep 2004,L213276,S33492987
+306,Eurasian Kestrel,1,台北金山--金山青年活動中心(Jinshan--Jinshan Youth Activity Center),TW-TPQ,04 Jan 2015,L3376698,S33782591
+307,American Kestrel,,Coyote Hills Regional Park,US-CA,03 Dec 2006,L216132,S19317387
+308,Merlin,,Coyote Hills Regional Park,US-CA,16 Dec 2007,L216132,S19249173
+309,Peregrine Falcon,,Coyote Hills Regional Park,US-CA,05 Mar 2007,L216132,S19249379
+310,Prairie Falcon,,Pacific Commons Linear Park,US-CA,21 Jan 2011,L791702,S16389012
+311,Rose-ringed Parakeet,1,Stevenson Blvd. pond,US-CA,13 Oct 2013,L827703,S16344444
+312,Budgerigar,1,Coyote Hills Regional Park,US-CA,11 Sep 2014,L216132,S19806557
+313,Rainbow Lorikeet,1,Laredo Drive,US-CA,20 Nov 2016,L2518365,S32634299
+314,Red-masked Parakeet,34,Fort Mason--Community Garden,US-CA,10 Dec 2017,L3186718,S41018858
+315,Olive-sided Flycatcher,,Coyote Hills Regional Park,US-CA,14 May 2010,L216132,S19214859
+316,Western Wood-Pewee,,Don Edwards NWR (ALA Co.),US-CA,16 May 2007,L500360,S19254164
+317,Eastern Wood-Pewee,1,Sandy Ridge Reservation,US-OH,28 May 2004,L213276,S33484282
+318,Yellow-bellied Flycatcher,1,Coyote Hills Regional Park,US-CA,14 Sep 2018,L216132,S48510623
+319,Willow Flycatcher,,Coyote Hills Regional Park,US-CA,28 Aug 2010,L216132,S19217406
+320,Least Flycatcher,1,Coyote Hills Regional Park,US-CA,24 Sep 2012,L216132,S16359539
+321,Hammond's Flycatcher,1,Garin/Dry Creek Pioneer Regional Park,US-CA,13 Feb 2010,L381784,S16417568
+322,Gray Flycatcher,1,Garin/Dry Creek Pioneer Regional Park,US-CA,02 May 2011,L381784,S16358817
+323,Dusky Flycatcher,1,Garin/Dry Creek Pioneer Regional Park,US-CA,11 Mar 2010,L381784,S16421149
+324,Pacific-slope Flycatcher,,Alameda Creek--Niles Staging Area,US-CA,05 Apr 2008,L2271521,S19242690
+325,Black Phoebe,,Don Edwards NWR (ALA Co.),US-CA,09 Jan 2006,L500360,S19271647
+326,Eastern Phoebe,1,Cuyahoga Valley NP--Station Rd. Railroad (Cuyahoga Co.),US-OH,29 Jul 2006,L2394491,S33527612
+327,Say's Phoebe,,Coyote Hills Regional Park,US-CA,03 Dec 2006,L216132,S19317387
+328,Vermilion Flycatcher,1,Lake Elizabeth,US-CA,28 Nov 2011,L452554,S16358855
+329,Dusky-capped Flycatcher,1,Coyote Hills Regional Park,US-CA,04 Nov 2016,L216132,S32372653
+330,Ash-throated Flycatcher,,Garin/Dry Creek Pioneer Regional Park,US-CA,02 Jul 2008,L381784,S19242787
+331,Great Crested Flycatcher,1,Sheldon Marsh State Nature Preserve,US-OH,12 May 2016,L275453,S29696066
+332,Great Kiskadee,1,Blucher Park (CTC 071),US-TX,23 Feb 2012,L374130,S18738952
+333,Tropical Kingbird,1,Coyote Hills Regional Park,US-CA,31 Jan 2011,L216132,S16389103
+334,Couch's Kingbird,1,Blucher Park (CTC 071),US-TX,23 Feb 2012,L374130,S18738952
+335,Cassin's Kingbird,1,Brushy Peak Regional Park,US-CA,23 Apr 2011,L273648,S16407356
+336,Western Kingbird,,Mission Peak (ALA Co.),US-CA,06 Aug 2008,L1348994,S19242820
+337,Eastern Kingbird,1,Sandy Ridge Reservation,US-OH,28 May 2004,L213276,S33484282
+338,Scissor-tailed Flycatcher,1,Miramontes Point,US-CA,01 Dec 2014,L601787,S33767524
+339,Gray-chinned Minivet,1,南投--日月潭全區(Nantou--Sun Moon Lake),TW-NAN,16 Nov 2012,L1351293,S33747263
+340,Black-winged Cuckooshrike,1,台北--大安森林公園(Taipei--Da'an Forest Park),TW-TPE,29 Jan 2017,L2319930,S34002239
+341,Bell's Vireo,1,Garin/Dry Creek Pioneer Regional Park--May Rd. entrance,US-CA,28 Apr 2016,L500382,S29273888
+342,Hutton's Vireo,,Coyote Hills Regional Park,US-CA,16 Sep 2008,L216132,S19242841
+343,Yellow-throated Vireo,1,Fitzgerald Marine Reserve--Moss Beach,US-CA,27 May 2017,L1324041,S37193428
+344,Cassin's Vireo,1,Hayward Regional Shoreline,US-CA,18 May 2010,L225431,S19214954
+345,Blue-headed Vireo,1,White Rock Creek,US-TX,20 Feb 2012,L5247179,S33603813
+346,Plumbeous Vireo,1,Crown Memorial SB--Crab Cove area,US-CA,27 Oct 2010,L1124286,S16358486
+347,Warbling Vireo,,Garin/Dry Creek Pioneer Regional Park,US-CA,12 May 2010,L381784,S19214723
+348,Red-eyed Vireo,1,Magee Marsh--Boardwalk,US-OH,11 May 2016,L275986,S38432173
+349,Yellow-green Vireo,1,Pt. Reyes--Mendoza Ranch (B Ranch),US-CA,29 Sep 2019,L391138,S60238637
+350,Black Drongo,1,台北--陽光運動公園(Taipei--Yangguang Sports Park),TW-TPQ,03 Feb 2014,L5273528,S33758994
+351,Bronzed Drongo,2,南投--日月潭全區(Nantou--Sun Moon Lake),TW-NAN,16 Nov 2012,L1351293,S33747263
+352,Black-naped Monarch,2,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+353,Brown Shrike,2,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+354,Long-tailed Shrike,1,台北--陽光運動公園(Taipei--Yangguang Sports Park),TW-TPQ,03 Feb 2014,L5273528,S33758994
+355,Loggerhead Shrike,,Coyote Hills Regional Park,US-CA,03 Dec 2006,L216132,S19317387
+356,Canada Jay,1,Algonquin Provincial Park--Highway 60 corridor,CA-ON,12 Oct 2004,L2152551,S41231002
+357,Steller's Jay,,Sunol Regional Wilderness--Visitor Center area,US-CA,08 Mar 2007,L1342147,S19253936
+358,Blue Jay,3,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+359,California Scrub-Jay,,Coyote Hills Regional Park,US-CA,02 Sep 2006,L216132,S19272159
+360,Taiwan Blue-Magpie,3,陽明山NP--二子坪步道(Yangmingshan NP--Erziping Trail),TW-TPQ,17 Aug 2014,L4807208,S33766801
+361,Gray Treepie,2,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+362,Oriental Magpie,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+363,Black-billed Magpie,2,Twin Creeks,US-MT,20 Sep 2011,L5246546,S33599933
+364,Yellow-billed Magpie,,Sunol Regional Wilderness--Visitor Center area,US-CA,29 Dec 2006,L1342147,S19272191
+365,Clark's Nutcracker,5,Tahoe Summit Village,US-NV,18 Nov 2016,L5091379,S32619986
+366,Eurasian Nutcracker,1,台中大雪山IBA--大雪山林道31-32.5K(Dasyueshan IBA--Dasyueshan Forest-Road 31-32.5K),TW-TXG,28 Dec 2014,L3866551,S33767975
+367,American Crow,,Coyote Hills Regional Park,US-CA,02 Sep 2006,L216132,S19272159
+368,Large-billed Crow,2,田埔生態公園,TW-HUA,01 Feb 2017,L5416590,S34240069
+369,Common Raven,1,Palo Alto Baylands--Duck Pond,US-CA,21 Mar 2007,L776939,S33540099
+370,Carolina Chickadee,2,Armand Bayou Nature Ctr. (UTC 081),US-TX,22 Feb 2012,L128880,S33604013
+371,Black-capped Chickadee,1,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+372,Mountain Chickadee,2,Lily Lake,US-CA,24 Oct 2011,L5246658,S33600571
+373,Chestnut-backed Chickadee,,Garin/Dry Creek Pioneer Regional Park,US-CA,16 Jan 2007,L381784,S19317659
+374,Boreal Chickadee,2,Canmore (town),CA-AB,29 Aug 2016,L2,S31322724
+375,Oak Titmouse,,Sunol Regional Wilderness--Visitor Center area,US-CA,11 Apr 2008,L1342147,S19242716
+376,Tufted Titmouse,1,Rocky River Reservation--Nature Center Trails,US-OH,06 Aug 2006,L805099,S33527640
+377,Green-backed Tit,3,南投--清境農場(Nantou--Qingjing Farm),TW-NAN,14 Nov 2012,L2972359,S33746851
+378,Taiwan Yellow Tit,2,台中大雪山IBA--大雪山林道15-35K(標示在27K附近)(Dasyueshan IBA--Dasyueshan Forest-Road 15-35K),TW-TXG,15 Mar 2019,L2259760,S54441317
+379,Verdin,5,Golf Club at Terra Lago,US-CA,24 Jun 2010,L5245593,S33594186
+380,Horned Lark,,Hayward Regional Shoreline,US-CA,09 Apr 2010,L225431,S16428968
+381,Oriental Skylark,3,新竹濱海IBA--港南金城湖(Hsinchu Coast IBA--Gangnan Jincheng Lake),TW-HSZ,04 Feb 2017,L1966013,S34143247
+382,Striated Prinia,1,新竹濱海IBA--港南全區(Hsinchu Coast IBA--Gangnan),TW-HSZ,04 Feb 2017,L2395128,S34143128
+383,Yellow-bellied Prinia,1,台北--田寮洋濕地(Taipei--Tianliaoyang Wetland),TW-TPQ,30 Jan 2017,L3242640,S34054507
+384,Plain Prinia,1,台北--陽光運動公園(Taipei--Yangguang Sports Park),TW-TPQ,03 Feb 2014,L5273528,S33758994
+385,Zitting Cisticola,2,台北華江IBA--華江雁鴨公園(華江橋至中興橋)(Huajiang IBA--Huajiang Wild Duck Nature Park (Huajiang to Zhongxing Bridge)),TW-TPE,09 Feb 2018,L2025478,S42626103
+386,Northern Rough-winged Swallow,,Lakeshore Park,US-CA,18 Apr 2008,L1026994,S19242736
+387,Purple Martin,2,Magee Marsh--Migratory Bird Center and Trails,US-OH,10 May 2016,L756392,S38431418
+388,Tree Swallow,10,Sandy Ridge Reservation,US-OH,28 May 2004,L213276,S33484282
+389,Violet-green Swallow,3,Pearson-Arastradero Preserve,US-CA,03 Jul 2008,L372053,S33552563
+390,Gray-throated Martin,2,嘉義布袋濕地IBA--全區(Budai Wetland IBA),TW-CYQ,02 Jan 2015,L3094402,S33778084
+391,Bank Swallow,1,花蓮--美崙溪(Hualien--Meilun River),TW-HUA,08 Feb 2014,L4354709,S33759150
+392,Barn Swallow,3,North Chagrin Nature Center Trails,US-OH,11 May 2004,L383892,S33483498
+393,Pacific Swallow,1,嘉義布袋濕地IBA--全區(Budai Wetland IBA),TW-CYQ,02 Jan 2015,L3094402,S33778084
+394,Striated Swallow,1,嘉義--東石台82末端魚塭(Chiayi--Dongshi Fish Farm next to Provincial HWY No.82 Terminal),TW-CYQ,01 Jan 2015,L3663021,S33771225
+395,Cliff Swallow,,Don Edwards NWR (ALA Co.),US-CA,11 Jun 2006,L500360,S19271870
+396,Asian House-Martin,3,台中大雪山IBA--大雪山林道15-35K(標示在27K附近)(Dasyueshan IBA--Dasyueshan Forest-Road 15-35K),TW-TXG,15 Mar 2019,L2259760,S54441317
+397,Collared Finchbill,3,南投--清境農場(Nantou--Qingjing Farm),TW-NAN,14 Nov 2012,L2972359,S33746851
+398,Styan's Bulbul,20,花蓮--鯉魚潭(Hualien--Liyu Lake),TW-HUA,01 Feb 2017,L4398749,S34143441
+399,Light-vented Bulbul,5,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+400,Black Bulbul,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+401,Dusky Warbler,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+402,Two-barred Warbler,1,花蓮--鯉魚潭(Hualien--Liyu Lake),TW-HUA,01 Feb 2017,L4398749,S34143441
+403,Arctic Warbler,1,台北--大安森林公園(Taipei--Da'an Forest Park),TW-TPE,28 Jan 2017,L2319930,S33979933
+404,Rufous-faced Warbler,5,台中大雪山IBA--大雪山林道15-35K(標示在27K附近)(Dasyueshan IBA--Dasyueshan Forest-Road 15-35K),TW-TXG,15 Mar 2019,L2259760,S54441317
+405,Manchurian Bush Warbler,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,05 Jan 2015,L2314029,S33783201
+406,Brownish-flanked Bush Warbler,1,桃園--龍潭三坑自然生態公園(Taoyuan--Longtan Sankeng Natural Ecological Park),TW-TAO,03 Feb 2017,L5397704,S34126738
+407,Black-throated Tit,4,台中大雪山IBA--大雪山林道15-35K(標示在27K附近)(Dasyueshan IBA--Dasyueshan Forest-Road 15-35K),TW-TXG,15 Mar 2019,L2259760,S54441317
+408,Bushtit,,Coyote Hills Regional Park,US-CA,02 Sep 2006,L216132,S19272159
+409,Wrentit,1,Palo Alto Baylands--Duck Pond,US-CA,21 Mar 2007,L776939,S33540099
+410,Vinous-throated Parrotbill,2,南投--清境農場(Nantou--Qingjing Farm),TW-NAN,14 Nov 2012,L2972359,S33746851
+411,Taiwan Yuhina,4,台中大雪山IBA--大雪山林道15-35K(標示在27K附近)(Dasyueshan IBA--Dasyueshan Forest-Road 15-35K),TW-TXG,28 Dec 2014,L2259760,S33767866
+412,Warbling White-eye,,Maui Lu Resort,US-HI,23 Jul 2013,L2520655,S16326687
+413,Swinhoe's White-eye,3,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+414,Rufous-capped Babbler,3,台北--田寮洋濕地(Taipei--Tianliaoyang Wetland),TW-TPQ,30 Jan 2017,L3242640,S34054507
+415,Taiwan Scimitar-Babbler,2,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,27 Jan 2017,L2314029,S33979942
+416,Morrison's Fulvetta,1,南投--日月潭全區(Nantou--Sun Moon Lake),TW-NAN,16 Nov 2012,L1351293,S33747263
+417,Chinese Hwamei,1,台北--大安森林公園(Taipei--Da'an Forest Park),TW-TPE,28 Jan 2017,L2319930,S33979933
+418,White-whiskered Laughingthrush,2,台中大雪山IBA--大雪山林道31-32.5K(Dasyueshan IBA--Dasyueshan Forest-Road 31-32.5K),TW-TXG,28 Dec 2014,L3866551,S33767975
+419,White-eared Sibia,2,南投--清境農場(Nantou--Qingjing Farm),TW-NAN,14 Nov 2012,L2972359,S33746851
+420,Steere's Liocichla,2,南投--清境農場(Nantou--Qingjing Farm),TW-NAN,14 Nov 2012,L2972359,S33746851
+421,Taiwan Barwing,1,台中大雪山IBA--大雪山林道31-32.5K(Dasyueshan IBA--Dasyueshan Forest-Road 31-32.5K),TW-TXG,28 Dec 2014,L3866551,S33767975
+422,Golden-crowned Kinglet,1,Coyote Hills Regional Park,US-CA,26 Jun 2008,L216132,S19242766
+423,Ruby-crowned Kinglet,,Coyote Hills Regional Park,US-CA,14 Dec 2007,L216132,S19249048
+424,Red-breasted Nuthatch,1,Ed Levin CP--Spring Valley area,US-CA,26 Dec 2008,L686946,S33555407
+425,White-breasted Nuthatch,1,Penitentiary Glen Reservation,US-OH,06 Jun 2004,L280336,S33490664
+426,Pygmy Nuthatch,5,Redwood Regional Park--Golden Spike Trail,US-CA,06 Sep 2012,L1488226,S33744426
+427,Brown Creeper,,Roberts Regional Recreation Area,US-CA,01 Jun 2009,L3000417,S19225524
+428,Blue-gray Gnatcatcher,,Coyote Hills Regional Park,US-CA,14 Nov 2009,L216132,S19237028
+429,California Gnatcatcher,2,Ocean Institute,US-CA,27 Dec 2015,L818226,S26472874
+430,Rock Wren,1,Joshua Tree NP--Cholla Cactus Garden,US-CA,17 Jan 2009,L1000964,S33563504
+431,Canyon Wren,,Mission Peak (ALA Co.),US-CA,17 Jul 2013,L1348994,S16326655
+432,House Wren,,Sunol Regional Wilderness--Visitor Center area,US-CA,11 Apr 2008,L1342147,S19242716
+433,Pacific Wren,,Coyote Hills Regional Park,US-CA,27 Sep 2012,L216132,S16380313
+434,Marsh Wren,,Coyote Hills Regional Park,US-CA,15 Jan 2007,L216132,S19317613
+435,Carolina Wren,1,Armand Bayou Nature Ctr. (UTC 081),US-TX,22 Feb 2012,L128880,S33604013
+436,Bewick's Wren,,Sunol Regional Wilderness--Visitor Center area,US-CA,03 Feb 2007,L1342147,S16358545
+437,American Dipper,1,Glacier NP--Running Eagle Falls Nature Trail,US-MT,22 Sep 2011,L1784940,S33600043
+438,Asian Glossy Starling,2,台北--大安森林公園(Taipei--Da'an Forest Park),TW-TPE,16 Aug 2014,L2319930,S33766558
+439,European Starling,2,Penitentiary Glen Reservation,US-OH,06 Jun 2004,L280336,S33490664
+440,Black-collared Starling,3,台北--陽光運動公園(Taipei--Yangguang Sports Park),TW-TPQ,03 Feb 2014,L5273528,S33758994
+441,Red-billed Starling,3,台南四草IBA--鹽田生態文化村(Sicao IBA--Salt Pan Cultural Center),TW-TNN,02 Jan 2015,L4401553,S33777869
+442,Common Myna,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,20 Nov 2012,L2314029,S33747491
+443,Jungle Myna,4,台北--大安森林公園(Taipei--Da'an Forest Park),TW-TPE,16 Aug 2014,L2319930,S33766558
+444,Javan Myna,4,嘉義--東石台82末端魚塭(Chiayi--Dongshi Fish Farm next to Provincial HWY No.82 Terminal),TW-CYQ,01 Jan 2015,L3663021,S33771225
+445,Crested Myna,4,台北華江IBA--華江雁鴨公園(華江橋至中興橋)(Huajiang IBA--Huajiang Wild Duck Nature Park (Huajiang to Zhongxing Bridge)),TW-TPE,02 Feb 2017,L2025478,S34104332
+446,Gray Catbird,1,North Chagrin Nature Center Trails,US-OH,23 May 2004,L383892,S33483743
+447,Brown Thrasher,1,Pt. Richmond--shoreline/neighborhood,US-CA,12 Feb 2011,L834176,S16392077
+448,Long-billed Thrasher,2,Blucher Park (CTC 071),US-TX,23 Feb 2012,L374130,S18738952
+449,California Thrasher,,Coyote Hills Regional Park,US-CA,10 Jan 2011,L216132,S16387759
+450,Sage Thrasher,1,Coyote Hills Regional Park,US-CA,02 Oct 2013,L216132,S16337352
+451,Northern Mockingbird,,Don Edwards NWR (ALA Co.),US-CA,11 Jun 2006,L500360,S19271870
+452,Eastern Bluebird,1,Sandy Ridge Reservation,US-OH,28 May 2004,L213276,S33484282
+453,Western Bluebird,,Garin/Dry Creek Pioneer Regional Park,US-CA,06 Apr 2008,L381784,S19242694
+454,Mountain Bluebird,3,Patterson Pass Rd.,US-CA,14 Nov 2010,L356724,S19220068
+455,Townsend's Solitaire,1,Coyote Hills Regional Park,US-CA,15 Jun 2012,L216132,S16377631
+456,Varied Thrush,,Sunol Regional Wilderness--Visitor Center area,US-CA,29 Dec 2006,L1342147,S19272191
+457,Veery,1,Magee Marsh--Boardwalk,US-OH,12 May 2016,L275986,S29864562
+458,Gray-cheeked Thrush,1,Ottawa NWR--Crane Creek Estuary Trail,US-OH,12 May 2016,L1512917,S29864746
+459,Swainson's Thrush,,Hayward Regional Shoreline,US-CA,14 May 2010,L225431,S19214840
+460,Hermit Thrush,,Coyote Hills Regional Park,US-CA,03 Jan 2007,L216132,S19249308
+461,Wood Thrush,1,Magee Marsh--Boardwalk,US-OH,09 May 2016,L275986,S29864974
+462,Chinese Blackbird,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,05 Jan 2015,L2314029,S33783201
+463,American Robin,1,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+464,Gray-backed Thrush,1,花蓮--美崙溪(Hualien--Meilun River),TW-HUA,08 Feb 2014,L4354709,S33759150
+465,Brown-headed Thrush,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+466,Pale Thrush,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+467,Dusky Thrush,1,台北--陽光運動公園(Taipei--Yangguang Sports Park),TW-TPQ,03 Feb 2014,L5273528,S33758994
+468,Naumann's Thrush,1,台北金山--金山青年活動中心(Jinshan--Jinshan Youth Activity Center),TW-TPQ,04 Jan 2015,L3376698,S33782591
+469,Oriental Magpie-Robin,2,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+470,White-rumped Shama,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+471,Fujian Niltava,1,花蓮--鯉魚潭(Hualien--Liyu Lake),TW-HUA,01 Feb 2017,L4398749,S34143441
+472,Vivid Niltava,2,台中大雪山IBA--大雪山林道15-35K(標示在27K附近)(Dasyueshan IBA--Dasyueshan Forest-Road 15-35K),TW-TXG,28 Dec 2014,L2259760,S33767866
+473,Taiwan Whistling-Thrush,2,台中大雪山IBA--大雪山林道15-35K(標示在27K附近)(Dasyueshan IBA--Dasyueshan Forest-Road 15-35K),TW-TXG,15 Mar 2019,L2259760,S54441317
+474,Siberian Rubythroat,1,台北金山--清水濕地(Jinshan--Qingshui Wetland),TW-TPQ,04 Jan 2015,L3471455,S33782250
+475,White-tailed Robin,1,台中大雪山IBA--大雪山林道15-35K(標示在27K附近)(Dasyueshan IBA--Dasyueshan Forest-Road 15-35K),TW-TXG,28 Dec 2014,L2259760,S33767866
+476,Red-flanked Bluetail,1,台北--北投登山路(Taipei--Beitou Dengshan Road),TW-TPE,23 Nov 2012,L2415492,S33747785
+477,Daurian Redstart,2,南投--清境農場(Nantou--Qingjing Farm),TW-NAN,14 Nov 2012,L2972359,S33746851
+478,Blue Rock-Thrush,1,宜蘭蘭陽溪口IBA--南岸(Lanyang River Estuary IBA--South Shore),TW-ILA,29 Dec 2014,L2441387,S33770034
+479,Siberian Stonechat,1,台北--陽光運動公園(Taipei--Yangguang Sports Park),TW-TPQ,14 Feb 2018,L5273528,S42739404
+480,Cedar Waxwing,1,Cuyahoga Valley NP--Ira Rd. Beaver Marsh,US-OH,28 May 2004,L416769,S33483889
+481,Phainopepla,1,Joshua Tree NP--Cholla Cactus Garden,US-CA,17 Jan 2009,L1000964,S33563504
+482,Northern Red Bishop,1,Gomes Park,US-CA,05 Nov 2018,L6345236,S49709737
+483,Orange-cheeked Waxbill,,Maui Lu Resort,US-HI,23 Jul 2013,L2520655,S16326687
+484,African Silverbill,,Maui Lu Resort,US-HI,23 Jul 2013,L2520655,S16326687
+485,White-rumped Munia,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+486,Scaly-breasted Munia,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+487,Chestnut Munia,1,花蓮--美崙溪(Hualien--Meilun River),TW-HUA,08 Feb 2014,L4354709,S33759150
+488,Java Sparrow,,Maui Lu Resort,US-HI,23 Jul 2013,L2520655,S16326687
+489,House Sparrow,3,Penitentiary Glen Reservation,US-OH,06 Jun 2004,L280336,S33490664
+490,Eurasian Tree Sparrow,3,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,03 Mar 2008,L2314029,S33552171
+491,Gray Wagtail,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,18 Dec 2009,L2314029,S33586384
+492,Eastern Yellow Wagtail,1,花蓮--美崙溪(Hualien--Meilun River),TW-HUA,08 Feb 2014,L4354709,S33759150
+493,Citrine Wagtail,1,宜蘭竹安IBA--塭底(Zhu'an IBA--Wendi),TW-ILA,29 Dec 2014,L2897595,S33769659
+494,White Wagtail,1,花蓮--美崙溪(Hualien--Meilun River),TW-HUA,08 Feb 2014,L4354709,S33759150
+495,Olive-backed Pipit,1,台北--陽光運動公園(Taipei--Yangguang Sports Park),TW-TPQ,25 Sep 2018,L5273528,S48945643
+496,Red-throated Pipit,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,19 Oct 2013,L161083,S16352500
+497,American Pipit,,Coyote Hills Regional Park,US-CA,09 Nov 2008,L216132,S19245593
+498,Brambling,6,台北--大安森林公園(Taipei--Da'an Forest Park),TW-TPE,29 Jan 2017,L2319930,S34002239
+499,Evening Grosbeak,2,Taylor Creek,US-CA,27 Oct 2011,L461209,S33600745
+500,Hawfinch,1,台北--台北植物園(Taipei--Taipei Botanical Garden),TW-TPE,18 Dec 2009,L2314029,S33586384
+501,House Finch,3,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+502,Purple Finch,,Garin/Dry Creek Pioneer Regional Park,US-CA,19 Dec 2008,L381784,S19246124
+503,Cassin's Finch,20,Tahoe Summit Village,US-NV,18 Nov 2016,L5091379,S32619986
+504,Red Crossbill,6,Tilden Regional Park--Vollmer Peak,US-CA,08 Sep 2012,L1292955,S33744673
+505,European Goldfinch,1,Coyote Hills Regional Park,US-CA,06 Jun 2013,L216132,S16325170
+506,Pine Siskin,,Coyote Hills Regional Park,US-CA,12 Oct 2012,L216132,S16380414
+507,Lesser Goldfinch,,Coyote Hills Regional Park,US-CA,27 Jan 2007,L216132,S19317937
+508,Lawrence's Goldfinch,,Sunol Regional Wilderness--Visitor Center area,US-CA,10 May 2011,L1342147,S16409349
+509,American Goldfinch,5,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+510,Lapland Longspur,1,Hayward Regional Shoreline,US-CA,16 Nov 2010,L225431,S19220101
+511,Chestnut-collared Longspur,1,Hayward Regional Shoreline--Winton Ave. access and parking area,US-CA,19 Oct 2018,L470891,S49308185
+512,Little Bunting,1,台北--北投登山路(Taipei--Beitou Dengshan Road),TW-TPE,23 Nov 2012,L2415492,S33747785
+513,Black-faced Bunting,2,嘉義鰲鼓濕地IBA--南堤(Aogu Wetland IBA--South Area),TW-CYQ,01 Jan 2015,L1070437,S33772661
+514,Grasshopper Sparrow,,Garin/Dry Creek Pioneer Regional Park--May Rd. entrance,US-CA,15 Apr 2011,L500382,S16406796
+515,Chipping Sparrow,1,Carlisle Reservation--Equestrian Center,US-OH,18 Sep 2004,L2877046,S33493099
+516,Clay-colored Sparrow,1,Coyote Hills Regional Park,US-CA,02 Oct 2010,L216132,S19218920
+517,Field Sparrow,5,Blucher Park (CTC 071),US-TX,23 Feb 2012,L374130,S18738952
+518,Brewer's Sparrow,1,MLK Jr. Regional Shoreline--Garretson Pt.,US-CA,22 Sep 2017,L492576,S39339973
+519,Black-throated Sparrow,1,Coyote Hills Regional Park,US-CA,23 Sep 2010,L216132,S16358377
+520,Lark Sparrow,,Garin/Dry Creek Pioneer Regional Park,US-CA,08 Apr 2008,L381784,S19242699
+521,Lark Bunting,1,Marsh Rd.,US-CA,25 Mar 2014,L1458006,S33759207
+522,American Tree Sparrow,2,"Houghton, NY",US-NY,14 Feb 2009,L5242923,S33576355
+523,Fox Sparrow,,Coyote Hills Regional Park,US-CA,27 Jan 2007,L216132,S19317937
+524,Dark-eyed Junco,,Coyote Hills Regional Park,US-CA,21 Dec 2006,L216132,S19317483
+525,White-crowned Sparrow,,Don Edwards NWR (ALA Co.),US-CA,17 Jan 2006,L500360,S19271688
+526,Golden-crowned Sparrow,,Sunol Regional Wilderness--Visitor Center area,US-CA,29 Dec 2006,L1342147,S19272191
+527,Harris's Sparrow,1,Hayward Regional Shoreline--Grant Ave. access,US-CA,01 Nov 2012,L749295,S16359198
+528,White-throated Sparrow,,Coyote Hills Regional Park,US-CA,23 Oct 2009,L216132,S19235850
+529,Bell's Sparrow,2,Del Valle Regional Park,US-CA,03 May 2014,L274775,S18203554
+530,Vesper Sparrow,1,Coyote Hills Regional Park,US-CA,05 Oct 2015,L216132,S25315655
+531,Nelson's Sparrow,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,25 Jan 2012,L161083,S16366855
+532,Savannah Sparrow,,Coyote Hills Regional Park,US-CA,02 Sep 2006,L216132,S19272159
+533,Song Sparrow,1,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+534,Lincoln's Sparrow,,Coyote Hills Regional Park,US-CA,10 Sep 2010,L216132,S19218140
+535,Swamp Sparrow,1,Coyote Hills Regional Park,US-CA,28 Nov 2012,L216132,S16385019
+536,Abert's Towhee,,"Indian Canyons Golf Resort, Palm Springs",US-CA,18 Dec 2013,L2526129,S16358059
+537,California Towhee,,Coyote Hills Regional Park,US-CA,03 Jan 2007,L216132,S19249308
+538,Rufous-crowned Sparrow,,Garin/Dry Creek Pioneer Regional Park,US-CA,23 Nov 2007,L381784,S19248801
+539,Green-tailed Towhee,1,Tilden Regional Park--Vollmer Peak,US-CA,06 Sep 2012,L1292955,S33744594
+540,Spotted Towhee,,Sunol Regional Wilderness--Visitor Center area,US-CA,29 Dec 2006,L1342147,S19272191
+541,Eastern Towhee,4,Big Creek Reservation--Lake Isaac,US-OH,05 May 2016,L416864,S29431563
+542,Yellow-breasted Chat,1,Coyote Hills Regional Park,US-CA,30 Aug 2012,L216132,S11474727
+543,Yellow-headed Blackbird,1,Pacific Commons Linear Park,US-CA,31 Jan 2012,L791702,S16367057
+544,Bobolink,1,Oyster Bay Regional Shoreline,US-CA,25 Oct 2013,L716138,S16353486
+545,Western Meadowlark,,Coyote Hills Regional Park,US-CA,05 Dec 2006,L216132,S19317399
+546,Crested Oropendola,1,Coyote Hills Regional Park,US-CA,25 Aug 2011,L216132,S16411592
+547,Orchard Oriole,1,Sunnyvale WPCP (please use a more specific hotspot where possible),US-CA,26 Sep 2013,L279204,S33756315
+548,Hooded Oriole,,Coyote Hills Regional Park,US-CA,03 Apr 2008,L216132,S19242678
+549,Bullock's Oriole,,Lake Elizabeth,US-CA,17 May 2007,L452554,S19254171
+550,Baltimore Oriole,1,North Chagrin Nature Center Trails,US-OH,11 May 2004,L383892,S33483498
+551,Red-winged Blackbird,,North Chagrin Nature Center Trails,US-OH,19 Apr 2003,L383892,S33483043
+552,Tricolored Blackbird,,Brushy Peak Regional Park,US-CA,23 Apr 2011,L273648,S16407356
+553,Brown-headed Cowbird,2,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+554,Brewer's Blackbird,10,Palo Alto Baylands--Duck Pond,US-CA,21 Mar 2007,L776939,S33540099
+555,Common Grackle,2,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+556,Boat-tailed Grackle,2,Patriot's Point - Sparrow Field,US-SC,25 May 2006,L2173699,S33527562
+557,Great-tailed Grackle,,Don Edwards NWR (ALA Co.),US-CA,27 Apr 2007,L500360,S19254132
+558,Northern Waterthrush,1,Berkeley Aquatic Park,US-CA,19 Jan 2012,L597003,S16359087
+559,Black-and-white Warbler,1,Berkeley Aquatic Park,US-CA,18 Jan 2012,L597003,S16363833
+560,Prothonotary Warbler,2,Magee Marsh--Boardwalk,US-OH,10 May 2016,L275986,S38431260
+561,Tennessee Warbler,1,Coyote Hills Regional Park,US-CA,06 Sep 2013,L216132,S16333570
+562,Orange-crowned Warbler,,Hayward Regional Shoreline,US-CA,02 Oct 2008,L225431,S19244701
+563,Nashville Warbler,,Del Valle Regional Park,US-CA,18 Apr 2012,L274775,S16375811
+564,MacGillivray's Warbler,1,Tilden Regional Park--Vollmer Peak,US-CA,06 Sep 2012,L1292955,S11536009
+565,Mourning Warbler,1,Creekside Park (ALA Co.),US-CA,16 Sep 2019,L1764657,S59865590
+566,Common Yellowthroat,,Coyote Hills Regional Park,US-CA,11 Jan 2007,L216132,S19317567
+567,Hooded Warbler,1,Redwood Regional Park--Skyline Gate area,US-CA,03 Jul 2016,L803038,S30518040
+568,American Redstart,1,Lake Cunningham,US-CA,20 Jan 2012,L279253,S33601366
+569,Cape May Warbler,1,San Francisquito Creek Trail--Stanford (SCL Co.),US-CA,22 Jan 2013,L1898518,S16249863
+570,Cerulean Warbler,1,Magee Marsh--Boardwalk,US-OH,11 May 2016,L275986,S38432173
+571,Northern Parula,3,Magee Marsh--Boardwalk,US-OH,11 May 2016,L275986,S38432173
+572,Magnolia Warbler,1,Coyote Hills Regional Park,US-CA,09 Sep 2012,L216132,S16358977
+573,Bay-breasted Warbler,1,Pt. Reyes--Nunes Ranch (A Ranch) & Road Forks Pool,US-CA,06 Jun 2014,L460136,S33765275
+574,Blackburnian Warbler,5,Magee Marsh--Boardwalk,US-OH,11 May 2016,L275986,S38432173
+575,Yellow Warbler,,Coyote Hills Regional Park,US-CA,09 Sep 2007,L216132,S19248675
+576,Chestnut-sided Warbler,1,Pt. Reyes--Nunes Ranch (A Ranch) & Road Forks Pool,US-CA,06 Jun 2014,L460136,S33765275
+577,Blackpoll Warbler,1,Coyote Hills Regional Park,US-CA,11 Sep 2012,L216132,S16359004
+578,Black-throated Blue Warbler,1,Dearborn Park Rd.,US-CA,28 Dec 2012,L1910747,S33751287
+579,Palm Warbler,1,Coyote Hills Regional Park,US-CA,24 Oct 2012,L216132,S16380583
+580,Yellow-rumped Warbler,,Coyote Hills Regional Park,US-CA,18 Dec 2006,L216132,S19317452
+581,Yellow-throated Warbler,1,Cuyahoga Valley NP--Station Rd. Towpath Trail (Summit Co.),US-OH,06 May 2016,L303430,S29632834
+582,Prairie Warbler,1,St. Johns County Ocean Pier,US-FL,21 Apr 2009,L506351,S33576457
+583,Black-throated Gray Warbler,,Coyote Hills Regional Park,US-CA,02 Apr 2008,L216132,S19242666
+584,Townsend's Warbler,1,Don Edwards NWR (SCL Co.) (please use a more specific hotspot where possible),US-CA,14 Sep 2008,L231517,S33555333
+585,Hermit Warbler,1,Tilden Regional Park--Botanic Garden,US-CA,06 Sep 2010,L630069,S33595094
+586,Black-throated Green Warbler,1,Coyote Hills Regional Park,US-CA,09 Oct 2011,L216132,S16358339
+587,Canada Warbler,1,Sunnyvale Baylands Park,US-CA,02 Sep 2013,L279612,S16333273
+588,Wilson's Warbler,,Coyote Hills Regional Park,US-CA,10 Apr 2008,L216132,S19242709
+589,Painted Redstart,1,"stakeout Painted Redstart, Woolsey St., Berkeley (2013)",US-CA,15 Nov 2013,L2438379,S16357159
+590,Summer Tanager,1,Coyote Hills Regional Park,US-CA,28 Jun 2008,L216132,S16359119
+591,Scarlet Tanager,1,Hinckley Reservation--Whipps Ledges,US-OH,07 May 2016,L449795,S29694430
+592,Western Tanager,,Hayward Regional Shoreline--Interpretive Center,US-CA,11 May 2010,L587721,S19214685
+593,Northern Cardinal,1,North Chagrin Nature Center Trails,US-OH,23 May 2004,L383892,S33483743
+594,Rose-breasted Grosbeak,1,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+595,Black-headed Grosbeak,,Garin/Dry Creek Pioneer Regional Park,US-CA,19 May 2009,L381784,S19224666
+596,Blue Grosbeak,2,Mission Peak (ALA Co.),US-CA,06 Jul 2017,L1348994,S38004981
+597,Lazuli Bunting,,Coyote Hills Regional Park,US-CA,29 Jun 2008,L216132,S19242781
+598,Indigo Bunting,1,Carlisle Reservation,US-OH,30 May 2004,L152895,S33490392
+599,Red-crested Cardinal,,Maui Lu Resort,US-HI,23 Jul 2013,L2520655,S16326687
+600,Blue-gray Tanager,1,Sycamore Grove Park,US-CA,30 Apr 2019,L500410,S55618422

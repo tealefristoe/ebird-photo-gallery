@@ -38,10 +38,10 @@ export default class Options extends React.Component {
                 <span className={optionsStyles.subSpeciesCount}>Species observed</span></span>
               </div>
               <div className={optionsStyles.speciesCount}>
-                <span className={this.props.display == 'photos' ? optionsStyles.selected : null} onClick={() => this.props.displayFunction('photos')}>{counts['withPhotos']} <span className={optionsStyles.subSpeciesCount}>Species with photos</span></span>
+                <span className={this.props.display == 'photos' ? optionsStyles.selected : null} onClick={() => this.props.displayFunction('photos')}>{counts['withPhotos'] || '0'} <span className={optionsStyles.subSpeciesCount}>Species with photos</span></span>
               </div>
               <div className={optionsStyles.speciesCount}>
-                <span className={this.props.display == 'without' ? optionsStyles.selected : null} onClick={() => this.props.displayFunction('without')}>{counts['withoutPhotos']} <span className={optionsStyles.subSpeciesCount}>Species missing photos</span></span>
+                <span className={this.props.display == 'without' ? optionsStyles.selected : null} onClick={() => this.props.displayFunction('without')}>{counts['withoutPhotos'] || '0'} <span className={optionsStyles.subSpeciesCount}>Species missing photos</span></span>
               </div>
             </div>
             <div id={optionsStyles.optionsBox}>

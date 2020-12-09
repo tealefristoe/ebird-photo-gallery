@@ -17,6 +17,18 @@ export default class SpeciesRow extends React.Component {
     return photoData.displayType == 'curated' ? curatedLabel() : photoData.displayType == 'topRated' ? topRatedLabel() : ''
   }
 
+  displayPhoto(photoData, photo) {
+    return photoData.display
+      ? (<a href={photo[bk.photoSpecimenUrl]} target="_blank"><img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} /></a>)
+      : photoData.reason == "noPhoto"
+      ? <span className={speciesRowStyles.missing}>No photo submitted</span>
+      : photoData.reason == "noCurated"
+      ? <span className={speciesRowStyles.lowQuality}>No curated photo</span>
+      : photoData.reason == "lowQuality"
+      ? <span className={speciesRowStyles.lowQuality}>Community rating too low</span>
+      : <span className={speciesRowStyles.missing}>Cannot display photo for unknown reason</span>
+  }
+
   render () {
     const photoData = this.props.photoData
     const birdName = photoData.speciesData[bk.lifeBirdName]
@@ -52,16 +64,7 @@ export default class SpeciesRow extends React.Component {
                   </div>)
               : <div className={speciesRowStyles.photoInfo2} />}
             <div className={speciesRowStyles.photo}>
-              {photoData.display
-                ? (<a href={photo[bk.photoSpecimenUrl]}><img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} /></a>)
-                : photoData.reason == "noPhoto"
-                ? <span className={speciesRowStyles.missing}>Missing photo</span>
-                : photoData.reason == "noCurated"
-                ? <span className={speciesRowStyles.lowQuality}>No curated photo</span>
-                : photoData.reason == "lowQuality"
-                ? <span className={speciesRowStyles.lowQuality}>Quality too low</span>
-                : <span className={speciesRowStyles.missing}>Cannot display photo for unknown reason</span>
-              }
+              {this.displayPhoto(photoData, photo)}
             </div>
           </div>
         )
@@ -79,16 +82,7 @@ export default class SpeciesRow extends React.Component {
               {photo ? this.curatedLink(photoData) : ''}
             </div>
           <div className={speciesRowStyles.photoGrid}>
-            {photoData.display
-              ? (<a href={photo[bk.photoSpecimenUrl]}><img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} /></a>)
-              : photoData.reason == "noPhoto"
-              ? <span className={speciesRowStyles.missing}>Missing photo</span>
-              : photoData.reason == "noCurated"
-              ? <span className={speciesRowStyles.lowQuality}>No curated photo</span>
-              : photoData.reason == "lowQuality"
-              ? <span className={speciesRowStyles.lowQuality}>Quality too low</span>
-              : <span className={speciesRowStyles.missing}>Cannot display photo for unknown reason</span>
-            }
+            {this.displayPhoto(photoData, photo)}
           </div>
             {photo
               ? (<div className={speciesRowStyles.photoInfoGrid}>
@@ -113,16 +107,7 @@ export default class SpeciesRow extends React.Component {
                 : <div className={`${speciesRowStyles.speciesNameGrid} ${speciesRowStyles.missing}`}>{birdName}</div>}
             </div>
             <div className={speciesRowStyles.photoCompact}>
-              {photoData.display
-                ? (<a href={photo[bk.photoSpecimenUrl]}><img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} /></a>)
-                : photoData.reason == "noPhoto"
-                ? <span className={speciesRowStyles.missing}>Missing photo</span>
-                : photoData.reason == "noCurated"
-                ? <span className={speciesRowStyles.lowQuality}>No curated photo</span>
-                : photoData.reason == "lowQuality"
-                ? <span className={speciesRowStyles.lowQuality}>Quality too low</span>
-                : <span className={speciesRowStyles.missing}>Cannot display photo for unknown reason</span>
-              }
+              {this.displayPhoto(photoData, photo)}
             </div>
             {photo
               ? (<div className={speciesRowStyles.photoInfoGrid}>

@@ -115,4 +115,5 @@
 .photoInfoGrid {
   grid-area: main;
   padding-left: 10px;
+  font-size: 95%;
 }

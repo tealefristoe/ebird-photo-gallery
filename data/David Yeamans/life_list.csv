@@ -1,0 +1,717 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Black-bellied Whistling-Duck,7,US-TX-CAM-Harlingen-HRL Airport main entrance,US-TX,26 Feb 2014,L2693507,S17310423
+2,Fulvous Whistling-Duck,1,Harlingen City Lake (LTC 025),US-TX,01 Mar 2014,L246731,S17311913
+3,Snow Goose,800000,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+4,Ross's Goose,100000,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+5,Greater White-fronted Goose,1,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+6,Brant,15,South Bay Salt Works--interior & bay (restricted),US-CA,17 Nov 2012,L2047403,S12174491
+7,Cackling Goose,1,T or C Hwy 51 bridge over Rio Grande,US-NM,04 Feb 2011,L1085765,S7563783
+8,Canada Goose,500,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+9,Hawaiian Goose,3,Hanalei NWR -- Highway Overlook,US-HI,13 Jan 2013,L1169080,S12708672
+10,Mute Swan,1,"NM, Sierra, Rotary Park",US-NM,11 Feb 2012,L1413176,S9815583
+11,Black-necked Swan,1,Oak Grove Regional Park,US-CA,28 Aug 2020,L423445,S72958180
+12,Trumpeter Swan,2,"Denali Hwy, Cantwell US-AK (63.3910,-148.6235)",US-AK,14 Jun 2017,L5976457,S37598262
+13,Tundra Swan,200,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+14,Muscovy Duck,4,Ecoparque Aluxes,MX-CHP,12 Nov 2018,L5178438,S49933474
+15,Wood Duck,4,Rio Grande Nature Center,US-NM,11 Nov 2009,L800461,S5520459
+16,Mandarin Duck,1,"Central Park, Fremont US-CA 37.54343, -121.95950",US-CA,03 Mar 2020,L10893869,S65405062
+17,Blue-winged Teal,18,County Line Lagoons,US-NM,28 Sep 2010,L870556,S6931713
+18,Cinnamon Teal,12,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+19,Northern Shoveler,15,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+20,Gadwall,4,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+21,Eurasian Wigeon,1,Nome--Safety Sound,US-AK,19 Jun 2017,L209518,S37713394
+22,American Wigeon,10,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+23,Hawaiian Duck,6,Hanalei NWR -- Highway Overlook,US-HI,13 Jan 2013,L1169080,S12708672
+24,Mallard,2,Reno,US-NV,07 Jun 2009,L734962,S5075193
+25,Mexican Duck,1,"NM Socorro, NWR, Marsh Loop",US-NM,10 Dec 2011,L812348,S9326525
+26,American Black Duck,12,Scarborough River Wildlife Sanctuary,US-ME,09 Feb 2014,L1161895,S16856402
+27,Mottled Duck,4,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+28,Northern Pintail,2,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+29,Green-winged Teal,10,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+30,Canvasback,45,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+31,Redhead,6,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+32,Ring-necked Duck,25,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+33,Tufted Duck,1,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+34,Greater Scaup,15,Nokomis,CA-SK,23 Oct 2011,L1018966,S9173324
+35,Lesser Scaup,12,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+36,Spectacled Eider,1,Nome--Safety Sound,US-AK,19 Jun 2017,L209518,S37713394
+37,King Eider,4,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+38,Common Eider,12,Biddeford Pool--Mile Stretch Rd.,US-ME,10 Feb 2014,L595096,S16879697
+39,Harlequin Duck,15,Dyer Point,US-ME,10 Feb 2014,L272667,S16879769
+40,Surf Scoter,1,San Leandro Marina,US-CA,13 Apr 2010,L896740,S6346730
+41,White-winged Scoter,8,Biddeford Pool--Mile Stretch Rd.,US-ME,10 Feb 2014,L595096,S16879697
+42,Black Scoter,25,Biddeford Pool--Mile Stretch Rd.,US-ME,10 Feb 2014,L595096,S16879697
+43,Long-tailed Duck,4,Biddeford Pool--Mile Stretch Rd.,US-ME,10 Feb 2014,L595096,S16879697
+44,Bufflehead,1,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+45,Common Goldeneye,10,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+46,Barrow's Goldeneye,1,"NM Rio Arriba, fishing ponds and area along the Rio Grande",US-NM,05 Jan 2013,L818642,S12519717
+47,Hooded Merganser,2,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+48,Common Merganser,8,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+49,Red-breasted Merganser,1,Elephant Butte dirt marina,US-NM,04 Feb 2011,L1085788,S7564170
+50,Ruddy Duck,45,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+51,Plain Chachalaca,10,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+52,Crested Guan,1,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+53,Great Curassow,2,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275381
+54,Mountain Quail,1,Carson Pass Highway,US-CA,13 Aug 2017,L6181662,S38641108
+55,Scaled Quail,1,White Rock (generic),US-NM,23 Apr 2012,L1188038,S10528539
+56,California Quail,6,Reno,US-NV,07 Jun 2009,L734962,S5075193
+57,Gambel's Quail,6,Bosque HQ,US-NM,15 Jan 2011,L1067077,S7438073
+58,Montezuma Quail,6,Rock Corral Canyon,US-AZ,03 Jan 2017,L1070018,S33417645
+59,Chukar,1,Senior Condos,US-NM,01 Apr 2015,L3532099,S22640736
+60,Erckel's Francolin,1,HI: Alakai Swamp Trail--Trailhead to Pihea Trail junction,US-HI,15 Jan 2013,L1426322,S12708514
+61,Gray Francolin,3,"HI, Hawaii, Fairmont Orchid Hotel",US-HI,18 Jan 2013,L1900142,S12708718
+62,Red Junglefowl,5,Kilauea Point NWR,US-HI,13 Jan 2013,L266182,S12708689
+63,Ring-necked Pheasant,4,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+64,Gray Partridge,21,Nokomis,CA-SK,23 Oct 2011,L1018966,S9173324
+65,Ruffed Grouse,1,State Game Lands 35,US-PA,25 Sep 2020,L728084,S74320829
+66,Greater Sage-Grouse,2,"578–598 CR-23-225, Boulder US-WY 42.43173, -109.55392",US-WY,13 Jul 2020,L11890762,S71437180
+67,Spruce Grouse,1,Route 3 -- Willow to Denali -- traveling,US-AK,12 Jun 2017,L5969153,S37603563
+68,Willow Ptarmigan,1,"Denali Hwy, Cantwell US-AK (63.3910,-148.6235)",US-AK,14 Jun 2017,L5976457,S37598262
+69,Rock Ptarmigan,1,Nome-Kougarok Road-MP N72,US-AK,18 Jun 2017,L1187160,S37713403
+70,Dusky Grouse,3,Cabin,US-NM,11 Oct 2009,L789639,S5429557
+71,Sharp-tailed Grouse,15,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+72,Wild Turkey,17,Cabin,US-NM,02 Oct 2010,L789639,S6953871
+73,Ocellated Turkey,5,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+74,Chilean Flamingo,1,Coyote Hills Regional Park,US-CA,15 Jan 2020,L216132,S63427923
+75,American Flamingo,6,Reserva de la Biosfera Ría Lagartos,MX-YUC,03 Nov 2018,L3788362,S50263610
+76,Least Grebe,1,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+77,Pied-billed Grebe,1,SD Estuary,US-CA,12 Jun 2009,L746377,S5127751
+78,Horned Grebe,1,Elephant Butte SP -- Three Sisters Pt.,US-NM,04 Feb 2011,L281053,S7571055
+79,Red-necked Grebe,3,"CA, SK Triple T Beach",CA-SK,14 Oct 2013,L2408683,S15557279
+80,Eared Grebe,25,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+81,Western Grebe,6,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+82,Clark's Grebe,6,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+83,Rock Pigeon,25,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+84,Pale-vented Pigeon,2,"(17.1803,-91.4832)",MX-CHP,11 Nov 2018,L8185784,S50219295
+85,Red-billed Pigeon,2,Chichén Itzá--Hotel Mayaland,MX-YUC,03 Nov 2018,L900402,S50263255
+86,Band-tailed Pigeon,,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+87,Eurasian Collared-Dove,2,392 Navajo Road,US-NM,15 May 2009,L714012,S4981140
+88,Spotted Dove,2,Napali Coast boat tour,US-HI,13 Jan 2013,L1900114,S12708605
+89,Zebra Dove,2,Kawaiele State Waterbird Sanctuary,US-HI,13 Jan 2013,L469355,S12708628
+90,Inca Dove,1,"NV, Davis Camp Park",US-AZ,05 Mar 2012,L1455133,S10185460
+91,Common Ground Dove,2,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+92,Ruddy Ground Dove,3,Laguna Cobá,MX-ROO,02 Nov 2018,L1633060,S50232944
+93,White-tipped Dove,4,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+94,White-winged Dove,8,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+95,Mourning Dove,8,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+96,Groove-billed Ani,5,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+97,Lesser Roadrunner,1,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+98,Greater Roadrunner,,Enchanted Rock SNA (Gillespie Co),US-TX,14 Apr 1984,L2634028,S17777621
+99,Squirrel Cuckoo,1,Monumentos Naturales Yaxchilán--Zona Arqueológica Yaxchilán,MX-CHP,10 Nov 2018,L879653,S50318151
+100,Yellow-billed Cuckoo,1,Bosque del Apache NWR -- North Loop (formerly Farm Loop),US-NM,06 May 2013,L1358840,S14037589
+101,Lesser Nighthawk,2,"NM, Luna, Animas",US-NM,23 Jul 2012,L1637274,S11218582
+102,Common Nighthawk,1,392 Navajo Road,US-NM,05 Jul 2009,L714012,S5145854
+103,Common Pauraque,2,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+104,Common Poorwill,2,392 Navajo Road,US-NM,06 May 2009,L714012,S4961413
+105,Chuck-will's-widow,5,US-AL-Greenville- hunt club,US-AL,10 May 2016,L4581668,S29535249
+106,Black Swift,3,Santa Fe NF - Jemez Falls,US-NM,04 Jun 2013,L295775,S14342778
+107,White-collared Swift,6,Reserva de la Biosfera Calakmul--Zona Arqueológica Becán,MX-CAM,08 Nov 2018,L1575180,S50331875
+108,Chimney Swift,2,Migration Count by Permission Only,US-NM,11 May 2013,L2167251,S14080020
+109,Vaux's Swift,2,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,08 May 2014,L161083,S18286743
+110,White-throated Swift,1,392 Navajo Road,US-NM,14 May 2009,L714012,S4970968
+111,Long-billed Hermit,1,Reserva de la Biosfera Calakmul--Zona Arqueológica Becán,MX-CAM,08 Nov 2018,L1575180,S50331875
+112,Stripe-throated Hermit,1,Reserva de la Biosfera Calakmul--Zona Arqueológica Becán,MX-CAM,08 Nov 2018,L1575180,S50331875
+113,Green-breasted Mango,1,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+114,Rivoli's Hummingbird,1,Madera Canyon--Santa Rita Lodge,US-AZ,22 Feb 2016,L268114,S27780428
+115,Blue-throated Mountain-gem,2,Cave Creek Canyon--South Fork,US-AZ,23 Jul 2012,L129099,S11220022
+116,Mexican Sheartail,2,Reserva de la Biosfera Ría Lagartos,MX-YUC,03 Nov 2018,L3788362,S50263610
+117,Ruby-throated Hummingbird,1,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+118,Black-chinned Hummingbird,6,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+119,Anna's Hummingbird,2,Reno,US-NV,07 Jun 2009,L734962,S5075193
+120,Costa's Hummingbird,1,Shoshone Village,US-CA,08 Mar 2012,L350295,S10201017
+121,Broad-tailed Hummingbird,,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+122,Rufous Hummingbird,1,392 Navajo Road,US-NM,05 Jul 2009,L714012,S5145854
+123,Allen's Hummingbird,1,Garin/Dry Creek Pioneer Regional Park,US-CA,11 Apr 2018,L381784,S44467614
+124,Calliope Hummingbird,1,392 Navajo Road,US-NM,21 Aug 2009,L714012,S5281193
+125,Broad-billed Hummingbird,1,Cave Creek Canyon--South Fork,US-AZ,23 Jul 2012,L129099,S11220022
+126,Wedge-tailed Sabrewing,1,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+127,White-bellied Emerald,1,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+128,Rufous-tailed Hummingbird,2,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+129,Buff-bellied Hummingbird,3,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+130,Cinnamon Hummingbird,2,Reserva de la Biosfera Ría Lagartos,MX-YUC,03 Nov 2018,L3788362,S50263610
+131,Violet-crowned Hummingbird,1,Patagonia Lake State Park,US-AZ,24 Feb 2016,L129050,S27809458
+132,Ridgway's Rail,8,Tijuana Slough NWR--Visitor Center,US-CA,18 Nov 2012,L820180,S12079972
+133,Virginia Rail,1,T or C Hwy 51 bridge over Rio Grande,US-NM,04 Feb 2011,L1085765,S7563783
+134,Russet-naped Wood-Rail,1,Monumentos Naturales Yaxchilán--Zona Arqueológica Yaxchilán,MX-CHP,10 Nov 2018,L879653,S50318151
+135,Sora,1,"NM, Sierra, Rotary Park",US-NM,11 Feb 2012,L1413176,S9815519
+136,Common Gallinule,2,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+137,Hawaiian Coot,4,Kawaiele State Waterbird Sanctuary,US-HI,13 Jan 2013,L469355,S12708628
+138,American Coot,4,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+139,Limpkin,2,"(17.8320,-92.1316)",MX-TAB,12 Nov 2018,L8185519,S50217152
+140,Sandhill Crane,2500,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+141,Whooping Crane,16,"CA-SK-SK-786 (52.9336,-106.8340)",CA-SK,19 Oct 2019,L10052401,S60755632
+142,Black-necked Stilt,25,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+143,American Avocet,25,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+144,American Oystercatcher,1,TX48--Shrimp Basin Bridge / Zapata Memorial Boat Ramp/ San Martin Lake outlet,US-TX,01 Mar 2014,L1050482,S17311898
+145,Black Oystercatcher,1,Monterey--Don Dahvee Park,US-CA,14 Sep 2012,L1051068,S11616321
+146,Black-bellied Plover,1,Elkhorn Slough--Hudson Landing mudflats & Porter Marsh,US-CA,15 Sep 2012,L387163,S11616686
+147,American Golden-Plover,200,Metzger Marsh--Causeway Viewing Areas,US-OH,09 May 2015,L3594552,S23488580
+148,Pacific Golden-Plover,6,Waimea Plantation Cottages,US-HI,13 Jan 2013,L1900103,S12708588
+149,Snowy Plover,12,Sunset SB,US-CA,16 Sep 2012,L454234,S11618257
+150,Semipalmated Plover,2,Monterey--Don Dahvee Park,US-CA,14 Sep 2012,L1051068,S11616321
+151,Killdeer,12,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+152,Northern Jacana,4,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+153,Whimbrel,1,SD Estuary,US-CA,12 Jun 2009,L746377,S5127751
+154,Long-billed Curlew,4,Elkhorn Slough--Hudson Landing mudflats & Porter Marsh,US-CA,15 Sep 2012,L387163,S11616686
+155,Bar-tailed Godwit,1,Nome (town),US-AK,16 Jun 2017,L4004485,S37713481
+156,Hudsonian Godwit,6,Westchester Lagoon,US-AK,12 Jun 2017,L129129,S37603580
+157,Marbled Godwit,1,Cochiti Reservoir East Side,US-NM,17 Apr 2012,L1500003,S10477346
+158,Ruddy Turnstone,2,South Bay Salt Works--interior & bay (restricted),US-CA,17 Nov 2012,L2047403,S12174491
+159,Black Turnstone,6,Pacific Grove--Sea Palm Beach,US-CA,13 Sep 2012,L1048853,S11616028
+160,Red Knot,7,Nome-Teller Road--traveling,US-AK,16 Jun 2017,L5985339,S37713457
+161,Surfbird,25,Emeryville shoreline--near fire station,US-CA,22 Nov 2017,L1801585,S40668705
+162,Stilt Sandpiper,3,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+163,Red-necked Stint,8,Nome--Safety Sound,US-AK,17 Jun 2017,L209518,S37713439
+164,Sanderling,1,Sunset SB,US-CA,16 Sep 2012,L454234,S11618257
+165,Dunlin,6,South Bay Salt Works--interior & bay (restricted),US-CA,17 Nov 2012,L2047403,S12174491
+166,Rock Sandpiper,400,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+167,Purple Sandpiper,12,Biddeford Pool--Mile Stretch Rd.,US-ME,10 Feb 2014,L595096,S16879697
+168,Baird's Sandpiper,2,Maintenance Lagoons,US-NM,05 Sep 2011,L870560,S8779869
+169,Least Sandpiper,3,Bosque del Apache North,US-NM,15 Jan 2011,L846107,S7438019
+170,Pectoral Sandpiper,1,Corduroy Rd.,US-OH,18 May 2015,L691054,S23528461
+171,Semipalmated Sandpiper,4,Nome River mouth,US-AK,16 Jun 2017,L279360,S37713469
+172,Western Sandpiper,5,Elkhorn Slough--Hudson Landing mudflats & Porter Marsh,US-CA,15 Sep 2012,L387163,S11616686
+173,Short-billed Dowitcher,9,Nokomis,CA-SK,23 Oct 2011,L1018966,S9173324
+174,Long-billed Dowitcher,27,Bosque Marsh Loop,US-NM,06 Feb 2010,L846111,S5874155
+175,American Woodcock,4,Black Swamp Bird Observatory and Trails,US-OH,10 May 2015,L740302,S23490724
+176,Common Snipe,1,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+177,Wilson's Snipe,1,Orilla Verde,US-NM,19 Dec 2009,L818248,S5661110
+178,Wilson's Phalarope,4,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+179,Red-necked Phalarope,4,Pacific Grove--Sea Palm Beach,US-CA,13 Sep 2012,L1048853,S11616028
+180,Red Phalarope,4,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+181,Spotted Sandpiper,3,T or C Hwy 51 bridge over Rio Grande,US-NM,04 Feb 2011,L1085765,S7563783
+182,Solitary Sandpiper,2,The Y,US-NM,05 Sep 2011,L870550,S8779993
+183,Wandering Tattler,1,St. Paul Island (Pribilof Islands-Bering Sea),US-AK,10 Jun 2017,L261146,S37749963
+184,Greater Yellowlegs,4,Bosque del Apache North,US-NM,06 Feb 2010,L846107,S5874119
+185,Willet,15,Maintenance Lagoons,US-NM,28 Apr 2011,L870560,S8142184
+186,Lesser Yellowlegs,2,San Luis NWR,US-CA,13 Apr 2010,L887670,S6279926
+187,Marsh Sandpiper,1,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+188,South Polar Skua,4,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+189,Pomarine Jaeger,5,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+190,Parasitic Jaeger,5,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+191,Long-tailed Jaeger,1,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+192,Common Murre,20,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+193,Thick-billed Murre,25,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+194,Razorbill,10,Biddeford Pool--Mile Stretch Rd.,US-ME,10 Feb 2014,L595096,S16879697
+195,Black Guillemot,2,Biddeford Pool--Mile Stretch Rd.,US-ME,10 Feb 2014,L595096,S16879697
+196,Pigeon Guillemot,1,"Greenbank, 765 Wonn Road",US-WA,12 Jul 2014,L2975863,S19083507
+197,Marbled Murrelet,60,"US-Kenai Peninsula (59.6965,-149.8643)",US-AK,21 Jun 2017,L6003660,S37748477
+198,Kittlitz's Murrelet,3,"US-Kenai Peninsula (59.6965,-149.8643)",US-AK,21 Jun 2017,L6003660,S37748477
+199,Ancient Murrelet,12,"US-Kenai Peninsula (59.6965,-149.8643)",US-AK,21 Jun 2017,L6003660,S37748477
+200,Cassin's Auklet,4,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+201,Parakeet Auklet,35,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+202,Least Auklet,50,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+203,Crested Auklet,4,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+204,Rhinoceros Auklet,25,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+205,Horned Puffin,25,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+206,Tufted Puffin,18,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+207,Black-legged Kittiwake,125,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+208,Red-legged Kittiwake,45,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+209,Sabine's Gull,1,US-ID-Lewiston-Snake/Salmon confluence ,US-ID,15 Sep 2016,L4926605,S31599548
+210,Bonaparte's Gull,2,Hall's Crossing,US-UT,03 Jun 2012,L1583881,S10970342
+211,Little Gull,1,Pte. Mouillee SGA,US-MI,12 May 2015,L248057,S23491537
+212,Laughing Gull,30,TX48--Shrimp Basin Bridge / Zapata Memorial Boat Ramp/ San Martin Lake outlet,US-TX,01 Mar 2014,L1050482,S17311898
+213,Franklin's Gull,65,Cochiti Reservoir East Side,US-NM,16 Apr 2012,L1500003,S10477544
+214,Heermann's Gull,50,Pacific Grove--Sea Palm Beach,US-CA,13 Sep 2012,L1048853,S11616028
+215,Mew Gull,6,Potter Marsh--Boardwalk (MP A9.5 Seward Hwy),US-AK,07 Jun 2017,L763879,S37450751
+216,Ring-billed Gull,6,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+217,Western Gull,10,SD Estuary,US-CA,12 Jun 2009,L746377,S5127751
+218,California Gull,25,SD Estuary,US-CA,12 Jun 2009,L746377,S5127751
+219,Herring Gull,6,Elephant Butte Rock Canyon marina,US-NM,04 Feb 2011,L1085802,S7564431
+220,Iceland Gull,1,Elephant Butte Rock Canyon marina,US-NM,04 Feb 2011,L1085802,S7564431
+221,Lesser Black-backed Gull,1,Elephant Butte Rock Canyon marina,US-NM,04 Feb 2011,L1085802,S7564431
+222,Slaty-backed Gull,1,Lake Casa Blanca Intl. SP (HOTE 117),US-TX,28 Feb 2014,L302783,S17311880
+223,Glaucous-winged Gull,3,"Greenbank, 765 Wonn Road",US-WA,12 Jul 2014,L2975863,S19083507
+224,Glaucous Gull,1,Biddeford Pool--Mile Stretch Rd.,US-ME,10 Feb 2014,L595096,S16879697
+225,Great Black-backed Gull,1,Narragansett Town Beach,US-RI,31 May 2019,L1170623,S56927861
+226,Aleutian Tern,10,Nome (town),US-AK,16 Jun 2017,L4004485,S37713481
+227,Least Tern,6,SD Estuary,US-CA,12 Jun 2009,L746377,S5127751
+228,Gull-billed Tern,1,"(17.8320,-92.1316)",MX-TAB,12 Nov 2018,L8185519,S50217152
+229,Caspian Tern,2,Alameda Island,US-CA,19 Sep 2010,L997081,S6903319
+230,Black Tern,2,Pte. Mouillee SGA,US-MI,12 May 2015,L248057,S23491537
+231,Common Tern,2,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+232,Arctic Tern,1,Potter Marsh--Boardwalk (MP A9.5 Seward Hwy),US-AK,07 Jun 2017,L763879,S37450751
+233,Forster's Tern,8,SD Estuary,US-CA,12 Jun 2009,L746377,S5127751
+234,Royal Tern,8,South Bay Salt Works--interior & bay (restricted),US-CA,17 Nov 2012,L2047403,S12174491
+235,Sandwich Tern,4,Reserva de la Biosfera Ría Lagartos,MX-YUC,03 Nov 2018,L3788362,S50263610
+236,Elegant Tern,10,Pacific Grove--Sea Palm Beach,US-CA,13 Sep 2012,L1048853,S11616028
+237,Black Skimmer,6,Jekyll Island (please consider using more specific locations),US-GA,04 Feb 2013,L140461,S12924016
+238,White-tailed Tropicbird,1,Kilauea Point NWR,US-HI,13 Jan 2013,L266182,S12708689
+239,Red-throated Loon,2,MP110 to Susitna River Bridge Traveling,US-AK,14 Jun 2017,L5976742,S37603380
+240,Arctic Loon,2,Nome--Safety Sound,US-AK,17 Jun 2017,L209518,S37713439
+241,Pacific Loon,1,San Diego River--Robb Field & mudflats,US-CA,21 Nov 2012,L506275,S12157091
+242,Common Loon,1,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+243,Yellow-billed Loon,2,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+244,Laysan Albatross,1,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+245,Black-footed Albatross,4,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+246,Wilson's Storm-Petrel,6,"Auto selected 37.38956, -122.99719",US-CA,14 Sep 2020,L12294264,S73711604
+247,Ashy Storm-Petrel,300,"Auto selected 37.39492, -122.90504",US-CA,14 Sep 2020,L12294262,S73711594
+248,Black Storm-Petrel,2,"Auto selected 37.39492, -122.90504",US-CA,14 Sep 2020,L12294262,S73711594
+249,Northern Fulmar,150,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+250,Pink-footed Shearwater,15,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+251,Buller's Shearwater,20,Monterey bay,US-CA,16 Sep 2012,L1754094,S11617383
+252,Sooty Shearwater,10,Monterey--Don Dahvee Park,US-CA,14 Sep 2012,L1051068,S11616321
+253,Short-tailed Shearwater,1,Nome--Safety Sound,US-AK,19 Jun 2017,L209518,S37713394
+254,Wood Stork,3,Jekyll Island--Amphitheater Pond,US-GA,05 Feb 2013,L252744,S12923702
+255,Magnificent Frigatebird,5,Reserva de la Biosfera Ría Lagartos,MX-YUC,03 Nov 2018,L3788362,S50263610
+256,Great Frigatebird,1,Kilauea Point NWR,US-HI,13 Jan 2013,L266182,S12708689
+257,Brown Booby,16,Napali Coast boat tour,US-HI,13 Jan 2013,L1900114,S12708605
+258,Red-footed Booby,4,Napali Coast boat tour,US-HI,13 Jan 2013,L1900114,S12708605
+259,Anhinga,1,Jekyll Island--Amphitheater Pond,US-GA,06 Feb 2013,L252744,S12923795
+260,Brandt's Cormorant,10,Monterey--Don Dahvee Park,US-CA,14 Sep 2012,L1051068,S11616321
+261,Red-faced Cormorant,18,"St Paul Island Airport, Saint Paul Island US-AK (57.1571,-170.2307)",US-AK,09 Jun 2017,L5982012,S37624892
+262,Pelagic Cormorant,2,Monterey--Don Dahvee Park,US-CA,14 Sep 2012,L1051068,S11616321
+263,Great Cormorant,1,"Falmouth, 24-28 Maine 100",US-ME,09 Feb 2014,L2610112,S16856999
+264,Neotropic Cormorant,1,Bosque Marsh Loop,US-NM,06 Feb 2010,L846111,S5874155
+265,Double-crested Cormorant,1,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+266,American White Pelican,1,Elephant Butte main marina,US-NM,04 Feb 2011,L1085754,S7564242
+267,Brown Pelican,15,Pacific Grove--Sea Palm Beach,US-CA,13 Sep 2012,L1048853,S11616028
+268,American Bittern,2,Mather Lake,US-CA,03 Jun 2016,L459813,S30054797
+269,Least Bittern,1,Bosque del Apache NWR--South Loop (formerly Marsh Loop),US-NM,23 Jul 2013,L876716,S14840373
+270,Bare-throated Tiger-Heron,3,"(17.8320,-92.1316)",MX-TAB,12 Nov 2018,L8185519,S50217152
+271,Great Blue Heron,,Guadalupe River near New Braunfels,US-TX,13 Apr 1984,L2758992,S17777487
+272,Great Egret,25,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+273,Snowy Egret,6,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+274,Little Blue Heron,,Guadalupe River near New Braunfels,US-TX,13 Apr 1984,L2758992,S17777487
+275,Tricolored Heron,3,Jekyll Island--Amphitheater Pond,US-GA,05 Feb 2013,L252744,S12923702
+276,Reddish Egret,1,"US-TX-CAM-South Padre Island, Pier 19",US-TX,01 Mar 2014,L2693970,S17311905
+277,Cattle Egret,28,Napali Coast boat tour,US-HI,13 Jan 2013,L1900114,S12708605
+278,Green Heron,1,Las Vegas Urban--Clark County Wetlands Park,US-NV,05 Mar 2012,L160294,S10197939
+279,Black-crowned Night-Heron,8,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+280,Yellow-crowned Night-Heron,2,Jekyll Island--Amphitheater Pond,US-GA,05 Feb 2013,L252744,S12923702
+281,Boat-billed Heron,1,Ecoparque Aluxes,MX-CHP,12 Nov 2018,L5178438,S49933474
+282,White Ibis,15,Georgia DNR Coastal Regional Headquarters,US-GA,04 Feb 2013,L844517,S12924075
+283,Glossy Ibis,8,"County Park, Port Charlotte US-FL (26.9859,-82.1499)",US-FL,21 Jan 2018,L6756938,S42122461
+284,White-faced Ibis,400,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+285,Roseate Spoonbill,25,Brazoria NWR (UTC 108),US-TX,30 Nov 2013,L128926,S15875911
+286,King Vulture,3,Zona Arqueológica Palenque,MX-CHP,09 Nov 2018,L305877,S49809020
+287,Black Vulture,3,Jekyll Island--South Beach,US-GA,05 Feb 2013,L589195,S12923959
+288,Turkey Vulture,,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+289,Lesser Yellow-headed Vulture,2,Reserva de la Biosfera Ría Lagartos,MX-YUC,03 Nov 2018,L3788362,S50263610
+290,Osprey,1,Hawk Watch Sandias,US-NM,28 Mar 2010,L880693,S6229836
+291,White-tailed Kite,1,"NV, Ash Meadows NWR",US-NV,08 Mar 2012,L1457049,S10198873
+292,Black Hawk-Eagle,2,"(17.1779,-91.4885)",MX-CHP,10 Nov 2018,L11212657,S67588888
+293,Ornate Hawk-Eagle,1,Monumentos Naturales Yaxchilán--Zona Arqueológica Yaxchilán,MX-CHP,10 Nov 2018,L879653,S50318151
+294,Golden Eagle,1,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+295,Black-collared Hawk,1,"(17.8320,-92.1316)",MX-TAB,12 Nov 2018,L8185519,S50217152
+296,Snail Kite,1,Punta Laguna--Santuario de Mono Araña (Spider Monkey Sanctuary),MX-ROO,02 Nov 2018,L1917167,S50232744
+297,Mississippi Kite,1,I 40 west memphis,US-AR,23 Aug 2015,L3870371,S24763917
+298,Northern Harrier,2,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+299,Sharp-shinned Hawk,,"Los Alamos, 2920 Arizona Avenue",US-NM,31 Dec 1983,L2575471,S17777249
+300,Cooper's Hawk,1,392 Navajo Road,US-NM,18 May 2009,L714012,S5000359
+301,Northern Goshawk,2,Hawk Watch Sandias,US-NM,28 Mar 2010,L880693,S6229836
+302,Bald Eagle,5,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+303,Common Black Hawk,1,Patagonia Lake State Park,US-AZ,06 Mar 2016,L129050,S28033240
+304,Roadside Hawk,1,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+305,Harris's Hawk,3,Harlingen,US-TX,26 Feb 2014,L2682291,S17219910
+306,White-tailed Hawk,2,Brazoria NWR (UTC 108),US-TX,30 Nov 2013,L128926,S15875911
+307,Gray Hawk,1,Salineño Wildlife Preserve (LTC 080),US-TX,28 Feb 2014,L129075,S17310463
+308,Red-shouldered Hawk,1,Monterey--Don Dahvee Park,US-CA,14 Sep 2012,L1051068,S11616321
+309,Broad-winged Hawk,4,Nokomis,CA-SK,23 Oct 2011,L1018966,S9173324
+310,Short-tailed Hawk,1,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+311,Swainson's Hawk,,Guadalupe River near New Braunfels,US-TX,13 Apr 1984,L2758992,S17777487
+312,Zone-tailed Hawk,1,392 Navajo Road,US-NM,08 May 2009,L714012,S4961499
+313,Red-tailed Hawk,1,392 Navajo Road,US-NM,04 May 2009,L714012,S4947456
+314,Rough-legged Hawk,2,Steve's Bench,US-NM,29 Aug 2010,L986345,S6825768
+315,Ferruginous Hawk,3,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+316,Barn Owl,1,Lafayette Reservoir,US-CA,12 Jul 2016,L212642,S30661746
+317,Flammulated Owl,1,392 Navajo Road,US-NM,04 May 2009,L714012,S4947456
+318,Western Screech-Owl,2,264 1/2 camp,US-AZ,27 Feb 2011,L1107305,S7798371
+319,Eastern Screech-Owl,1,Valley Nature Ctr. (LTC 057),US-TX,27 Feb 2014,L300042,S17310433
+320,Great Horned Owl,1,392 Navajo Road,US-NM,18 May 2009,L714012,S5000359
+321,Snowy Owl,3,Biddeford Pool--Mile Stretch Rd.,US-ME,10 Feb 2014,L595096,S16879697
+322,Northern Pygmy-Owl,1,392 Navajo Road,US-NM,01 Oct 2011,L714012,S8885657
+323,Ferruginous Pygmy-Owl,1,Punta Laguna--Santuario de Mono Araña (Spider Monkey Sanctuary),MX-ROO,02 Nov 2018,L1917167,S50232744
+324,Elf Owl,2,Muleshoe Ranch Preserve,US-AZ,16 Mar 2013,L428055,S13453045
+325,Burrowing Owl,1,Brushy Peak Regional Park,US-CA,08 Dec 2017,L273648,S40975450
+326,Spotted Owl,1,Death Hollow,US-UT,13 May 2008,L914488,S6466190
+327,Short-eared Owl,1,McCue Ridge,US-WA,03 Sep 2010,L989837,S6852856
+328,Northern Saw-whet Owl,1,Ski Hill Parking Lot,US-NM,08 May 2013,L2162126,S14045340
+329,Slaty-tailed Trogon,1,Monumentos Naturales Yaxchilán--Zona Arqueológica Yaxchilán,MX-CHP,10 Nov 2018,L879653,S50318151
+330,Black-headed Trogon,1,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+331,Gartered Trogon,1,Zona Arqueológica Palenque,MX-CHP,09 Nov 2018,L305877,S49809020
+332,Elegant Trogon,1,Cave Creek Canyon--South Fork,US-AZ,23 Jul 2012,L129099,S11220022
+333,Tody Motmot,1,Parador Vallescondido,MX-CHP,10 Nov 2018,L6625585,S50325549
+334,Lesson's Motmot,1,Punta Laguna--Santuario de Mono Araña (Spider Monkey Sanctuary),MX-ROO,02 Nov 2018,L1917167,S50232744
+335,Ringed Kingfisher,1,Brazos Bend SP (UTC 117),US-TX,29 Nov 2013,L141106,S15876044
+336,Belted Kingfisher,3,Velarde,US-NM,14 Dec 2009,L816068,S5642746
+337,Amazon Kingfisher,1,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+338,Green Kingfisher,1,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+339,White-whiskered Puffbird,1,Monumentos Naturales Bonampak--Zona Arqueológica Bonampak,MX-CHP,11 Nov 2018,L285292,S50219209
+340,Rufous-tailed Jacamar,1,Monumentos Naturales Bonampak--Zona Arqueológica Bonampak,MX-CHP,11 Nov 2018,L285292,S50219209
+341,Collared Aracari,1,Monumentos Naturales Yaxchilán--Zona Arqueológica Yaxchilán,MX-CHP,10 Nov 2018,L879653,S50318151
+342,Keel-billed Toucan,1,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+343,Williamson's Sapsucker,1,392 Navajo Road,US-NM,17 Aug 2009,L714012,S5266880
+344,Yellow-bellied Sapsucker,1,404 Estante Way,US-NM,06 Jan 2014,L849134,S16272933
+345,Red-naped Sapsucker,1,392 Navajo Road,US-NM,15 Sep 2009,L714012,S5343720
+346,Red-breasted Sapsucker,2,"253-255 Lost River Road, 253-529 County Highway 9140",US-WA,15 Jul 2014,L2975849,S19107666
+347,Lewis's Woodpecker,1,392 Navajo Road,US-NM,12 Sep 2009,L714012,S5337536
+348,Red-headed Woodpecker,4,Morgan Falls Overlook Park,US-GA,03 Feb 2013,L2096771,S15734113
+349,Acorn Woodpecker,6,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+350,Black-cheeked Woodpecker,3,Monumentos Naturales Bonampak--Zona Arqueológica Bonampak,MX-CHP,11 Nov 2018,L285292,S50219209
+351,Yucatan Woodpecker,2,Ejido San Salvador,MX-YUC,03 Nov 2018,L3622236,S50269037
+352,Gila Woodpecker,4,"AZ, Clarkdale",US-AZ,04 Mar 2012,L1455118,S10185338
+353,Golden-fronted Woodpecker,13,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+354,Red-bellied Woodpecker,1,Jekyll Island--South Beach,US-GA,05 Feb 2013,L589195,S12923959
+355,American Three-toed Woodpecker,1,Cabin,US-NM,11 Oct 2009,L789639,S5429557
+356,Black-backed Woodpecker,2,Willow Burn area,US-AK,12 Jun 2017,L5969129,S37603570
+357,Downy Woodpecker,,"Los Alamos, 2920 Arizona Avenue",US-NM,31 Dec 1983,L2575471,S17777249
+358,Nuttall's Woodpecker,1,Elkhorn Slough Reserve (NERR),US-CA,15 Sep 2012,L353255,S11617110
+359,Ladder-backed Woodpecker,1,Bosque del Apache North,US-NM,15 Jan 2011,L846107,S7438019
+360,Hairy Woodpecker,,"Los Alamos, 2920 Arizona Avenue",US-NM,31 Dec 1983,L2575471,S17777249
+361,White-headed Woodpecker,4,Camp Shelly,US-CA,05 Jul 2017,L6064342,S38023970
+362,Arizona Woodpecker,1,Madera Canyon--Santa Rita Lodge,US-AZ,22 Feb 2016,L268114,S27780428
+363,Lineated Woodpecker,1,Chichén Itzá--Hotel Mayaland,MX-YUC,03 Nov 2018,L900402,S50263255
+364,Pileated Woodpecker,1,"253-255 Lost River Road, 253-529 County Highway 9140",US-WA,12 Jul 2014,L2975849,S19084666
+365,Northern Flicker,6,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+366,Collared Forest-Falcon,1,Camino San Simon,MX-YUC,06 Nov 2018,L875021,S50269451
+367,Crested Caracara,1,Salineño Wildlife Preserve (LTC 080),US-TX,28 Feb 2014,L129075,S17310463
+368,Laughing Falcon,1,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+369,American Kestrel,1,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+370,Merlin,2,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+371,Aplomado Falcon,2,Old Port Isabel Rd,US-TX,01 Mar 2014,L389757,S17311894
+372,Bat Falcon,3,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+373,Gyrfalcon,4,Kougarok Road--traveling,US-AK,18 Jun 2017,L5997860,S37713405
+374,Peregrine Falcon,2,392 Navajo Road,US-NM,31 Jul 2009,L714012,S5214284
+375,Prairie Falcon,1,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+376,Monk Parakeet,2,Pontchartrain Beach,US-LA,03 May 2016,L1175216,S29376962
+377,White-crowned Parrot,1,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+378,Red-crowned Parrot,40,Harlingen City Lake (LTC 025),US-TX,01 Mar 2014,L246731,S17311913
+379,Red-lored Parrot,10,"Avenida Doctor Belisario Domínguez, Palenque MX-CHIS (17.5093,-91.9735)",MX-CHP,09 Nov 2018,L8120971,S49772302
+380,White-fronted Parrot,8,Chichén Itzá--Hotel Mayaland,MX-YUC,04 Nov 2018,L900402,S50269157
+381,Yellow-lored Parrot,2,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+382,Olive-throated Parakeet,3,Courtyard Marriot Cancún Airport,MX-ROO,02 Nov 2018,L2439034,S49616424
+383,Scarlet Macaw,15,Ecoparque Aluxes,MX-CHP,12 Nov 2018,L5178438,S49933474
+384,Green Parakeet,20,US-TX-HID-McAllen-Generic,US-TX,02 Mar 2014,L2693513,S17311917
+385,Barred Antshrike,2,Monumentos Naturales Yaxchilán--Zona Arqueológica Yaxchilán,MX-CHP,10 Nov 2018,L879653,S50318151
+386,Tawny-winged Woodcreeper,2,Monumentos Naturales Yaxchilán--Zona Arqueológica Yaxchilán,MX-CHP,10 Nov 2018,L879653,S50318151
+387,Wedge-billed Woodcreeper,1,"Usumacinta River, La Libertad GT-Peten (16.8215,-90.9145)",GT-PE,10 Nov 2018,L8185973,S50220764
+388,Northern Barred-Woodcreeper,1,Monumentos Naturales Yaxchilán--Zona Arqueológica Yaxchilán,MX-CHP,10 Nov 2018,L879653,S50318151
+389,Ivory-billed Woodcreeper,1,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+390,Streak-headed Woodcreeper,1,Zona Arqueológica Palenque,MX-CHP,09 Nov 2018,L305877,S49809020
+391,Plain Xenops,1,Monumentos Naturales Yaxchilán--Zona Arqueológica Yaxchilán,MX-CHP,10 Nov 2018,L879653,S50318151
+392,White-collared Manakin,1,Monumentos Naturales Bonampak--Zona Arqueológica Bonampak,MX-CHP,11 Nov 2018,L285292,S50219209
+393,Red-capped Manakin,1,Monumentos Naturales Bonampak--Zona Arqueológica Bonampak,MX-CHP,11 Nov 2018,L285292,S50219209
+394,Black-crowned Tityra,1,Monumentos Naturales Bonampak--Zona Arqueológica Bonampak,MX-CHP,11 Nov 2018,L285292,S50219209
+395,Masked Tityra,1,Chichén Itzá--Hotel Mayaland,MX-YUC,04 Nov 2018,L900402,S50269157
+396,Cinnamon Becard,2,Monumentos Naturales Bonampak--Zona Arqueológica Bonampak,MX-CHP,11 Nov 2018,L285292,S50219209
+397,Rose-throated Becard,2,Chichén Itzá--Hotel Mayaland,MX-YUC,03 Nov 2018,L900402,S50263255
+398,Sulphur-rumped Flycatcher,1,Monumentos Naturales Yaxchilán--Zona Arqueológica Yaxchilán,MX-CHP,10 Nov 2018,L879653,S50318151
+399,Ochre-bellied Flycatcher,2,Monumentos Naturales Bonampak--Zona Arqueológica Bonampak,MX-CHP,11 Nov 2018,L285292,S50219209
+400,Sepia-capped Flycatcher,1,"(19.4077,-89.7719)",MX-CAM,06 Nov 2018,L8193534,S50269541
+401,Yellow-olive Flycatcher,1,Zona Arqueológica Palenque,MX-CHP,09 Nov 2018,L305877,S49809020
+402,Northern Beardless-Tyrannulet,1,Anzalduas Park (LTC 068),US-TX,02 Mar 2014,L246727,S17311922
+403,Yellow-bellied Elaenia,2,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+404,Olive-sided Flycatcher,1,392 Navajo Road,US-NM,14 Aug 2009,L714012,S5254584
+405,Western Wood-Pewee,6,Valles Caldera Banding Area HQ,US-NM,05 Jul 2010,L950665,S6615924
+406,Eastern Wood-Pewee,2,Pearson Metropark,US-OH,11 May 2015,L1159562,S23490984
+407,Tropical Pewee,1,Chichén Itzá--Hotel Mayaland,MX-YUC,03 Nov 2018,L900402,S50263255
+408,Yellow-bellied Flycatcher,1,Zona Arqueológica Palenque,MX-CHP,09 Nov 2018,L305877,S49809020
+409,Alder Flycatcher,1,Magee Marsh--Boardwalk,US-OH,09 May 2015,L275986,S23483035
+410,Willow Flycatcher,1,Bosque del Apache NWR - Boardwalk Lagoon,US-NM,24 Jul 2013,L982486,S14793633
+411,Least Flycatcher,1,"Sherburne National Wildlife Refuge, Zimmerman US-MN (45.4803,-93.7005)",US-MN,10 Jul 2018,L7692888,S47112085
+412,Hammond's Flycatcher,2,Yampa River Harding Hole,US-CO,12 Jun 2010,L955871,S6639405
+413,Gray Flycatcher,1,Maintenance Lagoons,US-NM,19 Apr 2010,L870560,S6312748
+414,Dusky Flycatcher,2,Deerlodge Park,US-CO,11 Jun 2010,L955807,S6639182
+415,Pacific-slope Flycatcher,2,Monterey--Don Dahvee Park,US-CA,14 Sep 2012,L1051068,S11616321
+416,Cordilleran Flycatcher,1,392 Navajo Road,US-NM,26 May 2010,L714012,S6466001
+417,Black Phoebe,2,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+418,Eastern Phoebe,1,T or C campground below dam,US-NM,04 Feb 2011,L1085773,S7563847
+419,Say's Phoebe,1,392 Navajo Road,US-NM,19 May 2009,L714012,S5000398
+420,Vermilion Flycatcher,1,"AZ, Portal, Quailway Cottage",US-AZ,24 Jul 2012,L1637280,S11218612
+421,Bright-rumped Attila,1,Uxmal Resort Maya,MX-YUC,05 Nov 2018,L5450728,S49704507
+422,Rufous Mourner,1,Monumentos Naturales Bonampak--Zona Arqueológica Bonampak,MX-CHP,11 Nov 2018,L285292,S50219209
+423,Yucatan Flycatcher,,"(19.4077,-89.7719)",MX-CAM,06 Nov 2018,L8193534,S50269541
+424,Dusky-capped Flycatcher,1,Portal,US-AZ,24 Jul 2012,L129060,S11219943
+425,Ash-throated Flycatcher,1,San Luis NWR,US-CA,13 Apr 2010,L887670,S6279926
+426,Great Crested Flycatcher,1,Pearson Metropark,US-OH,11 May 2015,L1159562,S23490984
+427,Brown-crested Flycatcher,2,Portal,US-AZ,24 Jul 2012,L129060,S11219943
+428,Great Kiskadee,2,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+429,Boat-billed Flycatcher,1,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+430,Social Flycatcher,4,Courtyard Marriot Cancún Airport,MX-ROO,02 Nov 2018,L2439034,S49616424
+431,Sulphur-bellied Flycatcher,3,Cave Creek Canyon--South Fork,US-AZ,23 Jul 2012,L129099,S11220022
+432,Tropical Kingbird,3,US-TX-CAM-Southmost Blvd. near Sabal Palm Santuary,US-TX,01 Mar 2014,L2693849,S17311886
+433,Couch's Kingbird,1,Salineño Wildlife Preserve (LTC 080),US-TX,28 Feb 2014,L129075,S17310463
+434,Cassin's Kingbird,1,Ancho/Red Dot,US-NM,25 Apr 2010,L893966,S6326060
+435,Western Kingbird,4,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+436,Eastern Kingbird,3,Metzger Marsh--Causeway Viewing Areas,US-OH,09 May 2015,L3594552,S23488580
+437,Scissor-tailed Flycatcher,,Guadalupe River near New Braunfels,US-TX,13 Apr 1984,L2758992,S17777487
+438,Fork-tailed Flycatcher,2,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+439,Rufous-browed Peppershrike,1,Chichén Itzá--Hotel Mayaland,MX-YUC,03 Nov 2018,L900402,S50263255
+440,Lesser Greenlet,3,Zona Arqueológica Palenque,MX-CHP,09 Nov 2018,L305877,S49809020
+441,White-eyed Vireo,1,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+442,Bell's Vireo,1,Portal,US-AZ,24 Jul 2012,L129060,S11219943
+443,Gray Vireo,1,Patagonia Lake SP--Birding Trail,US-AZ,24 Nov 2016,L2064166,S32702134
+444,Hutton's Vireo,1,Dairy Mart Rd.--main pond,US-CA,18 Nov 2012,L469000,S12116257
+445,Yellow-throated Vireo,1,Magee Marsh--Boardwalk,US-OH,15 May 2015,L275986,S23457058
+446,Cassin's Vireo,1,392 Navajo Road,US-NM,27 Sep 2011,L714012,S8871135
+447,Blue-headed Vireo,1,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+448,Plumbeous Vireo,2,392 Navajo Road,US-NM,09 May 2009,L714012,S4961560
+449,Warbling Vireo,2,392 Navajo Road,US-NM,14 May 2009,L714012,S4970968
+450,Red-eyed Vireo,1,"253-255 Lost River Road, 253-529 County Highway 9140",US-WA,14 Jul 2014,L2975849,S19096656
+451,Kauai Elepaio,4,HI: Alakai Swamp Trail--Trailhead to Pihea Trail junction,US-HI,15 Jan 2013,L1426322,S12708514
+452,Loggerhead Shrike,2,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+453,Northern Shrike,1,"NM Los Alamos, White Rock Treatment Plant and nearby areas",US-NM,01 Jan 2013,L873135,S12447253
+454,Canada Jay,12,Cabin,US-NM,11 Oct 2009,L789639,S5429557
+455,Brown Jay,4,Courtyard Marriot Cancún Airport,MX-ROO,02 Nov 2018,L2439034,S49616424
+456,Green Jay,3,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+457,Yucatan Jay,4,Courtyard Marriot Cancún Airport,MX-ROO,02 Nov 2018,L2439034,S49616424
+458,Pinyon Jay,8,392 Navajo Road,US-NM,31 Aug 2009,L714012,S5302206
+459,Steller's Jay,,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+460,Blue Jay,4,"Benson Park, Hudson",US-NH,12 Apr 2011,L796023,S8093729
+461,Florida Scrub-Jay,2,"12009 Foresman Blvd, Port Charlotte US-FL (26.9450,-82.2554)",US-FL,24 Jan 2018,L6749419,S42212406
+462,California Scrub-Jay,3,Reno,US-NV,07 Jun 2009,L734962,S5075193
+463,Woodhouse's Scrub-Jay,4,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+464,Mexican Jay,12,Cave Creek Canyon--South Fork,US-AZ,23 Jul 2012,L129099,S11220022
+465,Black-billed Magpie,,"Los Alamos, 2920 Arizona Avenue",US-NM,11 May 1984,L2575471,S17777312
+466,Yellow-billed Magpie,2,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+467,Clark's Nutcracker,1,392 Navajo Road,US-NM,31 Jul 2009,L714012,S5214284
+468,American Crow,4,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+469,Northwestern Crow,8,"Greenbank, 765 Wonn Road",US-WA,12 Jul 2014,L2975863,S19083507
+470,Fish Crow,2,Jekyll Island--Welcome Center,US-GA,04 Feb 2013,L656482,S12924050
+471,Chihuahuan Raven,4,"NM, Luna, Rodeo",US-NM,23 Jul 2012,L1637513,S11219961
+472,Common Raven,,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+473,Carolina Chickadee,3,Morgan Falls Overlook Park,US-GA,03 Feb 2013,L2096771,S15734113
+474,Black-capped Chickadee,5,Velarde,US-NM,14 Dec 2009,L816068,S5642746
+475,Mountain Chickadee,,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+476,Chestnut-backed Chickadee,1,Monterey--Don Dahvee Park,US-CA,14 Sep 2012,L1051068,S11616321
+477,Boreal Chickadee,2,Willow Burn area,US-AK,12 Jun 2017,L5969129,S37603570
+478,Bridled Titmouse,2,Portal,US-AZ,24 Jul 2012,L129060,S11219943
+479,Oak Titmouse,1,Monterey Soledad Drive,US-CA,17 Sep 2012,L1754807,S11618275
+480,Juniper Titmouse,2,392 Navajo Road,US-NM,20 Jun 2009,L714012,S5124424
+481,Tufted Titmouse,5,Roswell residential,US-GA,03 Feb 2013,L1928620,S12924224
+482,Black-crested Titmouse,4,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+483,Verdin,1,"NM, Sierra, Rotary Park",US-NM,11 Feb 2012,L1413176,S9815519
+484,Horned Lark,10,Sask,CA-SK,20 Oct 2009,L794424,S5469378
+485,Northern Rough-winged Swallow,11,Deerlodge Park,US-CO,11 Jun 2010,L955807,S6639182
+486,Purple Martin,11,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+487,Tree Swallow,55,San Luis NWR,US-CA,13 Apr 2010,L887670,S6279926
+488,Mangrove Swallow,16,Reserva de la Biosfera Calakmul--Zona Arqueológica Becán,MX-CAM,08 Nov 2018,L1575180,S50331875
+489,Violet-green Swallow,6,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+490,Bank Swallow,12,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+491,Barn Swallow,8,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+492,Cliff Swallow,12,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+493,Cave Swallow,7,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+494,Arctic Warbler,4,Council Road--traveling,US-AK,17 Jun 2017,L5988594,S37713420
+495,Japanese Bush Warbler,4,HI: Alakai Swamp Trail--Trailhead to Pihea Trail junction,US-HI,15 Jan 2013,L1426322,S12708514
+496,Bushtit,,Enchanted Rock SNA (Gillespie Co),US-TX,14 Apr 1984,L2634028,S17777621
+497,Wrentit,1,Dairy Mart Rd.--main pond,US-CA,18 Nov 2012,L469000,S12116257
+498,Warbling White-eye,2,Hanalei NWR -- Highway Overlook,US-HI,13 Jan 2013,L1169080,S12708672
+499,Golden-crowned Kinglet,1,Camp May Nordic Trails,US-NM,11 May 2011,L823725,S8225715
+500,Ruby-crowned Kinglet,1,Cochiti upper end,US-NM,10 Nov 2009,L800076,S5517132
+501,Red-breasted Nuthatch,1,Carson,US-NM,19 Dec 2009,L818250,S5661131
+502,White-breasted Nuthatch,,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+503,Pygmy Nuthatch,,"Los Alamos, 2920 Arizona Avenue",US-NM,31 Dec 1983,L2575471,S17777249
+504,Brown-headed Nuthatch,1,Morgan Falls Overlook Park,US-GA,03 Feb 2013,L2096771,S15734113
+505,Brown Creeper,,"Los Alamos, 2920 Arizona Avenue",US-NM,31 Dec 1983,L2575471,S17777249
+506,Blue-gray Gnatcatcher,1,392 Navajo Road,US-NM,22 Jun 2009,L714012,S5124428
+507,Black-tailed Gnatcatcher,1,"NV, Big Bend Rec Area",US-NV,04 Mar 2012,L1456952,S10197683
+508,Black-capped Gnatcatcher,2,Patagonia Lake State Park,US-AZ,08 Feb 2016,L129050,S27378842
+509,Rock Wren,1,Tesuque,US-NM,02 Jan 2010,L825016,S5713823
+510,Canyon Wren,1,392 Navajo Road,US-NM,05 Jul 2009,L714012,S5145854
+511,House Wren,,"Los Alamos, 2920 Arizona Avenue",US-NM,11 May 1984,L2575471,S17777312
+512,Pacific Wren,5,Hidden Villa,US-CA,28 May 2013,L558894,S15734280
+513,Winter Wren,1,Patagonia Lake SP--Birding Trail,US-AZ,12 Dec 2016,L2064166,S32985454
+514,Sedge Wren,2,"Sherburne National Wildlife Refuge, Zimmerman US-MN (45.4803,-93.7005)",US-MN,10 Jul 2018,L7692888,S47112085
+515,Marsh Wren,12,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+516,Carolina Wren,1,Morgan Falls Overlook Park,US-GA,03 Feb 2013,L2096771,S15734113
+517,Bewick's Wren,,Guadalupe River near New Braunfels,US-TX,13 Apr 1984,L2758992,S17777487
+518,Band-backed Wren,3,Monumentos Naturales Bonampak--Zona Arqueológica Bonampak,MX-CHP,11 Nov 2018,L285292,S50219209
+519,Yucatan Wren,1,Ejido San Salvador,MX-YUC,03 Nov 2018,L3622236,S50269037
+520,Cactus Wren,2,"Kingman, AZ",US-AZ,01 Mar 2011,L1107333,S7798507
+521,Spot-breasted Wren,1,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+522,American Dipper,1,"Dixon, NM",US-NM,13 Feb 2013,L1932932,S12949133
+523,European Starling,1,392 Navajo Road,US-NM,05 May 2009,L714012,S4961343
+524,Common Myna,6,Kawaiele State Waterbird Sanctuary,US-HI,13 Jan 2013,L469355,S12708628
+525,Gray Catbird,1,"NM, Rio Arriba, Rinconada",US-NM,15 Dec 2012,L1520556,S12312991
+526,Curve-billed Thrasher,3,Tesuque,US-NM,02 Jan 2010,L825016,S5713823
+527,Brown Thrasher,2,Jekyll Island (please consider using more specific locations),US-GA,05 Feb 2013,L140461,S12924185
+528,Long-billed Thrasher,1,Valley Nature Ctr. (LTC 057),US-TX,27 Feb 2014,L300042,S17310433
+529,Bendire's Thrasher,1,"NM, Luna, State Line Road",US-NM,25 Jul 2012,L1637560,S11220213
+530,California Thrasher,1,Lake Murray--Murray Park Dr. entrance,US-CA,25 Nov 2015,L3675490,S25997733
+531,LeConte's Thrasher,1,US-AZ-Tonopah-33498-33558 W Salome Hwy - 33.3818x-112.7715,US-AZ,28 Feb 2016,L4319294,S27870167
+532,Crissal Thrasher,1,Bosque HQ,US-NM,15 Jan 2011,L1067077,S7438073
+533,Sage Thrasher,1,Jones Hole Rd -- Jones Hole Creek area,US-UT,14 Jun 2010,L503160,S6638621
+534,Tropical Mockingbird,4,Laguna Cobá,MX-ROO,02 Nov 2018,L1633060,S50232944
+535,Northern Mockingbird,25,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+536,Eastern Bluebird,2,Jekyll Island (please consider using more specific locations),US-GA,05 Feb 2013,L140461,S12924185
+537,Western Bluebird,3,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+538,Mountain Bluebird,8,LVNWR,US-NM,08 Nov 2009,L799446,S5512501
+539,Townsend's Solitaire,1,392 Navajo Road,US-NM,04 May 2009,L714012,S4947456
+540,Varied Thrush,1,"Denali Hwy, Cantwell US-AK (63.3910,-148.6235)",US-AK,14 Jun 2017,L5976457,S37598262
+541,Veery,1,Magee Marsh--Boardwalk,US-OH,09 May 2015,L275986,S23483035
+542,Gray-cheeked Thrush,1,Magee Marsh--Boardwalk,US-OH,09 May 2015,L275986,S23483035
+543,Swainson's Thrush,2,"253-255 Lost River Road, 253-529 County Highway 9140",US-WA,12 Jul 2014,L2975849,S19083415
+544,Hermit Thrush,1,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+545,Wood Thrush,2,Black Swamp Bird Observatory and Trails,US-OH,10 May 2015,L740302,S23490724
+546,Clay-colored Thrush,2,Sabal Palm Sanctuary (LTC 042),US-TX,01 Mar 2014,L129070,S17311889
+547,American Robin,,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+548,White-rumped Shama,3,Kilauea Point NWR,US-HI,13 Jan 2013,L266182,S12708689
+549,Bluethroat,5,Kougarok Road--traveling,US-AK,18 Jun 2017,L5997860,S37713405
+550,Northern Wheatear,1,Kougarok Road--traveling,US-AK,18 Jun 2017,L5997860,S37713405
+551,Cedar Waxwing,7,Blue Dot Trail Head,US-NM,24 Jan 2010,L797742,S5803925
+552,Phainopepla,1,T or C near Arrey bridge over Rio on SR 187,US-NM,10 Feb 2012,L1086761,S9815934
+553,Olive Warbler,1,Madera Canyon--Santa Rita Lodge,US-AZ,06 Dec 2016,L268114,S32896156
+554,African Silverbill,3,"HI, Hawaii, Fairmont Orchid Hotel",US-HI,19 Jan 2013,L1900142,S12708734
+555,Scaly-breasted Munia,4,Waimea Plantation Cottages,US-HI,14 Jan 2013,L1900103,S12708570
+556,Java Sparrow,4,"HI, Kauai, Kilauea town",US-HI,13 Jan 2013,L1900138,S12708698
+557,House Sparrow,,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+558,Eastern Yellow Wagtail,1,Nome River mouth,US-AK,17 Jun 2017,L279360,S37713453
+559,American Pipit,5,Bernardo North #1,US-NM,06 Feb 2010,L846094,S5873979
+560,Scrub Euphonia,3,Ejido San Salvador,MX-YUC,03 Nov 2018,L3622236,S50269037
+561,Yellow-throated Euphonia,4,Punta Laguna--Santuario de Mono Araña (Spider Monkey Sanctuary),MX-ROO,02 Nov 2018,L1917167,S50232744
+562,Olive-backed Euphonia,2,Zona Arqueológica Palenque,MX-CHP,09 Nov 2018,L305877,S49809020
+563,Evening Grosbeak,2,392 Navajo Road,US-NM,29 May 2009,L714012,S5047911
+564,Hawfinch,4,St. Paul Island (Pribilof Islands-Bering Sea),US-AK,09 Jun 2017,L261146,S37750059
+565,Apapane,4,HI: Alakai Swamp Trail--Trailhead to Pihea Trail junction,US-HI,15 Jan 2013,L1426322,S12708514
+566,Anianiau,4,HI: Alakai Swamp Trail--Trailhead to Pihea Trail junction,US-HI,15 Jan 2013,L1426322,S12708514
+567,Kauai Amakihi,2,HI: Alakai Swamp Trail--Trailhead to Pihea Trail junction,US-HI,15 Jan 2013,L1426322,S12708514
+568,Pine Grosbeak,,"Los Alamos, 2920 Arizona Avenue",US-NM,29 Dec 1984,L2575471,S17777363
+569,Gray-crowned Rosy-Finch,47,Sandia Crest House,US-NM,07 Feb 2010,L846086,S5873892
+570,Black Rosy-Finch,47,Sandia Crest House,US-NM,07 Feb 2010,L846086,S5873892
+571,Brown-capped Rosy-Finch,37,Sandia Crest House,US-NM,07 Feb 2010,L846086,S5873892
+572,House Finch,30,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+573,Purple Finch,2,US-ME-Portland-36 Caron St - 43.7205x-70.2911,US-ME,18 Aug 2015,L3856550,S24665326
+574,Cassin's Finch,2,392 Navajo Road,US-NM,27 Dec 2009,L714012,S5680405
+575,Common Redpoll,2,St. Paul Island (Pribilof Islands-Bering Sea),US-AK,10 Jun 2017,L261146,S37749963
+576,Hoary Redpoll,3,Nome (town),US-AK,16 Jun 2017,L4004485,S37713481
+577,Red Crossbill,9,392 Navajo Road,US-NM,01 Mar 2010,L714012,S6072550
+578,White-winged Crossbill,6,Denali Cabins,US-AK,12 Jun 2017,L3758106,S37603532
+579,Pine Siskin,,"Los Alamos, 2920 Arizona Avenue",US-NM,31 Dec 1983,L2575471,S17777249
+580,Lesser Goldfinch,2,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+581,Lawrence's Goldfinch,2,Elsie Roemer Bird Sanctuary,US-CA,08 May 2014,L509134,S18287515
+582,American Goldfinch,6,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+583,Lapland Longspur,2,Last Mountain Lake,CA-SK,28 Oct 2010,L1018475,S7061147
+584,Chestnut-collared Longspur,29,Caballo lake S.P.,US-NM,05 Feb 2011,L1087138,S7573403
+585,Snow Bunting,55,Last Mountain Lake,CA-SK,28 Oct 2010,L1018475,S7061147
+586,Rufous-winged Sparrow,1,Patagonia Lake State Park,US-AZ,05 Feb 2016,L129050,S27315935
+587,Botteri's Sparrow,1,US-AZ-Nogales-21 Ranchero Ct - 31.4651x-110.8340,US-AZ,30 Dec 2016,L5195320,S33297538
+588,Cassin's Sparrow,3,"NM, Luna, Rodeo",US-NM,23 Jul 2012,L1637513,S11219961
+589,Grasshopper Sparrow,2,US-AZ-Elgin-2598-2716 State Highway 83 -Near Sonoita,US-AZ,13 Dec 2016,L5144504,S32998812
+590,Olive Sparrow,2,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+591,Green-backed Sparrow,1,Punta Laguna--Santuario de Mono Araña (Spider Monkey Sanctuary),MX-ROO,02 Nov 2018,L1917167,S50232744
+592,Chipping Sparrow,,"Los Alamos, 2920 Arizona Avenue",US-NM,11 May 1984,L2575471,S17777312
+593,Clay-colored Sparrow,4,White Rock Wastewater Treatment Plant,US-NM,05 Sep 2011,L1269757,S8779959
+594,Black-chinned Sparrow,1,"Kingman, AZ",US-AZ,01 Mar 2011,L1107333,S7798507
+595,Field Sparrow,1,Christy Farm boy scout,US-OH,13 May 2015,L3656628,S23528690
+596,Brewer's Sparrow,1,392 Navajo Road,US-NM,10 Aug 2009,L714012,S5245227
+597,Black-throated Sparrow,1,Bosque HQ,US-NM,15 Jan 2011,L1067077,S7438073
+598,Lark Sparrow,3,392 Navajo Road,US-NM,13 Aug 2009,L714012,S5387609
+599,Lark Bunting,1,"NM Socorro, NWR, Marsh Loop",US-NM,10 Dec 2011,L812348,S9326525
+600,American Tree Sparrow,,"Los Alamos, 2920 Arizona Avenue",US-NM,31 Dec 1983,L2575471,S17777249
+601,Fox Sparrow,1,Woodland Trail,US-NM,04 Nov 2011,L1306548,S9055507
+602,Dark-eyed Junco,,"Los Alamos, 2920 Arizona Avenue",US-NM,31 Dec 1983,L2575471,S17777249
+603,Yellow-eyed Junco,1,Cave Creek Canyon--South Fork,US-AZ,23 Jul 2012,L129099,S11220022
+604,White-crowned Sparrow,6,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+605,Golden-crowned Sparrow,2,San Luis NWR,US-CA,13 Apr 2010,L887670,S6279926
+606,Harris's Sparrow,1,Bosque del Apache NWR--Visitor Center,US-NM,15 Feb 2014,L847245,S17003129
+607,White-throated Sparrow,1,Stables,US-NM,07 Apr 2011,L827014,S7992932
+608,Sagebrush Sparrow,18,Steptoe Valley WMA--Comins Lake,US-NV,02 Oct 2018,L266839,S48889776
+609,Bell's Sparrow,1,Del Valle Regional Park--Rocky Ridge Visitor Center,US-CA,25 Apr 2018,L6792574,S44934916
+610,Vesper Sparrow,1,392 Navajo Road,US-NM,10 Aug 2009,L714012,S5245227
+611,Nelson's Sparrow,2,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,04 Nov 2017,L161083,S40303531
+612,Savannah Sparrow,2,San Luis NWR,US-CA,13 Apr 2010,L887670,S6279926
+613,Baird's Sparrow,2,US-AZ-Elgin-2598-2716 State Highway 83 -Near Sonoita,US-AZ,13 Dec 2016,L5144504,S32998812
+614,Henslow's Sparrow,2,Lickert-Harder Rd.,US-OH,13 May 2015,L1163489,S23528901
+615,Song Sparrow,2,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+616,Lincoln's Sparrow,1,392 Navajo Road,US-NM,13 Sep 2010,L714012,S6886474
+617,Swamp Sparrow,2,Jekyll Island--Causeway,US-GA,04 Feb 2013,L855751,S12924096
+618,Canyon Towhee,,"Los Alamos, 2920 Arizona Avenue",US-NM,11 May 1984,L2575471,S17777312
+619,Abert's Towhee,1,"AZ, Clarkdale",US-AZ,04 Mar 2012,L1455118,S10185338
+620,California Towhee,2,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+621,Rufous-crowned Sparrow,1,"Los Alamos, Mariposa Court",US-NM,08 Jun 2011,L1229197,S8547612
+622,Green-tailed Towhee,4,392 Navajo Road,US-NM,29 Apr 2009,L714012,S4938521
+623,Spotted Towhee,,"Los Alamos, 2920 Arizona Avenue",US-NM,11 May 1984,L2575471,S17777312
+624,Eastern Towhee,3,Swan Creek WMA,US-AL,04 May 2016,L1020002,S29404170
+625,Yellow-breasted Chat,9,Grand Staircase-Escalante NM--Harris Wash,US-UT,16 May 2010,L912884,S6458040
+626,Yellow-headed Blackbird,1,Marie's House,US-NM,10 Apr 2010,L893454,S6321111
+627,Bobolink,4,Pte. Mouillee SGA,US-MI,12 May 2015,L248057,S23491537
+628,Western Meadowlark,25,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+629,Eastern Meadowlark,4,Valles Caldera Staging Area,US-NM,16 Jun 2012,L949531,S11168283
+630,Black-cowled Oriole,1,Ejido San Salvador,MX-YUC,03 Nov 2018,L3622236,S50269037
+631,Orchard Oriole,1,Magee Marsh--Boardwalk,US-OH,10 May 2015,L275986,S23488471
+632,Hooded Oriole,1,Portal,US-AZ,24 Jul 2012,L129060,S11219943
+633,Bullock's Oriole,1,392 Navajo Road,US-NM,10 Aug 2009,L714012,S5245227
+634,Orange Oriole,1,Ejido San Salvador,MX-YUC,03 Nov 2018,L3622236,S50269037
+635,Altamira Oriole,2,Estero Llano Grande SP WBC (LTC 054),US-TX,27 Feb 2014,L259855,S17310428
+636,Audubon's Oriole,1,Salineño Wildlife Preserve (LTC 080),US-TX,28 Feb 2014,L129075,S17310463
+637,Baltimore Oriole,8,Magee Marsh--Boardwalk,US-OH,09 May 2015,L275986,S23483035
+638,Red-winged Blackbird,550,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+639,Tricolored Blackbird,8,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+640,Bronzed Cowbird,1,Cave Creek Canyon--South Fork,US-AZ,23 Jul 2012,L129099,S11220022
+641,Brown-headed Cowbird,1,392 Navajo Road,US-NM,04 May 2009,L714012,S4947456
+642,Melodious Blackbird,1,Courtyard Marriot Cancún Airport,MX-ROO,02 Nov 2018,L2439034,S49616424
+643,Rusty Blackbird,1,"Denali Hwy, Cantwell US-AK (63.3910,-148.6235)",US-AK,14 Jun 2017,L5976457,S37598262
+644,Brewer's Blackbird,1,392 Navajo Road,US-NM,05 May 2009,L714012,S4961343
+645,Common Grackle,2,Blue Dot Trail Head,US-NM,29 Apr 2010,L797742,S6343208
+646,Boat-tailed Grackle,25,Jekyll Island--Clam Creek Picnic Area ,US-GA,05 Feb 2013,L855742,S12923858
+647,Great-tailed Grackle,12,Jeff's,US-CA,09 Jun 2009,L734998,S5075294
+648,Ovenbird,1,Sabal Palm Sanctuary (LTC 042),US-TX,01 Mar 2014,L129070,S17311889
+649,Worm-eating Warbler,2,Zona Arqueológica Palenque,MX-CHP,09 Nov 2018,L305877,S49809020
+650,Northern Waterthrush,1,Ice Rink,US-NM,28 Apr 2011,L1150826,S8142157
+651,Blue-winged Warbler,1,Laguna Cobá,MX-ROO,02 Nov 2018,L1633060,S50232944
+652,Black-and-white Warbler,1,Valley Nature Ctr. (LTC 057),US-TX,27 Feb 2014,L300042,S17310433
+653,Prothonotary Warbler,3,Magee Marsh--Boardwalk,US-OH,09 May 2015,L275986,S23483035
+654,Swainson's Warbler,2,US-AL-Greenville- hunt club,US-AL,10 May 2016,L4581668,S29535249
+655,Tennessee Warbler,2,Magee Marsh--Boardwalk,US-OH,10 May 2015,L275986,S23488471
+656,Orange-crowned Warbler,,"Los Alamos, 2920 Arizona Avenue",US-NM,11 May 1984,L2575471,S17777312
+657,Lucy's Warbler,2,Patagonia Lake State Park,US-AZ,07 Mar 2016,L129050,S28072192
+658,Nashville Warbler,1,Magee Marsh--Boardwalk,US-OH,10 May 2015,L275986,S23488471
+659,Virginia's Warbler,,"Los Alamos, 2920 Arizona Avenue",US-NM,11 May 1984,L2575471,S17777312
+660,Gray-crowned Yellowthroat,1,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+661,MacGillivray's Warbler,,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+662,Mourning Warbler,1,Magee Marsh--Boardwalk,US-OH,10 May 2015,L275986,S23488471
+663,Kentucky Warbler,1,392 Navajo Road,US-NM,07 Sep 2015,L714012,S24942943
+664,Common Yellowthroat,1,392 Navajo Road,US-NM,06 May 2010,L714012,S6377864
+665,Hooded Warbler,1,Ice Rink,US-NM,28 Apr 2011,L1150826,S8142157
+666,American Redstart,2,Magee Marsh--Boardwalk,US-OH,09 May 2015,L275986,S23483035
+667,Cape May Warbler,2,Magee Marsh--Boardwalk,US-OH,09 May 2015,L275986,S23483035
+668,Northern Parula,2,Magee Marsh--Boardwalk,US-OH,09 May 2015,L275986,S23483035
+669,Tropical Parula,1,Edinburg Scenic Wetlands WBC (LTC 061),US-TX,27 Feb 2014,L249889,S17310438
+670,Magnolia Warbler,4,Magee Marsh--Boardwalk,US-OH,09 May 2015,L275986,S23483035
+671,Bay-breasted Warbler,3,Magee Marsh--Boardwalk,US-OH,09 May 2015,L275986,S23483035
+672,Blackburnian Warbler,4,"Benson Park, Hudson",US-NH,12 Apr 2011,L796023,S8093729
+673,Yellow Warbler,,"Los Alamos, 2920 Arizona Avenue",US-NM,11 May 1984,L2575471,S17777312
+674,Chestnut-sided Warbler,4,Magee Marsh--Boardwalk,US-OH,09 May 2015,L275986,S23483035
+675,Blackpoll Warbler,1,392 Navajo Road,US-NM,16 May 2013,L714012,S14140720
+676,Black-throated Blue Warbler,4,Magee Marsh--Boardwalk,US-OH,09 May 2015,L275986,S23483035
+677,Palm Warbler,2,Magee Marsh--Boardwalk,US-OH,10 May 2015,L275986,S23488471
+678,Pine Warbler,1,"Madison, AL  35756, Madison US-AL (34.5950,-86.8920)",US-AL,18 Jan 2018,L6742990,S42052823
+679,Yellow-rumped Warbler,,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+680,Yellow-throated Warbler,1,Sabal Palm Sanctuary (LTC 042),US-TX,01 Mar 2014,L129070,S17311889
+681,Grace's Warbler,,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+682,Black-throated Gray Warbler,1,392 Navajo Road,US-NM,30 Apr 2009,L714012,S4938550
+683,Townsend's Warbler,1,392 Navajo Road,US-NM,05 Sep 2009,L714012,S5334167
+684,Hermit Warbler,2,UC Berkeley--Fire Trail,US-CA,22 Apr 2019,L3682792,S55261932
+685,Black-throated Green Warbler,2,Pearson Metropark,US-OH,11 May 2015,L1159562,S23490984
+686,Golden-crowned Warbler,2,Zona Arqueológica Palenque,MX-CHP,09 Nov 2018,L305877,S49809020
+687,Canada Warbler,1,Magee Marsh--Boardwalk,US-OH,10 May 2015,L275986,S23488471
+688,Wilson's Warbler,2,392 Navajo Road,US-NM,05 May 2009,L714012,S4961343
+689,Painted Redstart,1,Cave Creek Canyon--South Fork,US-AZ,23 Jul 2012,L129099,S11220022
+690,Hepatic Tanager,1,392 Navajo Road,US-NM,05 May 2009,L714012,S4961343
+691,Summer Tanager,2,Portal,US-AZ,23 Jul 2012,L129060,S11218569
+692,Scarlet Tanager,1,392 Navajo Road,US-NM,09 Sep 2010,L714012,S6874205
+693,Western Tanager,2,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+694,Red-throated Ant-Tanager,2,Parador Vallescondido,MX-CHP,10 Nov 2018,L6625585,S50325549
+695,Black-faced Grosbeak,1,Monumentos Naturales Yaxchilán--Zona Arqueológica Yaxchilán,MX-CHP,10 Nov 2018,L879653,S50318151
+696,Northern Cardinal,,Guadalupe River near New Braunfels,US-TX,13 Apr 1984,L2758992,S17777487
+697,Pyrrhuloxia,1,Bosque del Apache North,US-NM,06 Feb 2010,L846107,S5874119
+698,Rose-breasted Grosbeak,1,392 Navajo Road,US-NM,13 Sep 2010,L714012,S6874120
+699,Black-headed Grosbeak,1,"Los Alamos, 2920 Arizona Avenue",US-NM,15 May 1983,L2575471,S17777145
+700,Blue-black Grosbeak,1,Monumentos Naturales Bonampak--Zona Arqueológica Bonampak,MX-CHP,11 Nov 2018,L285292,S50219209
+701,Blue Grosbeak,1,Island Park,US-UT,15 Jun 2010,L950697,S6616034
+702,Lazuli Bunting,2,392 Navajo Road,US-NM,15 Aug 2009,L714012,S5254592
+703,Indigo Bunting,1,"NM Sandoval, Scooter Peak",US-NM,07 Sep 2012,L1740872,S11540669
+704,Dickcissel,1,Reno,US-NV,07 Jun 2009,L734962,S5075193
+705,Red-crested Cardinal,3,Waimea Plantation Cottages,US-HI,13 Jan 2013,L1900103,S12708588
+706,Yellow-billed Cardinal,4,"HI, Hawaii, Fairmont Orchid Hotel",US-HI,18 Jan 2013,L1900142,S12708718
+707,Gray-headed Tanager,1,Monumentos Naturales Yaxchilán--Zona Arqueológica Yaxchilán,MX-CHP,10 Nov 2018,L879653,S50318151
+708,Blue-gray Tanager,1,"(18.3491,-89.8832)",MX-CAM,07 Nov 2018,L8194329,S50275391
+709,Yellow-winged Tanager,2,Laguna Cobá,MX-ROO,02 Nov 2018,L1633060,S50232944
+710,Saffron Finch,2,"HI, Hawaii, Fairmont Orchid Hotel",US-HI,19 Jan 2013,L1900142,S12708734
+711,Blue-black Grassquit,1,"(21.2092,-88.1687)",MX-YUC,03 Nov 2018,L8192675,S50263568
+712,Variable Seedeater,1,Monumentos Naturales Bonampak--Zona Arqueológica Bonampak,MX-CHP,11 Nov 2018,L285292,S50219209
+713,Morelet's Seedeater,4,Laredo- Las Palmas Trail & Zacate Creek,US-TX,28 Feb 2014,L375369,S17311871
+714,Buff-throated Saltator,1,"Avenida Doctor Belisario Domínguez, Palenque MX-CHIS (17.5093,-91.9735)",MX-CHP,09 Nov 2018,L8120971,S49772302
+715,Black-headed Saltator,1,Chichén Itzá--Hotel Mayaland,MX-YUC,03 Nov 2018,L900402,S50263255
+716,Grayish Saltator,4,Chichén Itzá--Hotel Mayaland,MX-YUC,04 Nov 2018,L900402,S50269157

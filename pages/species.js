@@ -2,10 +2,11 @@ import Head from 'next/head'
 import speciesPageStyles from '../styles/speciesPage.module.css'
 import SpeciesOptions from '../components/speciesOptions'
 import Layout from '../components/layout'
+import HiddenDescription from '../components/hiddenDescription'
 import {bk, imageUrl1, imageUrl2} from '../lib/constants'
 import {getBirdPhotos} from '../lib/data'
 import {getDatabase} from '../lib/database'
-import {replaceSpaces, escapeSpaces, curatedLabel, topRatedLabel} from '../lib/web'
+import {replaceSpaces, escapeSpaces, curatedLabel, topRatedLabel, spacer, halfSpacer} from '../lib/web'
 import {photoRatingDisplay, photoDateLocationDisplay, photoLinksDisplay} from '../lib/photo'
 
 export default class SpeciesPage extends React.Component {
@@ -66,8 +67,8 @@ export default class SpeciesPage extends React.Component {
                     <img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} onClick={() => this.setCuratedPreference(photo[bk.photoId])} />
                     {this.props.photos[0] == photo ? <div>{topRatedLabel()}</div> : ''}
                     {this.state.curated && this.state.curated == photo[bk.photoId] ? <div>{curatedLabel()}</div> : ''}
-                    {photoRatingDisplay(photo)}
-                    {photoLinksDisplay(photo)}
+                    {halfSpacer()}
+                    <HiddenDescription photo={photo} />
                   </div>
                 )
               })}

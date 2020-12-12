@@ -28,9 +28,8 @@
   width: 320px;
   display: grid;
   grid-template-areas: 'header'
-    'photo'
-    'main';
-  grid-template-rows: 32px 1fr 20px;
+    'other';
+  grid-template-rows: 32px 1fr;
   padding-top: 15px;
   padding-bottom: 10px;
   border-bottom: 1px solid #d3d3d3;
@@ -103,6 +102,10 @@
   text-align: left;
 }
 
+.other {
+  grid-area: other;
+}
+
 .photoInfo1 {
   grid-area: main1;
 }
@@ -115,5 +118,10 @@
 .photoInfoGrid {
   grid-area: main;
   padding-left: 10px;
+  font-size: 90%;
+}
+
+.photoInfoCompact {
+  grid-area: main;
   font-size: 90%;
 }

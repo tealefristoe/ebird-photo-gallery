@@ -1,8 +1,9 @@
 import Link from 'next/link'
+import HiddenDescription from './hiddenDescription'
 import speciesRowStyles from '../styles/speciesrow.module.css'
 import {photoRatingDisplay, photoDateLocationDisplay, photoDateLocationWideDisplay, photoLinksDisplay} from '../lib/photo'
 import {bk, imageUrl1, imageUrl2} from '../lib/constants'
-import {escapeSpaces, spacer, curatedLabel, topRatedLabel} from '../lib/web'
+import {escapeSpaces, spacer, displayTypeLabel} from '../lib/web'
 
 export default class SpeciesRow extends React.Component {
   curatedLink(photoData) {
@@ -11,10 +12,6 @@ export default class SpeciesRow extends React.Component {
         <a target="_blank">{photoData.speciesData.photos.length + ' photo' + (photoData.speciesData.photos.length != 1 ? 's' : '')}</a>
       </Link>
     )
-  }
-
-  displayTypeLabel(photoData) {
-    return photoData.displayType == 'curated' ? curatedLabel() : photoData.displayType == 'topRated' ? topRatedLabel() : ''
   }
 
   displayPhoto(photoData, photo) {
@@ -51,7 +48,7 @@ export default class SpeciesRow extends React.Component {
               ? (<div className={speciesRowStyles.photoInfo1}>
                   {this.curatedLink(photoData)}
                   {spacer()}
-                  {this.displayTypeLabel(photoData)}
+                  {displayTypeLabel(photoData.displayType)}
                   {spacer()}
                   {photoLinksDisplay(photo)}
                 </div>)
@@ -86,7 +83,7 @@ export default class SpeciesRow extends React.Component {
           </div>
             {photo
               ? (<div className={speciesRowStyles.photoInfoGrid}>
-                  <div>{this.displayTypeLabel(photoData)}</div>
+                  <div>{displayTypeLabel(photoData.displayType)}</div>
                   {photoRatingDisplay(photo)}
                   <div style={{height: '1em'}} />
                   {photoDateLocationDisplay(photo)}
@@ -106,14 +103,16 @@ export default class SpeciesRow extends React.Component {
                   </div>)
                 : <div className={`${speciesRowStyles.speciesNameGrid} ${speciesRowStyles.missing}`}>{birdName}</div>}
             </div>
-            <div className={speciesRowStyles.photoCompact}>
-              {this.displayPhoto(photoData, photo)}
+            <div className={speciesRowStyles.other}>
+              <div className={speciesRowStyles.photoCompact}>
+                {this.displayPhoto(photoData, photo)}
+              </div>
+              {photo
+                ? (<div className={speciesRowStyles.photoInfoCompact}>
+                    <HiddenDescription displayType={photoData.displayType} photo={photo} />
+                  </div>)
+                : <div className={speciesRowStyles.photoInfoGrid} />}
             </div>
-            {photo
-              ? (<div className={speciesRowStyles.photoInfoGrid}>
-                  <div>{this.displayTypeLabel(photoData)}</div>
-                </div>)
-              : <div className={speciesRowStyles.photoInfoGrid} />}
           </div>
         )
       // Unknown layout

@@ -41,3 +41,10 @@
   grid-column-gap: 60px;
   margin: auto;
 }
+
+.noSelect {
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -moz-user-select: none;
+}

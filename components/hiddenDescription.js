@@ -1,4 +1,4 @@
-import {photoRatingDisplay, photoDateLocationDisplay, photoDateLocationWideDisplay, photoLinksDisplay} from '../lib/photo'
+import {photoRatingDisplay, photoDateLocationDisplay, photoDateLocationWideDisplay, photoLinksDisplay, curatedLink} from '../lib/photo'
 import {spacer, halfSpacer, displayTypeLabel} from '../lib/web'
 
 export default class HiddenDescription extends React.Component {
@@ -20,7 +20,9 @@ export default class HiddenDescription extends React.Component {
           Hide Photo Details
           </a></div>
         {halfSpacer()}
-        <div>{displayTypeLabel(this.props.displayType)}</div>
+        {this.props.photoData ? <div>{displayTypeLabel(this.props.photoData.displayType)}</div> : <div/>}
+        {this.props.displayCuratedLink ? curatedLink(this.props.user, this.props.photoData) : ''}
+        {this.props.displayCuratedLink ? spacer() : ''}
         {photoRatingDisplay(this.props.photo)}
         {spacer()}
         {photoDateLocationWideDisplay(this.props.photo)}

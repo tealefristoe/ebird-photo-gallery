@@ -1,0 +1,893 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Highland Tinamou,1,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+2,Great Tinamou,2,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55108598
+3,Little Tinamou,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+4,Thicket Tinamou,3,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+5,Black-bellied Whistling-Duck,1,Lucchesi Park,US-CA,28 Oct 2015,L361565,S25612188
+6,Emperor Goose,1,NW of  Brannan island rd,US-CA,15 Mar 2016,L4387729,S28240842
+7,Snow Goose,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+8,Ross's Goose,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+9,Greater White-fronted Goose,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+10,Brant,30,Bodega Bay--uplands west of Spud Point,US-CA,15 Feb 2015,L567530,S22537283
+11,Cackling Goose,30,Buchli Station Rd.,US-CA,15 Mar 2015,L2361914,S22374462
+12,Canada Goose,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+13,Hawaiian Goose,3,Kaua'i Marriott Resort,US-HI,07 Apr 2017,L5666680,S35777119
+14,Mute Swan,2,Grizzly Island Wildlife Area,US-CA,14 Feb 2015,L371137,S21862461
+15,Trumpeter Swan,10,Modoc NWR,US-CA,17 Feb 2018,L589213,S42894185
+16,Tundra Swan,175,Goodyear Rd.,US-CA,19 Nov 2015,L627548,S25913681
+17,Egyptian Goose,6,Mile Square Regional Park,US-CA,25 Mar 2018,L446946,S43964827
+18,Wood Duck,3,Skyline Wilderness Park,US-CA,28 Apr 2015,L631746,S23118223
+19,Garganey,1,"Southport Pkwy, West Sacramento US-CA (38.5211,-121.5686)",US-CA,02 Mar 2019,L8723450,S53310762
+20,Blue-winged Teal,2,Yolo Bypass Wildlife Area,US-CA,25 May 2015,L443535,S23637400
+21,Cinnamon Teal,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+22,Northern Shoveler,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+23,Gadwall,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+24,Eurasian Wigeon,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+25,American Wigeon,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+26,Hawaiian Duck,3,Nawiliwili Lighthouse,US-HI,07 Apr 2017,L469286,S35777146
+27,Mallard,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+28,Northern Pintail,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+29,Green-winged Teal,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+30,Canvasback,6,american canyon wetlands eucalyptus rd,US-CA,06 Mar 2015,L3569618,S22904990
+31,Redhead,1,Berkeley Marina Frontage Road,US-CA,05 Jan 2015,L3270058,S21217914
+32,Ring-necked Duck,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+33,Tufted Duck,1,Stafford Lake,US-CA,26 Feb 2016,L1091529,S27835736
+34,Greater Scaup,25,Berkeley Marina Frontage Road,US-CA,05 Jan 2015,L3270058,S21217914
+35,Lesser Scaup,15,Berkeley Marina Frontage Road,US-CA,05 Jan 2015,L3270058,S21217914
+36,King Eider,1,Bodega Head - offshore species and the bluff ONLY,US-CA,12 Oct 2019,L606176,S60582464
+37,Common Eider,1,"Pebble Beach--Bird & Seal Rocks, 17-Mile Dr.",US-CA,17 Feb 2019,L352281,S52836979
+38,Harlequin Duck,1,Coyote Point County Park--harbor and marsh,US-CA,10 Aug 2015,L997003,S24573402
+39,Surf Scoter,4,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+40,White-winged Scoter,1,Pt. Reyes--Abbotts Lagoon,US-CA,09 Apr 2015,L218324,S22834820
+41,Black Scoter,1,inverness store area,US-CA,11 Nov 2015,L4002766,S25798039
+42,Long-tailed Duck,1,Monterey--Del Monte Beach,US-CA,12 Jan 2017,L293645,S33629848
+43,Bufflehead,10,Berkeley Marina Frontage Road,US-CA,05 Jan 2015,L3270058,S21217914
+44,Common Goldeneye,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+45,Barrow's Goldeneye,2,Lake Solano (SOL Co.),US-CA,24 Nov 2015,L1179043,S25986623
+46,Hooded Merganser,4,South Lake Tahoe,US-CA,17 Jan 2015,L245041,S22374845
+47,Common Merganser,1,Buchli Station Rd.,US-CA,20 Feb 2015,L2361914,S22537220
+48,Red-breasted Merganser,3,Bodega Bay--uplands west of Spud Point,US-CA,26 Apr 2015,L567530,S23084047
+49,Ruddy Duck,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+50,Plain Chachalaca,4,Villa Presiosa,CR-G,14 Apr 2019,L9038121,S55018133
+51,Gray-headed Chachalaca,11,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+52,Crested Guan,2,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+53,Black Guan,4,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+54,Great Curassow,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+55,Mountain Quail,2,Pine Flat Rd.--upper,US-CA,09 May 2015,L1164789,S23338164
+56,Crested Bobwhite,2,"253, Provincia de Guanacaste, CR (10.585, -85.597)",CR-G,17 Apr 2019,L9062665,S55072126
+57,California Quail,20,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+58,Gambel's Quail,24,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+59,Indian Peafowl,2,Page Springs Fish Hatchery,US-AZ,03 Apr 2015,L266621,S22691333
+60,Chukar,1,Tahoe Ridge Trail,US-NV,27 Jun 2015,L3757395,S24088579
+61,Erckel's Francolin,1,Kokee Rd,US-HI,09 Apr 2017,L5679011,S35851967
+62,Black Francolin,7,Poipu Rd to Makauwahi Cave Reserve,US-HI,18 Apr 2017,L5717202,S36076075
+63,Gray Francolin,1,"72-2199–72-2365 Hawaii Belt Rd, Captain Cook US-HI (19.7892,-155.8851)",US-HI,25 Jul 2018,L7750492,S47442600
+64,Red Junglefowl,25,"Wailua Falls, Ma'alo Road",US-HI,08 Apr 2017,L855806,S35807003
+65,Ring-necked Pheasant,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+66,Kalij Pheasant,2,HI: HFNWR - Old Wagon,US-HI,25 Jul 2018,L6831434,S47459355
+67,Ruffed Grouse,1,Jackson F. Kimball SP,US-OR,18 Nov 2017,L1041796,S40708058
+68,Greater Sage-Grouse,2,Shaffer Sage Grouse Lek,US-CA,10 Jun 2015,L486430,S23932894
+69,Sooty Grouse,2,Smith Peak Lookout Rd.,US-CA,09 Jun 2015,L764988,S23926488
+70,Wild Turkey,13,Duhig Road/Skagg's Island Road,US-CA,07 Mar 2015,L3270004,S22374273
+71,Pied-billed Grebe,2,Old Sonoma/Henry/Duhig/Ramal Road,US-CA,29 Jan 2015,L3337128,S21666185
+72,Horned Grebe,,Bodega Bay--uplands west of Spud Point,US-CA,15 Feb 2015,L567530,S22537283
+73,Red-necked Grebe,1,Cesar Chavez Park,US-CA,02 May 2015,L285281,S23183436
+74,Eared Grebe,1,Berkeley Marina Frontage Road,US-CA,05 Jan 2015,L3270058,S21217914
+75,Western Grebe,2,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+76,Clark's Grebe,1,Bodega Bay--uplands west of Spud Point,US-CA,26 Apr 2015,L567530,S23084047
+77,Rock Pigeon,,american canyon wetlands eucalyptus rd,US-CA,06 Mar 2015,L3569618,S22904990
+78,Red-billed Pigeon,4,Villa Presiosa,CR-G,14 Apr 2019,L9038121,S55018133
+79,Band-tailed Pigeon,1,Yountville Veteran's Home,US-CA,19 Mar 2015,L3500214,S22429153
+80,Ruddy Pigeon,3,Curi-Cancha Refugio de Vida Silvestre,CR-P,22 Apr 2019,L1468729,S55278641
+81,Short-billed Pigeon,3,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+82,Eurasian Collared-Dove,9,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+83,African Collared-Dove,1,Oakville,US-CA,07 Apr 2016,L4464756,S55936193
+84,Spotted Dove,15,Kaua'i Marriott Resort,US-HI,07 Apr 2017,L5666680,S35777119
+85,Zebra Dove,40,Kaua'i Marriott Resort,US-HI,07 Apr 2017,L5666680,S35777119
+86,Inca Dove,8,Patagonia-Sonoita Creek Preserve,US-AZ,01 Apr 2015,L129052,S22691170
+87,Common Ground Dove,1,Tijuana River Valley Regional Park--Community Gardens,US-CA,28 Mar 2018,L469003,S44034877
+88,Ruddy Ground Dove,2,"CR-Guanacaste-Liberia (10.6058,-85.4400)",CR-G,13 Apr 2019,L9050847,S54996096
+89,White-tipped Dove,6,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+90,Buff-fronted Quail-Dove,1,Celeste Mountain Lodge,CR-A,19 Apr 2019,L1587157,S55122667
+91,Chiriqui Quail-Dove,1,Curi-Cancha Refugio de Vida Silvestre,CR-P,22 Apr 2019,L1468729,S55278641
+92,White-winged Dove,6,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+93,Mourning Dove,3,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+94,Chestnut-bellied Sandgrouse,3,Waikoloa Fields,US-HI,26 Jul 2018,L7754751,S47466749
+95,Groove-billed Ani,2,"253, Provincia de Guanacaste, CR (10.585, -85.597)",CR-G,17 Apr 2019,L9062665,S55072126
+96,Striped Cuckoo,1,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+97,Lesser Ground-Cuckoo,1,The Monkey Farm,CR-G,16 Apr 2019,L9061739,S55046195
+98,Greater Roadrunner,1,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+99,Squirrel Cuckoo,2,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+100,Yellow-billed Cuckoo,1,Owl Canyon - ONLY (waterbirds from this site OK),US-CA,24 Oct 2015,L598128,S25555509
+101,Black-billed Cuckoo,1,Magee Marsh--Beach West,US-OH,09 May 2018,L210370,S45486702
+102,Lesser Nighthawk,5,Cache Creek--Capay bridge vicinity,US-CA,23 Jul 2015,L2194995,S24364419
+103,Common Nighthawk,10,Shaffer Sage Grouse Lek,US-CA,10 Jun 2015,L486430,S23932894
+104,Common Pauraque,2,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996094
+105,Common Poorwill,1,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+106,Eastern Whip-poor-will,1,"Maumee Bay State Park, Oregon US-OH (41.6845,-83.3556)",US-OH,07 May 2018,L7370312,S45441151
+107,Mexican Whip-poor-will,2,Green Canyon,US-CA,22 Jun 2019,L583382,S57610903
+108,Great Potoo,1,Arenal Observatory Lodge,CR-A,20 Apr 2019,L436229,S55195460
+109,Black Swift,2,Fowler's Campground,US-CA,14 Jun 2015,L2316291,S23959605
+110,White-collared Swift,3,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+111,Chimney Swift,3,"E South Range Rd, New Springfield US-OH (40.9407,-80.5850)",US-OH,04 May 2018,L7335237,S45261565
+112,Vaux's Swift,4,Butler Bridge,US-CA,09 Mar 2015,L1480551,S22374771
+113,Gray-rumped Swift,12,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55108598
+114,White-throated Swift,10,Butler Bridge,US-CA,09 Mar 2015,L1480551,S22374771
+115,Lesser Swallow-tailed Swift,1,Sendero Bogarín,CR-A,20 Apr 2019,L3220631,S55196549
+116,White-necked Jacobin,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55108598
+117,White-tipped Sicklebill,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+118,Bronzy Hermit,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+119,Green Hermit,1,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+120,Long-billed Hermit,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+121,Stripe-throated Hermit,1,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+122,Brown Violetear,1,Arenal Observatory Lodge,CR-A,20 Apr 2019,L436229,S55195460
+123,Lesser Violetear,7,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+124,Black-crested Coquette,2,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+125,Green-crowned Brilliant,8,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+126,Rivoli's Hummingbird,1,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+127,Long-billed Starthroat,1,"(10.7160,-85.0555)",CR-G,19 Apr 2019,L9081683,S55166355
+128,Plain-capped Starthroat,1,The Monkey Farm,CR-G,16 Apr 2019,L9061739,S55046195
+129,Purple-throated Mountain-gem,15,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+130,Magenta-throated Woodstar,3,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+131,Ruby-throated Hummingbird,2,Magee Marsh--Beach West,US-OH,05 May 2018,L210370,S45290293
+132,Black-chinned Hummingbird,1,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+133,Anna's Hummingbird,5,Skyline Park,US-CA,03 Jan 2015,L3270028,S21217801
+134,Costa's Hummingbird,1,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+135,Broad-tailed Hummingbird,4,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+136,Rufous Hummingbird,4,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+137,Allen's Hummingbird,1,twin oaks drive,US-CA,19 Apr 2015,L3576340,S22951948
+138,Scintillant Hummingbird,1,Reserva Santa Elena,CR-G,21 Apr 2019,L448181,S55242546
+139,Calliope Hummingbird,1,Woodbrook Dr,US-CA,14 Apr 2015,L3564712,S22870359
+140,Canivet's Emerald,1,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+141,Broad-billed Hummingbird,20,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+142,Violet-headed Hummingbird,3,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+143,Scaly-breasted Hummingbird,1,Sendero Bogarín,CR-A,20 Apr 2019,L3220631,S55196549
+144,Violet Sabrewing,3,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+145,Bronze-tailed Plumeleteer,1,Celeste Mountain Lodge,CR-A,19 Apr 2019,L1587157,S55122667
+146,Crowned Woodnymph,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+147,Stripe-tailed Hummingbird,1,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+148,Coppery-headed Emerald,1,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+149,Snowcap,3,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+150,Blue-vented Hummingbird,1,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+151,Rufous-tailed Hummingbird,1,Villa Presiosa,CR-G,14 Apr 2019,L9038121,S55018133
+152,Cinnamon Hummingbird,1,Villa Presiosa,CR-G,15 Apr 2019,L9038121,S55015419
+153,Violet-crowned Hummingbird,1,Patagonia-Sonoita Creek Preserve,US-AZ,24 Mar 2016,L129052,S28524776
+154,Blue-throated Goldentail,3,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+155,Ridgway's Rail,2,Ellis Creek Water Recyling Facility,US-CA,18 Apr 2015,L2316709,S22950485
+156,King Rail,1,"Maumee Bay State Park, Oregon US-OH (41.6845,-83.3556)",US-OH,07 May 2018,L7370312,S45441151
+157,Virginia Rail,2,Grizzly Island Wildlife Area,US-CA,14 Mar 2015,L371137,S22374604
+158,Uniform Crake,1,Sendero Bogarín,CR-A,20 Apr 2019,L3220631,S55196549
+159,Russet-naped Wood-Rail,5,Sendero Bogarín,CR-A,20 Apr 2019,L3220631,S55196549
+160,Gray-cowled Wood-Rail,1,Sendero Bogarín,CR-A,20 Apr 2019,L3220631,S55196549
+161,Sora,1,Grizzly Island Wildlife Area,US-CA,14 Feb 2015,L371137,S21862461
+162,Common Gallinule,2,Lynch Canyon Open Space Park,US-CA,27 Mar 2015,L508627,S22550026
+163,Hawaiian Coot,2,Nawiliwili Lighthouse,US-HI,07 Apr 2017,L469286,S35777146
+164,American Coot,2,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+165,Purple Gallinule,2,"253, Provincia de Guanacaste, CR (10.585, -85.597)",CR-G,17 Apr 2019,L9062665,S55072126
+166,Yellow Rail,1,"Goose Lake, New Pine Creek US-CA (41.9932,-120.3299)",US-CA,12 Jul 2018,L7700840,S47152710
+167,White-throated Crake,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55108598
+168,Black Rail,1,Ellis Creek Water Recyling Facility,US-CA,09 Jul 2015,L2316709,S24205991
+169,Limpkin,1,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+170,Sandhill Crane,6,Sierra Valley--Marble Hot Springs Rd.,US-CA,08 Jun 2015,L338300,S23932556
+171,Common Crane,1,South of Goose Lake--CR 68/48 (Davis Creek to Goose Lake Causeway),US-CA,29 Jul 2020,L8219029,S71933647
+172,Double-striped Thick-knee,2,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+173,Black-necked Stilt,12,Old Sonoma/Henry/Duhig/Ramal Road,US-CA,29 Jan 2015,L3337128,S21666185
+174,American Avocet,,american canyon wetlands eucalyptus rd,US-CA,06 Mar 2015,L3569618,S22904990
+175,American Oystercatcher,1,Royal Palms Beach,US-CA,22 Jan 2019,L3231275,S51981327
+176,Black Oystercatcher,1,Bodega Bay--uplands west of Spud Point,US-CA,26 Apr 2015,L567530,S23084047
+177,Black-bellied Plover,2,American Canyon Wetlands,US-CA,29 Apr 2015,L650670,S23137322
+178,American Golden-Plover,2,San Pablo Bay NWR - Reclamation  Rd.,US-CA,31 Oct 2015,L1421670,S25652894
+179,Pacific Golden-Plover,9,Pt. Reyes--Abbotts Lagoon,US-CA,05 Sep 2015,L218324,S24906654
+180,Southern Lapwing,3,"253, Provincia de Guanacaste, CR (10.585, -85.597)",CR-G,17 Apr 2019,L9062665,S55072126
+181,Lesser Sand-Plover,1,Pt. Reyes--Abbotts Lagoon,US-CA,21 Oct 2016,L218324,S32150809
+182,Collared Plover,1,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+183,Snowy Plover,4,Pt. Reyes--Abbotts Lagoon,US-CA,09 Apr 2015,L218324,S22834820
+184,Common Ringed Plover,1,Pt. Reyes--Abbotts Lagoon,US-CA,11 Oct 2018,L218324,S49130178
+185,Semipalmated Plover,80,Bodega Bay--uplands west of Spud Point,US-CA,26 Apr 2015,L567530,S23084047
+186,Killdeer,20,Old Sonoma/Henry/Duhig/Ramal Road,US-CA,29 Jan 2015,L3337128,S21666185
+187,Mountain Plover,20,Creed Rd.,US-CA,13 Dec 2015,L1076038,S26273766
+188,Northern Jacana,55,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+189,Upland Sandpiper,2,Wilkins Rd. @ Sager Rd. (Lucas Co.),US-OH,07 May 2018,L1816347,S45410359
+190,Whimbrel,10,Pt. Reyes--Limantour Beach,US-CA,05 Jul 2015,L590462,S24168060
+191,Long-billed Curlew,1,Skaggs Island Rd. (SOL Co.),US-CA,16 Feb 2015,L779424,S22537253
+192,Bar-tailed Godwit,1,Seadrift Beach,US-CA,16 Aug 2016,L2322380,S31125835
+193,Hudsonian Godwit,1,Salinas River NWR,US-CA,03 Aug 2019,L598440,S58715910
+194,Marbled Godwit,,Bodega Bay--uplands west of Spud Point,US-CA,15 Feb 2015,L567530,S22537283
+195,Ruddy Turnstone,1,Bodega Bay--harbor and immediate vicinity,US-CA,14 Aug 2015,L109489,S24619761
+196,Black Turnstone,25,Berkeley Marina Frontage Road,US-CA,05 Jan 2015,L3270058,S21217914
+197,Red Knot,1,Doran Regional Park - entrance pond to jetty,US-CA,18 Aug 2015,L578601,S24675491
+198,Surfbird,2,Berkeley Marina Frontage Road,US-CA,05 Jan 2015,L3270058,S21217914
+199,Ruff,1,Pond at Junction of Tomales & Valley Ford Roads,US-CA,05 Sep 2015,L3889151,S24906708
+200,Stilt Sandpiper,2,Don Edwards NWR (SCL Co.) (please use a more specific hotspot where possible),US-CA,13 Sep 2015,L231517,S25028726
+201,Curlew Sandpiper,1,Grimes--Arbuckle Rd,US-CA,17 Sep 2020,L12311983,S73726182
+202,Sanderling,7,Pt. Reyes--Limantour Beach,US-CA,05 Jul 2015,L590462,S24168060
+203,Dunlin,30,Yolo Bypass Wildlife Area,US-CA,22 Mar 2015,L443535,S22476790
+204,Rock Sandpiper,1,Bodega Head - offshore species and the bluff ONLY,US-CA,06 Nov 2017,L606176,S40350804
+205,Baird's Sandpiper,3,Pt. Reyes--Abbotts Lagoon,US-CA,05 Sep 2015,L218324,S24906654
+206,Little Stint,1,"San Pablo Bay National Wildlife Refuge, Vallejo US-CA 38.13814, -122.35112",US-CA,23 Jul 2020,L11950083,S71777893
+207,Least Sandpiper,12,Berkeley Marina Frontage Road,US-CA,05 Jan 2015,L3270058,S21217914
+208,Buff-breasted Sandpiper,1,West County Wastewater District--Sewage Ponds,US-CA,25 Aug 2018,L848605,S48068096
+209,Pectoral Sandpiper,1,Pt. Reyes--Abbotts Lagoon,US-CA,05 Sep 2015,L218324,S24906654
+210,Semipalmated Sandpiper,1,Napa-Sonoma Marshes WA--Huichica Creek Unit,US-CA,11 Aug 2017,L590812,S38598447
+211,Western Sandpiper,30,Bodega Bay--uplands west of Spud Point,US-CA,26 Apr 2015,L567530,S23084047
+212,Short-billed Dowitcher,17,Bodega Bay--uplands west of Spud Point,US-CA,26 Apr 2015,L567530,S23084047
+213,Long-billed Dowitcher,10,Old Sonoma/Henry/Duhig/Ramal Road,US-CA,29 Jan 2015,L3337128,S21666185
+214,American Woodcock,8,"Maumee Bay State Park Golf Course, Oregon US-OH (41.6775,-83.3700)",US-OH,05 May 2018,L7351059,S45330708
+215,Wilson's Snipe,1,Grizzly Island Wildlife Area,US-CA,14 Feb 2015,L371137,S21862461
+216,Wilson's Phalarope,16,Stillwater WMA,US-NV,23 Jun 2015,L277761,S24087638
+217,Red-necked Phalarope,1,Yolo Bypass Wildlife Area,US-CA,16 May 2015,L443535,S23482572
+218,Red Phalarope,1,Monterey Bay (36.7759x-122.0693),US-CA,13 Sep 2015,L3905360,S25045631
+219,Spotted Sandpiper,2,Plumas Eureka SP,US-CA,07 Jun 2015,L878486,S23926315
+220,Solitary Sandpiper,1,third street bridge,US-CA,15 Apr 2015,L4028351,S26010409
+221,Wandering Tattler,2,Hyde Street Pier,US-CA,10 Aug 2015,L3244860,S24573262
+222,Greater Yellowlegs,8,Old Sonoma/Henry/Duhig/Ramal Road,US-CA,29 Jan 2015,L3337128,S21666185
+223,Willet,15,Berkeley Marina Frontage Road,US-CA,05 Jan 2015,L3270058,S21217914
+224,Lesser Yellowlegs,8,Yolo Bypass Wildlife Area,US-CA,22 Mar 2015,L443535,S22476790
+225,Marsh Sandpiper,1,Yolo Bypass Wildlife Area,US-CA,16 Apr 2018,L443535,S44646080
+226,South Polar Skua,1,Monterey Bay (36.7497x-122.1488),US-CA,13 Sep 2015,L3905363,S25045607
+227,Pomarine Jaeger,3,Monterey Bay (36.7759x-122.0693),US-CA,13 Sep 2015,L3905360,S25045631
+228,Parasitic Jaeger,1,Bodega Bay--harbor and immediate vicinity,US-CA,09 Aug 2015,L109489,S24562773
+229,Long-tailed Jaeger,1,Monterey Bay (36.7993x-122.1870),US-CA,13 Sep 2015,L3905362,S25045596
+230,Common Murre,8,Pt. Bonita Lighthouse,US-CA,03 Jul 2015,L762580,S24141404
+231,Thick-billed Murre,1,Offshore pelagic (South SON Co.),US-CA,09 Oct 2016,L2343897,S31969532
+232,Pigeon Guillemot,4,Bodega Bay--uplands west of Spud Point,US-CA,26 Apr 2015,L567530,S23084047
+233,Marbled Murrelet,3,Pt. Bonita Lighthouse,US-CA,03 Jul 2015,L762580,S24141404
+234,Scripps's Murrelet,1,Rio Del Mar SB / Aptos Creek mouth,US-CA,27 Jul 2015,L2174401,S24413247
+235,Guadalupe Murrelet,2,Bodega Bay pelagic--nearshore (SON Co.),US-CA,23 Sep 2018,L816752,S48750150
+236,Ancient Murrelet,3,Bodega Head - offshore species and the bluff ONLY,US-CA,22 Nov 2015,L606176,S25957095
+237,Cassin's Auklet,2,Monterey Bay (36.6880x-122.0908),US-CA,13 Sep 2015,L3905364,S25045568
+238,Parakeet Auklet,1,"GGNRA--Land's End Trail/Hermit Rock Overlook (Historic Shipwrecks, 37.7839,-122.5096)",US-CA,15 Jul 2018,L6105843,S47215911
+239,Rhinoceros Auklet,2,Monterey Bay (36.7759x-122.0693),US-CA,13 Sep 2015,L3905360,S25045631
+240,Tufted Puffin,1,Monterey Bay (36.7759x-122.0693),US-CA,13 Sep 2015,L3905360,S25045631
+241,Black-legged Kittiwake,1,Bodega Head - offshore species and the bluff ONLY,US-CA,22 Nov 2015,L606176,S25957095
+242,Sabine's Gull,1,Rio Del Mar SB / Aptos Creek mouth,US-CA,27 Jul 2015,L2174401,S24413247
+243,Bonaparte's Gull,2,Offshore pelagic (South SON Co.),US-CA,25 Oct 2015,L2343897,S25555235
+244,Black-headed Gull,1,Stockton WTP,US-CA,05 Dec 2020,L371182,S77118542
+245,Ross's Gull,1,"stakeout Ross's Gull, ag field near Half Moon Bay Airport (2017)",US-CA,14 Jan 2017,L5258551,S33745067
+246,Laughing Gull,1,Pigeon Pt.,US-CA,18 Feb 2017,L271476,S34484270
+247,Franklin's Gull,1,Sedona Wetlands Preserve,US-AZ,03 Apr 2015,L1092125,S22691265
+248,Black-tailed Gull,1,"Pt. Pinos--general (sea & shore Coral to Jewell, Crespi Pond & cypresses)",US-CA,12 Jan 2017,L374642,S33630131
+249,Heermann's Gull,3,"Tennessee Valley shore, ocean and headlands",US-CA,29 Jun 2015,L3738383,S24099597
+250,Mew Gull,1,Bodega Bay--uplands west of Spud Point,US-CA,15 Feb 2015,L567530,S22537283
+251,Ring-billed Gull,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+252,Western Gull,,Bodega Bay--uplands west of Spud Point,US-CA,15 Feb 2015,L567530,S22537283
+253,Yellow-footed Gull,1,Salton Sea--Red Hill area,US-CA,20 Jun 2019,L225954,S57542889
+254,California Gull,3,Skyline Park,US-CA,03 Jan 2015,L3270028,S21217801
+255,Herring Gull,1,Doran Regional Park - entrance pond to jetty,US-CA,06 Sep 2015,L578601,S24921297
+256,Iceland Gull,1,San Pablo Bay NWR - Reclamation  Rd.,US-CA,05 Nov 2015,L1421670,S25718288
+257,Lesser Black-backed Gull,1,San Francisco Ferry Building,US-CA,07 Nov 2015,L854587,S25760980
+258,Slaty-backed Gull,2,Koster Rd. gravel pit,US-CA,24 Feb 2019,L1437005,S53118751
+259,Glaucous-winged Gull,,Bodega Bay--uplands west of Spud Point,US-CA,15 Feb 2015,L567530,S22537283
+260,Glaucous Gull,1,Bodega Head - offshore species and the bluff ONLY,US-CA,12 Dec 2014,L606176,S25958382
+261,Black Noddy,4,Ke'e Beach,US-HI,12 Apr 2017,L5688920,S35912876
+262,White Tern,1,Keokea Beach Park,US-HI,27 Jul 2018,L2127329,S47511662
+263,Least Tern,9,Napa-Sonoma Marshes WA--Huichica Creek Unit,US-CA,17 May 2015,L590812,S23499541
+264,Gull-billed Tern,14,"Sonny Bono Salton Sea National Wildlife Refuge, Calipatria US-CA (33.1766,-115.6174)",US-CA,29 Mar 2018,L7138872,S44066867
+265,Caspian Tern,14,Pt. Reyes--Abbotts Lagoon,US-CA,09 Apr 2015,L218324,S22834820
+266,Black Tern,1,Woodland/Davis Water Treatment Plant,US-CA,18 Jul 2015,L448084,S24307276
+267,Common Tern,2,Cesar Chavez Park,US-CA,23 May 2015,L285281,S23619470
+268,Arctic Tern,2,Monterey Bay (36.7497x-122.1488),US-CA,13 Sep 2015,L3905363,S25045607
+269,Forster's Tern,8,Buchli Station Rd.,US-CA,15 Mar 2015,L2361914,S22374462
+270,Royal Tern,2,San Diego Bay--Attu Ave.,US-CA,26 Mar 2018,L416917,S43994969
+271,Sandwich Tern,1,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+272,Elegant Tern,100,Rio Del Mar SB / Aptos Creek mouth,US-CA,27 Jul 2015,L2174401,S24413247
+273,Black Skimmer,1,Bolinas Lagoon,US-CA,05 Jul 2015,L624621,S24167532
+274,White-tailed Tropicbird,6,Kilauea Point NWR,US-HI,08 Apr 2017,L266182,S35806917
+275,Red-tailed Tropicbird,120,Kilauea Point NWR,US-HI,08 Apr 2017,L266182,S35806917
+276,Red-throated Loon,9,Bodega Bay--uplands west of Spud Point,US-CA,26 Apr 2015,L567530,S23084047
+277,Arctic Loon,1,Pt. Reyes--Abbotts Lagoon,US-CA,31 Jan 2018,L218324,S42401464
+278,Pacific Loon,3,Bodega Bay--uplands west of Spud Point,US-CA,26 Apr 2015,L567530,S23084047
+279,Common Loon,4,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+280,Yellow-billed Loon,1,South Beach Bluffs Seawatch. From exact point godly seawatch.,US-CA,25 Mar 2020,L11029845,S69035293
+281,Laysan Albatross,12,Kilauea Point NWR,US-HI,08 Apr 2017,L266182,S35806917
+282,Black-footed Albatross,3,Monterey Bay (36.7759x-122.0693),US-CA,13 Sep 2015,L3905360,S25045631
+283,Wilson's Storm-Petrel,1,"(38.1548,-123.5756)",US-CA,20 Aug 2017,L6200404,S38763237
+284,Fork-tailed Storm-Petrel,1,Monterey Bay (36.7993x-122.1870),US-CA,13 Sep 2015,L3905362,S25045596
+285,Leach's Storm-Petrel,4,Pelagic. Island Packers. Leg 5. 33.84794 -119.48063. Bearing W,US-CA,14 Jul 2019,L9658095,S58432400
+286,Townsend's Storm-Petrel,1,Pelagic. Island Packers. Leg 5. 33.84794 -119.48063. Bearing W,US-CA,14 Jul 2019,L9658095,S58432400
+287,Ashy Storm-Petrel,1,Monterey Bay (36.7759x-122.0693),US-CA,13 Sep 2015,L3905360,S25045631
+288,Black Storm-Petrel,1,Monterey Bay (36.7993x-122.1870),US-CA,13 Sep 2015,L3905362,S25045596
+289,Northern Fulmar,3,Monterey Bay (36.7759x-122.0693),US-CA,13 Sep 2015,L3905360,S25045631
+290,Kermadec Petrel,2,Kilauea Point NWR,US-HI,28 Jul 2018,L266182,S47511571
+291,Juan Fernandez Petrel,1,Keokea Beach Park,US-HI,27 Jul 2018,L2127329,S47511662
+292,Hawaiian Petrel,1,Keokea Beach Park,US-HI,26 Jul 2018,L2127329,S47469138
+293,Cook's Petrel,1,Keokea Beach Park,US-HI,27 Jul 2018,L2127329,S47511662
+294,Pink-footed Shearwater,33,Monterey Bay (36.7759x-122.0693),US-CA,13 Sep 2015,L3905360,S25045631
+295,Flesh-footed Shearwater,1,Offshore pelagic (South SON Co.),US-CA,23 Sep 2018,L2343897,S48750162
+296,Wedge-tailed Shearwater,28,Nawiliwili Lighthouse,US-HI,07 Apr 2017,L469286,S35965859
+297,Buller's Shearwater,1,Monterey Bay (36.7759x-122.0693),US-CA,13 Sep 2015,L3905360,S25045631
+298,Sooty Shearwater,50,Rio Del Mar SB / Aptos Creek mouth,US-CA,27 Jul 2015,L2174401,S24413247
+299,Short-tailed Shearwater,1,Offshore pelagic (South SON Co.),US-CA,25 Oct 2015,L2343897,S25555235
+300,Manx Shearwater,1,Offshore pelagic (South SON Co.),US-CA,23 Sep 2018,L2343897,S48750154
+301,Newell's Shearwater,1,Napoli Coast pelagic,US-HI,16 Apr 2017,L5708893,S36029243
+302,Black-vented Shearwater,3,Monterey Bay (36.7759x-122.0693),US-CA,13 Sep 2015,L3905360,S25045631
+303,Wood Stork,3,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+304,Magnificent Frigatebird,40,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+305,Great Frigatebird,1,Nawiliwili Lighthouse,US-HI,07 Apr 2017,L469286,S35965859
+306,Masked Booby,1,Anacapa Island--public access (VEN Co.),US-CA,30 Sep 2018,L605251,S49162179
+307,Nazca Booby,1,San Diego Bay--Attu Ave.,US-CA,27 Mar 2018,L416917,S44002967
+308,Blue-footed Booby,1,Ventura Harbor--general,US-CA,26 Sep 2018,L351583,S48770041
+309,Brown Booby,1,Offshore pelagic (South SON Co.),US-CA,25 Oct 2015,L2343897,S25555235
+310,Red-footed Booby,4,Nawiliwili Lighthouse,US-HI,07 Apr 2017,L469286,S35777146
+311,Northern Gannet,1,Pt. Reyes--Fish Docks,US-CA,30 Aug 2015,L453386,S24831117
+312,Anhinga,1,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+313,Brandt's Cormorant,8,Bodega Bay--uplands west of Spud Point,US-CA,26 Apr 2015,L567530,S23084047
+314,Pelagic Cormorant,,Bodega Bay--uplands west of Spud Point,US-CA,15 Feb 2015,L567530,S22537283
+315,Neotropic Cormorant,1,"6618–6788 Gentry Rd, Calipatria US-CA (33.1354,-115.6143)",US-CA,29 Mar 2018,L7137756,S44060940
+316,Double-crested Cormorant,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+317,American White Pelican,2,Grizzly Island Wildlife Area,US-CA,14 Feb 2015,L371137,S21862461
+318,Brown Pelican,,Bodega Bay--uplands west of Spud Point,US-CA,15 Feb 2015,L567530,S22537283
+319,American Bittern,1,Yolo Bypass Wildlife Area,US-CA,16 May 2015,L443535,S23482572
+320,Least Bittern,2,Las Gallinas Valley Sanitary District,US-CA,01 Jul 2015,L207664,S24116006
+321,Bare-throated Tiger-Heron,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+322,Great Blue Heron,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+323,Great Egret,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+324,Snowy Egret,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+325,Little Blue Heron,1,Imperial Beach Sports Park,US-CA,26 Mar 2018,L586477,S43994573
+326,Tricolored Heron,1,San Diego River--Robb Field & mudflats,US-CA,27 Mar 2018,L506275,S44025471
+327,Reddish Egret,1,San Diego Bay--Attu Ave.,US-CA,26 Mar 2018,L416917,S43994969
+328,Cattle Egret,50,Davis WTP,US-CA,04 Apr 2015,L453489,S22691409
+329,Green Heron,1,Lynch Canyon Open Space Park,US-CA,27 Mar 2015,L508627,S22550026
+330,Black-crowned Night-Heron,1,Sedona Wetlands Preserve,US-AZ,03 Apr 2015,L1092125,S22691265
+331,Yellow-crowned Night-Heron,4,Imperial Beach Sports Park,US-CA,26 Mar 2018,L586477,S43994573
+332,Boat-billed Heron,6,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+333,White Ibis,25,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+334,Glossy Ibis,1,Woodland/Davis Water Treatment Plant,US-CA,29 May 2018,L448084,S46144008
+335,White-faced Ibis,60,Yolo Bypass Wildlife Area,US-CA,22 Mar 2015,L443535,S22476790
+336,Roseate Spoonbill,7,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+337,California Condor,7,Hwy 25 Near fields,US-CA,17 Jul 2017,L6101012,S38210101
+338,King Vulture,2,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+339,Black Vulture,5,Patagonia-Sonoita Creek Preserve,US-AZ,24 Mar 2016,L129052,S28524776
+340,Turkey Vulture,20,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+341,Osprey,1,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+342,White-tailed Kite,1,Partrick Rd.--MP 3.5 to end (NAP Co.),US-CA,01 Jan 2015,L1562084,S21164869
+343,Swallow-tailed Kite,3,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+344,Golden Eagle,2,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+345,Plumbeous Kite,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+346,Northern Harrier,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+347,Sharp-shinned Hawk,1,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+348,Cooper's Hawk,1,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+349,Northern Goshawk,1,Raker Peak Cliff (Burned Area west of Devastated Walk),US-CA,11 Jun 2015,L3726608,S23933338
+350,Bald Eagle,2,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+351,Common Black Hawk,2,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+352,Barred Hawk,3,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+353,Roadside Hawk,1,"Drive to Las. Pumas Wildlife Refuge (10.5317,-85.2684)",CR-G,14 Apr 2019,L9057120,S55018819
+354,Harris's Hawk,2,US-AZ-Oro Valley-13425-13479 N Lindbergh Dr - 32.4509x-111.0124,US-AZ,25 Mar 2016,L4420723,S28533808
+355,White-tailed Hawk,1,Villa Presiosa,CR-G,16 Apr 2019,L9038121,S55015411
+356,White Hawk,1,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+357,Gray Hawk,3,Patagonia-Sonoita Creek Preserve,US-AZ,01 Apr 2015,L129052,S22691170
+358,Red-shouldered Hawk,4,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+359,Broad-winged Hawk,9,Hawk Hill,US-CA,27 Sep 2015,L224081,S25210916
+360,Hawaiian Hawk,1,"16-725 Keaau Pahoa Rd, Keaau US-HI (19.6160,-155.0299)",US-HI,23 Jul 2018,L7745469,S47413319
+361,Swainson's Hawk,1,Yolo Bypass Wildlife Area,US-CA,22 Mar 2015,L443535,S22476790
+362,Zone-tailed Hawk,1,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+363,Red-tailed Hawk,12,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+364,Rough-legged Hawk,2,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+365,Ferruginous Hawk,1,Hudeman Slough,US-CA,04 Jan 2015,L989640,S21217565
+366,Barn Owl,1,Grizzly Island Wildlife Area,US-CA,14 Mar 2015,L371137,S22374604
+367,Flammulated Owl,4,1 mile Past Bagley Pass,US-CA,13 Jun 2017,L5974088,S37587694
+368,Whiskered Screech-Owl,3,Madera Canyon--Santa Rita Lodge,US-AZ,23 Mar 2016,L268114,S28510712
+369,Pacific Screech-Owl,1,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996094
+370,Western Screech-Owl,1,Dale Klydes preserve,US-CA,20 Jul 2015,L3804295,S24335931
+371,Eastern Screech-Owl,1,"Maumee Bay State Park, Oregon US-OH (41.6844,-83.3686)",US-OH,05 May 2018,L7338149,S45276430
+372,Spectacled Owl,2,"las pumas wildlife refuge Waterfall (10.5400,-85.7244)",CR-G,14 Apr 2019,L9057109,S55018719
+373,Great Horned Owl,1,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+374,Snowy Owl,1,"1951–2483 N Opfer Lentz Rd, Martin US-OH (41.5453,-83.3202)",US-OH,05 May 2018,L7350649,S45328502
+375,Northern Pygmy-Owl,1,Redwood Rd. (NAP Co.),US-CA,22 May 2015,L3130336,S23587946
+376,Ferruginous Pygmy-Owl,2,Playa Ocotal,CR-G,15 Apr 2019,L3157214,S55015414
+377,Elf Owl,1,Catalina SP,US-AZ,20 Mar 2016,L128938,S28460534
+378,Burrowing Owl,2,Green Tree Golf Course Gilley Way,US-CA,21 Apr 2015,L3581965,S22993069
+379,Black-and-white Owl,1,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+380,Spotted Owl,1,Archer Taylor Preserve (restricted access),US-CA,31 May 2015,L1971537,S23727662
+381,Barred Owl,1,Muir Woods NM--Main Trail,US-CA,29 Jun 2015,L2913605,S24099624
+382,Great Gray Owl,2,Evergreen Rd.,US-CA,11 Jun 2018,L7561289,S46498202
+383,Long-eared Owl,1,Lake Davis Dam,US-CA,04 Aug 2015,L2992725,S24519375
+384,Short-eared Owl,1,Ellis Creek Water Recyling Facility,US-CA,06 Nov 2015,L2316709,S25729452
+385,Northern Saw-whet Owl,1,Dale Klydes preserve,US-CA,20 Jul 2015,L3804295,S24335931
+386,Resplendent Quetzal,3,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+387,Slaty-tailed Trogon,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55108598
+388,Black-headed Trogon,1,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+389,Gartered Trogon,2,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+390,Elegant Trogon,1,Villa Presiosa,CR-G,16 Apr 2019,L9038121,S55015411
+391,Collared Trogon,1,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+392,Tody Motmot,1,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+393,Lesson's Motmot,2,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+394,Keel-billed Motmot,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+395,Broad-billed Motmot,1,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+396,Turquoise-browed Motmot,2,Villa Presiosa,CR-G,14 Apr 2019,L9038121,S55018133
+397,Ringed Kingfisher,1,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+398,Belted Kingfisher,1,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+399,Amazon Kingfisher,4,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+400,Green Kingfisher,2,Sendero Bogarín,CR-A,20 Apr 2019,L3220631,S55196549
+401,White-necked Puffbird,1,Playa Ocotal,CR-G,15 Apr 2019,L3157214,S55015414
+402,Rufous-tailed Jacamar,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+403,Red-headed Barbet,2,Reserva Santa Elena,CR-G,21 Apr 2019,L448181,S55242546
+404,Prong-billed Barbet,2,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+405,Northern Emerald-Toucanet,1,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+406,Collared Aracari,3,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+407,Yellow-throated Toucan,2,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+408,Keel-billed Toucan,2,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+409,Williamson's Sapsucker,2,Lassen Volcanic NP--Summit Lake,US-CA,12 Jun 2015,L589197,S23943466
+410,Yellow-bellied Sapsucker,1,US-CA-Inverness-130 Bay View Way - 38.0989x-122.8558,US-CA,28 Dec 2015,L4101878,S26496492
+411,Red-naped Sapsucker,1,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+412,Red-breasted Sapsucker,1,Yountville Cross Road,US-CA,15 Nov 2014,L3491787,S22374804
+413,Lewis's Woodpecker,1,Lake Davis--Eagle Pt.,US-CA,08 Jun 2015,L2992745,S23926444
+414,Red-headed Woodpecker,1,Mill Creek Park--Newport Wetlands,US-OH,04 May 2018,L3491103,S45266521
+415,Acorn Woodpecker,16,Yountville Cross Road,US-CA,15 Nov 2014,L3491787,S22374804
+416,Black-cheeked Woodpecker,1,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+417,Gila Woodpecker,8,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+418,Hoffmann's Woodpecker,2,Villa Presiosa,CR-G,14 Apr 2019,L9038121,S55018133
+419,Red-bellied Woodpecker,2,Mill Creek Park--Newport Wetlands,US-OH,04 May 2018,L3491103,S45266521
+420,American Three-toed Woodpecker,2,Lassen Volcanic NP--Summit Lake,US-CA,12 Jun 2015,L589197,S23943466
+421,Black-backed Woodpecker,2,Lassen Volcanic NP--Summit Lake,US-CA,12 Jun 2015,L589197,S23943466
+422,Downy Woodpecker,1,Skyline Park,US-CA,03 Jan 2015,L3270028,S21217801
+423,Nuttall's Woodpecker,2,Yountville Cross Road,US-CA,15 Nov 2014,L3491787,S22374804
+424,Ladder-backed Woodpecker,1,Patagonia-Sonoita Creek Preserve,US-AZ,01 Apr 2015,L129052,S22691170
+425,Hairy Woodpecker,2,South Lake Tahoe,US-CA,17 Jan 2015,L245041,S22374845
+426,White-headed Woodpecker,6,South Lake Tahoe,US-CA,17 Jan 2015,L245041,S22374845
+427,Smoky-brown Woodpecker,2,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+428,Arizona Woodpecker,3,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+429,Pale-billed Woodpecker,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+430,Pileated Woodpecker,2,Yountville Cross Road,US-CA,15 Nov 2014,L3491787,S22374804
+431,Rufous-winged Woodpecker,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+432,Northern Flicker,2,Yountville Cross Road,US-CA,15 Nov 2014,L3491787,S22374804
+433,Gilded Flicker,1,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+434,Collared Forest-Falcon,1,Monteverde--Cala Lodge,CR-P,20 Apr 2019,L3621869,S55195705
+435,Crested Caracara,2,"Drive to Las. Pumas Wildlife Refuge (10.5317,-85.2684)",CR-G,14 Apr 2019,L9057120,S55018819
+436,Yellow-headed Caracara,2,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+437,American Kestrel,2,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+438,Merlin,1,Partrick Rd.--MP 3.5 to end (NAP Co.),US-CA,31 Dec 2014,L1562084,S21121133
+439,Peregrine Falcon,1,Partrick Rd.--MP 3.5 to end (NAP Co.),US-CA,01 Jan 2015,L1562084,S21164869
+440,Prairie Falcon,1,Old Sonoma/Henry/Duhig/Ramal Road,US-CA,29 Jan 2015,L3337128,S21666185
+441,Tanimbar Corella,1,Waikoloa Fields,US-HI,26 Jul 2018,L7754751,S47466749
+442,Rose-ringed Parakeet,2,Playa del Rey/Ballona area,US-CA,22 Jan 2019,L2999612,S51981314
+443,Rosy-faced Lovebird,20,"N Haden Road Scottsdale, AZ",US-AZ,29 Mar 2015,L3524627,S22585936
+444,Fischer's Lovebird,3,Ulistac Natural Area,US-CA,12 Aug 2018,L773892,S47805566
+445,Monk Parakeet,4,201 Rosemont St.,US-CA,20 Jun 2019,L9504801,S57544333
+446,Yellow-chevroned Parakeet,1,Los Angeles River--south of Willow St. to PCH,US-CA,22 Jan 2019,L6684303,S51981322
+447,Orange-chinned Parakeet,2,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+448,Red-crowned Parrot,1,Mile Square Regional Park,US-CA,25 Mar 2018,L446946,S43964827
+449,Lilac-crowned Parrot,1,Mile Square Regional Park,US-CA,25 Mar 2018,L446946,S43964827
+450,Red-lored Parrot,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+451,Yellow-naped Parrot,5,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+452,White-fronted Parrot,2,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+453,Mealy Parrot,1,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+454,Orange-fronted Parakeet,11,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+455,Nanday Parakeet,40,Pt. Mugu SP--Sycamore Canyon,US-CA,28 Sep 2018,L297811,S48798333
+456,Scarlet Macaw,7,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+457,Crimson-fronted Parakeet,15,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+458,Mitred Parakeet,28,"3627 E Second St, Long Beach US-CA (33.7631,-118.1497)",US-CA,01 Feb 2019,L8539675,S52281225
+459,Red-masked Parakeet,8,Golden Gate Park--San Francisco Botanical Garden,US-CA,10 Aug 2015,L1085740,S24573304
+460,Great Antshrike,1,Arenal Oasis Eco Lodge,CR-A,20 Apr 2019,L2397652,S55166280
+461,Barred Antshrike,2,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+462,Black-crowned Antshrike,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+463,Plain Antvireo,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+464,Slaty Antwren,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+465,Thicket Antpitta,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+466,Silvery-fronted Tapaculo,1,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+467,Black-faced Antthrush,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+468,Gray-throated Leaftosser,4,Curi-Cancha Refugio de Vida Silvestre,CR-P,22 Apr 2019,L1468729,S55278641
+469,Plain-brown Woodcreeper,1,Celeste Mountain Lodge,CR-A,19 Apr 2019,L1587157,S55122667
+470,Northern Barred-Woodcreeper,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55108598
+471,Cocoa Woodcreeper,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+472,Spotted Woodcreeper,1,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+473,Brown-billed Scythebill,1,Reserva Santa Elena,CR-G,21 Apr 2019,L448181,S55242546
+474,Streak-headed Woodcreeper,1,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+475,Plain Xenops,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55108598
+476,Lineated Foliage-gleaner,2,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+477,Streak-breasted Treehunter,1,Reserva Santa Elena,CR-G,21 Apr 2019,L448181,S55242546
+478,Spotted Barbtail,1,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+479,Ruddy Treerunner,12,Reserva Santa Elena,CR-G,21 Apr 2019,L448181,S55242546
+480,Red-faced Spinetail,1,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+481,Long-tailed Manakin,2,"las pumas wildlife refuge Waterfall (10.5400,-85.7244)",CR-G,14 Apr 2019,L9057109,S55018719
+482,White-collared Manakin,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+483,Three-wattled Bellbird,1,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+484,Masked Tityra,1,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+485,Northern Schiffornis,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55108598
+486,Barred Becard,6,Reserva Santa Elena,CR-G,21 Apr 2019,L448181,S55242546
+487,Cinnamon Becard,3,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+488,Rose-throated Becard,1,Playa Ocotal,CR-G,15 Apr 2019,L3157214,S55015414
+489,Sulphur-rumped Flycatcher,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+490,White-throated Spadebill,1,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+491,Olive-striped Flycatcher,1,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+492,Scale-crested Pygmy-Tyrant,3,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+493,Northern Bentbill,1,"las pumas wildlife refuge Waterfall (10.5400,-85.7244)",CR-G,14 Apr 2019,L9057109,S55018719
+494,Common Tody-Flycatcher,3,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+495,Eye-ringed Flatbill,1,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+496,Yellow-olive Flycatcher,2,"las pumas wildlife refuge Waterfall (10.5400,-85.7244)",CR-G,14 Apr 2019,L9057109,S55018719
+497,Yellow-margined Flycatcher,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+498,Northern Beardless-Tyrannulet,1,Florida Canyon--lower,US-AZ,23 Mar 2016,L720787,S28510531
+499,Yellow Tyrannulet,3,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+500,Greenish Elaenia,1,The Monkey Farm,CR-G,16 Apr 2019,L9061739,S55046195
+501,Yellow-bellied Elaenia,1,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+502,Mountain Elaenia,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+503,Mistletoe Tyrannulet,1,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+504,Tufted Flycatcher,1,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+505,Olive-sided Flycatcher,2,Cesar Chavez Park,US-CA,23 May 2015,L285281,S23619470
+506,Western Wood-Pewee,4,Gates Canyon Rd.,US-CA,08 May 2015,L594778,S23311554
+507,Eastern Wood-Pewee,1,Magee Marsh--Beach West,US-OH,09 May 2018,L210370,S45486702
+508,Yellow-bellied Flycatcher,1,Pt. Reyes--Nunes Ranch (A Ranch) & Road Forks Pool,US-CA,24 Sep 2017,L460136,S39376173
+509,Acadian Flycatcher,1,Magee Marsh--Beach West,US-OH,10 May 2018,L210370,S45532827
+510,Alder Flycatcher,1,Magee Marsh--Beach West,US-OH,10 May 2018,L210370,S45532827
+511,Willow Flycatcher,1,Walker Creek Ranch (private),US-CA,24 May 2015,L3670175,S23619746
+512,Least Flycatcher,1,Pt. Reyes--Lighthouse,US-CA,28 Aug 2016,L130809,S31303594
+513,Hammond's Flycatcher,1,Bothe-Napa Valley SP,US-CA,05 May 2015,L772583,S23255325
+514,Gray Flycatcher,2,Plumas Eureka SP,US-CA,07 Jun 2015,L878486,S23926315
+515,Dusky Flycatcher,2,Lake Davis--Eagle Pt.,US-CA,08 Jun 2015,L2992745,S23926444
+516,Pacific-slope Flycatcher,1,Lynmar Winery,US-CA,26 Apr 2015,L3594271,S23084660
+517,Cordilleran Flycatcher,1,"N Haden Road Scottsdale, AZ",US-AZ,29 Mar 2015,L3524627,S22585936
+518,Yellowish Flycatcher,1,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+519,Buff-breasted Flycatcher,1,Mt. Lemmon--Rose Canyon and Lake,US-AZ,21 Mar 2016,L129068,S28477536
+520,Black Phoebe,3,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+521,Eastern Phoebe,1,"Stage Rd. (Riparian and Eucalyptus)  was stakeout Eastern Phoebe, Pescadero (2011-2016)",US-CA,18 Feb 2017,L3171457,S34484090
+522,Say's Phoebe,2,Hudeman Slough,US-CA,04 Jan 2015,L989640,S21217565
+523,Vermilion Flycatcher,8,Patagonia-Sonoita Creek Preserve,US-AZ,01 Apr 2015,L129052,S22691170
+524,Long-tailed Tyrant,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+525,Bright-rumped Attila,1,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+526,Rufous Mourner,1,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+527,Dusky-capped Flycatcher,3,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+528,Panama Flycatcher,2,Tárcoles--Tour en Bote,CR-P,22 Apr 2019,L1456779,S55278014
+529,Ash-throated Flycatcher,1,"N Haden Road Scottsdale, AZ",US-AZ,29 Mar 2015,L3524627,S22585936
+530,Nutting's Flycatcher,2,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+531,Great Crested Flycatcher,1,Mill Creek Park--Newport Wetlands,US-OH,04 May 2018,L3491103,S45266521
+532,Brown-crested Flycatcher,9,Big Morongo Canyon Preserve,US-CA,21 Jun 2019,L420195,S57578630
+533,Great Kiskadee,5,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+534,Boat-billed Flycatcher,1,Villa Presiosa,CR-G,16 Apr 2019,L9038121,S55015411
+535,Social Flycatcher,1,Villa Presiosa,CR-G,16 Apr 2019,L9038121,S55015411
+536,Golden-bellied Flycatcher,2,Reserva Santa Elena,CR-G,21 Apr 2019,L448181,S55242546
+537,Streaked Flycatcher,1,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+538,Sulphur-bellied Flycatcher,2,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+539,Piratic Flycatcher,1,Villa Presiosa,CR-G,16 Apr 2019,L9038121,S55015411
+540,Tropical Kingbird,1,Pt. Reyes--Fish Docks,US-CA,26 Sep 2015,L453386,S25197931
+541,Cassin's Kingbird,1,Patagonia-Sonoita Creek Preserve,US-AZ,01 Apr 2015,L129052,S22691170
+542,Thick-billed Kingbird,1,Patagonia-Sonoita Creek Preserve,US-AZ,01 Apr 2015,L129052,S22691170
+543,Western Kingbird,2,Ellis Creek Water Recyling Facility,US-CA,18 Apr 2015,L2316709,S22950485
+544,Eastern Kingbird,4,Magee Marsh--Beach West,US-OH,05 May 2018,L210370,S45290293
+545,Scissor-tailed Flycatcher,1,Los Angeles River--south of Willow St. to PCH,US-CA,22 Jan 2019,L6684303,S51981322
+546,Lesser Greenlet,2,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+547,White-eyed Vireo,2,Magee Marsh--Boardwalk,US-OH,06 May 2018,L275986,S45363824
+548,Bell's Vireo,1,Bodega Bay--harbor and immediate vicinity,US-CA,03 Oct 2015,L109489,S25286170
+549,Gray Vireo,2,New York Mtns—Dead Mans Pass,US-CA,18 Jun 2019,L9493162,S57490341
+550,Hutton's Vireo,16,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+551,Yellow-throated Vireo,1,Magee Marsh--Boardwalk,US-OH,06 May 2018,L275986,S45363824
+552,Cassin's Vireo,2,Bothe-Napa Valley SP,US-CA,05 May 2015,L772583,S23255325
+553,Blue-headed Vireo,1,Pt. Reyes--RCA Building,US-CA,04 Oct 2015,L638776,S25302492
+554,Plumbeous Vireo,1,Madora Lake,US-CA,09 Jun 2015,L953070,S23932114
+555,Philadelphia Vireo,1,Mill Creek Park--Newport Wetlands,US-OH,04 May 2018,L3491103,S45266521
+556,Warbling Vireo,2,Yountville Veteran's Home,US-CA,19 Mar 2015,L3500214,S22429153
+557,Red-eyed Vireo,1,Pt. Reyes--Fish Docks,US-CA,28 Aug 2016,L453386,S31302717
+558,Yellow-green Vireo,1,Pt. Reyes--Fish Docks,US-CA,13 Oct 2016,L453386,S32028207
+559,Hawaii Elepaio,4,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",US-HI,24 Jul 2018,L285813,S47434213
+560,Kauai Elepaio,3,Pihea Trail--Kalalau Rim,US-HI,09 Apr 2017,L1427137,S35850859
+561,Loggerhead Shrike,1,Hudeman Slough,US-CA,04 Jan 2015,L989640,S21217565
+562,Northern Shrike,1,Berryessa Knoxville Rd.--MP 18.43 at East Side Rd.,US-CA,21 Jan 2016,L1442242,S27044119
+563,Canada Jay,1,Cottonwood Drive,US-CA,01 Aug 2015,L3833770,S24519282
+564,Azure-hooded Jay,3,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+565,White-throated Magpie-Jay,3,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+566,Brown Jay,1,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+567,Pinyon Jay,1,Indian Creek Reservoir,US-CA,22 Jun 2017,L272916,S37749681
+568,Steller's Jay,8,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+569,Blue Jay,1,Mill Creek Park--Newport Wetlands,US-OH,04 May 2018,L3491103,S45266521
+570,Island Scrub-Jay,4,Santa Cruz Island--Prisoners Harbor,US-CA,30 Sep 2018,L375253,S49162163
+571,California Scrub-Jay,4,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+572,Woodhouse's Scrub-Jay,1,Wilson Canyon Trail,US-AZ,03 Apr 2015,L1072323,S22691375
+573,Mexican Jay,18,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+574,Black-billed Magpie,5,Clio,US-CA,10 Jun 2017,L5961165,S37527617
+575,Yellow-billed Magpie,2,Yolo Bypass Wildlife Area,US-CA,22 Mar 2015,L443535,S22476790
+576,Clark's Nutcracker,4,South Lake Tahoe,US-CA,17 Jan 2015,L245041,S22374845
+577,American Crow,10,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+578,Common Raven,16,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+579,Carolina Chickadee,2,Mohican SP--Covered Bridge,US-OH,11 May 2018,L887955,S45563756
+580,Black-capped Chickadee,4,Arcata Marsh--McDaniel Slough restoration area,US-CA,24 Jul 2016,L2373185,S30872747
+581,Mountain Chickadee,12,South Lake Tahoe,US-CA,17 Jan 2015,L245041,S22374845
+582,Chestnut-backed Chickadee,8,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+583,Bridled Titmouse,17,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+584,Oak Titmouse,2,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+585,Juniper Titmouse,4,Wilson Canyon Trail,US-AZ,03 Apr 2015,L1072323,S22691375
+586,Tufted Titmouse,1,Mill Creek Park--Newport Wetlands,US-OH,04 May 2018,L3491103,S45266521
+587,Verdin,15,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+588,Horned Lark,2,Pt. Reyes--Abbotts Lagoon,US-CA,09 Apr 2015,L218324,S22834820
+589,Eurasian Skylark,14,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",US-HI,24 Jul 2018,L285813,S47434213
+590,Blue-and-white Swallow,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+591,Northern Rough-winged Swallow,4,Sedona Wetlands Preserve,US-AZ,03 Apr 2015,L1092125,S22691265
+592,Purple Martin,1,Sedona Wetlands Preserve,US-AZ,03 Apr 2015,L1092125,S22691265
+593,Gray-breasted Martin,11,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+594,Tree Swallow,,american canyon wetlands eucalyptus rd,US-CA,06 Mar 2015,L3569618,S22904990
+595,Mangrove Swallow,1,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+596,Violet-green Swallow,2,"Orchard Ave. Napa, CA",US-CA,01 Mar 2015,L3491767,S22374713
+597,Bank Swallow,6,Stillwater WMA,US-NV,23 Jun 2015,L277761,S24087638
+598,Barn Swallow,2,Butler Bridge,US-CA,09 Mar 2015,L1480551,S22374771
+599,Cliff Swallow,100,Grizzly Island Wildlife Area,US-CA,14 Mar 2015,L371137,S22374604
+600,Cave Swallow,1,Tulare WTP,US-CA,31 Jan 2020,L573594,S63979189
+601,Red-vented Bulbul,2,US-HI-Honolulu-Honolulu International Airport - 21.3347x-157.9241,US-HI,19 Apr 2017,L5721780,S36105503
+602,Dusky Warbler,1,GGNRA--Redwood Creek (stakeout Dusky Warbler 2015),US-CA,17 Oct 2015,L3966733,S25460373
+603,Japanese Bush Warbler,2,Hanalei NWR -- Ohiki Rd.,US-HI,08 Apr 2017,L1124298,S35806966
+604,Bushtit,8,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+605,Wrentit,18,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+606,Warbling White-eye,10,Kaua'i Marriott Resort,US-HI,07 Apr 2017,L5666680,S35777119
+607,Chinese Hwamei,1,Pihea Trail--Kalalau Rim to Alakai Swamp Trail junction,US-HI,09 Apr 2017,L1427146,S35851144
+608,Greater Necklaced Laughingthrush,2,Nounou Forest Reserve--Kuamo'o-Nounou Trail,US-HI,11 Apr 2017,L2717572,S35885928
+609,Red-billed Leiothrix,3,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",US-HI,24 Jul 2018,L285813,S47434213
+610,Golden-crowned Kinglet,2,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+611,Ruby-crowned Kinglet,2,Yountville Cross Road,US-CA,15 Nov 2014,L3491787,S22374804
+612,Red-breasted Nuthatch,4,South Lake Tahoe,US-CA,17 Jan 2015,L245041,S22374845
+613,White-breasted Nuthatch,6,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+614,Pygmy Nuthatch,18,South Lake Tahoe,US-CA,17 Jan 2015,L245041,S22374845
+615,Brown Creeper,2,South Lake Tahoe,US-CA,17 Jan 2015,L245041,S22374845
+616,Long-billed Gnatwren,1,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+617,Blue-gray Gnatcatcher,2,Page Springs Fish Hatchery,US-AZ,03 Apr 2015,L266621,S22691333
+618,California Gnatcatcher,4,"Otay Valley Regional Park, San Diego US-CA (32.5883,-117.0715)",US-CA,27 Mar 2018,L7128979,S44007763
+619,Black-tailed Gnatcatcher,4,Catalina SP,US-AZ,20 Mar 2016,L128938,S28451334
+620,Black-capped Gnatcatcher,2,Florida Canyon--lower,US-AZ,23 Mar 2016,L720787,S28510531
+621,White-lored Gnatcatcher,2,Villa Presiosa,CR-G,14 Apr 2019,L9038121,S55018133
+622,Tropical Gnatcatcher,2,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+623,Rock Wren,1,Pt. Reyes--Abbotts Lagoon,US-CA,09 Apr 2015,L218324,S22834820
+624,Nightingale Wren,1,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+625,Canyon Wren,3,Wilson Canyon Trail,US-AZ,03 Apr 2015,L1072323,S22691375
+626,House Wren,3,Lynch Canyon Open Space Park,US-CA,27 Mar 2015,L508627,S22550026
+627,Ochraceous Wren,2,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+628,Pacific Wren,6,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+629,Winter Wren,1,Reichmuth Park,US-CA,14 Jan 2018,L474988,S41913178
+630,Sedge Wren,1,"550 State Route 95, Loudonville US-OH (40.7154,-82.2327)",US-OH,12 May 2018,L7397021,S45604705
+631,Marsh Wren,20,Grizzly Island Wildlife Area,US-CA,14 Feb 2015,L371137,S21862461
+632,Carolina Wren,1,Mohican SP--Covered Bridge,US-OH,11 May 2018,L887955,S45563756
+633,Bewick's Wren,2,Skyline Park,US-CA,03 Jan 2015,L3270028,S21217801
+634,Band-backed Wren,2,Arenal Observatory Lodge,CR-A,20 Apr 2019,L436229,S55195460
+635,Rufous-naped Wren,3,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+636,Cactus Wren,20,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+637,Black-throated Wren,1,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+638,Banded Wren,1,Villa Presiosa,CR-G,14 Apr 2019,L9038121,S55018133
+639,Rufous-and-white Wren,2,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+640,Stripe-breasted Wren,5,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+641,Cabanis's Wren,1,Monteverde--Cala Lodge,CR-P,20 Apr 2019,L3621869,S55195705
+642,Bay Wren,8,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+643,White-breasted Wood-Wren,1,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+644,Gray-breasted Wood-Wren,4,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+645,American Dipper,1,"Big Bend, Hampshire Rocks Rd.",US-CA,07 Jun 2015,L3725219,S23926154
+646,European Starling,6,Partrick Rd.--MP 3.5 to end (NAP Co.),US-CA,01 Jan 2015,L1562084,S21164869
+647,Common Myna,20,Kaua'i Marriott Resort,US-HI,07 Apr 2017,L5666680,S35777119
+648,Gray Catbird,3,Mill Creek Park--Newport Wetlands,US-OH,04 May 2018,L3491103,S45266521
+649,Curve-billed Thrasher,24,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+650,Brown Thrasher,2,Magee Marsh--Beach West,US-OH,08 May 2018,L210370,S45456768
+651,Bendire's Thrasher,1,Mojave National Preserve--Cima Rd. at Powerline Rd.,US-CA,17 Jun 2019,L757917,S57494939
+652,California Thrasher,1,Cesar Chavez Park,US-CA,02 May 2015,L285281,S23183436
+653,LeConte's Thrasher,2,Joshua Tree NP--Smoke Tree Wash,US-CA,31 Mar 2018,L4614517,S44137490
+654,Crissal Thrasher,1,US-AZ-Oro Valley-13305 Hidden Springs Dr - 32.4483x-110.9783,US-AZ,19 Mar 2016,L4404902,S28438335
+655,Sage Thrasher,4,Sierra Valley--Marble Hot Springs Rd.,US-CA,08 Jun 2015,L338300,S23932556
+656,Tropical Mockingbird,4,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+657,Northern Mockingbird,2,Yountville Cross Road,US-CA,15 Nov 2014,L3491787,S22374804
+658,Eastern Bluebird,8,Oak Openings--Girdham Rd. @ Reed Rd.,US-OH,07 May 2018,L2185875,S45410420
+659,Western Bluebird,4,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+660,Mountain Bluebird,4,Lake Davis--Eagle Pt.,US-CA,08 Jun 2015,L2992745,S23926444
+661,Townsend's Solitaire,1,Wilson Canyon Trail,US-AZ,03 Apr 2015,L1072323,S22691375
+662,Black-faced Solitaire,2,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+663,Omao,6,HI: HFNWR - Barn area,US-HI,25 Jul 2018,L4290890,S47459453
+664,Varied Thrush,6,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+665,Orange-billed Nightingale-Thrush,2,Monteverde--Cala Lodge,CR-P,20 Apr 2019,L3621869,S55195705
+666,Slaty-backed Nightingale-Thrush,2,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+667,Ruddy-capped Nightingale-Thrush,2,Reserva Santa Elena,CR-G,21 Apr 2019,L448181,S55242546
+668,Black-headed Nightingale-Thrush,1,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+669,Veery,1,Magee Marsh--Beach West,US-OH,05 May 2018,L210370,S45290293
+670,Gray-cheeked Thrush,3,Magee Marsh--Beach West,US-OH,05 May 2018,L210370,S45290293
+671,Swainson's Thrush,1,Gates Canyon Rd.,US-CA,08 May 2015,L594778,S23311554
+672,Hermit Thrush,1,Partrick Rd.--MP 3.5 to end (NAP Co.),US-CA,01 Jan 2015,L1562084,S21164869
+673,Wood Thrush,1,Metzger Marsh--Woodlot,US-OH,05 May 2018,L3594591,S45329942
+674,Mountain Thrush,3,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+675,White-throated Thrush,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+676,Clay-colored Thrush,1,"las pumas wildlife refuge Waterfall (10.5400,-85.7244)",CR-G,14 Apr 2019,L9057109,S55018719
+677,American Robin,25,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+678,Rufous-backed Robin,1,Catalina SP,US-AZ,20 Mar 2016,L128938,S28451334
+679,White-rumped Shama,1,Kaua'i Marriott Resort,US-HI,07 Apr 2017,L5666680,S35777119
+680,Red-flanked Bluetail,1,UC Los Angeles--William Andrews Clark Memorial Library,US-CA,21 Jan 2019,L2282343,S51919628
+681,Cedar Waxwing,20,Wilson Canyon Trail,US-AZ,03 Apr 2015,L1072323,S22691375
+682,Phainopepla,3,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+683,Olive Warbler,5,Mt. Lemmon--Rose Canyon and Lake,US-AZ,21 Mar 2016,L129068,S28477536
+684,Lavender Waxbill,2,Kailua-Kona Town Area (not wilderness or upper elevations!),US-HI,26 Jul 2018,L577366,S47463019
+685,Common Waxbill,3,"Daniel K. Inouye International Airport, Honolulu US-HI (21.3335,-157.9242)",US-HI,23 Jul 2018,L7744783,S47409095
+686,Red Avadavat,2,Lower Saki Mana Rd,US-HI,18 Apr 2017,L5718458,S36084202
+687,African Silverbill,15,Kawaiele State Waterbird Sanctuary,US-HI,17 Apr 2017,L469355,S36061625
+688,Scaly-breasted Munia,7,"Ninini Point Street, Lihue, HI",US-HI,07 Apr 2017,L5698768,S35777191
+689,Chestnut Munia,5,Nawiliwili Lighthouse,US-HI,07 Apr 2017,L469286,S35777146
+690,Java Sparrow,12,Princeville,US-HI,10 Apr 2017,L5681170,S35866156
+691,Pin-tailed Whydah,2,La Mirada Community Regional Park,US-CA,17 Mar 2019,L367734,S53959928
+692,House Sparrow,8,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+693,Eastern Yellow Wagtail,1,Rodeo Lagoon,US-CA,17 Sep 2018,L139567,S48581797
+694,White Wagtail,1,Rodeo Lagoon,US-CA,21 Oct 2015,L139567,S25502875
+695,Red-throated Pipit,2,Bodega Bay--harbor and immediate vicinity,US-CA,18 Sep 2015,L109489,S25501837
+696,American Pipit,30,Yolo Bypass Wildlife Area,US-CA,22 Mar 2015,L443535,S22476790
+697,Golden-browed Chlorophonia,4,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+698,Scrub Euphonia,2,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+699,Yellow-crowned Euphonia,2,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+700,Yellow-throated Euphonia,1,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+701,Elegant Euphonia,4,Reserva Santa Elena,CR-G,21 Apr 2019,L448181,S55242546
+702,Olive-backed Euphonia,2,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+703,Evening Grosbeak,2,Cottonwood Drive,US-CA,01 Aug 2015,L3833770,S24519282
+704,Palila,2,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",US-HI,24 Jul 2018,L285813,S47434213
+705,Apapane,6,Pihea Trail--Kalalau Rim,US-HI,09 Apr 2017,L1427137,S35850859
+706,Iiwi,2,HI: HFNWR - Barn area,US-HI,25 Jul 2018,L4290890,S47459453
+707,Akiapolaau,1,HI: HFNWR - Koa pair,US-HI,25 Jul 2018,L7163894,S47459434
+708,Anianiau,2,Pihea Trail--Kalalau Rim to Alakai Swamp Trail junction,US-HI,09 Apr 2017,L1427146,S35851144
+709,Hawaii Amakihi,12,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",US-HI,24 Jul 2018,L285813,S47434213
+710,Kauai Amakihi,2,Pihea Trail--Kalalau Rim,US-HI,09 Apr 2017,L1427137,S35850859
+711,Hawaii Creeper,2,HI: HFNWR - Old Wagon,US-HI,25 Jul 2018,L6831434,S47459355
+712,Akekee,1,Kaluapuhi Trail,US-HI,17 Apr 2017,L5714589,S36061732
+713,Hawaii Akepa,2,HI: HFNWR - Barn area,US-HI,25 Jul 2018,L4290890,S47459453
+714,Pine Grosbeak,2,Lassen Volcanic NP--Manzanita Lake,US-CA,10 Jun 2015,L452011,S23933050
+715,Gray-crowned Rosy-Finch,1,Virginia Lakes Resort,US-CA,13 Jun 2018,L3799022,S46531730
+716,House Finch,10,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+717,Purple Finch,5,Yountville Veteran's Home,US-CA,19 Mar 2015,L3500214,S22429153
+718,Cassin's Finch,1,Patagonia-Sonoita Creek Preserve,US-AZ,01 Apr 2015,L129052,S22691170
+719,Yellow-fronted Canary,4,"14-3431–14-3449 Government Beach Rd, Hilo US-HI (19.5532,-154.8760)",US-HI,23 Jul 2018,L7745804,S47415020
+720,Common Redpoll,1,Pt. Reyes--Fish Docks,US-CA,15 Jun 2019,L453386,S57411269
+721,Red Crossbill,6,Spring Lake Park,US-CA,15 Nov 2015,L4009524,S25847023
+722,Pine Siskin,100,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+723,Lesser Goldfinch,2,Yountville Cross Road,US-CA,15 Nov 2014,L3491787,S22374804
+724,Lawrence's Goldfinch,6,Mines Rd,US-CA,15 Jul 2015,L3794143,S24281597
+725,American Goldfinch,2,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+726,Lapland Longspur,2,Sierra Valley--Marble Hot Springs Rd.,US-CA,03 Aug 2015,L338300,S24519148
+727,Chestnut-collared Longspur,2,Moss Landing--Molera Rd.,US-CA,12 Nov 2017,L359511,S40474394
+728,McCown's Longspur,1,Presidio--Crissy Field,US-CA,11 Oct 2017,L247929,S39831560
+729,Snow Bunting,1,Arcata Bottoms--V St. Loop,US-CA,17 Nov 2018,L578591,S49999550
+730,Sooty-capped Chlorospingus,1,Reserva Santa Elena,CR-G,21 Apr 2019,L448181,S55242546
+731,Common Chlorospingus,1,Historica Monteverde Museum and Tour,CR-P,20 Apr 2019,L3307723,S55196347
+732,Rufous-winged Sparrow,1,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+733,Stripe-headed Sparrow,8,Villa Presiosa,CR-G,16 Apr 2019,L9038121,S55015411
+734,Cassin's Sparrow,1,Florida Canyon--lower,US-AZ,23 Mar 2016,L720787,S28510531
+735,Grasshopper Sparrow,1,Timberhill Park,US-CA,06 May 2015,L2062165,S23280044
+736,Black-striped Sparrow,5,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+737,Chipping Sparrow,10,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+738,Clay-colored Sparrow,1,salmon creek lane,US-CA,11 Feb 2016,L4070590,S27439581
+739,Black-chinned Sparrow,5,Saguaro NP--East--Douglas Spring Trail,US-AZ,22 Mar 2016,L1889862,S28491759
+740,Field Sparrow,1,Ottawa NWR (Ottawa Co.),US-OH,05 May 2018,L772841,S45312391
+741,Brewer's Sparrow,4,Lake Davis--Eagle Pt.,US-CA,08 Jun 2015,L2992745,S23926444
+742,Black-throated Sparrow,1,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+743,Lark Sparrow,1,Alston Park,US-CA,11 Oct 2014,L3491813,S22403370
+744,Lark Bunting,1,Sierra Valley--Marble Hot Springs Rd.,US-CA,03 Aug 2015,L338300,S24519148
+745,Orange-billed Sparrow,3,Arenal Oasis Eco Lodge,CR-A,20 Apr 2019,L2397652,S55166280
+746,Chestnut-capped Brushfinch,1,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+747,Sooty-faced Finch,2,Reserva Santa Elena,CR-G,21 Apr 2019,L448181,S55242546
+748,American Tree Sparrow,1,Gomes Park,US-CA,19 Nov 2018,L6345236,S50062953
+749,Fox Sparrow,2,Skyline Park,US-CA,03 Jan 2015,L3270028,S21217801
+750,Dark-eyed Junco,12,Partrick Rd.--MP 3.5 to end (NAP Co.),US-CA,01 Jan 2015,L1562084,S21164869
+751,Yellow-eyed Junco,6,Mt. Lemmon--Bear Canyon,US-AZ,21 Mar 2016,L128886,S28477339
+752,Rufous-collared Sparrow,1,"(10.4685,-84.6526)",CR-A,19 Apr 2019,L9081804,S55166989
+753,White-crowned Sparrow,40,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+754,Golden-crowned Sparrow,8,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+755,Harris's Sparrow,1,Las Gallinas Valley Sanitary District,US-CA,28 Dec 2016,L207664,S33255545
+756,White-throated Sparrow,1,Yountville Veteran's Home,US-CA,19 Mar 2015,L3500214,S22429153
+757,Sagebrush Sparrow,2,Shaffer Sage Grouse Lek,US-CA,10 Jun 2015,L486430,S23932894
+758,Bell's Sparrow,1,Mix Canyon/Blue Ridge Rd,US-CA,01 Jun 2015,L3691129,S23744938
+759,Vesper Sparrow,2,Lake Davis--Eagle Pt.,US-CA,08 Jun 2015,L2992745,S23926444
+760,LeConte's Sparrow,1,"stakeout LeConte's Sparrow, Abbotts Lagoon (2014-16)",US-CA,07 Feb 2016,L3280784,S27368332
+761,Nelson's Sparrow,1,Corte Madera Marsh,US-CA,28 Jan 2017,L109051,S33997709
+762,Savannah Sparrow,8,Hudeman Slough,US-CA,04 Jan 2015,L989640,S21217565
+763,Baird's Sparrow,1,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+764,Henslow's Sparrow,3,Oak Openings--Girdham Rd. @ Reed Rd.,US-OH,07 May 2018,L2185875,S45410420
+765,Song Sparrow,4,henry road,US-CA,10 Oct 2014,L3495806,S22403355
+766,Lincoln's Sparrow,1,Buchli Station Rd.,US-CA,03 May 2015,L2361914,S23207867
+767,Swamp Sparrow,1,Stone Lakes NWR - Restricted Access,US-CA,29 Nov 2015,L4081381,S26053256
+768,Canyon Towhee,5,McDowell Mountain Regional Park,US-AZ,29 Mar 2015,L3539303,S22690636
+769,Abert's Towhee,4,"N Haden Road Scottsdale, AZ",US-AZ,29 Mar 2015,L3524627,S22585936
+770,California Towhee,4,Yountville Cross Road,US-CA,15 Nov 2014,L3491787,S22374804
+771,White-eared Ground-Sparrow,2,Monteverde--Cala Lodge,CR-P,20 Apr 2019,L3621869,S55195705
+772,Rufous-crowned Sparrow,2,Pine Flat Rd.--upper,US-CA,09 May 2015,L1164789,S23338164
+773,Green-tailed Towhee,4,Lake Davis--Eagle Pt.,US-CA,08 Jun 2015,L2992745,S23926444
+774,Spotted Towhee,2,Yountville Cross Road,US-CA,15 Nov 2014,L3491787,S22374804
+775,Eastern Towhee,2,Oak Openings--Girdham Rd. @ Reed Rd.,US-OH,07 May 2018,L2185875,S45410420
+776,White-naped Brushfinch,2,Curi-Cancha Refugio de Vida Silvestre,CR-P,22 Apr 2019,L1468729,S55278641
+777,Yellow-breasted Chat,1,Napa River Ecological Reserve,US-CA,23 Jun 2015,L783948,S29456708
+778,Yellow-headed Blackbird,100,Yolo Bypass Wildlife Area,US-CA,22 Mar 2015,L443535,S22476790
+779,Bobolink,3,Howard Marsh--Howard Rd.,US-OH,07 May 2018,L691056,S45418283
+780,Western Meadowlark,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+781,Eastern Meadowlark,1,Ottawa NWR (Ottawa Co.),US-OH,05 May 2018,L772841,S45312391
+782,Yellow-billed Cacique,1,Sendero Bogarín,CR-A,20 Apr 2019,L3220631,S55196549
+783,Chestnut-headed Oropendola,1,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+784,Montezuma Oropendola,16,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+785,Black-cowled Oriole,1,"(10.7160,-85.0555)",CR-G,19 Apr 2019,L9081683,S55166355
+786,Orchard Oriole,1,Bodega Bay--Diekman's Store area,US-CA,28 Oct 2015,L744554,S25612128
+787,Hooded Oriole,2,Salmon Creek Lane,US-CA,06 Apr 2015,L3549646,S22763258
+788,Streak-backed Oriole,2,Villa Presiosa,CR-G,14 Apr 2019,L9038121,S55018133
+789,Bullock's Oriole,1,Spring Lake Regional Park,US-CA,18 Apr 2015,L233698,S22950660
+790,Spot-breasted Oriole,1,Villa Presiosa,CR-G,13 Apr 2019,L9038121,S54996091
+791,Baltimore Oriole,1,Nestor Park & Tesoro Grove Wy.,US-CA,28 Mar 2018,L818231,S44035705
+792,Scott's Oriole,1,Madera Canyon--Santa Rita Lodge,US-AZ,23 Mar 2016,L268114,S28510675
+793,Red-winged Blackbird,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+794,Tricolored Blackbird,200,rush ranch,US-CA,21 Apr 2015,L3581668,S22990933
+795,Bronzed Cowbird,1,"253, Provincia de Guanacaste, CR (10.585, -85.597)",CR-G,17 Apr 2019,L9062665,S55072126
+796,Brown-headed Cowbird,,Sacramento NWR,US-CA,22 Dec 2014,L168785,S23670462
+797,Melodious Blackbird,3,Villa Presiosa,CR-G,15 Apr 2019,L9038121,S55015419
+798,Rusty Blackbird,1,Magee Marsh--Beach West,US-OH,05 May 2018,L210370,S45290293
+799,Brewer's Blackbird,24,Point Reyes Station,US-CA,25 Nov 2014,L285842,S22374912
+800,Common Grackle,6,"13815–13931 Youngstown Pittsburgh Rd, Petersburg US-OH (40.9179,-80.5333)",US-OH,04 May 2018,L7335119,S45260799
+801,Great-tailed Grackle,2,Yolo Bypass Wildlife Area,US-CA,22 Mar 2015,L443535,S22476790
+802,Ovenbird,1,Bodega Head - offshore species and the bluff ONLY,US-CA,25 Sep 2016,L606176,S31757578
+803,Worm-eating Warbler,1,Reichmuth Park,US-CA,14 Jan 2018,L474988,S41913178
+804,Louisiana Waterthrush,5,Mohican SP--Covered Bridge,US-OH,11 May 2018,L887955,S45563756
+805,Northern Waterthrush,1,Las Gallinas Valley Sanitary District,US-CA,07 Sep 2015,L207664,S24942597
+806,Golden-winged Warbler,1,Magee Marsh--Beach West,US-OH,09 May 2018,L210370,S45486702
+807,Blue-winged Warbler,1,Magee Marsh--Beach West,US-OH,05 May 2018,L210370,S45290293
+808,Black-and-white Warbler,1,Bodega Bay--harbor and immediate vicinity,US-CA,29 Aug 2015,L109489,S24831419
+809,Prothonotary Warbler,3,Magee Marsh--Beach West,US-OH,05 May 2018,L210370,S45290293
+810,Tennessee Warbler,1,Partrick Rd.,US-CA,07 May 2016,L1183096,S29476012
+811,Orange-crowned Warbler,1,Yountville Veteran's Home,US-CA,19 Mar 2015,L3500214,S22429153
+812,Lucy's Warbler,2,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+813,Nashville Warbler,2,Plumas Eureka SP,US-CA,07 Jun 2015,L878486,S23926315
+814,Virginia's Warbler,2,Glass Mtns.--Wildrose Canyon,US-CA,12 Jun 2018,L3786956,S46523376
+815,Gray-crowned Yellowthroat,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+816,MacGillivray's Warbler,4,Madora Lake,US-CA,09 Jun 2015,L953070,S23932114
+817,Mourning Warbler,1,Ferry / Sue Bierman Parks,US-CA,12 Oct 2015,L1284799,S25396434
+818,Kentucky Warbler,2,The Wilderness Center,US-OH,12 May 2018,L210332,S45581468
+819,Olive-crowned Yellowthroat,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55108598
+820,Common Yellowthroat,2,Butler Bridge,US-CA,09 Mar 2015,L1480551,S22374771
+821,Hooded Warbler,1,North Davis Farms greenbelt,US-CA,17 Aug 2017,L448520,S38690694
+822,American Redstart,1,Owl Canyon - ONLY (waterbirds from this site OK),US-CA,06 Sep 2015,L598128,S24921223
+823,Cape May Warbler,1,Pt. Reyes--Nunes Ranch (A Ranch) & Road Forks Pool,US-CA,26 Sep 2015,L460136,S25196752
+824,Cerulean Warbler,1,Magee Marsh--Boardwalk,US-OH,06 May 2018,L275986,S45363824
+825,Northern Parula,2,Point Reyes Station--White House Pool,US-CA,26 Jun 2017,L381636,S37823413
+826,Magnolia Warbler,2,Pt. Reyes--Fish Docks,US-CA,14 Oct 2015,L453386,S25422199
+827,Bay-breasted Warbler,1,Campbell Cove and Hole in the Head - ONLY,US-CA,08 Oct 2016,L596958,S31957373
+828,Blackburnian Warbler,1,Pt. Reyes--Drakes Beach (do not include Horseshoe Pond or beach/estero beyond Horseshoe Pond),US-CA,18 Sep 2016,L391136,S31653453
+829,Yellow Warbler,1,Sedona Wetlands Preserve,US-AZ,03 Apr 2015,L1092125,S22691265
+830,Chestnut-sided Warbler,1,John F Kennedy park,US-CA,24 Sep 2015,L3926679,S25166856
+831,Blackpoll Warbler,1,Bodega Bay--harbor and immediate vicinity,US-CA,03 Oct 2015,L109489,S25286170
+832,Black-throated Blue Warbler,2,Pt. Reyes--Fish Docks,US-CA,13 Oct 2016,L453386,S32028207
+833,Palm Warbler,1,Pt. Reyes--Fish Docks,US-CA,14 Oct 2015,L453386,S25422199
+834,Pine Warbler,1,N Harbour way intersection,US-CA,01 Nov 2015,L3985008,S25663859
+835,Yellow-rumped Warbler,8,Partrick Rd.--MP 3.5 to end (NAP Co.),US-CA,01 Jan 2015,L1562084,S21164869
+836,Yellow-throated Warbler,1,Mill Creek Park--Newport Wetlands,US-OH,04 May 2018,L3491103,S45266521
+837,Prairie Warbler,1,Pt. Reyes--Fish Docks,US-CA,20 Sep 2015,L453386,S25117202
+838,Grace's Warbler,1,"stakeout Grace's Warbler, Mono Co. (2018)",US-CA,12 Jun 2018,L7549647,S46500568
+839,Black-throated Gray Warbler,1,Pondosa,US-CA,13 Jun 2015,L3728388,S23943666
+840,Townsend's Warbler,12,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+841,Hermit Warbler,,Plumas Eureka SP,US-CA,07 Jun 2015,L878486,S23926315
+842,Black-throated Green Warbler,1,Laguna Grande Park,US-CA,13 Jan 2017,L165104,S33650491
+843,Rufous-capped Warbler,2,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+844,Golden-crowned Warbler,2,Celeste Mountain Lodge,CR-A,19 Apr 2019,L1587157,S55122667
+845,Costa Rican Warbler,5,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+846,Buff-rumped Warbler,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55108598
+847,Canada Warbler,1,Fort Mason Park,US-CA,17 Oct 2015,L389606,S25460257
+848,Wilson's Warbler,1,Spring Lake Regional Park,US-CA,18 Apr 2015,L233698,S22950660
+849,Painted Redstart,22,Madera Canyon,US-AZ,01 Apr 2015,L3539358,S22691017
+850,Slate-throated Redstart,4,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+851,Collared Redstart,2,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+852,Hepatic Tanager,1,Florida Canyon--lower,US-AZ,23 Mar 2016,L720787,S28510531
+853,Summer Tanager,1,Bodega Head - offshore species and the bluff ONLY,US-CA,18 Aug 2015,L606176,S24675648
+854,Scarlet Tanager,1,Laguna Grande Park,US-CA,12 Nov 2017,L165104,S40473303
+855,Western Tanager,2,Bothe-Napa Valley SP,US-CA,05 May 2015,L772583,S23255325
+856,Red-throated Ant-Tanager,1,Arenal Oasis Eco Lodge,CR-A,20 Apr 2019,L2397652,S55166280
+857,Carmiol's Tanager,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+858,Black-faced Grosbeak,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+859,Northern Cardinal,1,"N Haden Road Scottsdale, AZ",US-AZ,29 Mar 2015,L3524627,S22585936
+860,Pyrrhuloxia,3,Catalina SP,US-AZ,25 Mar 2016,L128938,S28542606
+861,Rose-breasted Grosbeak,1,Sir Francis Drake Blvd,US-CA,04 Jun 2017,L5936594,S37386411
+862,Black-headed Grosbeak,2,Alston Park,US-CA,15 Apr 2015,L3491813,S22880394
+863,Blue-black Grosbeak,1,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+864,Blue Grosbeak,2,Yolo Bypass Wildlife Area,US-CA,25 May 2015,L443535,S23637400
+865,Lazuli Bunting,1,Patagonia-Sonoita Creek Preserve,US-AZ,01 Apr 2015,L129052,S22691170
+866,Indigo Bunting,1,Loma Alta Fire Road,US-CA,06 Jul 2015,L1516329,S24174699
+867,Painted Bunting,1,Golden Gate Park--West Maintenance Yard,US-CA,27 Sep 2015,L1319375,S25211017
+868,Dickcissel,4,"10777 E Moreland Rd, Apple Creek US-OH (40.7118,-81.7865)",US-OH,13 May 2018,L7399427,S45619614
+869,Red-crested Cardinal,6,Kaua'i Marriott Resort,US-HI,07 Apr 2017,L5666680,S35777119
+870,Yellow-billed Cardinal,2,"93 Banyan Dr, Hilo US-HI (19.7295,-155.0654)",US-HI,23 Jul 2018,L7745206,S47411593
+871,Crimson-collared Tanager,4,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+872,Scarlet-rumped Tanager,6,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+873,Blue-gray Tanager,3,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+874,Palm Tanager,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55108598
+875,Golden-hooded Tanager,2,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+876,Spangle-cheeked Tanager,2,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+877,Rufous-winged Tanager,2,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+878,Bay-headed Tanager,1,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55108598
+879,Silver-throated Tanager,3,Reserva Bosque Nuboso Monteverde,CR-P,21 Apr 2019,L552342,S55242569
+880,Scarlet-thighed Dacnis,2,Celeste Mountain Lodge,CR-A,19 Apr 2019,L1587157,S55122667
+881,Shining Honeycreeper,2,Bijagua--Tapir Valley (restricted access),CR-A,18 Apr 2019,L8916377,S55098489
+882,Red-legged Honeycreeper,3,Reserva Biológica Lomas de Barbudal,CR-G,17 Apr 2019,L442616,S55072184
+883,Green Honeycreeper,4,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+884,Saffron Finch,6,Waimea Athletic Field,US-HI,18 Apr 2017,L5718376,S36083714
+885,Blue-black Grassquit,1,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+886,Variable Seedeater,4,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+887,Morelet's Seedeater,2,"253, Provincia de Guanacaste, CR (10.585, -85.597)",CR-G,17 Apr 2019,L9062665,S55072126
+888,Bananaquit,2,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+889,Yellow-faced Grassquit,1,Celeste Mountain Lodge,CR-A,17 Apr 2019,L1587157,S55072915
+890,Buff-throated Saltator,1,Celeste Mountain Lodge,CR-A,18 Apr 2019,L1587157,S55242639
+891,Black-headed Saltator,2,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312
+892,Grayish Saltator,3,Sendero Bogarín,CR-A,19 Apr 2019,L3220631,S55166312

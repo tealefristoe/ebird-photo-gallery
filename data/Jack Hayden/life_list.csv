@@ -1,0 +1,480 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Snow Goose,450,Holland Tract,US-CA,10 Jan 2016,L593832,S26928869
+2,Greater White-fronted Goose,80,Yardbirds,US-CA,04 Nov 2012,L1369174,S11960773
+3,Brant,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+4,Cackling Goose,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+5,Canada Goose,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+6,Mute Swan,,Las Gallinas Valley Sanitary District,US-CA,10 Jan 2015,L207664,S21311104
+7,Tundra Swan,,Grizzly Bay,US-CA,07 Jan 2007,L1183595,S69531687
+8,Common Shelduck,5,Diaccia Botrona--Padule Aperto,IT-52,26 Jun 2019,L9635843,S58153618
+9,Wood Duck,1,Las Gallinas Valley Sanitary District,US-CA,26 Sep 2015,L207664,S25184634
+10,Blue-winged Teal,2,Las Gallinas Valley Sanitary District,US-CA,30 Mar 2013,L207664,S13591926
+11,Cinnamon Teal,7,Las Gallinas Valley Sanitary District,US-CA,11 Nov 2012,L207664,S12017041
+12,Northern Shoveler,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+13,Gadwall,3,McLaughlin Eastshore SP--Albany access,US-CA,23 Oct 2011,L2377313,S9003640
+14,Eurasian Wigeon,2,McLaughlin Eastshore SP--Albany access,US-CA,23 Oct 2011,L2377313,S9003640
+15,American Wigeon,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+16,Mallard,11,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+17,Northern Pintail,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+18,Green-winged Teal,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+19,Canvasback,12,Las Gallinas Valley Sanitary District,US-CA,01 Dec 2012,L207664,S12202480
+20,Redhead,1,Berkeley Aquatic Park,US-CA,16 Dec 2018,L597003,S68981453
+21,Ring-necked Duck,3,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+22,Greater Scaup,1,Cesar Chavez Park,US-CA,11 Feb 2012,L285281,S9805756
+23,Lesser Scaup,,San Francisco Bay Trail--S 51st St.,US-CA,11 Jan 2013,L1415714,S12566316
+24,Surf Scoter,5,McLaughlin Eastshore SP--Albany access,US-CA,02 Feb 2013,L2377313,S12819200
+25,White-winged Scoter,6,Tomales Bay SP--Heart's Desire Beach,US-CA,15 Feb 2016,L930734,S27655706
+26,Black Scoter,1,Berkeley Pier,US-CA,27 Dec 2011,L458818,S9425358
+27,Bufflehead,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+28,Common Goldeneye,1,Tilden Nature Area--Jewel Lake,US-CA,22 Dec 2007,L503349,S77319479
+29,Hooded Merganser,3,Tilden Nature Area--Jewel Lake,US-CA,12 Jan 2010,L503349,S77319380
+30,Common Merganser,1,Tilden Nature Area--Jewel Lake,US-CA,22 Dec 2007,L503349,S77319479
+31,Red-breasted Merganser,1,Berkeley Aquatic Park,US-CA,22 Jan 2012,L597003,S9655658
+32,Ruddy Duck,1,McLaughlin Eastshore SP--Albany access,US-CA,05 Nov 2011,L2377313,S9059252
+33,West Mexican Chachalaca,2,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+34,California Quail,1,Hoggsville,US-CA,24 Apr 2010,L1304461,S9045144
+35,Sooty Grouse,1,Tahoe NF--Sagehen Creek Trail (NEV Co.),US-CA,18 Jul 2020,L872582,S71606269
+36,Wild Turkey,6,University Park,US-CA,21 Oct 2011,L1296417,S8989123
+37,Greater Flamingo,100,Diaccia Botrona--Padule Aperto,IT-52,26 Jun 2019,L9635843,S58153618
+38,Pied-billed Grebe,6,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+39,Horned Grebe,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+40,Eared Grebe,1,Berkeley Pier,US-CA,27 Dec 2011,L458818,S9425358
+41,Western Grebe,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+42,Clark's Grebe,1,McLaughlin Eastshore SP--Albany access,US-CA,05 Nov 2011,L2377313,S9059252
+43,Rock Pigeon,5,Red Oak Victory,US-CA,05 Aug 2011,L1246752,S8637459
+44,Common Wood-Pigeon,,Braccagni Countryside,IT-52,26 Jun 2019,L9635737,S58153192
+45,Band-tailed Pigeon,52,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+46,European Turtle-Dove,1,Braccagni Countryside,IT-52,26 Jun 2019,L9635737,S58153192
+47,Eurasian Collared-Dove,1,Cesar Chavez Park,US-CA,11 May 2007,L285281,S61308103
+48,Inca Dove,5,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+49,Common Ground Dove,2,Playa Madera,MX-GRO,02 Feb 2020,L2578725,S64045298
+50,Ruddy Ground Dove,1,Playa Madera,MX-GRO,02 Feb 2020,L2578725,S64069929
+51,White-winged Dove,2,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+52,Mourning Dove,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+53,Groove-billed Ani,5,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+54,Squirrel Cuckoo,2,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+55,Great Lizard-Cuckoo,1,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+56,Lesser Nighthawk,1,Pt. Reyes--Fish Docks,US-CA,19 Oct 2014,L453386,S71887141
+57,Common Nighthawk,1,Prosser Dam,US-CA,19 Jul 2020,L1615557,S71657174
+58,Black Swift,8,Visalia House,US-CA,18 Feb 2012,L1426775,S67317883
+59,Chimney Swift,2,Kettle Moraine SF--Ottawa Lake Recreation Area,US-WI,01 Jul 2015,L1053972,S24159975
+60,Vaux's Swift,1,Las Gallinas Valley Sanitary District,US-CA,01 Dec 2012,L207664,S12202480
+61,White-throated Swift,15,McLaughlin Eastshore SP--Albany access,US-CA,30 Dec 2006,L2377313,S77319799
+62,Antillean Palm-Swift,1,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+63,Ruby-throated Hummingbird,1,Waukesha,US-WI,02 Jul 2015,L3771419,S24159799
+64,Black-chinned Hummingbird,2,Hoggsville,US-CA,12 Jul 2020,L1304461,S71400733
+65,Anna's Hummingbird,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+66,Rufous Hummingbird,1,Creekside Park (ALA Co.),US-CA,22 Apr 2011,L1764657,S66501847
+67,Allen's Hummingbird,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+68,Calliope Hummingbird,1,Claremont Canyon Regional Preserve,US-CA,22 Apr 2020,L933409,S67633376
+69,Broad-billed Hummingbird,1,Playa Madera,MX-GRO,31 Jan 2020,L2578725,S63963370
+70,Cinnamon Hummingbird,1,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+71,Ridgway's Rail,2,San Francisco Bay Trail--S 51st St.,US-CA,12 Jan 2013,L1415714,S12573439
+72,Virginia Rail,2,Las Gallinas Valley Sanitary District,US-CA,01 Dec 2012,L207664,S12202480
+73,Sora,4,Las Gallinas Valley Sanitary District,US-CA,11 Nov 2012,L207664,S12017041
+74,Common Gallinule,1,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+75,American Coot,10,McLaughlin Eastshore SP--Albany access,US-CA,23 Oct 2011,L2377313,S9003640
+76,Purple Gallinule,2,"40881, Zihuatanejo MX-GRO (17.6351,-101.4727)",MX-GRO,03 Feb 2020,L10677418,S64090888
+77,Sandhill Crane,2,Kettle Moraine SF--Ottawa Lake Recreation Area,US-WI,01 Jul 2015,L1053972,S24159975
+78,Eurasian Thick-knee,1,Botrona adjacent farmland,IT-52,26 Jun 2019,L9635891,S58153928
+79,Black-winged Stilt,5,Diaccia Botrona--Padule Aperto,IT-52,26 Jun 2019,L9635843,S58153618
+80,Black-necked Stilt,3,McLaughlin Eastshore SP--Albany access,US-CA,05 Nov 2011,L2377313,S9059252
+81,American Avocet,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+82,Black Oystercatcher,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+83,Black-bellied Plover,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+84,Pacific Golden-Plover,1,Hayward Regional Shoreline,US-CA,25 Oct 2020,L225431,S75409935
+85,Snowy Plover,2,Hayward Regional Shoreline,US-CA,02 Jun 2012,L225431,S10898907
+86,Semipalmated Plover,2,Hayward Regional Shoreline,US-CA,28 Jul 2012,L225431,S11234894
+87,Killdeer,9,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+88,Northern Jacana,10,"40881, Zihuatanejo MX-GRO (17.6351,-101.4727)",MX-GRO,03 Feb 2020,L10677418,S64090888
+89,Whimbrel,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+90,Long-billed Curlew,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+91,Eurasian Curlew,1,Diaccia Botrona--Padule Aperto,IT-52,26 Jun 2019,L9635843,S58153618
+92,Bar-tailed Godwit,1,Emeryville Marina,US-CA,02 Nov 2019,L764558,S61125884
+93,Marbled Godwit,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+94,Ruddy Turnstone,1,Hayward Regional Shoreline,US-CA,28 Jul 2012,L225431,S11234894
+95,Black Turnstone,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+96,Red Knot,1,Middle Harbor Shoreline Park,US-CA,09 Aug 2014,L3027794,S19378955
+97,Surfbird,3,Pillar Point Harbor,US-CA,01 Oct 2012,L242192,S11732075
+98,Sanderling,12,Berkeley Pier,US-CA,27 Dec 2011,L458818,S9425358
+99,Dunlin,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+100,Rock Sandpiper,1,Heron's Head Park,US-CA,04 Nov 2019,L502380,S61187207
+101,Least Sandpiper,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+102,Pectoral Sandpiper,1,West County Wastewater District--Sewage Ponds,US-CA,13 Sep 2020,L848605,S73562402
+103,Western Sandpiper,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+104,Short-billed Dowitcher,20,Berkeley Aquatic Park,US-CA,12 Feb 2012,L597003,S9823602
+105,Long-billed Dowitcher,1,Sea Breeze Market Cove,US-CA,14 Jul 2012,L1266027,S11161857
+106,Wilson's Snipe,2,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+107,Red-necked Phalarope,5,Hayward Regional Shoreline,US-CA,28 Jul 2012,L225431,S11234894
+108,Red Phalarope,3,Offshore--continental shelf waters (southern SF Co.),US-CA,01 Oct 2012,L2365653,S11732044
+109,Common Sandpiper,1,Diaccia Botrona--Padule Aperto,IT-52,26 Jun 2019,L9635843,S58153618
+110,Spotted Sandpiper,2,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+111,Wandering Tattler,3,Mendocino Headlands SP--monument,US-CA,25 Sep 2016,L800183,S31773674
+112,Greater Yellowlegs,3,McLaughlin Eastshore SP--Albany access,US-CA,23 Oct 2011,L2377313,S9003640
+113,Common Greenshank,10,Diaccia Botrona--Padule Aperto,IT-52,26 Jun 2019,L9635843,S58153618
+114,Willet,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+115,Lesser Yellowlegs,10,Laguna de Potosi--Desembocadura,MX-GRO,03 Feb 2020,L5623872,S64087554
+116,South Polar Skua,1,Offshore--continental shelf waters (southern SF Co.),US-CA,01 Oct 2012,L2365653,S11732044
+117,Pomarine Jaeger,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,01 Oct 2012,L969133,S11732043
+118,Parasitic Jaeger,1,Half Moon Bay--inshore bay,US-CA,01 Oct 2012,L1247080,S11732055
+119,Long-tailed Jaeger,1,Offshore--continental shelf waters (southern SF Co.),US-CA,01 Oct 2012,L2365653,S11732044
+120,Common Murre,1,Cesar Chavez Park,US-CA,23 Sep 2012,L285281,S11651907
+121,Pigeon Guillemot,8,"GGNRA--Land's End Trail/Hermit Rock Overlook (Historic Shipwrecks, 37.7839,-122.5096)",US-CA,15 Jul 2020,L6105843,S71533016
+122,Marbled Murrelet,2,Half Moon Bay--inshore bay,US-CA,01 Oct 2012,L1247080,S11732038
+123,Cassin's Auklet,1,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,01 Oct 2012,L969133,S11732043
+124,Rhinoceros Auklet,2,Half Moon Bay--inshore bay,US-CA,01 Oct 2012,L1247080,S11732038
+125,Bonaparte's Gull,4,Berkeley Aquatic Park,US-CA,08 Dec 2012,L597003,S12247615
+126,Black-headed Gull,1,Stockton WTP,US-CA,06 Dec 2020,L371182,S77165206
+127,Laughing Gull,,Playa Madera,MX-GRO,20 Dec 2012,L2578725,S12354160
+128,Franklin's Gull,1,Stockton WTP,US-CA,06 Dec 2020,L371182,S77165206
+129,Heermann's Gull,4,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+130,Mew Gull,1,Cesar Chavez Park,US-CA,11 Feb 2012,L285281,S9805756
+131,Ring-billed Gull,1,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+132,Western Gull,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+133,California Gull,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+134,Herring Gull,1,Berkeley Pier,US-CA,22 Nov 2012,L458818,S12131153
+135,Yellow-legged Gull,5,Diaccia Botrona--Padule Aperto,IT-52,26 Jun 2019,L9635843,S58153618
+136,Iceland Gull,,Miller/Knox Regional Shoreline,US-CA,10 Feb 2013,L593834,S12937887
+137,Lesser Black-backed Gull,1,Shollenberger Park,US-CA,04 Dec 2020,L198798,S77071797
+138,Glaucous-winged Gull,1,Red Oak Victory,US-CA,05 Aug 2011,L1246752,S8637459
+139,Great Black-backed Gull,3,Roosevelt Park,US-NJ,31 Dec 2012,L1855796,S12423877
+140,Least Tern,3,Cesar Chavez Park,US-CA,11 May 2007,L285281,S61308103
+141,Gull-billed Tern,5,Laguna de Potosi,MX-GRO,14 Jan 2019,L221322,S51912758
+142,Caspian Tern,1,Cesar Chavez Park,US-CA,11 May 2007,L285281,S61308103
+143,Forster's Tern,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+144,Royal Tern,20,Playa Madera,MX-GRO,20 Dec 2012,L2578725,S12354160
+145,Elegant Tern,10,Red Oak Victory,US-CA,05 Aug 2011,L1246752,S8637459
+146,Black Skimmer,20,Laguna de Potosi,MX-GRO,14 Jan 2019,L221322,S51912758
+147,Red-throated Loon,1,Cesar Chavez Park,US-CA,06 Dec 2019,L285281,S62100378
+148,Pacific Loon,,Steep Ravine,US-CA,14 Oct 2012,L1778506,S11808790
+149,Common Loon,2,Berkeley Pier,US-CA,27 Dec 2011,L458818,S9425358
+150,Black-footed Albatross,5,Offshore--continental shelf waters (southern SF Co.),US-CA,01 Oct 2012,L2365653,S11732044
+151,Northern Fulmar,1,Offshore--continental shelf waters (southern SF Co.),US-CA,01 Oct 2012,L2365653,S11732044
+152,Pink-footed Shearwater,4,Pelagic--Offshore continental shelf (San Mateo Co.),US-CA,01 Oct 2012,L969133,S11732043
+153,Buller's Shearwater,14,Offshore--continental shelf waters (southern SF Co.),US-CA,01 Oct 2012,L2365653,S11732044
+154,Sooty Shearwater,21,Half Moon Bay--inshore bay,US-CA,01 Oct 2012,L1247080,S11732038
+155,Wood Stork,2,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+156,Magnificent Frigatebird,,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+157,Brown Booby,25,Playa Madera,MX-GRO,20 Dec 2012,L2578725,S12354160
+158,Northern Gannet,1,Southeast Farallon Island (restricted access),US-CA,01 Oct 2012,L329116,S11732048
+159,Anhinga,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+160,Brandt's Cormorant,20,Pillar Point Harbor,US-CA,01 Oct 2012,L242192,S11732075
+161,Pelagic Cormorant,2,Cesar Chavez Park,US-CA,11 May 2007,L285281,S61308103
+162,Neotropic Cormorant,10,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+163,Double-crested Cormorant,4,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+164,American White Pelican,8,Hayward Regional Shoreline,US-CA,28 Jul 2012,L225431,S11234894
+165,Brown Pelican,19,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+166,American Bittern,1,Las Gallinas Valley Sanitary District,US-CA,04 Dec 2016,L207664,S32887058
+167,Least Bittern,2,Las Gallinas Valley Sanitary District,US-CA,04 Jul 2014,L207664,S70289019
+168,Great Blue Heron,2,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+169,Gray Heron,5,Diaccia Botrona--Padule Aperto,IT-52,26 Jun 2019,L9635843,S58153618
+170,Great Egret,1,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+171,Little Egret,1,Poppi,IT-52,16 Apr 2014,L2785194,S17940110
+172,Snowy Egret,1,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+173,Little Blue Heron,1,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+174,Tricolored Heron,15,Laguna de Potosi,MX-GRO,14 Jan 2019,L221322,S51912758
+175,Cattle Egret,,Diaccia Botrona--Padule Aperto,IT-52,26 Jun 2019,L9635843,S58153618
+176,Green Heron,1,Lake Solano County Park (SOL Co.),US-CA,02 Sep 2012,L285964,S11497133
+177,Black-crowned Night-Heron,30,Laguna de Santa Rosa Trail-- including Kelly Pond and Laguna Wetlands Preserve,US-CA,01 Jan 2012,L2192531,S9467298
+178,Yellow-crowned Night-Heron,1,Playa Madera,MX-GRO,21 Dec 2015,L2578725,S66756244
+179,Boat-billed Heron,1,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+180,White Ibis,3,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+181,White-faced Ibis,20,Hoggsville,US-CA,09 Aug 2015,L1304461,S24595690
+182,Roseate Spoonbill,4,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+183,California Condor,2,High Peaks Trail,US-CA,12 Sep 2015,L3917229,S25091505
+184,Black Vulture,5,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+185,Turkey Vulture,15,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+186,Osprey,4,Pt. Reyes--Wildcat Beach,US-CA,13 Aug 2011,L1251476,S8671933
+187,White-tailed Kite,2,Cesar Chavez Park,US-CA,13 Oct 2006,L285281,S61307380
+188,European Honey-buzzard,1,Botrona adjacent farmland,IT-52,26 Jun 2019,L9635891,S58153928
+189,Short-toed Snake-Eagle,1,Braccagni Countryside,IT-52,26 Jun 2019,L9635737,S58153192
+190,Golden Eagle,2,Wilbur Hot Springs,US-CA,08 Mar 2013,L1818892,S13389792
+191,Northern Harrier,3,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+192,Sharp-shinned Hawk,15,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+193,Cooper's Hawk,8,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+194,Bald Eagle,2,Las Gallinas Valley Sanitary District,US-CA,09 Feb 2013,L207664,S12906780
+195,Common Black Hawk,1,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+196,Roadside Hawk,1,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+197,Red-shouldered Hawk,3,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+198,Broad-winged Hawk,4,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+199,Swainson's Hawk,,Hoggsville,US-CA,24 Apr 2010,L1304461,S9045144
+200,Red-tailed Hawk,27,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+201,Ferruginous Hawk,3,Bear Valley,US-CA,09 Mar 2013,L2059538,S13389758
+202,Barn Owl,1,Hoggsville,US-CA,24 Apr 2010,L1304461,S9045144
+203,Great Horned Owl,2,Owl Hill (private),US-CA,11 Nov 2011,L1305048,S9124488
+204,Snowy Owl,1,Grizzly Bay,US-CA,07 Jan 2007,L1183595,S69531687
+205,Northern Pygmy-Owl,1,Summerhome Park,US-CA,24 Aug 2019,L9846424,S59315516
+206,Ferruginous Pygmy-Owl,1,Playa Madera,MX-GRO,02 Feb 2020,L2578725,S64045298
+207,Cuban Pygmy-Owl,4,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+208,Burrowing Owl,2,Cesar Chavez Park,US-CA,11 Feb 2012,L285281,S9805756
+209,Barred Owl,1,Summerhome Park,US-CA,09 Aug 2019,L9846424,S59315593
+210,Short-eared Owl,1,Cesar Chavez Park,US-CA,13 Oct 2006,L285281,S61307380
+211,Cuban Trogon,6,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+212,Slaty-tailed Trogon,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+213,Black-tailed Trogon,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+214,Citreoline Trogon,1,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+215,White-tailed Trogon,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+216,Guianan Trogon,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+217,Black-throated Trogon,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+218,Eurasian Hoopoe,1,Pigadi,GR-J,16 May 2012,L1553407,S10828950
+219,Cuban Tody,4,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+220,Broad-billed Motmot,,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+221,Ringed Kingfisher,10,Laguna de Potosi--Desembocadura,MX-GRO,03 Feb 2020,L5623872,S64087554
+222,Belted Kingfisher,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+223,Green Kingfisher,,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+224,European Bee-eater,1,Braccagni Countryside,IT-52,26 Jun 2019,L9635737,S58153192
+225,White-whiskered Puffbird,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+226,Keel-billed Toucan,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+227,Eurasian Wryneck,1,Tartiglia,IT-52,16 Apr 2014,L2785185,S17940097
+228,Williamson's Sapsucker,1,Prosser Dam Road,US-CA,16 Aug 2014,L1615541,S19485704
+229,Yellow-bellied Sapsucker,1,Don Castro Regional Recreation Area,US-CA,19 Jan 2013,L803681,S69013338
+230,Red-breasted Sapsucker,1,Prosser Dam,US-CA,07 Jul 2012,L1615557,S11115173
+231,Cuban Green Woodpecker,2,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+232,Lewis's Woodpecker,1,Hoggsville,US-CA,28 Sep 2014,L1304461,S19979105
+233,Acorn Woodpecker,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+234,Golden-cheeked Woodpecker,5,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+235,Red-crowned Woodpecker,,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+236,Red-bellied Woodpecker,1,Central Park--Strawberry Field,US-NY,28 Dec 2012,L787059,S12411809
+237,West Indian Woodpecker,1,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+238,Downy Woodpecker,1,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+239,Nuttall's Woodpecker,1,Creekside Park (ALA Co.),US-CA,01 Oct 2011,L1764657,S8882547
+240,Hairy Woodpecker,1,Owl Hill (private),US-CA,11 Nov 2011,L1305048,S9124488
+241,White-headed Woodpecker,1,Alder Drive (private),US-CA,30 Aug 2015,L3883777,S24861960
+242,Eurasian Green Woodpecker,1,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+243,Pileated Woodpecker,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+244,Northern Flicker,1,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+245,Eurasian Kestrel,2,Tartiglia,IT-52,16 Apr 2014,L2785185,S17940097
+246,American Kestrel,1,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+247,Merlin,1,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+248,Peregrine Falcon,2,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+249,Mealy Parrot,,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+250,Red-masked Parakeet,,Ferry / Sue Bierman Parks,US-CA,08 Nov 2011,L1284799,S9090643
+251,Fasciated Antshrike,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+252,Barred Antshrike,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+253,Black-crowned Antshrike,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+254,White-flanked Antwren,,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+255,Dot-winged Antwren,,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+256,Dusky Antbird,,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+257,Bicolored Antbird,,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+258,Spotted Antbird,,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+259,Black-faced Antthrush,,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+260,Scaly-throated Leaftosser,,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+261,Plain Xenops,1,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+262,Olive-sided Flycatcher,2,Ferry / Sue Bierman Parks,US-CA,27 Sep 2011,L1284799,S9013889
+263,Western Wood-Pewee,2,Prosser Dam,US-CA,07 Jul 2012,L1615557,S11115173
+264,Willow Flycatcher,2,Lake Solano County Park (SOL Co.),US-CA,02 Sep 2012,L285964,S11497133
+265,Hammond's Flycatcher,1,Creekside Park (ALA Co.),US-CA,11 Oct 2019,L1764657,S60533808
+266,Gray Flycatcher,1,Emeryville Marina,US-CA,13 May 2016,L764558,S29610115
+267,Dusky Flycatcher,2,Tahoe NF--Sagehen Creek Trail (NEV Co.),US-CA,17 Jul 2020,L872582,S71575027
+268,Pacific-slope Flycatcher,,Hoggsville,US-CA,24 Apr 2010,L1304461,S9045144
+269,Black Phoebe,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+270,Eastern Phoebe,1,Kettle Moraine SF--Ottawa Lake Recreation Area,US-WI,01 Jul 2015,L1053972,S24159975
+271,Say's Phoebe,1,Cesar Chavez Park,US-CA,16 Sep 2006,L285281,S61307923
+272,Dusky-capped Flycatcher,1,Laguna de Potosi--Desembocadura,MX-GRO,03 Feb 2020,L5623872,S64087554
+273,Ash-throated Flycatcher,1,Hoggsville,US-CA,24 Apr 2010,L1304461,S9045144
+274,Great Kiskadee,1,Playa Madera,MX-GRO,30 Jan 2020,L2578725,S63948021
+275,Social Flycatcher,,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+276,Tropical Kingbird,1,Pillar Point Harbor,US-CA,01 Oct 2012,L242192,S11732075
+277,Western Kingbird,2,Cesar Chavez Park,US-CA,16 Sep 2006,L285281,S61307923
+278,Gray Kingbird,,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+279,Loggerhead Kingbird,2,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+280,Scissor-tailed Flycatcher,1,UC Davis--campus,US-CA,24 Jan 2004,L670942,S70635489
+281,Cuban Vireo,4,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+282,Hutton's Vireo,1,Claremont Canyon Regional Preserve,US-CA,11 Jun 2010,L933409,S70405328
+283,Cassin's Vireo,2,Creekside Park (ALA Co.),US-CA,21 Sep 2012,L1764657,S11635426
+284,Plumbeous Vireo,1,Hoggsville,US-CA,25 Apr 2020,L1304461,S67817406
+285,Philadelphia Vireo,1,Ferry / Sue Bierman Parks,US-CA,21 Oct 2011,L1284799,S9013871
+286,Warbling Vireo,1,Ferry / Sue Bierman Parks,US-CA,21 Oct 2011,L1284799,S9013871
+287,Red-eyed Vireo,4,Kettle Moraine SF--Scuppernong Ski and Hiking Trail,US-WI,30 Jun 2015,L336390,S24112844
+288,Black-whiskered Vireo,,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+289,Eurasian Golden Oriole,8,Braccagni Countryside,IT-52,26 Jun 2019,L9635737,S58153192
+290,Loggerhead Shrike,2,Hoggsville,US-CA,27 Oct 2012,L1304461,S11897441
+291,Northern Shrike,1,US-CA-Truckee-96161 - 39.3740x-120.1446,US-CA,29 Dec 2016,L5191460,S33277386
+292,Lesser Gray Shrike,2,Braccagni Countryside,IT-52,26 Jun 2019,L9635737,S58153192
+293,White-throated Magpie-Jay,3,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+294,Black-chested Jay,,Pipeline Road  (Camino del Oleoducto) General area,PA-3,22 May 2005,L454711,S12151360
+295,Steller's Jay,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+296,Blue Jay,2,"Dismal Swamp, New Jersey",US-NJ,25 Dec 2012,L1855831,S12411889
+297,California Scrub-Jay,,Hoggsville,US-CA,24 Apr 2010,L1304461,S9045144
+298,Eurasian Jay,,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+299,Eurasian Magpie,2,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+300,Yellow-billed Magpie,,Hoggsville,US-CA,24 Apr 2010,L1304461,S9045144
+301,Clark's Nutcracker,1,Prosser Ranch Group Campground,US-CA,30 Aug 2015,L3883765,S24861859
+302,Eurasian Jackdaw,20,Poppi,IT-52,16 Apr 2014,L2785194,S17940110
+303,American Crow,,Hoggsville,US-CA,24 Apr 2010,L1304461,S9045144
+304,Hooded Crow,,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+305,Common Raven,1,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+306,Black-capped Chickadee,5,Metuchen,US-NJ,29 Dec 2012,L200986,S12411766
+307,Mountain Chickadee,3,Prosser Dam Road,US-CA,16 Aug 2014,L1615541,S19485704
+308,Chestnut-backed Chickadee,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+309,Eurasian Blue Tit,,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+310,Oak Titmouse,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+311,Tufted Titmouse,3,Central Park--Strawberry Field,US-NY,28 Dec 2012,L787059,S12411809
+312,Great Tit,,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+313,Horned Lark,1,Dotson Family Marsh,US-CA,16 Oct 2020,L4834302,S74893089
+314,Calandra Lark,1,Botrona adjacent farmland,IT-52,26 Jun 2019,L9635891,S58153928
+315,Eurasian Skylark,,Braccagni Countryside,IT-52,26 Jun 2019,L9635737,S58153192
+316,Zitting Cisticola,4,Braccagni Countryside,IT-52,26 Jun 2019,L9635737,S58153192
+317,Northern Rough-winged Swallow,1,San Francisco Bay Trail--S 51st St.,US-CA,18 Feb 2012,L1415714,S9872233
+318,Gray-breasted Martin,50,Playa Madera,MX-GRO,21 Dec 2015,L2578725,S66756244
+319,Tree Swallow,1,Albany Hill Park,US-CA,23 Mar 2012,L1303267,S10251737
+320,Mangrove Swallow,20,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+321,Violet-green Swallow,100,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+322,Bank Swallow,1,Hoggsville,US-CA,09 Aug 2015,L1304461,S24595690
+323,Eurasian Crag-Martin,2,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+324,Barn Swallow,2,Tilden Nature Area--Jewel Lake,US-CA,14 Apr 2012,L503349,S10470559
+325,Cliff Swallow,1,Tilden Nature Area--Jewel Lake,US-CA,14 Apr 2012,L503349,S10470559
+326,Common House-Martin,,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+327,Western Bonelli's Warbler,1,Tartiglia,IT-52,16 Apr 2014,L2785185,S17940097
+328,Common Chiffchaff,,San Pietro di Romena,IT-52,16 Apr 2014,L2785181,S17940059
+329,Long-tailed Tit,,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+330,Bushtit,10,Creekside Park (ALA Co.),US-CA,01 Oct 2011,L1764657,S8882547
+331,Eurasian Blackcap,,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+332,Wrentit,,Steep Ravine,US-CA,14 Oct 2012,L1778506,S11808790
+333,Golden-crowned Kinglet,3,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+334,Ruby-crowned Kinglet,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+335,Common Firecrest,,San Pietro di Romena,IT-52,16 Apr 2014,L2785181,S17940059
+336,Eurasian Nuthatch,,Tartiglia,IT-52,16 Apr 2014,L2785185,S17940097
+337,Red-breasted Nuthatch,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+338,White-breasted Nuthatch,2,Laguna de Santa Rosa Trail-- including Kelly Pond and Laguna Wetlands Preserve,US-CA,01 Jan 2012,L2192531,S9467298
+339,Pygmy Nuthatch,1,Ferry / Sue Bierman Parks,US-CA,17 Nov 2006,L1284799,S12129262
+340,Brown Creeper,6,Albany Hill Park,US-CA,30 Oct 2011,L1303267,S9032538
+341,Short-toed Treecreeper,2,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+342,Blue-gray Gnatcatcher,1,Steep Ravine,US-CA,14 Oct 2012,L1778506,S11808790
+343,Rock Wren,1,Prosser Dam,US-CA,08 Jul 2012,L1615557,S11121056
+344,House Wren,,Hoggsville,US-CA,29 Oct 2011,L1304461,S9040614
+345,Pacific Wren,1,Owl Hill (private),US-CA,02 Jun 2013,L1305048,S14316169
+346,Marsh Wren,2,San Francisco Bay Trail--S 51st St.,US-CA,18 Feb 2012,L1415714,S9872233
+347,Bewick's Wren,1,Creekside Park (ALA Co.),US-CA,01 Oct 2011,L1764657,S8882547
+348,Rufous-naped Wren,3,Playa Madera,MX-GRO,21 Dec 2015,L2578725,S66756244
+349,White-bellied Wren,2,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+350,White-throated Dipper,2,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+351,American Dipper,2,"Tahoe National Forest, Truckee US-CA (39.3867,-120.0949)",US-CA,19 Jul 2020,L11927062,S71642948
+352,European Starling,1,University Park,US-CA,21 Oct 2011,L1296417,S8989123
+353,Gray Catbird,,Vernon Marsh--Inner & Outer DU Dikes/Figure 8,US-WI,26 Jun 2015,L508580,S24159887
+354,Brown Thrasher,1,Pt. Pinole Regional Park,US-CA,26 Nov 2010,L109308,S69013103
+355,California Thrasher,1,Claremont Canyon Regional Preserve,US-CA,11 Jun 2010,L933409,S70405328
+356,Sage Thrasher,1,UC Davis--California Raptor Center,US-CA,30 Jan 2003,L911465,S61607399
+357,Northern Mockingbird,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+358,Western Bluebird,2,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+359,Mountain Bluebird,20,Prosser Dam Road,US-CA,16 Aug 2014,L1615541,S19485704
+360,Townsend's Solitaire,1,Alpine Meadows Ski Resort,US-CA,21 Feb 2015,L3408170,S22025137
+361,Cuban Solitaire,3,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+362,Varied Thrush,1,Ferry / Sue Bierman Parks,US-CA,25 Oct 2011,L1284799,S9013764
+363,Swainson's Thrush,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+364,Hermit Thrush,2,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+365,Eurasian Blackbird,,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+366,American Robin,10,Creekside Park (ALA Co.),US-CA,01 Oct 2011,L1764657,S8882547
+367,Rufous-backed Robin,4,Playa Madera,MX-GRO,21 Dec 2015,L2578725,S66756244
+368,Red-legged Thrush,,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+369,Common Nightingale,,Braccagni Countryside,IT-52,26 Jun 2019,L9635737,S58153192
+370,Black Redstart,1,Tartiglia,IT-52,16 Apr 2014,L2785185,S17940097
+371,Blue Rock-Thrush,1,Hydra,GR-I,10 May 2012,L1617892,S11125045
+372,Cedar Waxwing,20,University Park,US-CA,21 Oct 2011,L1296417,S8989123
+373,Phainopepla,1,Lake Solano County Park (SOL Co.),US-CA,02 Aug 2014,L285964,S19379040
+374,Northern Red Bishop,1,Miller/Knox Regional Shoreline,US-CA,16 Oct 2020,L593834,S74889144
+375,House Sparrow,,Ferry / Sue Bierman Parks,US-CA,22 Nov 2011,L1284799,S9178938
+376,Italian Sparrow,,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+377,Western Yellow Wagtail,2,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+378,White Wagtail,1,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+379,American Pipit,2,Las Gallinas Valley Sanitary District,US-CA,10 Nov 2012,L207664,S12007948
+380,Common Chaffinch,1,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+381,House Finch,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+382,Purple Finch,2,Laguna de Santa Rosa Trail-- including Kelly Pond and Laguna Wetlands Preserve,US-CA,01 Jan 2012,L2192531,S9467298
+383,Cassin's Finch,1,Independence Lake (SIE Co.),US-CA,06 Jul 2012,L1269273,S11121122
+384,European Greenfinch,1,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+385,Red Crossbill,12,Tilden Regional Park--Vollmer Peak,US-CA,08 Sep 2012,L1292955,S11546969
+386,White-winged Crossbill,11,Roosevelt Park,US-NJ,31 Dec 2012,L1855796,S12423877
+387,European Goldfinch,,San Pietro di Romena,IT-52,16 Apr 2014,L2785181,S17940059
+388,European Serin,,Stia Arno Trail,IT-52,16 Apr 2014,L2785169,S17940027
+389,Pine Siskin,40,Yardbirds,US-CA,10 Nov 2015,L1369174,S25779083
+390,Lesser Goldfinch,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+391,American Goldfinch,1,Creekside Park (ALA Co.),US-CA,01 Oct 2011,L1764657,S8882547
+392,Lapland Longspur,1,Cesar Chavez Park,US-CA,22 Nov 2018,L285281,S50161340
+393,Cirl Bunting,2,Tartiglia,IT-52,16 Apr 2014,L2785185,S17940097
+394,Grasshopper Sparrow,2,Wildcat Canyon Regional Park,US-CA,17 May 2020,L388820,S69229175
+395,Chipping Sparrow,20,Burke Lake,US-CO,10 May 2013,L2165220,S14066582
+396,Clay-colored Sparrow,1,Cesar Chavez Park,US-CA,13 Oct 2006,L285281,S61307380
+397,Black-chinned Sparrow,1,Tilden Regional Park--Big Springs,US-CA,08 Jun 2012,L1292963,S10941002
+398,Field Sparrow,5,Kettle Moraine SF--Ottawa Lake Recreation Area,US-WI,01 Jul 2015,L1053972,S24159975
+399,Brewer's Sparrow,15,Prosser Dam Road,US-CA,07 Jul 2012,L1615541,S11114704
+400,Lark Sparrow,1,Wilbur Hot Springs,US-CA,08 Mar 2013,L1818892,S13389792
+401,Fox Sparrow,1,Hawk Hill,US-CA,12 Oct 2002,L224081,S75349495
+402,Dark-eyed Junco,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+403,White-crowned Sparrow,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+404,Golden-crowned Sparrow,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+405,Harris's Sparrow,1,Pacific Commons Linear Park,US-CA,06 Dec 2020,L791702,S77149924
+406,White-throated Sparrow,1,Cesar Chavez Park,US-CA,13 Oct 2006,L285281,S61307380
+407,Vesper Sparrow,15,Prosser Dam Road,US-CA,07 Jul 2012,L1615541,S11114704
+408,Savannah Sparrow,1,Cesar Chavez Park,US-CA,11 Feb 2012,L285281,S9805756
+409,Song Sparrow,3,Creekside Park (ALA Co.),US-CA,01 Oct 2011,L1764657,S8882547
+410,Lincoln's Sparrow,2,Cesar Chavez Park,US-CA,13 Oct 2006,L285281,S61307380
+411,Swamp Sparrow,1,Berkeley Aquatic Park,US-CA,26 Jan 2014,L597003,S69005562
+412,California Towhee,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+413,Rufous-crowned Sparrow,2,Tilden Regional Park--Big Springs,US-CA,08 Jun 2012,L1292963,S10941002
+414,Green-tailed Towhee,1,Prosser Dam Road,US-CA,07 Jul 2012,L1615541,S11114704
+415,Spotted Towhee,1,Creekside Park (ALA Co.),US-CA,01 Oct 2011,L1764657,S8882547
+416,Western Spindalis,1,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+417,Yellow-headed Warbler,6,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+418,Yellow-breasted Chat,1,Bench Trail,US-CA,13 Sep 2015,L3917236,S25091571
+419,Yellow-headed Blackbird,1,Holland Tract,US-CA,10 Jan 2016,L593832,S26928869
+420,Western Meadowlark,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+421,Yellow-winged Cacique,8,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+422,Black-vented Oriole,2,Playa Madera,MX-GRO,21 Dec 2015,L2578725,S66756244
+423,Orchard Oriole,,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+424,Hooded Oriole,2,Creekside Park (ALA Co.),US-CA,07 Apr 2012,L1764657,S10383263
+425,Streak-backed Oriole,1,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+426,Bullock's Oriole,7,Lake Solano County Park (SOL Co.),US-CA,03 Jul 2016,L285964,S30532383
+427,Altamira Oriole,3,Playa Madera,MX-GRO,02 Feb 2020,L2578725,S64045298
+428,Audubon's Oriole,1,Playa Madera,MX-GRO,31 Jan 2020,L2578725,S63963370
+429,Baltimore Oriole,1,Kettle Moraine SF--Ottawa Lake Recreation Area,US-WI,01 Jul 2015,L1053972,S24159975
+430,Red-winged Blackbird,,Las Gallinas Valley Sanitary District,US-CA,28 Jan 2012,L207664,S9708222
+431,Tricolored Blackbird,3,Hoggsville,US-CA,27 Oct 2012,L1304461,S11897441
+432,Tawny-shouldered Blackbird,4,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+433,Bronzed Cowbird,1,Playa Madera,MX-GRO,31 Jan 2020,L2578725,S63963370
+434,Brown-headed Cowbird,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+435,Brewer's Blackbird,5,Rodeo Lagoon,US-CA,12 Oct 2002,L139567,S75350051
+436,Common Grackle,6,Burke Lake,US-CO,10 May 2013,L2165220,S14066582
+437,Great-tailed Grackle,20,Playa Madera,MX-GRO,20 Dec 2012,L2578725,S12354160
+438,Greater Antillean Grackle,,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+439,Ovenbird,12,Kettle Moraine SF--Scuppernong Ski and Hiking Trail,US-WI,30 Jun 2015,L336390,S24112844
+440,Worm-eating Warbler,1,Ferry / Sue Bierman Parks,US-CA,18 Dec 2008,L1284799,S12125210
+441,Northern Waterthrush,1,Creekside Park (ALA Co.),US-CA,16 Sep 2020,L1764657,S73682338
+442,Black-and-white Warbler,1,Ferry / Sue Bierman Parks,US-CA,17 Nov 2006,L1284799,S12129262
+443,Tennessee Warbler,1,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+444,Orange-crowned Warbler,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+445,Lucy's Warbler,1,Ferry / Sue Bierman Parks,US-CA,15 Nov 2011,L1284799,S9124456
+446,Nashville Warbler,1,Ferry / Sue Bierman Parks,US-CA,17 Nov 2006,L1284799,S12129262
+447,MacGillivray's Warbler,1,Ferry / Sue Bierman Parks,US-CA,27 Sep 2011,L1284799,S9013889
+448,Mourning Warbler,1,Ferry / Sue Bierman Parks,US-CA,07 Oct 2015,L1284799,S59892865
+449,Common Yellowthroat,1,Southeast Farallon Island (restricted access),US-CA,01 Oct 2012,L329116,S11732048
+450,Hooded Warbler,2,Kettle Moraine SF--Scuppernong Ski and Hiking Trail,US-WI,30 Jun 2015,L336390,S24112844
+451,American Redstart,1,Ferry / Sue Bierman Parks,US-CA,27 Sep 2011,L1284799,S9013889
+452,Northern Parula,1,Ferry / Sue Bierman Parks,US-CA,27 Sep 2011,L1284799,S9013889
+453,Blackburnian Warbler,1,Pt. Reyes--Mendoza Ranch (B Ranch),US-CA,17 Sep 2016,L391138,S31634076
+454,Yellow Warbler,2,Prosser Dam,US-CA,08 Jul 2012,L1615557,S11121056
+455,Chestnut-sided Warbler,1,Ferry / Sue Bierman Parks,US-CA,11 Oct 2012,L1284799,S11787485
+456,Blackpoll Warbler,1,Santa Fe Poplars,US-CA,04 Oct 2011,L1786073,S11860916
+457,Palm Warbler,1,Ferry / Sue Bierman Parks,US-CA,21 Nov 2012,L1284799,S12125175
+458,Olive-capped Warbler,1,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+459,Yellow-rumped Warbler,,McLaughlin Eastshore SP--Albany access,US-CA,28 Oct 2006,L2377313,S77324381
+460,Yellow-throated Warbler,1,Ferry / Sue Bierman Parks,US-CA,13 Sep 2011,L1284799,S9013998
+461,Black-throated Gray Warbler,2,Codornices 1,US-CA,17 Oct 2011,L1294252,S8974924
+462,Townsend's Warbler,,Ferry / Sue Bierman Parks,US-CA,17 Nov 2006,L1284799,S12129262
+463,Hermit Warbler,2,Redwood Regional Park--Skyline Gate area,US-CA,28 Dec 2011,L803038,S9434471
+464,Black-throated Green Warbler,1,Ferry / Sue Bierman Parks,US-CA,21 Oct 2019,L1284799,S60827245
+465,Canada Warbler,1,Ferry / Sue Bierman Parks,US-CA,21 Sep 2018,L1284799,S48681663
+466,Wilson's Warbler,1,Cesar Chavez Park,US-CA,11 May 2007,L285281,S61308103
+467,Painted Redstart,1,Redstart,US-CA,15 Nov 2013,L2422619,S15673885
+468,Summer Tanager,1,Berkeley Aquatic Park,US-CA,16 Jan 2012,L597003,S9614839
+469,Scarlet Tanager,3,Kettle Moraine SF--Scuppernong Ski and Hiking Trail,US-WI,30 Jun 2015,L336390,S24112844
+470,Western Tanager,1,Ferry / Sue Bierman Parks,US-CA,21 Oct 2011,L1284799,S9013871
+471,Northern Cardinal,3,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+472,Rose-breasted Grosbeak,1,Vernon Marsh--Inner & Outer DU Dikes/Figure 8,US-WI,26 Jun 2015,L508580,S24159887
+473,Black-headed Grosbeak,,Owl Hill (private),US-CA,01 May 2010,L1305048,S9045118
+474,Blue Grosbeak,1,Ixtapa ecological park,MX-GRO,17 Dec 2012,L1846828,S12353484
+475,Lazuli Bunting,1,Claremont Canyon Regional Preserve,US-CA,11 Jun 2010,L933409,S70405328
+476,Indigo Bunting,1,Claremont Canyon Regional Preserve,US-CA,11 Jun 2010,L933409,S70405328
+477,Red-legged Honeycreeper,4,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123
+478,Cinnamon-rumped Seedeater,2,La Madera,MX-GRO,11 Jan 2019,L1846947,S51918400
+479,Yellow-faced Grassquit,,PN Viñales--Sendero Maravillas,CU-01,11 Apr 2018,L2780517,S44666123

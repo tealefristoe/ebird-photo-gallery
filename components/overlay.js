@@ -9,10 +9,10 @@ export class Overlay extends React.Component {
           <div>
             <div className={overlayStyles.header}>Curated Photos</div>
             {spacer()}
-            <div>Curated photos allow you to display any photo you want in your photo gallery.</div>
+            <div>Curated photos allow you to choose the photo that is displayed for a species in your photo gallery.</div>
             {spacer()}
             <div>To select a curated photo:</div>
-            <div>1. Click on the # photos link for a species.</div>
+            <div>1. Click on the 'All photos' link for a species.</div>
             <div>2. Click on any photo on the species page.</div>
             <div>You're done! Reload your photo gallery to see the curated photo instead of the top rated photo.</div>
             {spacer()}
@@ -25,7 +25,7 @@ export class Overlay extends React.Component {
 
 export function displayOverlayButton() {
   return (
-    <span class={overlayStyles.displayOverlayButton} onClick={() => document.getElementById(overlayStyles.overlay).style.display = "block"}>
+    <span className={overlayStyles.displayOverlayButton} onClick={() => document.getElementById(overlayStyles.overlay).style.display = "block"}>
       ?
     </span>
   )

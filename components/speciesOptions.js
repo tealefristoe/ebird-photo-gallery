@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import optionsStyles from '../styles/options.module.css'
+import {displayOverlayButton} from '../components/overlay'
 import {escapeSpaces} from '../lib/web'
 
 export default class Options extends React.Component {
@@ -26,7 +27,7 @@ export default class Options extends React.Component {
           <div id={optionsStyles.secondOptions}>
             {this.props.curated
               ? <span onClick={() => this.props.clearCuratedPreference()} className={optionsStyles.optionButton}>Clear curated photo.</span>
-              : 'Click a photo to make it the curated photo.'}
+              : <span>Click a photo to make it the curated photo. {displayOverlayButton()}</span>}
           </div>
         </div>
       </div>

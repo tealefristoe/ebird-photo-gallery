@@ -1,8 +1,10 @@
 import styles from '../styles/layout.module.css'
+import {Overlay} from './overlay.js'
 
 export default function Layout({children}) {
   return (
     <div>
+      <Overlay />
       <div className={styles.topMenu}>
         <span style={{verticalAlign: '40%', fontWeight: 'bold', marginLeft: '5px', marginRight: '8px'}}>Powered by</span>
         <a href="https://ebird.org">

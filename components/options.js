@@ -1,4 +1,5 @@
 import optionsStyles from '../styles/options.module.css'
+import {displayOverlayButton} from '../components/overlay'
 import _ from 'underscore'
 
 export default class Options extends React.Component {
@@ -46,7 +47,8 @@ export default class Options extends React.Component {
             </div>
             <div id={optionsStyles.optionsBox}>
               <div id={optionsStyles.optionsQuality}>
-                Minimum quality: {[1,2,3,4,5].map(num =>
+                <div>Minimum quality</div>
+                <div>{[1,2,3,4,5].map(num =>
                   <a onClick={() => this.props.qualityFunction(num)} key={num} style={{cursor: "pointer"}}>
                     <svg height="20" width="20">
                       <polygon points="10,2 16,20 1,9 19,9 4,20"
@@ -54,6 +56,7 @@ export default class Options extends React.Component {
                     </svg>
                   </a>
                 )}
+                </div>
               </div>
               <div>
                 <div>Layout</div>
@@ -62,7 +65,7 @@ export default class Options extends React.Component {
                 {bulletOption('Grid', this.props.layout == 'compact', () => this.props.layoutFunction('compact'))}
               </div>
               <div>
-                <div>Photo preference:</div>
+                <div>Photo preference {displayOverlayButton()}</div>
                 {bulletOption('Curated Only', this.props.photoPreference == 'curatedOnly', () => this.props.photoPreferenceFunction('curatedOnly'))}
                 {bulletOption('Curated Preferred', this.props.photoPreference == 'curated', () => this.props.photoPreferenceFunction('curated'))}
                 {bulletOption('Top Rated', this.props.photoPreference == 'topRated', () => this.props.photoPreferenceFunction('topRated'))}

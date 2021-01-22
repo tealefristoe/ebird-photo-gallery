@@ -34,12 +34,30 @@
   margin: auto;
 }
 
+@media screen and (max-width: 1080px) {
+  .gridContainer {
+    grid-template-columns: 48% 48%;
+    justify-content: space-evenly;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+}
+
 .compactContainer {
   max-width: 1080px;
   display: grid;
   grid-template-columns: 320px 320px 320px;
   grid-column-gap: 60px;
   margin: auto;
+}
+
+@media screen and (max-width: 1080px) {
+  .compactContainer {
+    grid-template-columns: 32% 32% 32%;
+    grid-column-gap: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
 }
 
 .noSelect {

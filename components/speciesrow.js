@@ -8,7 +8,7 @@ import {escapeSpaces, spacer, displayTypeLabel} from '../lib/web'
 export default class SpeciesRow extends React.Component {
   displayPhoto(photoData, photo) {
     return photoData.display
-      ? (<a href={photo[bk.photoSpecimenUrl]} target="_blank"><img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} /></a>)
+      ? (<a href={photo[bk.photoSpecimenUrl]} target="_blank"><img src={imageUrl1 + photo[bk.photoId] + imageUrl2} className={speciesRowStyles.displayPhoto} /></a>)
       : photoData.reason == "noPhoto"
       ? <span className={speciesRowStyles.missing}>No photo submitted</span>
       : photoData.reason == "noCurated"

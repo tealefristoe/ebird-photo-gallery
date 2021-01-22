@@ -12,6 +12,35 @@
   border-bottom: 1px solid #d3d3d3;
 }
 
+@media screen and (max-width: 1080px) {
+  .speciesRow {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .speciesRow {
+    grid-template-areas: 'header header'
+      'main1 photo'
+      'main2 photo';
+    grid-template-columns: 1fr 320px;
+    grid-template-rows: auto auto auto;
+    align-content: start;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .speciesRow {
+      grid-template-areas: 'header header'
+        'photo photo'
+        'main1 main2';
+      grid-template-columns: 50% 50%;
+      grid-template-rows: auto auto auto;
+      align-content: start;
+  }
+}
+
 .speciesRowGrid {
   width: 535px;
   display: grid;
@@ -24,6 +53,26 @@
   border-bottom: 1px solid #d3d3d3;
 }
 
+@media screen and (max-width: 1080px) {
+  .speciesRowGrid {
+    width: 100%;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    align-content: start;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .speciesRowGrid {
+    grid-template-areas: 'header'
+      'photo'
+      'curated'
+      'main';
+    grid-template-columns: 100%;
+    grid-rows: auto auto auto auto;
+  }
+}
+
 .speciesRowCompact {
   width: 320px;
   display: grid;
@@ -33,6 +82,14 @@
   padding-top: 15px;
   padding-bottom: 10px;
   border-bottom: 1px solid #d3d3d3;
+}
+
+@media screen and (max-width: 1080px) {
+  .speciesRowCompact {
+    width: 100%;
+    grid-template-rows: auto auto;
+    align-content: start;
+  }
 }
 
 .speciesRow a, .speciesRowGrid a, .speciesRowCompact a {
@@ -57,10 +114,22 @@
   grid-area: header;
 }
 
+@media screen and (max-width: 1080px) {
+  .speciesHeader {
+    padding-bottom: 5px;
+  }
+}
+
 .speciesName {
   font-size: 24px;
   font-weight: bold;
   padding-bottom: 1px;
+}
+
+@media screen and (max-width: 600px) {
+  .speciesName {
+    font-size: 18px;
+  }
 }
 
 .speciesNameGrid {
@@ -69,10 +138,29 @@
   padding-bottom: 1px;
 }
 
+@media screen and (max-width: 1080px) {
+  .speciesNameGrid {
+    font-size: 18px;
+    line-height: .8;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .speciesNameGrid {
+    font-size: 13px;
+  }
+}
+
 .scientificName {
   font-size: 18px;
   font-style: italic;
   color: #999;
+}
+
+@media screen and (max-width: 600px) {
+  .scientificName {
+    font-size: 14px;
+  }
 }
 
 .scientificNameGrid {
@@ -87,9 +175,21 @@
   align-self: center;
 }
 
+@media screen and (max-width: 600px) {
+  .curatedLink {
+    padding-left: 0px;
+  }
+}
+
 .photo {
   grid-area: photo;
   text-align: center;
+}
+
+@media screen and (max-width: 320px) {
+  .photo {
+    max-width: 320px;
+  }
 }
 
 .photoGrid {
@@ -100,6 +200,28 @@
 .photoCompact {
   grid-area: photo;
   text-align: left;
+}
+
+@media screen and (max-width: 1080px) {
+  .photoCompact {
+    width: 100%;
+  }
+}
+
+.displayPhoto {
+  width: 320px;
+}
+
+@media screen and (max-width: 1080px) {
+  .displayPhoto {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .photo .displayPhoto {
+    max-width: 320px;
+  }
 }
 
 .other {
@@ -119,6 +241,13 @@
   grid-area: main;
   padding-left: 10px;
   font-size: 90%;
+}
+
+@media screen and (max-width: 600px) {
+  .photoInfoGrid {
+    padding-top: .5em;
+    padding-left: 0px;
+  }
 }
 
 .photoInfoCompact {

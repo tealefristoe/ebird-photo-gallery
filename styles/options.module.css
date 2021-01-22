@@ -5,10 +5,31 @@
   width: 100%;
 }
 
+@media screen and (max-width: 1080px) {
+  #topOptionsBar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+}
+
 #topOptions {
   max-width: 1080px;
   margin: auto;
   color: #5fdfff;
+}
+
+@media screen and (max-width: 1080px) {
+  #topOptions {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #topOptions {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
 }
 
 #topOptions a {
@@ -19,6 +40,18 @@
 .topOption {
   padding: 15px;
   border-right: 1px solid #2a3a4d;
+}
+
+@media screen and (max-width: 1080px) {
+  .topOption {
+    padding: 5px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topOption {
+    padding: 5px;
+  }
 }
 
 .disabled {
@@ -32,15 +65,48 @@
   width: 100%;
 }
 
+@media screen and (max-width: 1080px) {
+  #topTitleBar {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #topTitleBar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
 #topTitle {
   max-width: 1080px;
   margin: auto;
   color: #ffffff;
 }
 
+@media screen and (max-width: 1080px) {
+  #topTitle {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
 .headingMain {
   font-size: 36px;
   font-weight: bold;
+}
+
+@media screen and (max-width: 1080px) {
+  .headingMain {
+    font-size: 28px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .headingMain {
+    font-size: 16px;
+  }
 }
 
 #secondOptionsBar {
@@ -50,10 +116,31 @@
   width: 100%;
 }
 
+@media screen and (max-width: 1080px) {
+  #secondOptionsBar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  #secondOptionsBar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
 #secondOptions {
   max-width: 1080px;
   margin: auto;
   color: #408f00;
+}
+
+@media screen and (max-width: 1080px) {
+  #secondOptions {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
 
 #speciesCountDisplay {
@@ -72,8 +159,33 @@
   cursor: pointer;
 }
 
+@media screen and (max-width: 1080px) {
+  .speciesCount {
+    font-size: 22px;
+    line-height: .45;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .speciesCount {
+    font-size: 18px;
+  }
+}
+
 .subSpeciesCount {
   font-size: .88rem;
+}
+
+@media screen and (max-width: 1080px) {
+  .subspeciesCount {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .subSpeciesCount {
+    font-size: 9px;
+  }
 }
 
 #optionsBox {
@@ -83,6 +195,18 @@
   border-top: 1px solid #d3d3d3;
   padding-top: 10px;
   font-weight: bold;
+}
+
+@media screen and (max-width: 1080px) {
+  #optionsBox {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #optionsBox {
+    font-size: 12px;
+  }
 }
 
 .optionButton {

@@ -70,9 +70,9 @@ export default class SpeciesRow extends React.Component {
             <div className={speciesRowStyles.curatedLink}>
               {photo ? curatedLink(this.props.user, photoData) : ''}
             </div>
-          <div className={speciesRowStyles.photoGrid}>
-            {this.displayPhoto(photoData, photo)}
-          </div>
+            <div className={speciesRowStyles.photoGrid}>
+              {this.displayPhoto(photoData, photo)}
+            </div>
             {photo
               ? (<div className={speciesRowStyles.photoInfoGrid}>
                   <div>{displayTypeLabel(photoData.displayType)}</div>

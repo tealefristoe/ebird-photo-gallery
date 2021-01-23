@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import speciesPageStyles from '../styles/speciesPage.module.css'
+import speciesRowStyles from '../styles/speciesRow.module.css'
 import SpeciesOptions from '../components/speciesOptions'
 import Layout from '../components/layout'
 import HiddenDescription from '../components/hiddenDescription'
@@ -64,7 +65,7 @@ export default class SpeciesPage extends React.Component {
                       key={photo[bk.photoId]}
                       className={this.state.curated == photo[bk.photoId] ? speciesPageStyles.photoContainerCurated : speciesPageStyles.photoContainer}
                     >
-                    <img src={imageUrl1 + photo[bk.photoId] + imageUrl2} style={{width: '320px'}} onClick={() => this.setCuratedPreference(photo[bk.photoId])} />
+                    <img src={imageUrl1 + photo[bk.photoId] + imageUrl2} className={speciesRowStyles.displayPhoto} onClick={() => this.setCuratedPreference(photo[bk.photoId])} />
                     {this.props.photos[0] == photo ? <div>{topRatedLabel()}</div> : ''}
                     {this.state.curated && this.state.curated == photo[bk.photoId] ? <div>{curatedLabel()}</div> : ''}
                     {halfSpacer()}

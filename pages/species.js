@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import speciesPageStyles from '../styles/speciesPage.module.css'
-import speciesRowStyles from '../styles/speciesRow.module.css'
+import speciesRowStyles from '../styles/speciesrow.module.css'
 import SpeciesOptions from '../components/speciesOptions'
 import Layout from '../components/layout'
 import HiddenDescription from '../components/hiddenDescription'

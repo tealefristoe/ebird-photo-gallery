@@ -12,6 +12,8 @@ export default function landingPage(props) {
     <div className={landingStyles.subheader}>How does it look?</div>
     <div>Here are a few examples:</div>
     <div><a href="https://ebird-photo-gallery.vercel.app/?user=Teale+Fristoe">Teale Fristoe's List</a></div>
+    <div><a href="https://ebird-photo-gallery.vercel.app/?user=Teale+Fristoe+California+2019">Teale Fristoe's 2019 California List</a></div>
+    <div><a href="https://ebird-photo-gallery.vercel.app/?user=Mark+Stephenson">Mark Stephenson's List</a></div>
     <div><a href="https://ebird-photo-gallery.vercel.app/?user=Aaron+Maizlish">Aaron Maizlish's List</a></div>
     <div><a href="https://ebird-photo-gallery.vercel.app/?user=Derek+Heins">Derek Heins' List</a></div>
     {spacer()}

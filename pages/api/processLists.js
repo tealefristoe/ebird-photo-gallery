@@ -10,6 +10,7 @@ function process(birder) {
 export default (req, res) => {
   let {user} = getParams(req.url)
   user = replaceSpaces(user)
+  console.log('user: ' + user)
   if (user == 'all') {
     getBirders().forEach(birder => process(birder))
   } else {

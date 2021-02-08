@@ -1,0 +1,425 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Snow Goose,1,Richmond Marina,US-CA,26 Jan 2019,L615495,S52063005
+2,Ross's Goose,100,North of Antioch Bridge,US-CA,09 Mar 2019,L8821678,S53651917
+3,Greater White-fronted Goose,25,Holland Tract,US-CA,22 Jan 2019,L593832,S51937084
+4,Brant,1,Elsie Roemer Bird Sanctuary,US-CA,11 May 2019,L509134,S56123794
+5,Cackling Goose,50,Hayward Regional Shoreline--Winton Ave. access and parking area,US-CA,18 Jan 2019,L470891,S51811263
+6,Canada Goose,12,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+7,Mute Swan,2,Las Gallinas Valley Sanitary District,US-CA,19 Mar 2019,L207664,S54022435
+8,Trumpeter Swan,2,Rio Hondo Spreading Grounds,US-CA,28 Dec 2019,L264665,S62706880
+9,Tundra Swan,75,Holland Tract,US-CA,22 Jan 2019,L593832,S51937084
+10,Wood Duck,4,Olympic Blvd Staging Area,US-CA,30 Jan 2019,L9109797,S55334967
+11,Garganey,1,Bridgeway Island pond,US-CA,09 Mar 2019,L473045,S53642310
+12,Blue-winged Teal,2,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Jan 2019,L161083,S51261170
+13,Cinnamon Teal,6,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+14,Northern Shoveler,75,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+15,Gadwall,6,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+16,Eurasian Wigeon,1,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+17,American Wigeon,2,Mountain View Cemetery (ALA Co.),US-CA,02 Jan 2019,L3104978,S51228166
+18,Mallard,8,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+19,Northern Pintail,2,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Jan 2019,L161083,S51261170
+20,Green-winged Teal,25,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+21,Canvasback,15,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+22,Redhead,4,Woodland/Davis Water Treatment Plant,US-CA,28 Apr 2019,L448084,S55530814
+23,Ring-necked Duck,10,Heather Farm Park,US-CA,11 Jan 2019,L373922,S51558311
+24,Tufted Duck,1,Emeryville shoreline--near fire station,US-CA,10 Dec 2019,L1801585,S62204609
+25,Greater Scaup,1,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+26,Lesser Scaup,10,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+27,Harlequin Duck,1,Port San Luis,US-CA,24 Nov 2019,L621642,S61721088
+28,Surf Scoter,3,Richmond Marina,US-CA,09 Jan 2019,L615495,S51509782
+29,White-winged Scoter,2,MacKerricher SP--Laguna Pt.,US-CA,26 Oct 2019,L289463,S60947833
+30,Black Scoter,2,Richmond Marina,US-CA,09 Jan 2019,L615495,S51509782
+31,Long-tailed Duck,2,Miller/Knox Regional Shoreline--Ferry Point,US-CA,03 Feb 2019,L864592,S52336646
+32,Bufflehead,25,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+33,Common Goldeneye,12,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+34,Barrow's Goldeneye,8,Lake Merritt--outflow channel,US-CA,19 Jan 2019,L803642,S51832351
+35,Hooded Merganser,1,Lake Merritt,US-CA,23 Feb 2019,L268122,S53074169
+36,Common Merganser,1,Holland Tract,US-CA,22 Jan 2019,L593832,S51937084
+37,Red-breasted Merganser,1,San Francisco Aquatic Park,US-CA,02 Feb 2019,L852525,S52305249
+38,Ruddy Duck,10,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+39,Mountain Quail,1,Angeles NF--Charlton Flat,US-CA,29 May 2019,L337315,S56985157
+40,California Quail,30,Los Vaqueros Reservoir--Walnut Trail,US-CA,12 Jan 2019,L1798091,S51613000
+41,Gambel's Quail,6,Joshua Tree NP--Black Rock Campground,US-CA,25 Mar 2019,L863722,S54295540
+42,Ring-necked Pheasant,1,North of Antioch Bridge,US-CA,22 Dec 2019,L8821678,S62540452
+43,Greater Sage-Grouse,25,Crowley Lek,US-CA,15 Jun 2019,L720724,S57456338
+44,Sooty Grouse,1,Kaiser Peak Trail,US-CA,22 Jul 2019,L9691039,S58430605
+45,Wild Turkey,40,Del Valle Regional Park,US-CA,24 Jan 2019,L274775,S52009828
+46,Pied-billed Grebe,15,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+47,Horned Grebe,2,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+48,Red-necked Grebe,1,North Spit--Coast Guard Cove,US-CA,20 Apr 2019,L4475376,S55177008
+49,Eared Grebe,18,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+50,Western Grebe,3,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+51,Clark's Grebe,1,Richmond Marina,US-CA,09 Jan 2019,L615495,S51509782
+52,Rock Pigeon,50,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+53,Band-tailed Pigeon,20,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+54,Eurasian Collared-Dove,3,Holland Tract,US-CA,22 Jan 2019,L593832,S51937084
+55,Inca Dove,5,Niland--International Rd.,US-CA,10 Jul 2019,L364551,S58087863
+56,Common Ground Dove,1,Niland--International Rd.,US-CA,10 Jul 2019,L364551,S58087863
+57,White-winged Dove,3,Big Morongo Canyon Preserve,US-CA,26 Mar 2019,L420195,S54295338
+58,Mourning Dove,20,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+59,Greater Roadrunner,1,Panoche Access Rd.,US-CA,06 Feb 2019,L612424,S52440164
+60,Yellow-billed Cuckoo,6,Palo Verde Ecological Reserve,US-CA,12 Jul 2019,L1497396,S58122818
+61,Lesser Nighthawk,8,Cache Creek--Capay bridge vicinity,US-CA,28 Apr 2019,L2194995,S55539531
+62,Common Nighthawk,3,Lower Rush Creek riparian area,US-CA,14 Jun 2019,L879376,S57455684
+63,Common Poorwill,1,Mt. Diablo SP--Mitchell Canyon,US-CA,17 Apr 2019,L275399,S55060109
+64,Black Swift,3,Monkeyface Falls viewpoint,US-CA,10 Jul 2019,L952406,S58083565
+65,Vaux's Swift,1,Mad River Fish Hatchery,US-CA,20 Apr 2019,L301060,S55183647
+66,White-throated Swift,4,Claremont Canyon Regional Preserve,US-CA,23 Jan 2019,L933409,S51971389
+67,Black-chinned Hummingbird,1,Los Gatos Creek Trail--Meridian Ave.,US-CA,08 May 2019,L2850878,S56010568
+68,Anna's Hummingbird,1,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+69,Costa's Hummingbird,2,Joshua Tree NP--Cottonwood Campground,US-CA,24 Mar 2019,L2071413,S54260047
+70,Rufous Hummingbird,1,Mt. Diablo SP--Mitchell Canyon,US-CA,10 Apr 2019,L275399,S54806350
+71,Allen's Hummingbird,2,"300 Virginia Avenue, Moss Beach, California, US (37.524, -122.514)",US-CA,04 Mar 2019,L8758800,S53392427
+72,Calliope Hummingbird,8,Mt. Diablo SP--Mitchell Canyon,US-CA,10 Apr 2019,L275399,S54806350
+73,Ridgway's Rail,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Jan 2019,L161083,S51261170
+74,Virginia Rail,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,21 Jan 2019,L161083,S51912577
+75,Sora,2,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,21 Jan 2019,L161083,S51912577
+76,Common Gallinule,1,Heather Farm Park,US-CA,30 Jan 2019,L373922,S52204773
+77,American Coot,100,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+78,Black Rail,1,Alviso Marina County Park (please use a specific pond hotspot where possible),US-CA,06 Jul 2019,L296043,S57978651
+79,Sandhill Crane,25,Holland Tract,US-CA,22 Jan 2019,L593832,S51937084
+80,Black-necked Stilt,3,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+81,American Avocet,150,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+82,American Oystercatcher,1,Royal Palms Beach,US-CA,28 Nov 2019,L3231275,S61824538
+83,Black Oystercatcher,1,Richmond Marina,US-CA,09 Jan 2019,L615495,S51509782
+84,Black-bellied Plover,2,Foster City Shell Bar,US-CA,29 Jan 2019,L467982,S52175056
+85,Pacific Golden-Plover,1,Don Edwards NWR--entrance road (Grand Blvd.) between tracks and gate,US-CA,04 Jun 2019,L1764908,S57084280
+86,Snowy Plover,47,Coal Oil Point--Devereux Beach and Sands Beach,US-CA,27 Mar 2019,L422817,S54290317
+87,Semipalmated Plover,7,Coyote Point County Park,US-CA,15 Mar 2019,L247966,S53865162
+88,Killdeer,4,Los Vaqueros Reservoir--Walnut Trail,US-CA,12 Jan 2019,L1798091,S51613000
+89,Mountain Plover,1,Fiesta Island--dog run,US-CA,06 Nov 2019,L802943,S61237872
+90,Whimbrel,6,Emeryville shoreline--near fire station,US-CA,12 Jan 2019,L1801585,S51616233
+91,Long-billed Curlew,1,Richmond Marina,US-CA,09 Jan 2019,L615495,S51509782
+92,Bar-tailed Godwit,1,Hayward Regional Shoreline--Winton Ave. access and parking area,US-CA,24 Jul 2019,L470891,S58428939
+93,Hudsonian Godwit,1,Tunitas Creek beach -- west of Hwy 1 only,US-CA,16 Oct 2019,L951031,S60674380
+94,Marbled Godwit,50,Emeryville shoreline--near fire station,US-CA,12 Jan 2019,L1801585,S51616233
+95,Ruddy Turnstone,3,Foster City Shell Bar,US-CA,29 Jan 2019,L467982,S52175056
+96,Black Turnstone,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Jan 2019,L161083,S51261170
+97,Red Knot,6,Foster City Shell Bar,US-CA,29 Jan 2019,L467982,S52175056
+98,Surfbird,2,Pt. Emery,US-CA,12 Jan 2019,L622485,S51609196
+99,Ruff,1,Presidio--Crissy Field Lagoon,US-CA,26 Aug 2019,L1004802,S59295347
+100,Stilt Sandpiper,1,Woodland/Davis Water Treatment Plant,US-CA,14 Oct 2019,L448084,S60627998
+101,Sanderling,10,Richmond Marina,US-CA,09 Jan 2019,L615495,S51509782
+102,Dunlin,25,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+103,Rock Sandpiper,1,Heron's Head Park,US-CA,03 Nov 2019,L502380,S61151699
+104,Baird's Sandpiper,1,Rodeo Lagoon,US-CA,22 Aug 2019,L139567,S59179665
+105,Least Sandpiper,50,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+106,Pectoral Sandpiper,1,West County Wastewater District--Sewage Ponds,US-CA,27 Aug 2019,L848605,S59310893
+107,Semipalmated Sandpiper,1,Candlestick SRA--Yosemite Slough restoration,US-CA,26 Jul 2019,L2467054,S58482991
+108,Western Sandpiper,3,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+109,Short-billed Dowitcher,18,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+110,Long-billed Dowitcher,4,MLK Jr. Regional Shoreline,US-CA,23 Feb 2019,L2402250,S53074167
+111,Wilson's Snipe,2,MLK Jr. Regional Shoreline,US-CA,23 Feb 2019,L2402250,S53074167
+112,Wilson's Phalarope,4,Woodland/Davis Water Treatment Plant,US-CA,10 May 2019,L448084,S56093429
+113,Red-necked Phalarope,1,"4910 Old Samoa Road, Arcata, California, US (40.867, -124.135)",US-CA,20 Apr 2019,L9082717,S55171792
+114,Red Phalarope,1,"(36.5819,-122.3359)",US-CA,07 Sep 2019,L9888764,S59608713
+115,Spotted Sandpiper,1,Richmond Marina,US-CA,09 Jan 2019,L615495,S51509782
+116,Solitary Sandpiper,1,Nicasio Valley Rd.,US-CA,02 Sep 2019,L1183650,S59462149
+117,Wandering Tattler,2,Humboldt Bay--North Spit jetty,US-CA,21 Apr 2019,L487997,S55223858
+118,Greater Yellowlegs,3,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Jan 2019,L161083,S51261170
+119,Willet,15,San Francisco Bay Trail--S 51st St.,US-CA,09 Jan 2019,L1415714,S51509238
+120,Lesser Yellowlegs,5,Coyote Hills Regional Park,US-CA,23 Aug 2019,L216132,S59207894
+121,South Polar Skua,1,"(36.5499,-122.5020)",US-CA,07 Sep 2019,L9888870,S59608787
+122,Pomarine Jaeger,2,"(36.5578,-122.5501)",US-CA,07 Sep 2019,L9888970,S59608822
+123,Parasitic Jaeger,1,"(36.6026,-122.2600)",US-CA,07 Sep 2019,L9888757,S59608694
+124,Long-tailed Jaeger,6,"(36.5499,-122.5020)",US-CA,07 Sep 2019,L9888870,S59608787
+125,Common Murre,3,Humboldt Bay--North Spit jetty,US-CA,20 Apr 2019,L487997,S55175114
+126,Pigeon Guillemot,1,Cliff House,US-CA,04 Apr 2019,L355646,S55363966
+127,Marbled Murrelet,5,Prairie Creek Redwoods SP--Elk Prairie,US-CA,21 Apr 2019,L517692,S55212922
+128,Cassin's Auklet,1,"(36.6379,-122.0578)",US-CA,07 Sep 2019,L9887080,S59608608
+129,Parakeet Auklet,1,"GGNRA--Land's End Trail/Hermit Rock Overlook (Historic Shipwrecks, 37.7839,-122.5096)",US-CA,18 Jul 2019,L6105843,S58274999
+130,Rhinoceros Auklet,1,Navarro River Redwoods SP--Navarro Beach Campground,US-CA,01 Sep 2019,L1007933,S59459440
+131,Tufted Puffin,1,"(37.4379,-122.6876)",US-CA,27 Sep 2019,L9963125,S60192994
+132,Black-legged Kittiwake,1,Half Moon Bay SB--Venice Beach and Pilarcitos Creek Mouth,US-CA,04 Mar 2019,L329541,S53398297
+133,Sabine's Gull,1,"(36.6379,-122.0578)",US-CA,07 Sep 2019,L9887080,S59608608
+134,Bonaparte's Gull,12,Hayward Regional Shoreline,US-CA,05 May 2019,L225431,S55867013
+135,Laughing Gull,2,Sonny Bono Salton Sea NWR--Union Tract / Visitor Center,US-CA,11 Jul 2019,L673436,S58178011
+136,Heermann's Gull,1,Miller/Knox Regional Shoreline--Ferry Point,US-CA,03 Feb 2019,L864592,S52336646
+137,Mew Gull,2,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+138,Ring-billed Gull,150,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+139,Western Gull,5,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+140,Yellow-footed Gull,3,Sonny Bono Salton Sea NWR--Union Tract / Visitor Center,US-CA,11 Jul 2019,L673436,S58178011
+141,California Gull,4,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+142,Herring Gull,1,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+143,Iceland Gull,2,Sutro Baths--ruins and freshwater pond,US-CA,10 Jan 2019,L1071411,S51532370
+144,Lesser Black-backed Gull,1,Hotel del Coronado & beach,US-CA,06 Nov 2019,L1779056,S61230549
+145,Glaucous-winged Gull,6,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+146,Glaucous Gull,1,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+147,Least Tern,5,Elsie Roemer Bird Sanctuary,US-CA,16 Apr 2019,L509134,S55026380
+148,Gull-billed Tern,10,Sonny Bono Salton Sea NWR--Union Tract / Visitor Center,US-CA,11 Jul 2019,L673436,S58178011
+149,Caspian Tern,3,Coyote Point County Park,US-CA,15 Mar 2019,L247966,S53865162
+150,Black Tern,6,Woodland/Davis Water Treatment Plant,US-CA,01 May 2019,L448084,S55638402
+151,Common Tern,1,Elsie Roemer Bird Sanctuary,US-CA,12 Aug 2019,L509134,S58945114
+152,Arctic Tern,2,"(36.5578,-122.5501)",US-CA,07 Sep 2019,L9888970,S59608822
+153,Forster's Tern,5,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+154,Royal Tern,14,Coal Oil Point--Devereux Beach and Sands Beach,US-CA,27 Mar 2019,L422817,S54290317
+155,Elegant Tern,5,Elsie Roemer Bird Sanctuary,US-CA,16 Apr 2019,L509134,S55026380
+156,Black Skimmer,22,Foster City Shell Bar,US-CA,29 Jan 2019,L467982,S52175056
+157,Red-throated Loon,1,Richmond Marina,US-CA,09 Jan 2019,L615495,S51509782
+158,Pacific Loon,4,MacKerricher SP--Ten Mile Beach,US-CA,31 Aug 2019,L289474,S59409638
+159,Common Loon,2,Fort Mason Park,US-CA,10 Jan 2019,L389606,S51529289
+160,Black-footed Albatross,2,"(36.6169,-122.1723)",US-CA,07 Sep 2019,L9888755,S59608626
+161,Ashy Storm-Petrel,2,"(36.5819,-122.3359)",US-CA,07 Sep 2019,L9888764,S59608713
+162,Black Storm-Petrel,4,"(37.3922,-122.9191)",US-CA,27 Sep 2019,L9964304,S60193279
+163,Northern Fulmar,1,"(37.4268,-122.7506)",US-CA,27 Sep 2019,L9963247,S60193044
+164,Pink-footed Shearwater,1,"(36.6533,-121.9694)",US-CA,07 Sep 2019,L9888750,S59608396
+165,Flesh-footed Shearwater,1,"(37.3621,-122.7497)",US-CA,27 Sep 2019,L9964178,S60193399
+166,Buller's Shearwater,1,"(37.4558,-122.5995)",US-CA,27 Sep 2019,L9962971,S60192970
+167,Sooty Shearwater,300,Monterey Bay pelagic--inshore Monterey Harbor to Pt. Pinos (MTY Co.),US-CA,07 Sep 2019,L618528,S59608379
+168,Black-vented Shearwater,1,"Pt. Pinos--general (sea & shore Coral to Jewell, Crespi Pond & cypresses)",US-CA,24 Nov 2019,L374642,S61708570
+169,Brown Booby,1,"Pt. Pinos--general (sea & shore Coral to Jewell, Crespi Pond & cypresses)",US-CA,24 Nov 2019,L374642,S61708570
+170,Red-footed Booby,1,Seacliff SB,US-CA,04 Jun 2019,L638117,S57086989
+171,Northern Gannet,1,Devil's Slide Trail and Egg Rock,US-CA,04 Mar 2019,L1528599,S53404809
+172,Brandt's Cormorant,8,San Francisco Aquatic Park,US-CA,02 Feb 2019,L852525,S52305249
+173,Pelagic Cormorant,2,Richmond Marina,US-CA,09 Jan 2019,L615495,S51509782
+174,Neotropic Cormorant,6,Ramer Lake,US-CA,11 Jul 2019,L219776,S58100660
+175,Double-crested Cormorant,4,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+176,American White Pelican,1,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+177,Brown Pelican,1,Richmond Marina,US-CA,09 Jan 2019,L615495,S51509782
+178,American Bittern,1,Golden Gate Park--North Lake,US-CA,19 Jan 2019,L370768,S51837187
+179,Least Bittern,1,Las Gallinas Valley Sanitary District,US-CA,30 Apr 2019,L207664,S55598879
+180,Great Blue Heron,2,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Jan 2019,L161083,S51261170
+181,Great Egret,1,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+182,Snowy Egret,6,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+183,Little Blue Heron,1,"26 Beach Drive, San Rafael, California, US (37.975, -122.478)",US-CA,12 Feb 2019,L8599555,S52631047
+184,Tricolored Heron,1,Rodeo Lagoon,US-CA,11 Nov 2019,L139567,S61363542
+185,Reddish Egret,1,Bolsa Chica Ecological Reserve,US-CA,13 Jul 2019,L164929,S58144463
+186,Cattle Egret,4,Las Gallinas Valley Sanitary District,US-CA,19 Mar 2019,L207664,S54022435
+187,Green Heron,1,Heather Farm Park,US-CA,11 Jan 2019,L373922,S51558311
+188,Black-crowned Night-Heron,3,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+189,Yellow-crowned Night-Heron,1,UCSB North Campus Open Space (formerly Ocean Meadows Golf Course),US-CA,14 Jul 2019,L820867,S58178002
+190,White-faced Ibis,2,Coyote Hills Regional Park,US-CA,23 Feb 2019,L216132,S53074159
+191,California Condor,4,Pinnacles NP--campground,US-CA,17 Feb 2019,L832838,S52914555
+192,Black Vulture,1,Bolinas Lagoon--Pine Gulch,US-CA,14 Nov 2019,L590288,S61455162
+193,Turkey Vulture,4,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+194,Osprey,1,Bridgeway Island pond,US-CA,09 Mar 2019,L473045,S53642310
+195,White-tailed Kite,2,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+196,Golden Eagle,2,Sunol Regional Wilderness,US-CA,27 Jan 2019,L302253,S52113800
+197,Northern Harrier,2,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+198,Sharp-shinned Hawk,1,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+199,Cooper's Hawk,1,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+200,Bald Eagle,2,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+201,Red-shouldered Hawk,1,Mountain View Cemetery (ALA Co.),US-CA,02 Jan 2019,L3104978,S51228166
+202,Broad-winged Hawk,1,Hawk Hill,US-CA,05 Oct 2019,L224081,S60371648
+203,Swainson's Hawk,3,Bethel Island,US-CA,24 Apr 2019,L1405409,S55348790
+204,Zone-tailed Hawk,1,San Diego Zoo Safari Park,US-CA,13 Oct 2019,L384938,S60598113
+205,Red-tailed Hawk,2,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+206,Rough-legged Hawk,1,Robinson Rd. at Flannery Rd.,US-CA,11 Feb 2019,L287425,S54939639
+207,Ferruginous Hawk,1,Patterson Pass Rd.,US-CA,24 Jan 2019,L356724,S52009827
+208,Barn Owl,1,Hillcrest Rd and Hillcrest Ct,US-CA,14 Jan 2019,L6405380,S51702791
+209,Western Screech-Owl,1,McClellan Ranch Preserve,US-CA,29 Jan 2019,L299860,S52181044
+210,Great Horned Owl,2,Claremont Canyon Regional Preserve,US-CA,25 Jan 2019,L933409,S52041340
+211,Northern Pygmy-Owl,1,Long Canyon (Napa Co),US-CA,31 Jan 2019,L788791,S52246561
+212,Elf Owl,1,Joshua Tree NP--Cottonwood Campground,US-CA,24 Mar 2019,L2071413,S54260047
+213,Burrowing Owl,2,Robinson Rd.,US-CA,09 Mar 2019,L592552,S53647103
+214,Spotted Owl,2,"Korbel, California, US (40.837, -123.948)",US-CA,21 Apr 2019,L9093028,S55230690
+215,Long-eared Owl,3,California Valley Streets,US-CA,30 Mar 2019,L1865811,S54393319
+216,Short-eared Owl,1,Hayward Regional Shoreline--Winton Ave. access and parking area,US-CA,18 Jan 2019,L470891,S51811263
+217,Belted Kingfisher,1,Mountain View Cemetery (ALA Co.),US-CA,02 Jan 2019,L3104978,S51228166
+218,Williamson's Sapsucker,2,Angeles NF--Throop Peak/Dawson Saddle Trail,US-CA,30 May 2019,L746089,S56985213
+219,Yellow-bellied Sapsucker,1,Cuesta College Campus,US-CA,23 Dec 2019,L635881,S62564184
+220,Red-naped Sapsucker,1,Bob Jones Trail,US-CA,24 Nov 2019,L616118,S61713540
+221,Red-breasted Sapsucker,1,Claremont Canyon Regional Preserve,US-CA,05 Jan 2019,L933409,S51347557
+222,Lewis's Woodpecker,8,"9450 Knoxville Road, Napa, California, US (38.701, -122.269)",US-CA,31 Jan 2019,L8533456,S52245969
+223,Acorn Woodpecker,2,Claremont Canyon Regional Preserve,US-CA,05 Jan 2019,L933409,S51347557
+224,Gila Woodpecker,2,Cattle Call Park,US-CA,11 Jul 2019,L302576,S58101944
+225,Black-backed Woodpecker,1,Twin Lakes Trail,US-CA,23 Jul 2019,L7733434,S58430628
+226,Downy Woodpecker,1,Heather Farm Park,US-CA,11 Jan 2019,L373922,S51558311
+227,Nuttall's Woodpecker,1,Claremont Canyon Regional Preserve,US-CA,05 Jan 2019,L933409,S51347557
+228,Ladder-backed Woodpecker,1,Joshua Tree NP--Cottonwood Campground,US-CA,24 Mar 2019,L2071413,S54260047
+229,Hairy Woodpecker,2,Del Valle Regional Park,US-CA,24 Jan 2019,L274775,S52009828
+230,White-headed Woodpecker,1,Angeles NF--Throop Peak/Dawson Saddle Trail,US-CA,30 May 2019,L746089,S56985213
+231,Pileated Woodpecker,1,"29051 California 128, Yorkville, California, US (38.889, -123.173)",US-CA,31 Aug 2019,L9860675,S59404959
+232,Northern Flicker,1,Claremont Canyon Regional Preserve,US-CA,05 Jan 2019,L933409,S51347557
+233,Gilded Flicker,1,Mojave National Preserve--Cima Rd. at Powerline Rd.,US-CA,12 Jun 2019,L757917,S57322110
+234,American Kestrel,1,Claremont Canyon Regional Preserve,US-CA,05 Jan 2019,L933409,S51347557
+235,Merlin,1,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+236,Peregrine Falcon,1,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+237,Prairie Falcon,1,Los Vaqueros Reservoir--Walnut Trail,US-CA,12 Jan 2019,L1798091,S51613000
+238,Red-masked Parakeet,6,Fort Mason Park,US-CA,10 Jan 2019,L389606,S51529289
+239,Olive-sided Flycatcher,1,Mt. Diablo SP--Mitchell Canyon,US-CA,25 Apr 2019,L275399,S55402508
+240,Greater Pewee,1,"stakeout Greater Pewee, Pacific Palisades (2017–20)",US-CA,28 Nov 2019,L6361490,S61830116
+241,Western Wood-Pewee,1,Corona Heights Park,US-CA,15 May 2019,L598129,S56320072
+242,Willow Flycatcher,1,Hansen Dam,US-CA,29 May 2019,L732299,S56871212
+243,Hammond's Flycatcher,5,Mt. Diablo SP--Mitchell Canyon,US-CA,10 Apr 2019,L275399,S54806350
+244,Gray Flycatcher,3,Lower Rush Creek riparian area,US-CA,14 Jun 2019,L879376,S57455684
+245,Dusky Flycatcher,6,Angeles NF--Throop Peak/Dawson Saddle Trail,US-CA,30 May 2019,L746089,S56985213
+246,Pacific-slope Flycatcher,3,Rattlesnake Canyon Trail,US-CA,29 Mar 2019,L1179529,S54352146
+247,Cordilleran Flycatcher,1,Virginia Lakes Resort,US-CA,15 Jun 2019,L3799022,S57458055
+248,Black Phoebe,1,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+249,Eastern Phoebe,1,Irvine Lake,US-CA,27 Dec 2019,L468267,S62681232
+250,Say's Phoebe,1,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+251,Vermilion Flycatcher,4,Big Morongo Canyon Preserve,US-CA,26 Mar 2019,L420195,S54295338
+252,Ash-throated Flycatcher,1,Joshua Tree NP--Cottonwood Campground,US-CA,24 Mar 2019,L2071413,S54260047
+253,Brown-crested Flycatcher,2,Big Morongo Canyon Preserve,US-CA,10 Jul 2019,L420195,S58083551
+254,Tropical Kingbird,1,Heather Farm Park,US-CA,07 Mar 2019,L373922,S53574204
+255,Cassin's Kingbird,4,Lake Los Carneros Park,US-CA,27 Mar 2019,L336013,S54288082
+256,Thick-billed Kingbird,1,Poggi Creek greenbelt,US-CA,06 Nov 2019,L1096830,S61226858
+257,Western Kingbird,2,Big Morongo Canyon Preserve,US-CA,26 Mar 2019,L420195,S54295338
+258,Scissor-tailed Flycatcher,1,Poggi Creek greenbelt,US-CA,06 Nov 2019,L1096830,S61226858
+259,Bell's Vireo,4,Big Morongo Canyon Preserve,US-CA,26 Mar 2019,L420195,S54295338
+260,Gray Vireo,1,Mojave National Preserve--New York Mtns.-Keystone Canyon,US-CA,12 Jun 2019,L1234953,S57444574
+261,Hutton's Vireo,2,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+262,Cassin's Vireo,1,Rattlesnake Canyon Trail,US-CA,29 Mar 2019,L1179529,S54352146
+263,Plumbeous Vireo,2,Glass Mtns.--Wildrose Canyon,US-CA,15 Jun 2019,L3786956,S57457444
+264,Warbling Vireo,1,Big Morongo Canyon Preserve,US-CA,26 Mar 2019,L420195,S54295338
+265,Yellow-green Vireo,1,Golden Gate Park--Log Cabin Trail,US-CA,29 Sep 2019,L3078004,S60212513
+266,Loggerhead Shrike,5,Los Vaqueros Reservoir--Walnut Trail,US-CA,12 Jan 2019,L1798091,S51613000
+267,Canada Jay,3,Jo And Birte's - Private Residence,US-CA,16 Dec 2019,L10306366,S62393251
+268,Pinyon Jay,3,"California 120, Bishop, California, US (37.838, -118.593)",US-CA,15 Jun 2019,L9486599,S57457765
+269,Steller's Jay,3,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+270,Blue Jay,1,"stakeout Blue Jay, Fortuna (2019-2020)",US-CA,16 Dec 2019,L10137169,S62392858
+271,Island Scrub-Jay,9,Santa Cruz Island--Prisoners Harbor,US-CA,26 Nov 2019,L375253,S61781952
+272,California Scrub-Jay,2,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+273,Woodhouse's Scrub-Jay,2,Mojave National Preserve--New York Mtns.-Keystone Canyon,US-CA,12 Jun 2019,L1234953,S57444574
+274,Black-billed Magpie,1,"U.S. 395, Lee Vining, California, US (38.068, -119.169)",US-CA,16 Jun 2019,L9486718,S57458245
+275,Yellow-billed Magpie,5,Del Valle Regional Park,US-CA,24 Jan 2019,L274775,S52009828
+276,Clark's Nutcracker,1,Angeles NF--Throop Peak/Dawson Saddle Trail,US-CA,30 May 2019,L746089,S56985213
+277,American Crow,8,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+278,Common Raven,2,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+279,Black-capped Chickadee,2,"1757 Zehndner Avenue, Arcata, California, US (40.875, -124.096)",US-CA,20 Apr 2019,L9082246,S55169431
+280,Mountain Chickadee,1,Big Morongo Canyon Preserve,US-CA,26 Mar 2019,L420195,S54295338
+281,Chestnut-backed Chickadee,1,Heather Farm Park,US-CA,11 Jan 2019,L373922,S51558311
+282,Oak Titmouse,1,Claremont Canyon Regional Preserve,US-CA,05 Jan 2019,L933409,S51347557
+283,Juniper Titmouse,1,Mojave National Preserve--Mid Hills Campground,US-CA,13 Jun 2019,L754218,S57445917
+284,Verdin,3,Joshua Tree NP--Cottonwood Campground,US-CA,24 Mar 2019,L2071413,S54260047
+285,Horned Lark,11,Patterson Pass Rd.,US-CA,24 Jan 2019,L356724,S52009827
+286,Northern Rough-winged Swallow,5,Heather Farm Park,US-CA,07 Mar 2019,L373922,S53574204
+287,Purple Martin,3,Mad River Fish Hatchery,US-CA,20 Apr 2019,L301060,S55183647
+288,Tree Swallow,8,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+289,Violet-green Swallow,3,Diablo Foothills Regional Park/Castle Rock Park,US-CA,16 Mar 2019,L387747,S53901806
+290,Bank Swallow,10,Cache Creek--Rd. 89,US-CA,28 Apr 2019,L7303085,S55534759
+291,Barn Swallow,8,Bridgeway Island pond,US-CA,09 Mar 2019,L473045,S53642310
+292,Cliff Swallow,2,Bridgeway Island pond,US-CA,09 Mar 2019,L473045,S53642310
+293,Bushtit,3,Mountain View Cemetery (ALA Co.),US-CA,02 Jan 2019,L3104978,S51228166
+294,Wrentit,1,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+295,Golden-crowned Kinglet,2,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+296,Ruby-crowned Kinglet,10,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+297,Red-breasted Nuthatch,2,Claremont Canyon Regional Preserve,US-CA,13 Jan 2019,L933409,S51645827
+298,White-breasted Nuthatch,3,Heather Farm Park,US-CA,11 Jan 2019,L373922,S51558311
+299,Pygmy Nuthatch,1,Claremont Canyon Regional Preserve,US-CA,13 Jan 2019,L933409,S51645827
+300,Brown Creeper,1,Claremont Canyon Regional Preserve,US-CA,13 Jan 2019,L933409,S51645827
+301,Blue-gray Gnatcatcher,2,Lake Los Carneros Park,US-CA,27 Mar 2019,L336013,S54288082
+302,California Gnatcatcher,3,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,US-CA,24 Mar 2019,L815817,S54294259
+303,Black-tailed Gnatcatcher,2,Joshua Tree NP--Smoke Tree Wash,US-CA,25 Mar 2019,L4614517,S54260048
+304,Rock Wren,2,Los Vaqueros Reservoir--Walnut Trail,US-CA,12 Jan 2019,L1798091,S51613000
+305,Canyon Wren,1,Alum Rock Park,US-CA,12 Apr 2019,L370800,S54871217
+306,House Wren,2,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,US-CA,24 Mar 2019,L815817,S54294259
+307,Pacific Wren,3,Stinson Beach overlook,US-CA,24 Feb 2019,L613329,S53115938
+308,Marsh Wren,3,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Jan 2019,L161083,S51261170
+309,Bewick's Wren,1,Heather Farm Park,US-CA,11 Jan 2019,L373922,S51558311
+310,Cactus Wren,3,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,US-CA,24 Mar 2019,L815817,S54294259
+311,American Dipper,2,Los Gatos Creek Trail--south of Main St.,US-CA,08 May 2019,L2734561,S56013429
+312,European Starling,2,Richmond Marina,US-CA,09 Jan 2019,L615495,S51509782
+313,Brown Thrasher,1,Aurora Park,US-CA,27 Dec 2019,L367359,S62678152
+314,Bendire's Thrasher,4,"Mojave National Preserve--Cedar Canyon Road, 4-6 miles west of Lanfair Road (MM 15-17)",US-CA,12 Jun 2019,L9203281,S57443390
+315,California Thrasher,2,Claremont Canyon Regional Preserve,US-CA,23 Jan 2019,L933409,S51971389
+316,LeConte's Thrasher,2,Carrizo Plain NM (use specific hotspots when available),US-CA,30 Mar 2019,L602497,S54393140
+317,Crissal Thrasher,1,Mojave National Preserve--New York Mtns.-Keystone Canyon,US-CA,12 Jun 2019,L1234953,S57444574
+318,Sage Thrasher,1,Lower Rush Creek riparian area,US-CA,14 Jun 2019,L879376,S57455684
+319,Northern Mockingbird,1,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+320,Western Bluebird,3,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+321,Mountain Bluebird,9,Patterson Pass Rd.,US-CA,24 Jan 2019,L356724,S52009827
+322,Townsend's Solitaire,2,Angeles NF--Throop Peak/Dawson Saddle Trail,US-CA,30 May 2019,L746089,S56985213
+323,Varied Thrush,1,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+324,Swainson's Thrush,1,Mt. Diablo SP--Mitchell Canyon,US-CA,25 Apr 2019,L275399,S55402508
+325,Hermit Thrush,1,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+326,American Robin,30,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+327,Cedar Waxwing,20,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+328,Phainopepla,3,Del Valle Regional Park,US-CA,24 Jan 2019,L274775,S52009828
+329,Northern Red Bishop,1,Shoreline Park--maintenance area,US-CA,06 Jul 2019,L9545661,S57975589
+330,Scaly-breasted Munia,2,Lake Los Carneros Park,US-CA,27 Mar 2019,L336013,S54288082
+331,House Sparrow,8,Richmond Marina,US-CA,20 Jan 2019,L615495,S51878447
+332,Red-throated Pipit,1,Stephen Sorensen Park (Desert Avicaching),US-CA,05 Nov 2019,L1563110,S61205241
+333,American Pipit,1,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+334,Evening Grosbeak,50,"1835 West Lake Boulevard, Tahoe City, California, US (39.139, -120.155)",US-CA,17 Nov 2019,L10165887,S61524792
+335,Pine Grosbeak,2,"Pacific Crest Trail, Olympic Valley, California, US (39.077, -120.235)",US-CA,13 Aug 2019,L7773344,S58995052
+336,Gray-crowned Rosy-Finch,2,Aspendell,US-CA,28 Jul 2019,L720854,S58536112
+337,House Finch,1,Coyote Hills Regional Park,US-CA,08 Jan 2019,L216132,S51475224
+338,Purple Finch,1,Heather Farm Park,US-CA,11 Jan 2019,L373922,S51558311
+339,Cassin's Finch,6,Angeles NF--Throop Peak/Dawson Saddle Trail,US-CA,30 May 2019,L746089,S56985213
+340,Red Crossbill,10,Inyo Craters,US-CA,28 Jul 2019,L1626869,S58523175
+341,Pine Siskin,6,Virginia Lakes Resort,US-CA,15 Jun 2019,L3799022,S57458055
+342,Lesser Goldfinch,2,Fort Mason Park,US-CA,10 Jan 2019,L389606,S51529289
+343,Lawrence's Goldfinch,2,Frank G. Bonelli RP/Puddingstone Reservoir and Surrounding Area,US-CA,24 Mar 2019,L815817,S54294259
+344,American Goldfinch,3,Heather Farm Park,US-CA,11 Jan 2019,L373922,S51558311
+345,Lapland Longspur,2,Pt. Reyes--Abbotts Lagoon,US-CA,28 Oct 2019,L218324,S61008498
+346,Cassin's Sparrow,2,"Mojave National Preserve--Cedar Canyon Road, 0-3 miles west of Lanfair Road (MM 18-21)",US-CA,13 Jun 2019,L9201880,S57445646
+347,Grasshopper Sparrow,1,Garin/Dry Creek Pioneer Regional Park,US-CA,07 Apr 2019,L381784,S54686143
+348,Chipping Sparrow,1,"(37.854, -122.255)",US-CA,18 Jan 2019,L8450953,S51798301
+349,Clay-colored Sparrow,1,Crown Point--east side,US-CA,11 Oct 2019,L1296456,S60533247
+350,Black-chinned Sparrow,2,Angeles Crest Hwy--Barley Flats Road,US-CA,30 May 2019,L3301823,S56985177
+351,Brewer's Sparrow,1,Joshua Tree NP--Smoke Tree Wash,US-CA,25 Mar 2019,L4614517,S54260048
+352,Black-throated Sparrow,8,Joshua Tree NP--Cottonwood Campground,US-CA,24 Mar 2019,L2071413,S54260047
+353,Lark Sparrow,6,Los Vaqueros Reservoir--Walnut Trail,US-CA,12 Jan 2019,L1798091,S51613000
+354,Lark Bunting,1,Miller/Knox Regional Shoreline--Ferry Point,US-CA,28 Sep 2019,L864592,S60186427
+355,Fox Sparrow,4,Fort Mason Park,US-CA,10 Jan 2019,L389606,S51529289
+356,Dark-eyed Junco,4,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+357,White-crowned Sparrow,4,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+358,Golden-crowned Sparrow,2,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+359,Harris's Sparrow,1,Diablo Foothills Regional Park/Castle Rock Park,US-CA,16 Mar 2019,L387747,S53901806
+360,White-throated Sparrow,1,Fort Mason Park,US-CA,10 Jan 2019,L389606,S51529289
+361,Sagebrush Sparrow,2,Lower Rush Creek riparian area,US-CA,14 Jun 2019,L879376,S57455684
+362,Bell's Sparrow,1,Pinnacles NP,US-CA,17 Feb 2019,L302299,S52914503
+363,Vesper Sparrow,1,Sierra Valley--Marble Hot Springs Rd. bridge,US-CA,13 Aug 2019,L1219737,S58995474
+364,Nelson's Sparrow,1,San Francisco Bay Trail--S 51st St.,US-CA,09 Jan 2019,L1415714,S51509238
+365,Savannah Sparrow,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Jan 2019,L161083,S51261170
+366,Song Sparrow,2,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+367,Lincoln's Sparrow,1,San Francisco Bay Trail--S 51st St.,US-CA,09 Jan 2019,L1415714,S51509238
+368,Swamp Sparrow,1,Alviso Marina County Park (please use a specific pond hotspot where possible),US-CA,16 Feb 2019,L296043,S52915856
+369,Abert's Towhee,5,Sonny Bono Salton Sea NWR--Union Tract / Visitor Center,US-CA,11 Jul 2019,L673436,S58178011
+370,California Towhee,1,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+371,Rufous-crowned Sparrow,1,Black Diamond Mines Regional Preserve,US-CA,22 Jan 2019,L451992,S51948076
+372,Green-tailed Towhee,1,"300 Virginia Avenue, Moss Beach, California, US (37.524, -122.514)",US-CA,04 Mar 2019,L8758800,S53392427
+373,Spotted Towhee,1,Claremont Canyon Regional Preserve,US-CA,05 Jan 2019,L933409,S51347557
+374,Yellow-breasted Chat,1,Pescadero SB--Water Ln.,US-CA,17 May 2019,L869275,S56426366
+375,Yellow-headed Blackbird,25,Holland Tract,US-CA,22 Jan 2019,L593832,S51937084
+376,Bobolink,1,Madrona Marsh,US-CA,07 Nov 2019,L152139,S61254649
+377,Western Meadowlark,25,Los Vaqueros Reservoir--Walnut Trail,US-CA,12 Jan 2019,L1798091,S51613000
+378,Orchard Oriole,1,Fort Mason Park,US-CA,10 Jan 2019,L389606,S51529289
+379,Hooded Oriole,1,Joshua Tree NP--Cottonwood Campground,US-CA,24 Mar 2019,L2071413,S54260047
+380,Bullock's Oriole,3,California Valley Streets,US-CA,30 Mar 2019,L1865811,S54393319
+381,Baltimore Oriole,1,Corona Heights Park,US-CA,15 May 2019,L598129,S56320072
+382,Scott's Oriole,4,Joshua Tree NP--Black Rock Campground,US-CA,25 Mar 2019,L863722,S54295540
+383,Red-winged Blackbird,6,Hayward Regional Shoreline--Winton Ave. access and parking area,US-CA,18 Jan 2019,L470891,S51811263
+384,Tricolored Blackbird,5,Holland Tract,US-CA,22 Jan 2019,L593832,S51937084
+385,Bronzed Cowbird,1,Niland--International Rd.,US-CA,10 Jul 2019,L364551,S58087863
+386,Brown-headed Cowbird,40,Patterson Pass Rd.,US-CA,24 Jan 2019,L356724,S52009827
+387,Brewer's Blackbird,50,Holland Tract,US-CA,22 Jan 2019,L593832,S51937084
+388,Great-tailed Grackle,5,Coyote Hills Regional Park,US-CA,23 Feb 2019,L216132,S53074159
+389,Worm-eating Warbler,1,San Marino Park,US-CA,18 Nov 2019,L7801101,S61556875
+390,Northern Waterthrush,1,Pt. Reyes--Fish Docks,US-CA,07 Oct 2019,L453386,S60436838
+391,Black-and-white Warbler,1,Balboa Park--southeast corner (27th-28th St.),US-CA,12 Oct 2019,L1955445,S60551100
+392,Tennessee Warbler,1,Golden Gate Park--San Francisco Botanical Garden,US-CA,30 Oct 2019,L1085740,S61053359
+393,Orange-crowned Warbler,1,Fort Mason Park,US-CA,10 Jan 2019,L389606,S51529289
+394,Lucy's Warbler,2,China Ranch Date Farm,US-CA,14 Jun 2019,L417888,S57454946
+395,Nashville Warbler,6,Mt. Diablo SP--Mitchell Canyon,US-CA,17 Apr 2019,L275399,S55060109
+396,Virginia's Warbler,2,Glass Mtns.--Wildrose Canyon,US-CA,15 Jun 2019,L3786956,S57457444
+397,MacGillivray's Warbler,1,Mt. Diablo SP--Mitchell Canyon,US-CA,17 Apr 2019,L275399,S55060109
+398,Mourning Warbler,1,Creekside Park (CC Co.),US-CA,16 Sep 2019,L1764189,S59864747
+399,Common Yellowthroat,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,03 Jan 2019,L161083,S51261170
+400,American Redstart,1,Pt. Pinole Regional Park,US-CA,06 Oct 2019,L109308,S60411610
+401,Blackburnian Warbler,1,Duboce Park,US-CA,30 Dec 2019,L1791852,S62783787
+402,Yellow Warbler,1,Sunol Regional Wilderness,US-CA,04 May 2019,L302253,S55803840
+403,Chestnut-sided Warbler,1,Golden Gate Park--North Lake,US-CA,10 Oct 2019,L370768,S60509902
+404,Blackpoll Warbler,1,Coyote Hills Regional Park,US-CA,13 Sep 2019,L216132,S59777353
+405,Palm Warbler,1,Doyle Hollis Park,US-CA,01 Feb 2019,L8559080,S52264745
+406,Pine Warbler,1,"Good Shepherd Catholic Cemetery, Huntington Beach",US-CA,27 Dec 2019,L10293047,S62669264
+407,Yellow-rumped Warbler,2,Lake Merritt,US-CA,02 Jan 2019,L268122,S51224117
+408,Yellow-throated Warbler,1,Pacific Grove--El Carmelo Cemetery,US-CA,02 Oct 2019,L351478,S60291697
+409,Grace's Warbler,1,Angeles NF--Charlton Flat,US-CA,29 May 2019,L337315,S56985157
+410,Black-throated Gray Warbler,5,Rattlesnake Canyon Trail,US-CA,29 Mar 2019,L1179529,S54352146
+411,Townsend's Warbler,3,Redwood Regional Park (CC Co.),US-CA,01 Jan 2019,L500405,S51180664
+412,Hermit Warbler,5,Mt. Diablo SP--Mitchell Canyon,US-CA,17 Apr 2019,L275399,S55060109
+413,Black-throated Green Warbler,1,Ferry / Sue Bierman Parks,US-CA,22 Oct 2019,L1284799,S60844167
+414,Wilson's Warbler,2,Redwood Regional Park--Canyon Meadow area,US-CA,23 Mar 2019,L1826673,S54145807
+415,Painted Redstart,1,Inglewood Park Cemetery,US-CA,07 Nov 2019,L3175798,S61254666
+416,Summer Tanager,1,Claremont Canyon Regional Preserve,US-CA,23 Jan 2019,L933409,S51971389
+417,Western Tanager,4,Mt. Diablo SP--Mitchell Canyon,US-CA,25 Apr 2019,L275399,S55402508
+418,Rose-breasted Grosbeak,1,"Rose-Breasted Grosbeak Stakeout, Private Residence (38.334, -122.666)",US-CA,09 Dec 2019,L10270658,S62184035
+419,Black-headed Grosbeak,2,Mt. Diablo SP--Mitchell Canyon,US-CA,10 Apr 2019,L275399,S54806350
+420,Blue Grosbeak,1,Sacramento Bypass Wildlife Area--Rd. 126,US-CA,01 May 2019,L693441,S55640627
+421,Lazuli Bunting,5,Mt. Diablo SP--Mitchell Canyon,US-CA,25 Apr 2019,L275399,S55402508
+422,Indigo Bunting,1,Windy Hill OSP,US-CA,04 Jun 2019,L878659,S57094241
+423,Painted Bunting,1,Madrona Marsh,US-CA,07 Nov 2019,L152139,S61254649
+424,Dickcissel,1,Crown Point--east side,US-CA,11 Oct 2019,L1296456,S60533247

@@ -1,0 +1,32 @@
+.container {
+  max-width: 1080px;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+@media screen and (max-width: 1080px) {
+  .container {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
+.container a {
+  color: #2c75c9;
+  text-decoration: none;
+}
+
+.container a:hover, .container a:focus {
+  color: #315985;
+}
+
+.header {
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.subheader {
+  font-size: 1.1em;
+  font-weight: bold;
+}

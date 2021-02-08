@@ -29,7 +29,8 @@ export default class Options extends React.Component {
             <span className={optionsStyles.headingMain} style={{fontWeight: "normal"}}>eBird Photo Gallery</span>
           </div>
         </div>
-        <div id={optionsStyles.secondOptionsBar}>
+        {this.props.user != null ?
+        (<div id={optionsStyles.secondOptionsBar}>
           <div id={optionsStyles.secondOptions}>
             <div id={optionsStyles.speciesCountDisplay}>
               <div className={optionsStyles.speciesCount}>
@@ -60,9 +61,9 @@ export default class Options extends React.Component {
               </div>
               <div>
                 <div>Layout</div>
-                {bulletOption('List', this.props.layout == 'list', () => this.props.layoutFunction('list'))}
+                {bulletOption('One Column', this.props.layout == 'list', () => this.props.layoutFunction('list'))}
                 {bulletOption('Two Columns', this.props.layout == 'grid', () => this.props.layoutFunction('grid'))}
-                {bulletOption('Grid', this.props.layout == 'compact', () => this.props.layoutFunction('compact'))}
+                {bulletOption('Three Columns', this.props.layout == 'compact', () => this.props.layoutFunction('compact'))}
               </div>
               <div>
                 <div>Photo preference {displayOverlayButton()}</div>
@@ -72,7 +73,8 @@ export default class Options extends React.Component {
               </div>
             </div>
           </div>
-        </div>
+        </div>) :
+        ''}
       </div>
     )
   }

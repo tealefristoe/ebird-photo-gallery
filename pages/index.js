@@ -3,6 +3,7 @@ import styles from '../styles/layout.module.css'
 import Layout from '../components/layout'
 import Options from '../components/options'
 import SpeciesRow from '../components/speciesrow'
+import landingPage from '../components/landingPage'
 import {bk, allowedDisplays, allowedQualities, allowedPhotoPreferences, allowedLayouts} from '../lib/constants'
 import {morePhotosUrl} from '../lib/api'
 import {getPhoto} from '../lib/photo'
@@ -29,6 +30,10 @@ export default class Home extends React.Component {
   }
 
   componentDidMount() {
+    if (this.state.user == null) {
+      return
+    }
+
     // Get curated list
     getDatabase().ref('/curated/' + this.state.user).once('value').then(
       snapshot => {
@@ -120,17 +125,20 @@ export default class Home extends React.Component {
               photoPreference={this.state.photoPreference}
               photoPreferenceFunction={pref => this.updatePreference('photoPreference', pref)}
             />
-            <div className={this.state.layout == 'list' ? styles.listContainer : this.state.layout == 'grid' ? styles.gridContainer : this.state.layout == 'compact' ? styles.compactContainer : styles.gridContainer}>
-              {processedList.map(photoData => {
-                return (<SpeciesRow
-                  user={this.state.user}
-                  key={photoData.speciesData[bk.lifeBirdName]}
-                  display={this.state.display}
-                  layout={this.state.layout}
-                  photoData={photoData}
-                />)
-              })}
-            </div>
+            {this.state.user == null ?
+              landingPage() :
+              <div className={this.state.layout == 'list' ? styles.listContainer : this.state.layout == 'grid' ? styles.gridContainer : this.state.layout == 'compact' ? styles.compactContainer : styles.gridContainer}>
+                {processedList.map(photoData => {
+                  return (<SpeciesRow
+                    user={this.state.user}
+                    key={photoData.speciesData[bk.lifeBirdName]}
+                    display={this.state.display}
+                    layout={this.state.layout}
+                    photoData={photoData}
+                  />)
+                })}
+              </div>
+            }
           </Layout>
         </main>
 
@@ -150,9 +158,11 @@ export async function getServerSideProps(context) {
     props.user = replaceSpaces(context.query.user)
     props[loadLocalKey('user')] = false
   } else {
-    props.user = 'Teale Fristoe'
-    props[loadLocalKey('user')] = true
-  }
+    //props.user = 'Teale Fristoe'
+    //props[loadLocalKey('user')] = true
+    props.user = null
+    props[loadLocalKey('user')] = false
+}
   // k is key, a is allowed values, d is default value
   let setProp = (k, a, d) => {
     if (k in context.query && a.includes(context.query[k])) {

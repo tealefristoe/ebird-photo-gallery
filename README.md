@@ -41,3 +41,7 @@ Coming soon.
 ## Updating a User's List
 
 Follow the instructions for creating a new user, but just replace the user's old `life_list.csv` and `photo_list.csv`.
+
+## Updating All Lists
+
+If you made a change that requires updating all user's lists, visit `http://localhost:3000/api/processLists?user=all`.

@@ -2,13 +2,13 @@ import Link from 'next/link'
 import HiddenDescription from './hiddenDescription'
 import speciesRowStyles from '../styles/speciesrow.module.css'
 import {photoRatingDisplay, photoDateLocationDisplay, photoDateLocationWideDisplay, photoLinksDisplay, curatedLink} from '../lib/photo'
-import {bk, imageUrl1, imageUrl2} from '../lib/constants'
+import {bk, imageUrl1, imageUrl2, speciesUrl, specimenUrl} from '../lib/constants'
 import {escapeSpaces, spacer, displayTypeLabel} from '../lib/web'
 
 export default class SpeciesRow extends React.Component {
   displayPhoto(photoData, photo) {
     return photoData.display
-      ? (<a href={photo[bk.photoSpecimenUrl]} target="_blank"><img src={imageUrl1 + photo[bk.photoId] + imageUrl2} className={speciesRowStyles.displayPhoto} /></a>)
+      ? (<a href={specimenUrl(photo[bk.photoId])} target="_blank"><img src={imageUrl1 + photo[bk.photoId] + imageUrl2} className={speciesRowStyles.displayPhoto} /></a>)
       : photoData.reason == "noPhoto"
       ? <span className={speciesRowStyles.missing}>No photo submitted</span>
       : photoData.reason == "noCurated"
@@ -31,7 +31,7 @@ export default class SpeciesRow extends React.Component {
             <div className={speciesRowStyles.speciesHeader}>
               {photo
                 ? (<div>
-                    <div className={speciesRowStyles.speciesName}><a href={photo[bk.photoSpeciesUrl]}>{birdName}</a></div>
+                    <div className={speciesRowStyles.speciesName}><a href={speciesUrl(photo[bk.photoSpeciesCode])}>{birdName}</a></div>
                     <div className={speciesRowStyles.scientificName}>{photo[bk.photoScientificName]}</div>
                   </div>)
                 : <div className={`${speciesRowStyles.speciesName} ${speciesRowStyles.missing}`}>{birdName}</div>}
@@ -63,7 +63,7 @@ export default class SpeciesRow extends React.Component {
             <div className={speciesRowStyles.speciesHeader}>
               {photo
                 ? (<div>
-                    <span className={speciesRowStyles.speciesNameGrid}><a href={photo[bk.photoSpeciesUrl]}>{birdName}</a></span>
+                    <span className={speciesRowStyles.speciesNameGrid}><a href={speciesUrl(photo[bk.photoSpeciesCode])}>{birdName}</a></span>
                   </div>)
                 : <div className={`${speciesRowStyles.speciesNameGrid} ${speciesRowStyles.missing}`}>{birdName}</div>}
             </div>
@@ -91,7 +91,7 @@ export default class SpeciesRow extends React.Component {
             <div className={speciesRowStyles.speciesHeader}>
               {photo
                 ? (<div>
-                    <span className={speciesRowStyles.speciesNameGrid}><a href={photo[bk.photoSpeciesUrl]}>{birdName}</a></span>
+                    <span className={speciesRowStyles.speciesNameGrid}><a href={speciesUrl(photo[bk.photoSpeciesCode])}>{birdName}</a></span>
                   </div>)
                 : <div className={`${speciesRowStyles.speciesNameGrid} ${speciesRowStyles.missing}`}>{birdName}</div>}
             </div>

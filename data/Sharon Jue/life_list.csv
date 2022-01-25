@@ -1,0 +1,448 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Black-bellied Whistling-Duck,40,"Unnamed Road, Provincia de Guanacaste, CR (9.967, -85.668)",CR-G,30 Jan 2020,L10653450,S63958251
+2,Snow Goose,2,Hayward Regional Shoreline--Mt. Trashmore,US-CA,21 Jan 2017,L1024893,S33838918
+3,Ross's Goose,1,Hayward Regional Shoreline--Mt. Trashmore,US-CA,04 Dec 2017,L1024893,S40913513
+4,Greater White-fronted Goose,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,25 Nov 2015,L161083,S25998798
+5,Brant,15,Point Reyes National Seashore,US-CA,06 Sep 2010,L4314773,S92011765
+6,Cackling Goose,2000,Staten Island,US-CA,25 Oct 2015,L468580,S25546391
+7,Canada Goose,7,McLaughlin Eastshore SP--Albany access,US-CA,02 Jul 2015,L2377313,S24130296
+8,Mute Swan,9,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+9,Tundra Swan,11,Grizzly Island Wildlife Area,US-CA,14 Jan 2017,L371137,S33710657
+10,Wood Duck,1,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+11,Mandarin Duck,1,Golden Gate Park--Stow Lake,US-CA,20 Jan 2018,L499374,S42105845
+12,Blue-winged Teal,6,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,25 Nov 2015,L161083,S25998798
+13,Cinnamon Teal,2,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+14,Northern Shoveler,3,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+15,Gadwall,20,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+16,Eurasian Wigeon,1,Hayward Regional Shoreline--Grant Ave. access,US-CA,03 Jan 2016,L749295,S26657197
+17,American Wigeon,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+18,Mallard,15,Brickyard Cove (ALA Co.),US-CA,21 Sep 2015,L1365042,S25127306
+19,American Black Duck,5,Belle Haven Park--Picnic Area,US-VA,21 Dec 2017,L159284,S41229742
+20,Northern Pintail,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,11 Oct 2015,L161083,S25385126
+21,Green-winged Teal,5,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+22,Canvasback,3,Rotary Nature Center,US-CA,28 Oct 2015,L677049,S25580852
+23,Redhead,1,Sierra Valley--Power Station,US-CA,02 Jun 2017,L2029167,S37333658
+24,Ring-necked Duck,5,EBMUD--Valle Vista Staging Area (permit required),US-CA,23 Jan 2016,L596210,S27111475
+25,Tufted Duck,1,Lake Merritt--outflow channel,US-CA,17 Jan 2022,L803642,S100949111
+26,Greater Scaup,1,Elsie Roemer Bird Sanctuary,US-CA,10 Sep 2015,L509134,S24974712
+27,Lesser Scaup,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+28,Harlequin Duck,1,San Leandro Marina,US-CA,27 Feb 2018,L582754,S43247343
+29,Surf Scoter,6,Point Reyes National Seashore,US-CA,06 Sep 2010,L4314773,S92011765
+30,White-winged Scoter,1,Richmond Marina,US-CA,21 Jan 2021,L615495,S79659423
+31,Black Scoter,1,Richmond Marina,US-CA,24 Dec 2016,L615495,S33184993
+32,Long-tailed Duck,2,Emeryville shoreline--near fire station,US-CA,20 Nov 2016,L1801585,S32644881
+33,Bufflehead,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+34,Common Goldeneye,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+35,Barrow's Goldeneye,2,Rotary Nature Center,US-CA,28 Nov 2016,L677049,S32773419
+36,Hooded Merganser,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,22 Nov 2016,L596210,S32672043
+37,Common Merganser,20,Del Valle Regional Park,US-CA,28 Nov 2015,L274775,S26046421
+38,Red-breasted Merganser,1,Albany Bulb,US-CA,20 Nov 2015,L178143,S25927886
+39,Ruddy Duck,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+40,Plain Chachalaca,1,"Playa Guiones, Provincia de Guanacaste, CR (9.947, -85.669)",CR-G,29 Jan 2020,L10645628,S63911967
+41,Mountain Quail,2,Sardine Lake,US-CA,04 Jun 2017,L391547,S37383599
+42,California Quail,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,04 Oct 2015,L596210,S25338944
+43,Wild Turkey,1,LeConte neighborhood,US-CA,23 Sep 2015,L3960824,S25150899
+44,Ring-necked Pheasant,1,Rush Ranch Open Space,US-CA,18 Oct 2015,L469673,S25463002
+45,Chilean Flamingo,1,Coyote Hills Regional Park,US-CA,23 Feb 2020,L216132,S64926366
+46,Pied-billed Grebe,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+47,Horned Grebe,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+48,Red-necked Grebe,1,Las Gallinas Valley Sanitary District,US-CA,14 Mar 2017,L207664,S35187733
+49,Eared Grebe,2,Crown Memorial SB--Crab Cove area,US-CA,10 Sep 2015,L1124286,S24974742
+50,Western Grebe,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+51,Clark's Grebe,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+52,Rock Pigeon,2,McLaughlin Eastshore SP--Albany access,US-CA,02 Jul 2015,L2377313,S24130296
+53,Red-billed Pigeon,1,"Unnamed Road, Provincia de Guanacaste, CR (9.967, -85.668)",CR-G,30 Jan 2020,L10653450,S63958251
+54,Band-tailed Pigeon,2,Claremont Canyon Regional Preserve,US-CA,13 Sep 2015,L933409,S25024730
+55,Eurasian Collared-Dove,3,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25218156
+56,Inca Dove,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+57,White-tipped Dove,1,"Villa Mariposa, Nosara, Guanacaste Province, CR (9.991, -85.625)",CR-G,27 Jan 2020,L10573282,S65181409
+58,White-winged Dove,5,Liberia--Hilton Garden Inn (airport),CR-G,25 Jan 2020,L3653383,S63754068
+59,Mourning Dove,5,Pt. Pinole Regional Park,US-CA,17 May 2015,L109308,S26561977
+60,Groove-billed Ani,6,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+61,Squirrel Cuckoo,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63808343
+62,Common Nighthawk,1,Carman Valley Meadows,US-CA,03 Jun 2017,L1833636,S37354977
+63,Vaux's Swift,100,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25218156
+64,White-throated Swift,,Black Diamond Mines Regional Preserve,US-CA,06 Feb 2016,L451992,S27346113
+65,Stripe-throated Hermit,1,"Guanacaste Province, CR (9.965, -85.671)",CR-G,30 Jan 2020,L10653456,S63958260
+66,Green-breasted Mango,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+67,Ruby-throated Hummingbird,1,"Villa Mariposa, Nosara, Guanacaste Province, CR (9.991, -85.625)",CR-G,27 Jan 2020,L10573282,S65181409
+68,Black-chinned Hummingbird,1,"el mono motel 51395 U.S. 395, Lee Vining, California, US (37.957, -119.12)",US-CA,15 Jun 2018,L7577199,S46576930
+69,Anna's Hummingbird,1,Elsie Roemer Bird Sanctuary,US-CA,10 Sep 2015,L509134,S24974712
+70,Calliope Hummingbird,1,Del Valle RP - Black Sage trail,US-CA,24 Apr 2016,L4531517,S29189092
+71,Rufous Hummingbird,1,Claremont Canyon Regional Preserve,US-CA,03 Apr 2016,L933409,S28732816
+72,Allen's Hummingbird,4,Wildcat Creek,US-CA,28 Jun 2015,L3757347,S24088332
+73,Canivet's Emerald,1,"Villa Mariposa, Nosara, Guanacaste Province, CR (9.991, -85.625)",CR-G,25 Jan 2020,L10573282,S63780787
+74,Rufous-tailed Hummingbird,1,"Unnamed Road, Provincia de Guanacaste, CR (9.967, -85.668)",CR-G,30 Jan 2020,L10653450,S63958251
+75,Ridgway's Rail,4,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,25 Nov 2015,L161083,S25998798
+76,Virginia Rail,1,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+77,Gray-cowled Wood-Rail,2,"Playa Guiones, Provincia de Guanacaste, CR (9.947, -85.669)",CR-G,29 Jan 2020,L10645628,S63911967
+78,Sora,2,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+79,Common Gallinule,15,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+80,American Coot,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+81,Sandhill Crane,150,Staten Island,US-CA,25 Oct 2015,L468580,S25546391
+82,Black-necked Stilt,5,Crown Memorial SB--Crab Cove area,US-CA,10 Sep 2015,L1124286,S24974742
+83,American Avocet,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+84,Black Oystercatcher,2,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+85,Black-bellied Plover,2,Brickyard Cove (ALA Co.),US-CA,08 Sep 2015,L1365042,S24956089
+86,Pacific Golden-Plover,1,Hayward Regional Shoreline--Winton Ave. access and parking area,US-CA,19 Oct 2020,L470891,S75117914
+87,Southern Lapwing,2,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+88,Snowy Plover,2,Point Reyes National Seashore,US-CA,06 Sep 2010,L4314773,S92011765
+89,Semipalmated Plover,10,Elsie Roemer Bird Sanctuary,US-CA,10 Sep 2015,L509134,S24974712
+90,Killdeer,10,Elsie Roemer Bird Sanctuary,US-CA,10 Sep 2015,L509134,S24974712
+91,Whimbrel,2,Elsie Roemer Bird Sanctuary,US-CA,10 Sep 2015,L509134,S24974712
+92,Long-billed Curlew,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+93,Bar-tailed Godwit,1,Hayward Regional Shoreline--Frank's Dump,US-CA,23 Aug 2019,L526261,S59206022
+94,Marbled Godwit,2,Point Reyes National Seashore,US-CA,06 Sep 2010,L4314773,S92011765
+95,Ruddy Turnstone,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,25 Nov 2015,L161083,S25998798
+96,Black Turnstone,4,Cesar Chavez Park,US-CA,25 Jul 2015,L285281,S24383237
+97,Red Knot,40,Elsie Roemer Bird Sanctuary,US-CA,30 Dec 2015,L509134,S26538237
+98,Surfbird,11,Brickyard Cove (ALA Co.),US-CA,16 Nov 2015,L1365042,S25865038
+99,Curlew Sandpiper,1,Palo Alto Baylands,US-CA,24 Dec 2021,L152122,S99386014
+100,Red-necked Stint,1,Elsie Roemer Bird Sanctuary,US-CA,16 Jul 2021,L509134,S91851704
+101,Sanderling,30,Point Reyes National Seashore,US-CA,06 Sep 2010,L4314773,S92011765
+102,Dunlin,1,Pt. Emery,US-CA,21 Oct 2015,L622485,S25498057
+103,Rock Sandpiper,1,Heron's Head Park,US-CA,18 Nov 2020,L502380,S76380286
+104,Baird's Sandpiper,2,West County Wastewater District--Sewage Ponds (Richmond WTP),US-CA,25 Aug 2018,L848605,S48069373
+105,Least Sandpiper,10,Elsie Roemer Bird Sanctuary,US-CA,10 Sep 2015,L509134,S24974712
+106,Buff-breasted Sandpiper,1,West County Wastewater District--Sewage Ponds (Richmond WTP),US-CA,25 Aug 2018,L848605,S48069373
+107,Pectoral Sandpiper,1,Rodeo Lagoon,US-CA,17 Sep 2016,L139567,S31628228
+108,Semipalmated Sandpiper,1,Hayward Regional Shoreline--Frank's Dump,US-CA,07 Aug 2021,L526261,S92918802
+109,Western Sandpiper,1,Elsie Roemer Bird Sanctuary,US-CA,10 Sep 2015,L509134,S24974712
+110,Short-billed Dowitcher,3,Emeryville shoreline--near fire station,US-CA,08 Oct 2015,L1801585,S25346609
+111,Long-billed Dowitcher,45,Coyote Hills Regional Park,US-CA,17 Oct 2015,L216132,S25462228
+112,Wilson's Snipe,4,Coyote Hills Regional Park,US-CA,17 Oct 2015,L216132,S25462228
+113,Wilson's Phalarope,3,Sierra Valley--Power Station,US-CA,02 Jun 2017,L2029167,S37333658
+114,Red-necked Phalarope,1,Brickyard Cove (ALA Co.),US-CA,27 Aug 2015,L1365042,S31376114
+115,Red Phalarope,4,Hayward Regional Shoreline--Interpretive Center,US-CA,09 May 2017,L587721,S36693364
+116,Spotted Sandpiper,1,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+117,Solitary Sandpiper,1,McLaughlin Eastshore SP--Berkeley Meadow,US-CA,02 May 2017,L298487,S36492091
+118,Wandering Tattler,1,"(37.2632,-122.7573)",US-CA,21 Jul 2018,L7738045,S47345197
+119,Greater Yellowlegs,1,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+120,Willet,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+121,Lesser Yellowlegs,1,Coyote Hills Regional Park--Quarry Staging Area,US-CA,13 Aug 2016,L2104268,S31084245
+122,South Polar Skua,1,"(37.0668,-122.9299)",US-CA,21 Jul 2018,L7738042,S47345203
+123,Parasitic Jaeger,1,Emeryville Marina,US-CA,26 Oct 2021,L764558,S96747814
+124,Common Murre,1,Brickyard Cove (ALA Co.),US-CA,24 Aug 2015,L1365042,S24751748
+125,Pigeon Guillemot,1,Crown Memorial SB--Crab Cove area,US-CA,10 Sep 2015,L1124286,S24974742
+126,Marbled Murrelet,6,Half Moon Bay--inshore bay,US-CA,21 Jul 2018,L1247080,S47345228
+127,Scripps's Murrelet,2,"(37.2813,-122.6606)",US-CA,21 Jul 2018,L7738035,S47345223
+128,Cassin's Auklet,4,Shearwater Journeys_08/06/17_Leg2/5,US-CA,06 Aug 2017,L6161342,S38534599
+129,Parakeet Auklet,1,Land's End--seawatch,US-CA,29 Jul 2017,L1089435,S38384417
+130,Rhinoceros Auklet,1,Shearwater Journeys_08/06/17_Leg3/5,US-CA,06 Aug 2017,L6159913,S38534580
+131,Tufted Puffin,18,Southeast Farallon Island (Farallon Islands NWR)--Nearshore Waters (less than 2 mi.) - including seabird colonies,US-CA,06 Aug 2017,L6069589,S38534587
+132,Sabine's Gull,8,"(37.1233,-122.8808)",US-CA,21 Jul 2018,L7738041,S47345205
+133,Bonaparte's Gull,4,Don Edwards NWR--No Name Trail,US-CA,27 Nov 2017,L2248482,S40776832
+134,Laughing Gull,2,Reserva Biológica Nosara (Lagarta),CR-G,31 Jan 2020,L2032097,S63975059
+135,Heermann's Gull,4,Point Reyes National Seashore,US-CA,06 Sep 2010,L4314773,S92011765
+136,Short-billed Gull,6,Albany Bulb,US-CA,24 Nov 2015,L178143,S26010763
+137,Ring-billed Gull,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+138,Western Gull,10,Point Reyes National Seashore,US-CA,06 Sep 2010,L4314773,S92011765
+139,California Gull,,Brickyard Cove (ALA Co.),US-CA,27 Aug 2015,L1365042,S31376114
+140,Herring Gull,1,Rush Ranch Open Space,US-CA,18 Oct 2015,L469673,S25463002
+141,Iceland Gull,3,Lake Merced--Concrete Bridge area,US-CA,27 Jan 2018,L791371,S42277368
+142,Glaucous-winged Gull,1,Emeryville shoreline--near fire station,US-CA,08 Oct 2015,L1801585,S25346609
+143,Glaucous Gull,1,Don Edwards NWR--No Name Trail,US-CA,28 Nov 2021,L2248482,S98220104
+144,Least Tern,150,Alameda Naval Air Station (restricted access),US-CA,19 May 2016,L109468,S29783851
+145,Caspian Tern,2,Berkeley Aquatic Park,US-CA,19 Apr 2015,L597003,S27382045
+146,Common Tern,1,Elsie Roemer Bird Sanctuary,US-CA,14 Aug 2019,L509134,S58993846
+147,Forster's Tern,,Berkeley Aquatic Park,US-CA,19 Apr 2015,L597003,S27382045
+148,Royal Tern,5,Rio Nosara estuary,CR-G,29 Jan 2020,L3858895,S63912110
+149,Elegant Tern,3,Elsie Roemer Bird Sanctuary,US-CA,10 Sep 2015,L509134,S24974712
+150,Black Skimmer,3,Hayward Regional Shoreline--Interpretive Center,US-CA,04 Jul 2016,L587721,S30537815
+151,Red-throated Loon,1,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+152,Pacific Loon,1,Pt. Reyes--Drakes Beach (do not include Horseshoe Pond or beach/estero beyond Horseshoe Pond),US-CA,22 Sep 2018,L391136,S48692313
+153,Common Loon,1,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+154,Black-footed Albatross,1,Shearwater Journeys_08/06/17_Leg3/5,US-CA,06 Aug 2017,L6159913,S38534580
+155,Wilson's Storm-Petrel,1,"(37.2813,-122.6606)",US-CA,21 Jul 2018,L7738035,S47345223
+156,Ashy Storm-Petrel,40,"(37.1233,-122.8808)",US-CA,21 Jul 2018,L7738041,S47345205
+157,Northern Fulmar,1,Shearwater Journeys_08/06/17_Leg3/5,US-CA,06 Aug 2017,L6159913,S38534580
+158,Pink-footed Shearwater,21,Shearwater Journeys_08/06/17_Leg3/5,US-CA,06 Aug 2017,L6159913,S38534580
+159,Buller's Shearwater,1,"(37.2041,-122.7859)",US-CA,21 Jul 2018,L7738038,S47345208
+160,Sooty Shearwater,6,Shearwater Journeys_08/06/17_Leg3/5,US-CA,06 Aug 2017,L6159913,S38534580
+161,Wood Stork,1,"Unnamed Road, Nosara, Provincia de Guanacaste, CR (9.986, -85.646)",CR-G,31 Jan 2020,L10656303,S63977037
+162,Magnificent Frigatebird,2,Rio Nosara estuary,CR-G,29 Jan 2020,L3858895,S63912110
+163,Masked Booby,1,Shearwater Journeys_08/06/17_Leg1/5,US-CA,06 Aug 2017,L6161328,S38534604
+164,Blue-footed Booby,1,Southeast Farallon Island (Farallon Islands NWR)--Nearshore Waters (less than 2 mi.) - including seabird colonies,US-CA,06 Aug 2017,L6069589,S38534587
+165,Brown Booby,1,Raccoon Strait,US-CA,21 Nov 2015,L4023018,S25969019
+166,Red-footed Booby,1,Pillar Point Harbor,US-CA,18 Nov 2017,L242192,S40578877
+167,Northern Gannet,1,Devil's Slide Trail and Egg Rock,US-CA,31 Dec 2017,L1528599,S41482481
+168,Anhinga,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+169,Brandt's Cormorant,3,Raccoon Strait,US-CA,21 Nov 2015,L4023018,S25969019
+170,Pelagic Cormorant,2,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+171,Double-crested Cormorant,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+172,Neotropic Cormorant,2,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,28 Jan 2020,L10578414,S63885772
+173,American White Pelican,30,Point Reyes National Seashore,US-CA,06 Sep 2010,L4314773,S92011765
+174,Brown Pelican,3,Point Reyes National Seashore,US-CA,06 Sep 2010,L4314773,S92011765
+175,American Bittern,1,Coyote Hills Regional Park,US-CA,17 Oct 2015,L216132,S25462228
+176,Least Bittern,2,Las Gallinas Valley Sanitary District,US-CA,22 Jul 2017,L207664,S38272191
+177,Bare-throated Tiger-Heron,1,Rio Nosara estuary,CR-G,29 Jan 2020,L3858895,S63912110
+178,Great Blue Heron,1,Brickyard Cove (ALA Co.),US-CA,27 Aug 2015,L1365042,S31376114
+179,Great Egret,1,Berkeley Aquatic Park,US-CA,19 Apr 2015,L597003,S27382045
+180,Snowy Egret,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+181,Little Blue Heron,1,Loch Lomond Marina,US-CA,20 Apr 2019,L7014778,S55181583
+182,Cattle Egret,4,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63808343
+183,Green Heron,1,Berkeley Aquatic Park,US-CA,19 Apr 2015,L597003,S27382045
+184,Black-crowned Night-Heron,2,Crown Memorial SB--Crab Cove area,US-CA,10 Sep 2015,L1124286,S24974742
+185,Yellow-crowned Night-Heron,3,Rio Nosara estuary,CR-G,29 Jan 2020,L3858895,S63912110
+186,White Ibis,6,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63808343
+187,Glossy Ibis,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+188,White-faced Ibis,1,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+189,Black Vulture,1,"38.357x-77.093 - Jan 12, 2016 1:14 PM",US-VA,13 Jan 2016,L4153530,S26874303
+190,Turkey Vulture,4,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+191,Osprey,1,Pt. Pinole Regional Park,US-CA,17 May 2015,L109308,S26561977
+192,White-tailed Kite,1,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+193,Golden Eagle,2,"Sunol Regional Wilderness, McCorkle Trail",US-CA,12 Nov 2015,L4004263,S25809185
+194,Double-toothed Kite,1,"Villa Mariposa, Nosara, Guanacaste Province, CR (9.991, -85.625)",CR-G,27 Jan 2020,L10573282,S65181409
+195,Northern Harrier,2,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+196,Sharp-shinned Hawk,1,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+197,Cooper's Hawk,1,South Berkeley residential,US-CA,27 Jun 2015,L3756413,S24083651
+198,Bald Eagle,1,Claremont Canyon Regional Preserve,US-CA,15 Dec 2015,L933409,S26321308
+199,Common Black Hawk,2,Rio Nosara estuary,CR-G,29 Jan 2020,L3858895,S63912110
+200,Roadside Hawk,1,Liberia--Hilton Garden Inn (airport),CR-G,25 Jan 2020,L3653383,S63756390
+201,Gray Hawk,2,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,27 Jan 2020,L10578414,S63858952
+202,Red-shouldered Hawk,1,LeConte neighborhood,US-CA,29 Sep 2015,L3960824,S25242010
+203,Broad-winged Hawk,4,Hawk Hill,US-CA,17 Sep 2016,L224081,S31626134
+204,Swainson's Hawk,1,Sierra Valley--Dyson Ln.,US-CA,02 Jun 2017,L593836,S37336642
+205,Red-tailed Hawk,1,Pt. Pinole Regional Park,US-CA,17 May 2015,L109308,S26561977
+206,Rough-legged Hawk,2,Salt Springs Valley Rd.,US-CA,22 Nov 2019,L661535,S61661651
+207,Ferruginous Hawk,1,Fernandez Ranch,US-CA,13 Nov 2016,L923776,S32527299
+208,Barn Owl,2,Rush Ranch Open Space,US-CA,18 Oct 2015,L469673,S25463002
+209,Western Screech-Owl,1,Lafayette / Moraga Regional Trail,US-CA,20 Aug 2016,L3013875,S31170352
+210,Great Horned Owl,1,"Wildcat Canyon Regional Park, Rifle Range Trail",US-CA,28 Jun 2015,L3757313,S24088194
+211,Northern Pygmy-Owl,1,Redwood Regional Park (CC Co.),US-CA,12 Mar 2017,L500405,S35145735
+212,Ferruginous Pygmy-Owl,1,"Villa Mariposa, Nosara, Guanacaste Province, CR (9.991, -85.625)",CR-G,25 Jan 2020,L10573282,S63780787
+213,Burrowing Owl,1,Cesar Chavez Park,US-CA,20 Oct 2015,L285281,S25492373
+214,Spotted Owl,3,Phoenix Lake,US-CA,19 Aug 2017,L428956,S38725912
+215,Great Gray Owl,1,Ackerson Meadow,US-CA,17 Jun 2018,L594031,S46629755
+216,Long-eared Owl,1,Lundy Canyon,US-CA,16 Jun 2018,L1026774,S46589882
+217,Short-eared Owl,1,Hayward Regional Shoreline--Winton Ave. access and parking area,US-CA,13 Dec 2017,L470891,S41073204
+218,Black-headed Trogon,1,"Unnamed Road, Nosara, Provincia de Guanacaste, CR (9.987, -85.646)",CR-G,25 Jan 2020,L10577040,S63801452
+219,Gartered Trogon,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,28 Jan 2020,L10578414,S63885772
+220,Turquoise-browed Motmot,1,"Villa Mariposa, Nosara, Guanacaste Province, CR (9.991, -85.625)",CR-G,25 Jan 2020,L10573282,S63780787
+221,Ringed Kingfisher,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63808343
+222,Belted Kingfisher,1,Brickyard Cove (ALA Co.),US-CA,21 Sep 2015,L1365042,S25127306
+223,Amazon Kingfisher,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63808343
+224,Green Kingfisher,1,Rio Nosara estuary,CR-G,29 Jan 2020,L3858895,S63912110
+225,Williamson's Sapsucker,2,Owens River Rd.--1 mile east of  Hwy 395,US-CA,16 Jun 2018,L1622536,S46601685
+226,Yellow-bellied Sapsucker,1,"38.357x-77.093 - Jan 12, 2016 1:14 PM",US-VA,12 Jan 2016,L4153530,S26860262
+227,Red-naped Sapsucker,2,Golden Gate Park--San Francisco Botanical Garden,US-CA,13 Jan 2022,L1085740,S100680815
+228,Red-breasted Sapsucker,1,"Sunol Regional Wilderness, Cerro Este trail",US-CA,12 Nov 2015,L4004289,S25809344
+229,Lewis's Woodpecker,2,Smithneck Rd.,US-CA,02 Jun 2017,L934448,S37339521
+230,Red-headed Woodpecker,2,"38.357x-77.093 - Jan 12, 2016 1:14 PM",US-VA,24 Dec 2017,L4153530,S41284599
+231,Acorn Woodpecker,15,EBMUD--Valle Vista Staging Area (permit required),US-CA,04 Oct 2015,L596210,S25338944
+232,Hoffmann's Woodpecker,3,"Villa Mariposa, Nosara, Guanacaste Province, CR (9.991, -85.625)",CR-G,25 Jan 2020,L10573282,S63780787
+233,Red-bellied Woodpecker,1,"38.357x-77.093 - Jan 12, 2016 1:14 PM",US-VA,12 Jan 2016,L4153530,S26860262
+234,Black-backed Woodpecker,1,Lassen Volcanic NP--Summit Lake,US-CA,18 Aug 2018,L589197,S47958205
+235,Downy Woodpecker,1,South Berkeley residential,US-CA,01 Jul 2015,L3756413,S24115390
+236,Nuttall's Woodpecker,2,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+237,Hairy Woodpecker,1,Wildcat Canyon Regional Park,US-CA,28 Jun 2015,L388820,S24088537
+238,White-headed Woodpecker,1,Madora Lake,US-CA,03 Jun 2017,L953070,S37381324
+239,Pale-billed Woodpecker,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,27 Jan 2020,L10578414,S63858960
+240,Lineated Woodpecker,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,27 Jan 2020,L10578414,S63858952
+241,Pileated Woodpecker,1,Spring Lake Regional Park,US-CA,24 Sep 2016,L233698,S32503977
+242,Northern Flicker,8,EBMUD--Valle Vista Staging Area (permit required),US-CA,04 Oct 2015,L596210,S25338944
+243,Crested Caracara,1,"Unnamed Road, Provincia de Guanacaste, CR (10.467, -85.554)",CR-G,25 Jan 2020,L10577162,S63801971
+244,American Kestrel,2,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+245,Merlin,1,Arroyo Del Valle,US-CA,01 Jan 2016,L472831,S26594090
+246,Peregrine Falcon,1,Berkeley Pier,US-CA,21 Nov 2015,L458818,S25976503
+247,Prairie Falcon,1,Black Diamond Mines Regional Preserve,US-CA,06 Feb 2016,L451992,S27346113
+248,Orange-chinned Parakeet,3,Reserva Biológica Nosara (Lagarta),CR-G,31 Jan 2020,L2032097,S63975059
+249,Lilac-crowned Parrot,1,"private - near Curry Canyon, Morgan Territory Road, Clayton, California, US",US-CA,04 Sep 2020,L7914778,S73224579
+250,White-fronted Parrot,2,Liberia--Hilton Garden Inn (airport),CR-G,25 Jan 2020,L3653383,S63754068
+251,Orange-fronted Parakeet,2,Reserva Biológica Nosara (Lagarta),CR-G,31 Jan 2020,L2032097,S63975059
+252,Red-masked Parakeet,2,Fort Mason Park,US-CA,24 Aug 2017,L389606,S38808584
+253,Barred Antshrike,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,27 Jan 2020,L10578414,S63858960
+254,Olivaceous Woodcreeper,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+255,Streak-headed Woodcreeper,1,"Unnamed Road, Provincia de Guanacaste, CR (9.967, -85.668)",CR-G,30 Jan 2020,L10653450,S63958251
+256,Long-tailed Manakin,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,30 Jan 2020,L10578414,S63958235
+257,Masked Tityra,1,"Villa Mariposa, Nosara, Guanacaste Province, CR (9.991, -85.625)",CR-G,25 Jan 2020,L10573282,S63780787
+258,Rose-throated Becard,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,28 Jan 2020,L10578414,S63885729
+259,Yellow-olive Flycatcher,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+260,Olive-sided Flycatcher,1,Mt. Diablo SP--summit,US-CA,06 May 2015,L1793192,S25462595
+261,Western Wood-Pewee,1,UC Berkeley--Fire Trail,US-CA,10 Jul 2016,L3682792,S30639033
+262,Willow Flycatcher,1,Cesar Chavez Park,US-CA,21 Sep 2020,L285281,S73882847
+263,Hammond's Flycatcher,1,Garin/Dry Creek Pioneer Regional Park,US-CA,14 Apr 2021,L381784,S85565459
+264,Gray Flycatcher,2,Lundy Canyon,US-CA,16 Jun 2018,L1026774,S46589882
+265,Dusky Flycatcher,1,Yuba Pass,US-CA,01 Jun 2017,L279294,S37336574
+266,Pacific-slope Flycatcher,4,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+267,Black Phoebe,1,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+268,Eastern Phoebe,1,Lake Merced--Boathouse/Harding Park entrance drive,US-CA,09 Dec 2017,L1048752,S40997368
+269,Say's Phoebe,1,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+270,Ash-throated Flycatcher,1,Del Valle RP - Black Sage trail,US-CA,24 Apr 2016,L4531517,S29189092
+271,Nutting's Flycatcher,1,Liberia--Hilton Garden Inn (airport),CR-G,02 Feb 2020,L3653383,S64040457
+272,Great Crested Flycatcher,1,"Villa Mariposa, Nosara, Guanacaste Province, CR (9.991, -85.625)",CR-G,26 Jan 2020,L10573282,S63801283
+273,Great Kiskadee,1,Liberia--Hilton Garden Inn (airport),CR-G,25 Jan 2020,L3653383,S63754068
+274,Social Flycatcher,2,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+275,Streaked Flycatcher,1,"Villa Mariposa, Nosara, Guanacaste Province, CR (9.991, -85.625)",CR-G,26 Jan 2020,L10573282,S63801283
+276,Tropical Kingbird,1,Heather Farm Park,US-CA,09 Mar 2016,L373922,S28073236
+277,Cassin's Kingbird,2,Sycamore Grove Park,US-CA,07 Jun 2021,L500410,S89817702
+278,Western Kingbird,3,Pacific Commons Linear Park,US-CA,04 Jul 2016,L791702,S30533785
+279,Eastern Kingbird,1,Golden Gate Park--West Maintenance Yard,US-CA,10 Sep 2017,L1319375,S39118696
+280,Scissor-tailed Flycatcher,2,Liberia--Hilton Garden Inn (airport),CR-G,25 Jan 2020,L3653383,S63754068
+281,Lesser Greenlet,5,"Unnamed Road, Provincia de Guanacaste, CR (9.967, -85.668)",CR-G,30 Jan 2020,L10653450,S63958251
+282,Hutton's Vireo,3,Tilden Regional Park--Botanic Garden,US-CA,29 Apr 2015,L630069,S24238898
+283,Yellow-throated Vireo,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+284,Cassin's Vireo,1,Tilden RP - Lower Big Springs trail,US-CA,01 May 2016,L4562806,S29348899
+285,Philadelphia Vireo,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,30 Jan 2020,L10578414,S63958235
+286,Warbling Vireo,2,"Wildcat Canyon Trail, junction picnic area",US-CA,28 Jun 2015,L3757367,S24088441
+287,Long-tailed Shrike,1,Margalla Hills (general--Please use more precise locations),PK-IS,03 Jan 2005,L9691913,S98073182
+288,Loggerhead Shrike,1,Coyote Hills Regional Park,US-CA,17 Oct 2015,L216132,S25462228
+289,Canada Jay,6,Lassen Volcanic NP--Lost Creek Group Campground,US-CA,18 Aug 2018,L746646,S47958150
+290,White-throated Magpie-Jay,2,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63808343
+291,Pinyon Jay,8,Goat Ranch Cutoff Rd.,US-CA,15 Jun 2018,L4861467,S46567174
+292,Steller's Jay,6,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+293,Blue Jay,1,"38.357x-77.093 - Jan 12, 2016 1:14 PM",US-VA,13 Jan 2016,L4153530,S26874303
+294,California Scrub-Jay,,Pt. Pinole Regional Park,US-CA,17 May 2015,L109308,S26561977
+295,Woodhouse's Scrub-Jay,4,Goat Ranch Cutoff Rd.,US-CA,15 Jun 2018,L4861467,S46567174
+296,Black-billed Magpie,3,Loyalton WTP,US-CA,02 Jun 2017,L740467,S37337134
+297,Yellow-billed Magpie,1,US-California-Livermore-Ohlone Wilderness Trail - 37.538x-121.708,US-CA,07 Feb 2016,L4229077,S27369409
+298,Clark's Nutcracker,2,"Pinecrest Chalet, Pinecrest, California, US (38.185, -119.99)",US-CA,24 Nov 2017,L6502756,S40697844
+299,American Crow,5,McLaughlin Eastshore SP--Albany access,US-CA,02 Jul 2015,L2377313,S24130296
+300,Fish Crow,2,Dyke Marsh Wildlife Preserve,US-VA,21 Dec 2017,L159300,S41235344
+301,Common Raven,1,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+302,Carolina Chickadee,2,"38.357x-77.093 - Jan 12, 2016 1:14 PM",US-VA,13 Jan 2016,L4153530,S26874303
+303,Mountain Chickadee,1,Yuba Pass,US-CA,01 Jun 2017,L279294,S37336574
+304,Chestnut-backed Chickadee,9,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+305,Oak Titmouse,2,Mt. Diablo SP--summit,US-CA,06 May 2015,L1793192,S25462595
+306,Tufted Titmouse,1,"38.357x-77.093 - Jan 12, 2016 1:14 PM",US-VA,12 Jan 2016,L4153530,S26860262
+307,Horned Lark,5,Vargas Plateau--Cliff Trail,US-CA,07 May 2016,L4717318,S29479282
+308,Northern Rough-winged Swallow,5,Heather Farm Park,US-CA,09 Mar 2016,L373922,S28073236
+309,Purple Martin,6,Pt. Reyes--Earthquake Trail,US-CA,18 Aug 2019,L2250586,S59113901
+310,Tree Swallow,3,Rush Ranch Open Space,US-CA,18 Oct 2015,L469673,S25463002
+311,Violet-green Swallow,3,Rush Ranch Open Space,US-CA,18 Oct 2015,L469673,S25463002
+312,Barn Swallow,2,McLaughlin Eastshore SP--Albany access,US-CA,02 Jul 2015,L2377313,S24130296
+313,Cliff Swallow,,Pt. Pinole Regional Park,US-CA,17 May 2015,L109308,S26561977
+314,White-eared Bulbul,2,Margalla Hills (general--Please use more precise locations),PK-IS,03 Jan 2005,L9691913,S98073182
+315,Bushtit,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+316,Wrentit,3,"Las Trampas RP, Sycamore trail",US-CA,01 Nov 2015,L3985640,S25668565
+317,Ruby-crowned Kinglet,4,Coyote Hills Regional Park,US-CA,17 Oct 2015,L216132,S25462228
+318,Golden-crowned Kinglet,1,Sunol Regional Wilderness,US-CA,12 Nov 2015,L302253,S25809252
+319,Red-breasted Nuthatch,1,"Wildcat Creek trail, Wildcat Canyon",US-CA,02 Aug 2015,L3826241,S24470561
+320,White-breasted Nuthatch,2,EBMUD--Valle Vista Staging Area (permit required),US-CA,04 Oct 2015,L596210,S25338944
+321,Pygmy Nuthatch,4,Strawberry Canyon Firetrail - Big Hill,US-CA,06 Sep 2015,L3890530,S24916399
+322,Brown Creeper,1,"Wildcat Creek trail, Wildcat Canyon",US-CA,02 Aug 2015,L3826241,S24470561
+323,Long-billed Gnatwren,1,"Unnamed Road, Provincia de Guanacaste, CR (9.967, -85.668)",CR-G,30 Jan 2020,L10653450,S63958251
+324,White-browed Gnatcatcher,1,"Unnamed Road, Provincia de Guanacaste, CR (9.967, -85.668)",CR-G,30 Jan 2020,L10653450,S63958251
+325,Blue-gray Gnatcatcher,1,Mt. Diablo SP--summit,US-CA,06 May 2015,L1793192,S25462595
+326,White-lored Gnatcatcher,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,30 Jan 2020,L10578414,S63958235
+327,Rock Wren,1,Sunol Regional Wilderness,US-CA,31 Jan 2016,L302253,S27241652
+328,Canyon Wren,1,Black Diamond Mines Regional Preserve,US-CA,06 Feb 2016,L451992,S27346113
+329,House Wren,1,Claremont Canyon Regional Preserve,US-CA,22 Apr 2015,L933409,S27381724
+330,Pacific Wren,1,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+331,Winter Wren,1,Rappahannock River Valley NWR--Wilna/Wright Units,US-VA,26 Dec 2017,L417475,S41329760
+332,Marsh Wren,7,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+333,Carolina Wren,1,"38.357x-77.093 - Jan 12, 2016 1:14 PM",US-VA,13 Jan 2016,L4153530,S26875474
+334,Bewick's Wren,1,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+335,Rufous-naped Wren,2,Liberia--Hilton Garden Inn (airport),CR-G,25 Jan 2020,L3653383,S63756390
+336,Banded Wren,4,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+337,American Dipper,1,Plumas Eureka SP,US-CA,03 Jun 2017,L878486,S37383576
+338,European Starling,2,McLaughlin Eastshore SP--Albany access,US-CA,02 Jul 2015,L2377313,S24130296
+339,California Thrasher,2,Mt. Diablo SP--summit,US-CA,06 May 2015,L1793192,S25462595
+340,Sage Thrasher,2,Sierra Valley--Power Station,US-CA,02 Jun 2017,L2029167,S37333658
+341,Tropical Mockingbird,1,Liberia--Hilton Garden Inn (airport),CR-G,25 Jan 2020,L3653383,S63756390
+342,Northern Mockingbird,1,Wildcat Creek,US-CA,28 Jun 2015,L3757347,S24088332
+343,Eastern Bluebird,5,"38.357x-77.093 - Jan 12, 2016 1:14 PM",US-VA,14 Jan 2016,L4153530,S26887942
+344,Western Bluebird,25,Pt. Pinole Regional Park,US-CA,17 May 2015,L109308,S26561977
+345,Mountain Bluebird,3,Carman Valley Meadows,US-CA,03 Jun 2017,L1833636,S37354977
+346,Townsend's Solitaire,1,Del Valle Regional Park,US-CA,28 Nov 2015,L274775,S26047442
+347,Varied Thrush,1,UC Berkeley--Strawberry Canyon,US-CA,04 Nov 2015,L2091738,S25707840
+348,Swainson's Thrush,1,UC Berkeley--Strawberry Canyon,US-CA,15 May 2016,L2091738,S29698157
+349,Hermit Thrush,1,1st ave walnut creek,US-CA,16 Oct 2015,L3972383,S25532186
+350,Wood Thrush,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+351,Clay-colored Thrush,10,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63808343
+352,American Robin,2,Pt. Pinole Regional Park,US-CA,17 May 2015,L109308,S26561977
+353,Cedar Waxwing,20,South Berkeley residential,US-CA,14 Oct 2015,L3756413,S25415984
+354,Phainopepla,2,Arroyo Del Valle,US-CA,01 Jan 2016,L472831,S26594090
+355,Northern Red Bishop,1,Gomes Park,US-CA,08 Nov 2018,L6345236,S49762697
+356,Scaly-breasted Munia,2,Lake Elizabeth,US-CA,27 Aug 2021,L452554,S93811563
+357,House Sparrow,3,McLaughlin Eastshore SP--Albany access,US-CA,02 Jul 2015,L2377313,S24130296
+358,Eastern Yellow Wagtail,1,Rodeo Lagoon,US-CA,18 Sep 2018,L139567,S48603894
+359,American Pipit,2,Staten Island,US-CA,25 Oct 2015,L468580,S25546391
+360,Scrub Euphonia,1,Liberia--Hilton Garden Inn (airport),CR-G,25 Jan 2020,L3653383,S63756390
+361,Yellow-throated Euphonia,1,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,28 Jan 2020,L10578414,S63885772
+362,Evening Grosbeak,2,SFSU--Sierra Nevada Field Campus,US-CA,03 Jun 2017,L339876,S37357036
+363,House Finch,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+364,Purple Finch,1,South Berkeley residential,US-CA,12 Oct 2015,L3756413,S25389399
+365,Cassin's Finch,1,Yuba Pass,US-CA,01 Jun 2017,L279294,S37336574
+366,Red Crossbill,2,Tilden Nature Area--Jewel Lake,US-CA,04 Nov 2015,L503349,S25707829
+367,European Goldfinch,1,Berkeley Aquatic Park,US-CA,06 Jan 2018,L597003,S41691642
+368,Pine Siskin,1,Ardenwood Farm,US-CA,17 Oct 2015,L615728,S25462279
+369,Lesser Goldfinch,1,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+370,Lawrence's Goldfinch,4,"private - Perkins Canyon area, Morgan Territory Road, Clayton, California, US (37.894, -121.869)",US-CA,20 May 2020,L11505511,S69390483
+371,American Goldfinch,1,Pt. Pinole Regional Park,US-CA,17 May 2015,L109308,S26561977
+372,Stripe-headed Sparrow,2,Liberia--Hilton Garden Inn (airport),CR-G,25 Jan 2020,L3653383,S63756390
+373,Grasshopper Sparrow,1,Heather Farm Park,US-CA,23 Nov 2021,L373922,S97984645
+374,Olive Sparrow,4,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+375,Chipping Sparrow,3,Mono Mills,US-CA,14 Jun 2018,L601717,S46567144
+376,Clay-colored Sparrow,2,McLaughlin Eastshore SP--Albany access,US-CA,27 Sep 2018,L2377313,S48785732
+377,Field Sparrow,1,Rappahannock River Valley NWR--Wilna/Wright Units,US-VA,26 Dec 2017,L417475,S41329760
+378,Brewer's Sparrow,7,Maddalena Ranch,US-CA,02 Jun 2017,L717281,S37336627
+379,Black-throated Sparrow,2,Mono Basin National Forest Scenic Area Visitor Center,US-CA,15 Jun 2018,L978824,S46572456
+380,Lark Sparrow,10,"Sunol Regional Wilderness, McCorkle Trail",US-CA,12 Nov 2015,L4004263,S25809185
+381,Fox Sparrow,1,Brickyard Cove (ALA Co.),US-CA,21 Sep 2015,L1365042,S25127306
+382,Dark-eyed Junco,6,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+383,White-crowned Sparrow,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+384,Golden-crowned Sparrow,,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+385,Harris's Sparrow,1,Las Gallinas Valley Sanitary District,US-CA,14 Mar 2017,L207664,S35185113
+386,White-throated Sparrow,1,Tilden Nature Area--Jewel Lake,US-CA,04 Nov 2015,L503349,S25707829
+387,Sagebrush Sparrow,1,Mono Basin National Forest Scenic Area Visitor Center,US-CA,15 Jun 2018,L978824,S46572456
+388,Vesper Sparrow,1,Bohler Canyon,US-CA,16 Jun 2019,L8316778,S57428203
+389,Nelson's Sparrow,1,MLK Jr. Regional Shoreline--Arrowhead Marsh,US-CA,23 Jan 2019,L161083,S51977125
+390,Savannah Sparrow,4,Chadbourne Rd. (SOL Co.),US-CA,29 Sep 2015,L1181971,S25232050
+391,Song Sparrow,3,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+392,Lincoln's Sparrow,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,04 Oct 2015,L596210,S25338944
+393,Swamp Sparrow,1,Gomes Park,US-CA,08 Nov 2018,L6345236,S49762697
+394,California Towhee,1,Albany Bulb,US-CA,29 Jan 2015,L178143,S25903682
+395,Rufous-crowned Sparrow,1,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+396,Green-tailed Towhee,1,Smithneck Rd.,US-CA,02 Jun 2017,L934448,S37339521
+397,Spotted Towhee,12,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+398,Eastern Towhee,5,Rappahannock River Valley NWR--Wilna/Wright Units,US-VA,26 Dec 2017,L417475,S41329760
+399,Yellow-headed Blackbird,20,Sierra Valley--Power Station,US-CA,02 Jun 2017,L2029167,S37333658
+400,Bobolink,1,Presidio--Crissy Field,US-CA,03 Oct 2021,L247929,S95559303
+401,Western Meadowlark,5,Chadbourne Rd. (SOL Co.),US-CA,29 Sep 2015,L1181971,S25232050
+402,Orchard Oriole,1,"Unnamed Road, Provincia de Guanacaste, CR (9.967, -85.668)",CR-G,30 Jan 2020,L10653450,S63958251
+403,Hooded Oriole,2,Oyster Bay Regional Shoreline,US-CA,26 Jun 2016,L716138,S30408052
+404,Streak-backed Oriole,2,Liberia--Hilton Garden Inn (airport),CR-G,25 Jan 2020,L3653383,S63754068
+405,Bullock's Oriole,2,Pt. Pinole Regional Park,US-CA,17 May 2015,L109308,S26561977
+406,Baltimore Oriole,1,Belle Haven Park--Picnic Area,US-VA,28 Dec 2017,L159284,S41376493
+407,Red-winged Blackbird,25,Pt. Pinole Regional Park,US-CA,17 May 2015,L109308,S26561977
+408,Tricolored Blackbird,20,Ardenwood Farm,US-CA,17 Oct 2015,L615728,S25462279
+409,Brown-headed Cowbird,3,Staten Island,US-CA,25 Oct 2015,L468580,S25546391
+410,Melodious Blackbird,1,Liberia--Hilton Garden Inn (airport),CR-G,25 Jan 2020,L3653383,S63754068
+411,Brewer's Blackbird,1,Brickyard Cove (ALA Co.),US-CA,26 Sep 2015,L1365042,S25193816
+412,Great-tailed Grackle,15,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25218156
+413,Northern Waterthrush,1,Reserva Biológica Nosara (Lagarta),CR-G,31 Jan 2020,L2032097,S63975059
+414,Black-and-white Warbler,1,Alta Bates summit medical center,US-CA,05 Nov 2019,L5654534,S61208211
+415,Prothonotary Warbler,1,"Unnamed Road, Provincia de Guanacaste, CR (9.967, -85.668)",CR-G,30 Jan 2020,L10653450,S63958251
+416,Tennessee Warbler,3,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+417,Orange-crowned Warbler,1,"Claremont Canyon, Grizzly Peak Spur",US-CA,06 Jul 2015,L3786411,S24238997
+418,Lucy's Warbler,1,Lake Merced--Boathouse/Harding Park entrance drive,US-CA,10 Dec 2017,L1048752,S41019321
+419,Nashville Warbler,4,Stonewall - off 49,US-CA,01 Jun 2017,L5936467,S37336592
+420,MacGillivray's Warbler,1,Rodeo Lagoon,US-CA,17 Sep 2016,L139567,S31628228
+421,Common Yellowthroat,1,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+422,Hooded Warbler,1,Redwood Regional Park--Stream Trail,US-CA,08 Jul 2016,L832260,S30602782
+423,Northern Parula,1,N.Berkeley Northern Parula stakeout,US-CA,24 May 2017,L5878501,S37118340
+424,Bay-breasted Warbler,1,Ardenwood Farm,US-CA,11 Oct 2017,L615728,S39832271
+425,Blackburnian Warbler,1,Holly Park,US-CA,13 Jan 2022,L1501860,S100671093
+426,Yellow Warbler,1,Mt. Diablo SP--summit,US-CA,06 May 2015,L1793192,S25462595
+427,Chestnut-sided Warbler,1,Rodeo Lagoon,US-CA,18 Sep 2018,L139567,S48603894
+428,Black-throated Blue Warbler,1,Golden Gate Park--San Francisco Botanical Garden,US-CA,03 Oct 2021,L1085740,S95543830
+429,Palm Warbler,1,"38.357x-77.093 - Jan 12, 2016 1:14 PM",US-VA,14 Jan 2016,L4153530,S26887942
+430,Pine Warbler,1,Belle Haven Park--North Parking Area,US-VA,21 Dec 2017,L2414647,S41231179
+431,Yellow-rumped Warbler,9,Las Gallinas Valley Sanitary District,US-CA,27 Sep 2015,L207664,S25338951
+432,Prairie Warbler,1,San Francisco Bay Trail--Colma Creek mouth,US-CA,07 Jan 2022,L247936,S100302499
+433,Black-throated Gray Warbler,1,Ardenwood Farm,US-CA,17 Oct 2015,L615728,S25462279
+434,Townsend's Warbler,1,UC Berkeley--Strawberry Canyon,US-CA,23 Aug 2015,L2091738,S24736957
+435,Hermit Warbler,1,UC Berkeley--Strawberry Canyon,US-CA,23 Aug 2015,L2091738,S24736957
+436,Chestnut-capped Warbler,1,"Villa Mariposa, Nosara, Guanacaste Province, CR (9.991, -85.625)",CR-G,27 Jan 2020,L10573282,S65181409
+437,Canada Warbler,1,Wildcat Canyon Regional Park,US-CA,09 Sep 2021,L388820,S94433254
+438,Wilson's Warbler,2,"Tilden Regional Park, Redwood trail",US-CA,20 Jun 2015,L4045474,S23986482
+439,Summer Tanager,1,Claremont Canyon Regional Preserve,US-CA,31 Oct 2018,L933409,S49586400
+440,Western Tanager,1,UC Berkeley--Botanical Gardens,US-CA,17 Sep 2015,L272860,S25076350
+441,Northern Cardinal,3,"38.357x-77.093 - Jan 12, 2016 1:14 PM",US-VA,13 Jan 2016,L4153530,S26874303
+442,Rose-breasted Grosbeak,1,Sibley Volcanic Regional Preserve--Round Top Loop Trail,US-CA,06 Jun 2017,L2176031,S37433287
+443,Black-headed Grosbeak,1,Tilden Regional Park--Botanic Garden,US-CA,29 Apr 2015,L630069,S24238898
+444,Lazuli Bunting,1,Tilden Regional Park--Botanic Garden,US-CA,29 Apr 2015,L630069,S24238898
+445,Painted Bunting,3,"Finca Austria, Nosara, Provincia de Guanacaste, CR (9.986, -85.624)",CR-G,26 Jan 2020,L10578414,S63822179
+446,Blue-gray Tanager,1,Sycamore Grove Park - Arroyo Entrance,US-CA,02 May 2019,L9158017,S55697038
+447,Blue-black Grassquit,3,Liberia--Hilton Garden Inn (airport),CR-G,02 Feb 2020,L3653383,S64040457

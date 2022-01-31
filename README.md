@@ -4,7 +4,11 @@ ebird-photo-gallery is a website to display and organize photos uploaded to ebir
 
 ## Setup
 
-Coming soon.
+#### Windows
+
+- Install node: https://nodejs.org/en/download/.
+- Get the project from git: `git clone https://github.com/tealefristoe/ebird-photo-gallery`
+- Install npm in the project directory: `npm install next`
 
 ## Running Locally
 

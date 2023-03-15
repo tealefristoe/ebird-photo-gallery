@@ -28,6 +28,9 @@ export default class Options extends React.Component {
             {this.props.curated
               ? <span onClick={() => this.props.clearCuratedPreference()} className={optionsStyles.optionButton}>Clear curated photo.</span>
               : <span>Click a photo to make it the curated photo. {displayOverlayButton()}</span>}
+            <span onClick={this.props.toggleForceShow} className={`${optionsStyles.optionButton} ${optionsStyles.leftMargin}`}>
+              {this.props.forceShow ? "Hide all details" : "Show all details"}
+            </span>
           </div>
         </div>
       </div>

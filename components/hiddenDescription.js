@@ -12,7 +12,7 @@ export default class HiddenDescription extends React.Component {
   }
 
   render() {
-    if (this.state.show) {
+    if (this.state.show || this.props.forceShow) {
       return (<div>
         <div className={styles.noSelect}>
           <a onClick={() => this.setState({show: false})} style={{cursor: "pointer"}}>

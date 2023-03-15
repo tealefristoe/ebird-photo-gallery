@@ -217,3 +217,7 @@
   font-weight: bold;
   cursor: pointer;
 }
+
+.leftMargin {
+  margin-left: 30px;
+}

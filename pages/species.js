@@ -15,7 +15,8 @@ export default class SpeciesPage extends React.Component {
     super(props)
 
     this.state = {
-      curated: null
+      curated: null,
+      forceShow: false
     }
   }
 
@@ -42,6 +43,10 @@ export default class SpeciesPage extends React.Component {
     this.getDatabaseReference().remove()
   }
 
+  toggleForceShow() {
+    this.setState({forceShow: !this.state.forceShow})
+  }
+
   render() {
     return (
       <div className="container">
@@ -57,6 +62,8 @@ export default class SpeciesPage extends React.Component {
               bird={this.props.bird}
               curated={this.state.curated}
               clearCuratedPreference={() => this.clearCuratedPreference()}
+              forceShow={this.state.forceShow}
+              toggleForceShow={() => this.toggleForceShow()}
             />
             <div className={speciesPageStyles.photoGrid}>
               {this.props.photos.map(photo => {
@@ -69,7 +76,7 @@ export default class SpeciesPage extends React.Component {
                     {this.props.photos[0] == photo ? <div>{topRatedLabel()}</div> : ''}
                     {this.state.curated && this.state.curated == photo[bk.photoId] ? <div>{curatedLabel()}</div> : ''}
                     {halfSpacer()}
-                    <HiddenDescription photo={photo} />
+                    <HiddenDescription forceShow={this.state.forceShow} photo={photo} />
                   </div>
                 )
               })}
